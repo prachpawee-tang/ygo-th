@@ -1,0 +1,9 @@
+{
+  "id": "96334243",
+  "name": "Sea Monster of Theseus",
+  "th": "2 Tuner",
+  "status": "ai",
+  "en_sha256": "a1899ab6dbcdde40f7631a4182d58475e074f83af9c7517a3cd7b5a6f00c2e4d",
+  "model": "gemma3:12b",
+  "updated": "2026-11-04"
+}

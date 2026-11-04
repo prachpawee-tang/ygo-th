@@ -1,0 +1,9 @@
+{
+  "id": "77103950",
+  "name": "Primeval Planet Perlereino",
+  "th": "เมื่อเปิดใช้งานการ์ดใบนี้: คุณสามารถเพิ่ม “Tearlaments” มอนสเตอร์ 1 ตัว หรือ “Visas Starfrost” 1 ตัว จากเด็คของคุณขึ้นมือ คุณสามารถเพิ่ม ATK 500 ให้กับมอนสเตอร์ Fusion และ “Tearlaments” มอนสเตอร์ที่คุณควบคุม หากมอนสเตอร์ “Tearlaments” ที่คุณควบคุมหรือในสุสานของคุณถูกสับกลับเข้าเด็คหรือเอ็กซ์ตร้าเด็ค (ยกเว้นระหว่าง Damage Step): คุณสามารถเลือกเป้าหมายการ์ด 1 ใบในสนาม; ทำลายมัน คุณสามารถใช้เอฟเฟกต์นี้ของ “Primeval Planet Perlereino” ได้ 1 ครั้งต่อเทิร์น คุณสามารถเปิดใช้ “Primeval Planet Perlereino” ได้ 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "0fa11d254a34eee9e2b411164758e461aabaed5dc3edac5fedc7f2f8045c2aed",
+  "model": "gemma3:12b",
+  "updated": "2026-11-04"
+}

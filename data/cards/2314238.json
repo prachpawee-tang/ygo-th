@@ -1,0 +1,9 @@
+{
+  "id": "2314238",
+  "name": "Dark Magic Attack",
+  "th": "ถ้าคุณควบคุม \"Dark Magician\": ทำลาย Spell/Trap ทั้งหมดที่คู่ต่อสู้ควบคุม.",
+  "status": "ai",
+  "en_sha256": "2725e661cacc6d025fbe96a9a6b34ca978c836e4b2d5b11da3bab2e6e4d4419f",
+  "model": "gemma3:12b",
+  "updated": "2026-11-04"
+}

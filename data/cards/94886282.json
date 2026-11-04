@@ -1,0 +1,10 @@
+{
+  "id": "94886282",
+  "name": "Charge of the Light Brigade",
+  "th": "ส่งการ์ดบนสุดของเด็ค 3 ใบลงสุสาน (GY); เพิ่มมอนสเตอร์ \"Lightsworn\" ระดับ 4 หรือต่ำกว่าจากเด็คของคุณขึ้นมือ",
+  "status": "ai",
+  "en_sha256": "3cfc0980f8d25da629ea603415deca8ef41c6b315d22c622e6986218fa718141",
+  "model": "gemma3:12b",
+  "updated": "2026-11-04",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

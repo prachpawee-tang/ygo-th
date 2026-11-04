@@ -1,0 +1,9 @@
+{
+  "id": "96471335",
+  "name": "Ebon Illusion Magician",
+  "th": "มอนสเตอร์ Level 7 จำนวน 2 ตัว\nคุณสามารถทำการอัญเชิญ Link นี้โดยใช้ มอนสเตอร์ Link ประเภท Spellcaster-Type Rank 6 ที่คุณควบคุมเป็น Material ได้ (Material ที่ติดอยู่กับมอนสเตอร์นั้นจะกลายเป็น Material บนการ์ดใบนี้) 1 ครั้งต่อเทิร์น: คุณสามารถถอด Material 1 ชิ้นจากใบนี้; อัญเชิญพิเศษ มอนสเตอร์ Normal ประเภท Spellcaster-Type 1 ตัวจากมือหรือเด็คของคุณ เมื่อ มอนสเตอร์ Normal ประเภท Spellcaster-Type ประกาศโจมตี: คุณสามารถเลือกเป้าหมายการ์ด 1 ใบที่คู่ต่อสู้ควบคุม; เนรเทศมัน คุณสามารถใช้เอฟเฟกต์ของ \"Ebon Illusion Magician\" ได้ 1 ครั้งต่อเทิร์นเท่านั้น",
+  "status": "ai",
+  "en_sha256": "d956536aa06bedbaee5d7c9ace0adadd8d3f61e5a241eb5e214660437376e79a",
+  "model": "gemma3:12b",
+  "updated": "2026-11-04"
+}

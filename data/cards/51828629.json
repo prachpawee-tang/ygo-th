@@ -1,0 +1,9 @@
+{
+  "id": "51828629",
+  "name": "Giltia the D. Knight",
+  "th": "\"Guardian of the Labyrinth\" + \"Protector of the Throne\"",
+  "status": "ai",
+  "en_sha256": "b5a62801b212e8469b119b1494336bda1219e0f1777c8ebbad0c43303934eaea",
+  "model": "gemma3:12b",
+  "updated": "2026-11-04"
+}

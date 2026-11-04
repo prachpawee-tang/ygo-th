@@ -1,0 +1,9 @@
+{
+  "id": "30680659",
+  "name": "Water Enchantress of the Temple",
+  "th": "ถ้าคุณควบคุม “Adventurer Token”: คุณสามารถอัญเชิญพิเศษการ์ดนี้จากมือของคุณได้ คุณสามารถเนรเทศการ์ดนี้จากมือหรือสุสาน (GY) ของคุณ; เพิ่ม “Rite of Aramesir” 1 ใบจากเด็คหรือสุสาน (GY) ของคุณขึ้นมือ คุณสามารถวางการ์ดเวทมนตร์สนาม 1 ใบที่กล่าวถึง “Adventurer Token” จากเด็คของคุณแบบหงายใน Field Zone ของคุณ ถ้าคุณควบคุม “Adventurer Token”: คุณสามารถใช้แต่ละเอฟเฟกต์ของ “Water Enchantress of the Temple” ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "f2590b26cd0000a55725da0f98efefb290982806a6641ad615df062036af0b2b",
+  "model": "gemma3:12b",
+  "updated": "2026-11-04"
+}

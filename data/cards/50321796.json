@@ -1,0 +1,9 @@
+{
+  "id": "50321796",
+  "name": "Brionac, Dragon of the Ice Barrier",
+  "th": "1 Tuner + 1+ non-Tuner monsters\nคุณสามารถทิ้งการ์ดจำนวนใดก็ได้ลงสุสาน, จากนั้นเลือกเป้าหมายการ์ดจำนวนเท่ากันที่คู่ต่อสู้ควบคุม; คืนการ์ดเหล่านั้นขึ้นมือ คุณสามารถใช้เอฟเฟกต์ของ \"Brionac, Dragon of the Ice Barrier\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "61b8c9152f35899e1cc140a3e52688694f4b8bc28c79576db498743e76e3084c",
+  "model": "gemma3:12b",
+  "updated": "2026-11-04"
+}

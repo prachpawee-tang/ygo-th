@@ -1,0 +1,9 @@
+{
+  "id": "20001443",
+  "name": "Swordsoul of Mo Ye",
+  "th": "ถ้าการ์ดใบนี้ถูกอัญเชิญปกติหรืออัญเชิญพิเศษ: คุณสามารถเปิดเผยการ์ด \"Swordsoul\" 1 ใบ หรือมอนสเตอร์ Wyrm 1 ตัวในมือของคุณ; อัญเชิญพิเศษ \"Swordsoul Token\" (Wyrm/Tuner/WATER/Level 4/ATK 0/DEF 0) 1 ตัว ในขณะที่ Token นั้นอยู่ใน Main Monster Zone หรือ Extra Monster Zone ผู้เล่นที่อัญเชิญมันไม่สามารถอัญเชิญพิเศษมอนสเตอร์จาก เอ็กซ์ตร้าเด็ค ได้ ยกเว้นมอนสเตอร์ Synchro ถ้าการ์ดใบนี้ถูกส่งลง สุสาน (GY) ในฐานะ Synchro Material: คุณสามารถจั่วการ์ด 1 ใบ คุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Swordsoul of Mo Ye\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "2c387023a1f4533d7448a27009e9b7153841a2ec1348cd06aa7a2e1eabeedcaa",
+  "model": "gemma3:12b",
+  "updated": "2026-11-04"
+}

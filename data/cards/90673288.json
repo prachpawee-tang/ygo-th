@@ -1,0 +1,9 @@
+{
+  "id": "90673288",
+  "name": "Sky Striker Ace - Shizuku",
+  "th": "1 มอนสเตอร์ \"Sky Striker Ace\" ที่ไม่ใช่ WATER\nมอนสเตอร์ที่คู่ต่อสู้ควบคุมจะเสีย ATK/DEF 100 สำหรับแต่ละ Spell ในสุสานของคุณ Once per turn, ในช่วง End Phase, ถ้าการ์ดใบนี้ถูกอัญเชิญพิเศษในเทิร์นนี้: คุณสามารถเพิ่ม Spell \"Sky Striker\" 1 ใบจากเด็คของคุณขึ้นมือ โดยมีชื่อที่แตกต่างจากการ์ดในสุสานของคุณ คุณสามารถ Special Summon \"Sky Striker Ace - Shizuku(s)\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "afc711c13e48e67186ccf43a3dbc40305d228ebf50fb2df255638ea11c1d2893",
+  "model": "gemma3:12b",
+  "updated": "2026-11-04"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "71832012",
+  "name": "Pressured Planet Wraitsoth",
+  "th": "เมื่อเปิดใช้การ์ดนี้: คุณสามารถจั่วมอนสเตอร์ \"Kashtira\" 1 ตัวจากเด็คขึ้นมือได้ มอนสเตอร์ที่คุณควบคุมได้รับ ATK/DEF 100 สำหรับแต่ละ Attribute ที่แตกต่างกันในสนาม ถ้า \"Kashtira Shangri-Ira\" ที่คุณควบคุมเปิดใช้งานเอฟเฟกต์ (ยกเว้นระหว่าง Damage Step): คุณสามารถเลือกเป้าหมายการ์ด 1 ใบในสนาม; ทำลายมัน คุณสามารถใช้เอฟเฟกต์ของ \"Pressured Planet Wraitsoth\" ได้ 1 ครั้งต่อเทิร์น คุณสามารถเปิดใช้ \"Pressured Planet Wraitsoth\" ได้ 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "0ef6f1de54e42a32b23064b31afbabff02bb86957c4c0080a926d01cbe441c33",
+  "model": "gemma3:12b",
+  "updated": "2026-11-04"
+}

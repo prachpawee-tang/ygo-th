@@ -1,0 +1,9 @@
+{
+  "id": "54752875",
+  "name": "Twin-Headed Thunder Dragon",
+  "th": "\"Thunder Dragon\" + \"Thunder Dragon\"",
+  "status": "ai",
+  "en_sha256": "b70f243195fdf8a2d6ef8da02aab2424d0f51bbb1bf0a6108014dc8d6071e862",
+  "model": "gemma3:12b",
+  "updated": "2026-11-04"
+}

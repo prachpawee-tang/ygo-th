@@ -1,0 +1,9 @@
+{
+  "id": "85742772",
+  "name": "Gravity Bind",
+  "th": "มอนสเตอร์ Level 4 หรือสูงกว่าไม่สามารถโจมตีได้",
+  "status": "ai",
+  "en_sha256": "81a3254733910baaab12a24b96ef40e72cf45778ae6feae165537edf8f341246",
+  "model": "gemma3:12b",
+  "updated": "2026-11-04"
+}

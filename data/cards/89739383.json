@@ -1,0 +1,9 @@
+{
+  "id": "89739383",
+  "name": "Spellbook of Secrets",
+  "th": "จั่วการ์ด \"Spellbook\" 1 ใบจากเด็คของคุณขึ้นมือ, ยกเว้น \"Spellbook of Secrets\" คุณสามารถเปิดใช้ \"Spellbook of Secrets\" ได้ 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "e6118d1745bb157471c6a67497d1d7007e46dea09bae941733b66bfbcbddc229",
+  "model": "gemma3:12b",
+  "updated": "2026-11-04"
+}

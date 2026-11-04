@@ -1,0 +1,12 @@
+{
+  "id": "45231178",
+  "name": "Flame Swordsman",
+  "th": "\"Flame Manipulator\" + \"Masaki the Legendary Swordsman\"",
+  "status": "ai",
+  "en_sha256": "10e2318e4b166dea761db051aaff48a022cb79d509be8af18c2c0adbe7086a81",
+  "model": "gemma3:12b",
+  "updated": "2026-11-04",
+  "alt": [
+    "45231177"
+  ]
+}

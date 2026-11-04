@@ -1,0 +1,49 @@
+name: release extension
+# Push a tag  ext-v<version>  (must equal "version" in extension/manifest.json)
+# → zips extension/ and publishes it as a GitHub Release for friends to download.
+on:
+  push:
+    tags: ["ext-v*"]
+
+permissions:
+  contents: read
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write   # create the release (this job only)
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - name: check tag matches manifest version
+        run: |
+          v=$(jq -r .version extension/manifest.json)
+          [ "ext-v$v" = "$GITHUB_REF_NAME" ] || { echo "tag $GITHUB_REF_NAME != manifest version $v"; exit 1; }
+          echo "VERSION=$v" >> "$GITHUB_ENV"
+      - name: refuse private keys
+        run: |
+          if grep -rlE "PRIVATE KEY" extension/; then echo "private key found in extension/"; exit 1; fi
+      - name: zip
+        run: cd extension && zip -r -X "../ygo-th-extension-$VERSION.zip" . -x "*.pem"
+      - name: publish release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          cat > notes.md <<EOF
+          ## ติดตั้ง (Edge / Chrome 137+)
+          1. ดาวน์โหลด \`ygo-th-extension-$VERSION.zip\` ด้านล่าง แล้วแตกไฟล์ไว้ในโฟลเดอร์ที่จะไม่ลบ
+          2. เปิด \`edge://extensions\` (หรือ \`chrome://extensions\`) → เปิด **Developer mode**
+          3. **Load unpacked** → เลือกโฟลเดอร์ที่แตกไว้ (ที่มีไฟล์ manifest.json)
+          4. คลิกไอคอน extension → ดูว่าฐานคำแปลโหลดแล้ว (ถ้ายังไม่ขึ้น กด "อัปเดตตอนนี้")
+          5. เข้า Dueling Nexus แล้วชี้การ์ด — คลิกข้อความเพื่อสลับ ไทย / English
+
+          อัปเดตเวอร์ชันใหม่: แตก zip ทับโฟลเดอร์เดิม แล้วกดรีโหลด (↻) ที่ extension
+          ฐานคำแปลอัปเดตเองทุก 12 ชม. ไม่ต้องโหลด zip ใหม่
+
+          โปรเจกต์แฟน ไม่เกี่ยวข้องกับ Konami · คำแปลไม่ใช่ข้อความทางการ
+          EOF
+          gh release create "$GITHUB_REF_NAME" "ygo-th-extension-$VERSION.zip" \
+            --repo "$GITHUB_REPOSITORY" --title "Extension $VERSION" --notes-file notes.md

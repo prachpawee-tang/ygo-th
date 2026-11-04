@@ -39,7 +39,8 @@ Base URL: `https://prachpawee-tang.github.io/ygo-th/v1/`
 ```
 data/cards/{passcode}.json   คำแปล 1 ใบต่อไฟล์ (ไม่เก็บข้อความภาษาอังกฤษ)
 data/glossary.json           ศัพท์มาตรฐาน
-tools/                       validate · build · triage (Actions) · review-issues (AI บนเครื่องผู้ดูแล)
+tools/                       เครื่องมือผู้ดูแล — อธิบายทุกตัวใน tools/README.md
+extension/                   extension สำหรับผู้ใช้ (ไม่มี AI) — ดาวน์โหลดจากหน้า Releases
 .github/                     ฟอร์ม issue และ workflows
 ```
 

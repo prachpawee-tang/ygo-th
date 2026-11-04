@@ -15,14 +15,22 @@ if (verifiedPath && existsSync(verifiedPath)) {
   for (const v of JSON.parse(readFileSync(verifiedPath, "utf8")).cards || []) if (v.id) verified.set(String(v.id), v);
 }
 
-let added = 0, kept = 0, flagged = 0, invalid = 0;
+let added = 0, same = 0, kept = 0, flagged = 0, invalid = 0, broken = 0;
 const today = new Date().toISOString().slice(0, 10);
-for (const line of readFileSync(jsonl, "utf8").split("\n")) {
+const lines = readFileSync(jsonl, "utf8").split("\n");
+for (const [i, line] of lines.entries()) {
   if (!line.trim()) continue;
-  const r = JSON.parse(line);
+  let r;
+  // the batch may be writing the last line right now — skip a half-written line instead of crashing
+  try { r = JSON.parse(line); } catch {
+    broken++;
+    console.warn(`skip line ${i + 1}: not valid JSON${i >= lines.length - 2 ? " (batch still writing?)" : ""}`);
+    continue;
+  }
   const file = join(CARDS_DIR, `${r.id}.json`);
+  let cur = null;
   if (existsSync(file)) {
-    const cur = JSON.parse(readFileSync(file, "utf8"));
+    cur = JSON.parse(readFileSync(file, "utf8"));
     if (cur.status !== "ai") { kept++; continue; }
   }
   const v = verified.get(String(r.id));
@@ -41,7 +49,11 @@ for (const line of readFileSync(jsonl, "utf8").split("\n")) {
   if (!rc.ok && !v) { card.note = "rule-check: " + rc.problems.join("; "); flagged++; }
   const problems = checkCardSchema(card);
   if (problems.length) { invalid++; console.warn(`skip ${r.id} ${r.name}: ${problems.join("; ")}`); continue; }
+  // unchanged card → leave the file alone (otherwise "updated" would change on every run)
+  if (cur && cardJson({ ...cur, updated: today }) === cardJson(card)) { same++; continue; }
   writeFileSync(file, cardJson(card));
   added++;
 }
-console.log(`imported ${added} · kept (community/reviewed) ${kept} · flagged by rule-check ${flagged} · invalid ${invalid}`);
+console.log(`imported ${added} · unchanged ${same} · kept (community/reviewed) ${kept} · flagged by rule-check ${flagged} · invalid ${invalid} · broken lines ${broken}`);
+// one broken line at the end is normal while the batch runs; more than that means the file is damaged
+if (invalid || broken > 1) process.exitCode = 1;

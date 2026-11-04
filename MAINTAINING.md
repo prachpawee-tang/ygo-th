@@ -31,6 +31,12 @@
 
 ## อัปเดตฐานจาก batch
 
+ดับเบิลคลิก `tools\update-data.bat` (หรือ `node tools/update-data.mjs [cards-th.jsonl] [verified.json]`)
+→ import-batch แล้ว validate ในคำสั่งเดียว ถ้าขั้นไหนพังจะขึ้นกรอบ **[ผิดพลาด]** บอกขั้นและสาเหตุ
+ถ้าผ่าน จะสรุปว่ามีไฟล์เปลี่ยนกี่ไฟล์ และมีการ์ดที่มี note กี่ใบ แล้ว commit/push เอง
+รันได้ระหว่างที่ batch ยังทำงานอยู่ (ถ้าบรรทัดสุดท้ายยังเขียนไม่เสร็จ จะข้ามบรรทัดนั้นไป) · การ์ดที่ไม่มีอะไรเปลี่ยนจะไม่ถูกเขียนทับ
+
+แบบแยกขั้น:
 ```sh
 node tools/import-batch.mjs "E:\YGO-Translator\batch\cards-th.jsonl" "E:\YGO-Translator\extension\verified.json"
 node tools/validate.mjs

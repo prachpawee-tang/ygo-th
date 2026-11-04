@@ -27,6 +27,8 @@
 
 สคริปต์ไม่ merge เองเด็ดขาด — ผู้ดูแลอ่าน PR แล้ว merge
 
+การตั้งชื่อ branch/commit/tag และการออกเวอร์ชัน extension ดู [VERSIONING.md](VERSIONING.md)
+
 ## อัปเดตฐานจาก batch
 
 ```sh

@@ -1,0 +1,19 @@
+name: ข้อความไม่ตรง / Errata or missing card
+description: การ์ดไม่มีคำแปล หรือคำแปลขึ้นป้าย "อาจเก่า" (ข้อความภาษาอังกฤษเปลี่ยน)
+title: "[errata] "
+labels: ["errata"]
+body:
+  - type: input
+    id: passcode
+    attributes:
+      label: Passcode
+      placeholder: "14558127"
+    validations:
+      required: true
+  - type: textarea
+    id: detail
+    attributes:
+      label: รายละเอียด
+      description: เกิดอะไรขึ้น เห็นบนหน้าไหน
+    validations:
+      required: true

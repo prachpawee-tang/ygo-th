@@ -1,0 +1,9 @@
+{
+  "id": "87116928",
+  "name": "Chimeratech Megafleet Dragon",
+  "th": "\"Cyber Dragon\" มอนสเตอร์ 1 ตัว + มอนสเตอร์ 1 ตัวขึ้นไปใน Extra Monster Zone\nไม่สามารถใช้เป็น Material ในการรวมร่าง (Fusion Material) ได้ ต้องอัญเชิญพิเศษก่อน (จาก เอ็กซ์ตร้าเด็ค) โดยการส่งการ์ดที่ระบุไว้ข้างต้นจากสนามใดสนามหนึ่งลง สุสาน (GY) (คุณไม่ใช้ \"Polymerization\") ATK เดิมของการ์ดนี้จะกลายเป็น 1200 x จำนวน Material ที่ใช้ในการอัญเชิญพิเศษ",
+  "status": "ai",
+  "en_sha256": "36d15a7a9eae72704e4e99225794ece985a76fe1283b1f9dc03fee3271c34139",
+  "model": "gemma3:12b",
+  "updated": "2026-11-04"
+}

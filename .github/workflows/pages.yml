@@ -1,0 +1,49 @@
+name: publish API
+# Build the static API from main and deploy it to GitHub Pages, signed with the release key.
+on:
+  push:
+    branches: [main]
+    paths: ["data/**", "tools/build.mjs", "tools/lib.mjs"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    # the signing key lives in this environment — protect it (Settings → Environments → release)
+    environment: release
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: node tools/validate.mjs
+      - run: node tools/build.mjs
+        env:
+          YGOTH_SIGNING_KEY: ${{ secrets.YGOTH_SIGNING_KEY }}
+      - name: refuse to publish an unsigned manifest
+        run: node -e "const m=require('./site/v1/manifest.json'); if(!m.signature){console.error('manifest is unsigned'); process.exit(1)}"
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

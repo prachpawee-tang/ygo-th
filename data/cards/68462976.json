@@ -1,0 +1,9 @@
+{
+  "id": "68462976",
+  "name": "Secret Village of the Spellcasters",
+  "th": "ถ้าคุณควบคุมมอนสเตอร์ประเภท Spellcaster เท่านั้น, คู่ต่อสู้ไม่สามารถเปิดใช้การ์ดเวทมนตร์ได้ ถ้าคุณไม่ได้ควบคุมมอนสเตอร์ประเภท Spellcaster, คุณไม่สามารถเปิดใช้การ์ดเวทมนตร์ได้",
+  "status": "ai",
+  "en_sha256": "80fb7255f1eb705afbe5e049e65e1e302767bc591654ecd7775efc54b6ffba6a",
+  "model": "gemma3:12b",
+  "updated": "2026-11-04"
+}

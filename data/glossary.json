@@ -1,0 +1,173 @@
+{
+  "version": 1,
+  "terms": [
+    {
+      "en": "Normal Summon",
+      "th": "อัญเชิญปกติ (Normal Summon)"
+    },
+    {
+      "en": "Special Summon",
+      "th": "อัญเชิญพิเศษ (Special Summon)"
+    },
+    {
+      "en": "Tribute Summon",
+      "th": "อัญเชิญแบบสังเวย (Tribute Summon)"
+    },
+    {
+      "en": "Tribute",
+      "th": "สังเวย"
+    },
+    {
+      "en": "Flip Summon",
+      "th": "อัญเชิญแบบพลิก (Flip Summon)"
+    },
+    {
+      "en": "Set",
+      "th": "เซ็ต (วางคว่ำ)"
+    },
+    {
+      "en": "Graveyard / GY",
+      "th": "สุสาน (GY)"
+    },
+    {
+      "en": "banish / banished",
+      "th": "เนรเทศ (Banish)"
+    },
+    {
+      "en": "Deck",
+      "th": "เด็ค"
+    },
+    {
+      "en": "Extra Deck",
+      "th": "เอ็กซ์ตร้าเด็ค"
+    },
+    {
+      "en": "hand",
+      "th": "มือ"
+    },
+    {
+      "en": "draw",
+      "th": "จั่ว"
+    },
+    {
+      "en": "If you control no monsters",
+      "th": "ถ้าคุณไม่ได้ควบคุมมอนสเตอร์"
+    },
+    {
+      "en": "Effect Monster",
+      "th": "มอนสเตอร์เอฟเฟกต์"
+    },
+    {
+      "en": "Field Spell",
+      "th": "การ์ดเวทมนตร์สนาม (Field Spell)"
+    },
+    {
+      "en": "Once per turn",
+      "th": "1 ครั้งต่อเทิร์น"
+    },
+    {
+      "en": "Main Monster Zone / Extra Monster Zone",
+      "th": "Main Monster Zone / Extra Monster Zone (คงภาษาอังกฤษ)"
+    },
+    {
+      "en": "each effect of \"X\" once per turn",
+      "th": "แต่ละเอฟเฟกต์ของ \"X\" ได้ 1 ครั้งต่อเทิร์น"
+    },
+    {
+      "en": "Link Monster",
+      "th": "มอนสเตอร์ Link"
+    },
+    {
+      "en": "field",
+      "th": "สนาม"
+    },
+    {
+      "en": "destroy",
+      "th": "ทำลาย"
+    },
+    {
+      "en": "negate",
+      "th": "ลบล้าง (Negate)"
+    },
+    {
+      "en": "target",
+      "th": "เลือกเป้าหมาย (Target)"
+    },
+    {
+      "en": "activate",
+      "th": "เปิดใช้"
+    },
+    {
+      "en": "Chain / Chain Link",
+      "th": "เชน (Chain)"
+    },
+    {
+      "en": "Quick Effect",
+      "th": "Quick Effect"
+    },
+    {
+      "en": "add to your hand",
+      "th": "เพิ่มขึ้นมือ"
+    },
+    {
+      "en": "send to the GY",
+      "th": "ส่งลงสุสาน"
+    },
+    {
+      "en": "discard",
+      "th": "ทิ้งการ์ดจากมือ"
+    },
+    {
+      "en": "shuffle into the Deck",
+      "th": "สับกลับเข้าเด็ค"
+    },
+    {
+      "en": "detach (Xyz) material",
+      "th": "ถอด Material"
+    },
+    {
+      "en": "attach as material",
+      "th": "ติดเป็น Material"
+    },
+    {
+      "en": "Tuner / non-Tuner",
+      "th": "Tuner / non-Tuner"
+    },
+    {
+      "en": "face-up / face-down",
+      "th": "หงาย / คว่ำ"
+    },
+    {
+      "en": "Attack Position / Defense Position",
+      "th": "ท่าโจมตี / ท่าป้องกัน"
+    },
+    {
+      "en": "battle damage",
+      "th": "ความเสียหายจากการต่อสู้"
+    },
+    {
+      "en": "inflict damage",
+      "th": "สร้างความเสียหาย"
+    },
+    {
+      "en": "your opponent",
+      "th": "คู่ต่อสู้"
+    },
+    {
+      "en": "you control / your opponent controls",
+      "th": "ที่คุณควบคุม / ที่คู่ต่อสู้ควบคุม"
+    },
+    {
+      "en": "Spell / Trap",
+      "th": "เวทมนตร์ (Spell) / กับดัก (Trap)"
+    },
+    {
+      "en": "Main Phase, Battle Phase, End Phase, Standby Phase, Damage Step",
+      "th": "คงภาษาอังกฤษไว้"
+    },
+    {
+      "en": "ATK / DEF / LP / Level / Rank / Link",
+      "th": "คงภาษาอังกฤษไว้"
+    }
+  ]
+}

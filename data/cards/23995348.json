@@ -1,0 +1,13 @@
+{
+  "id": "23995348",
+  "name": "Blue-Eyes Ultimate Dragon",
+  "th": "\"Blue-Eyes White Dragon\" + \"Blue-Eyes White Dragon\" + \"Blue-Eyes White Dragon\"",
+  "status": "ai",
+  "en_sha256": "3e909170566e892faae364e8fe1df35fe6d2402cf71152f57ebf06377d1ce85e",
+  "model": "gemma3:12b",
+  "updated": "2026-11-04",
+  "alt": [
+    "23995346",
+    "23995347"
+  ]
+}

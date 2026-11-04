@@ -1,0 +1,9 @@
+{
+  "id": "81674782",
+  "name": "Dimensional Fissure",
+  "th": "มอนสเตอร์ใดๆ ที่ถูกส่งลงสุสาน (GY) จะถูกเนรเทศแทน",
+  "status": "ai",
+  "en_sha256": "6b76b884d12a351f85867df0d7a61af5f07a809416baafbf66e6122f10ecdd05",
+  "model": "gemma3:12b",
+  "updated": "2026-11-04"
+}

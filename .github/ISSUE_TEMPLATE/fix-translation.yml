@@ -1,0 +1,44 @@
+name: แก้คำแปล / Fix a translation
+description: เสนอคำแปลที่ถูกต้องกว่าสำหรับการ์ด 1 ใบ
+title: "[แก้คำแปล] "
+labels: ["fix-translation"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ขอบคุณที่ช่วยแก้คำแปล 🙏 ระบบจะตรวจรูปแบบอัตโนมัติ แล้ว AI จะตรวจความหมายเทียบกับข้อความภาษาอังกฤษ
+        **1 หัวข้อ = การ์ด 1 ใบ** · ใส่เฉพาะคำแปลภาษาไทย ไม่ต้องวางข้อความภาษาอังกฤษ
+  - type: input
+    id: passcode
+    attributes:
+      label: Passcode
+      description: เลขการ์ด (ตัวเลขมุมล่างซ้ายของการ์ด หรือที่ extension แสดง) เช่น 14558127
+      placeholder: "14558127"
+    validations:
+      required: true
+  - type: textarea
+    id: proposed
+    attributes:
+      label: คำแปลที่เสนอ
+      description: คำแปลทั้งการ์ด (ไม่ใช่แค่ส่วนที่แก้) คงชื่อการ์ดใน "เครื่องหมายคำพูด" เป็นภาษาอังกฤษ
+    validations:
+      required: true
+  - type: textarea
+    id: reason
+    attributes:
+      label: เหตุผล
+      description: คำแปลเดิมผิดตรงไหน
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: แหล่งอ้างอิง (ถ้ามี)
+      description: เช่น คำตัดสินกฎอย่างเป็นทางการ
+  - type: checkboxes
+    id: agree
+    attributes:
+      label: เงื่อนไข
+      options:
+        - label: ฉันยินยอมให้ใช้คำแปลนี้ในโปรเจกต์ภายใต้เงื่อนไขเดียวกับ DISCLAIMER.md
+          required: true

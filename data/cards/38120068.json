@@ -1,0 +1,9 @@
+{
+  "id": "38120068",
+  "name": "Trade-In",
+  "th": "ทิ้งการ์ดมอนสเตอร์ Level 8 1 ใบ; จั่วการ์ด 2 ใบ.",
+  "status": "ai",
+  "en_sha256": "a9a7f228aa0ae911a6207cf42bde11351f9feeaf8d0a3a3050c03d949b6013f8",
+  "model": "gemma3:12b",
+  "updated": "2026-11-04"
+}

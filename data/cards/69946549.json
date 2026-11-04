@@ -1,0 +1,9 @@
+{
+  "id": "69946549",
+  "name": "Predaplant Dragostapelia",
+  "th": "มอนสเตอร์ Fusion 1 ตัว + มอนสเตอร์ DARK 1 ตัว\n1 ครั้งต่อเทิร์น (Quick Effect): คุณสามารถเลือกเป้าหมายมอนสเตอร์หงายที่คู่ต่อสู้ควบคุม; วาง Predator Counter 1 ตัวลงบนมัน และถ้ามันมี Level 2 หรือสูงกว่า มันจะกลายเป็น Level 1 ตราบใดที่มันมี Predator Counter ลบล้างเอฟเฟกต์ที่เปิดใช้งานของมอนสเตอร์ของคู่ต่อสู้ที่มี Predator Counter",
+  "status": "ai",
+  "en_sha256": "1822b1a2a8cf86c16896211c13c4962859422dc13fa0a49433f30f16a3f18f9f",
+  "model": "gemma3:12b",
+  "updated": "2026-11-04"
+}

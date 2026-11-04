@@ -1,0 +1,9 @@
+{
+  "id": "24508238",
+  "name": "D.D. Crow",
+  "th": "(Quick Effect): คุณสามารถทิ้งการ์ดใบนี้ลงสุสาน (GY), จากนั้นเลือกเป้าหมาย 1 การ์ดในสุสาน (GY) ของคู่ต่อสู้; เนรเทศเป้าหมายนั้น",
+  "status": "ai",
+  "en_sha256": "859b120dfa9dc901663ada6fcff8bbdd203eeba80e2ce8be69afdafd1ecd6bf5",
+  "model": "gemma3:12b",
+  "updated": "2026-11-04"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "88264978",
+  "name": "Red-Eyes Darkness Metal Dragon",
+  "th": "คุณสามารถอัญเชิญพิเศษการ์ดใบนี้ (จากมือของคุณ) โดยการเนรเทศมอนสเตอร์ Dragon ที่หงายอยู่ 1 ตัวที่คุณควบคุม อัญเชิญพิเศษ \"Red-Eyes Darkness Metal Dragon\" ได้ 1 ครั้งต่อเทิร์นด้วยวิธีนี้เท่านั้น ระหว่าง Main Phase ของคุณ: คุณสามารถอัญเชิญพิเศษมอนสเตอร์ Dragon 1 ตัวจากมือของคุณหรือสุสาน (GY) ยกเว้น \"Red-Eyes Darkness Metal Dragon\" คุณสามารถใช้เอฟเฟกต์นี้ของ \"Red-Eyes Darkness Metal Dragon\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "5593e5f3460213ae8cd0f8d244ccd3e6235c4c28cdb16dc897c8b656e45c46ab",
+  "model": "gemma3:12b",
+  "updated": "2026-11-04",
+  "alt": [
+    "88264979"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "1784686",
+  "name": "The Eye of Timaeus",
+  "th": "(การ์ดใบนี้จะถือว่าเป็น \"Legendary Dragon Timaeus\" เสมอ.)\nเลือกเป้าหมายมอนสเตอร์ \"Dark Magician\" 1 ตัวที่คุณควบคุม; อัญเชิญ Fusion ด้วยการ Fusion Summon มอนสเตอร์ Fusion 1 ตัวจาก เอ็กซ์ตร้าเด็ค ที่ระบุว่ามอนสเตอร์ตัวนั้นบนสนามเป็น Material Fusion โดยใช้มันเป็น Material Fusion คุณสามารถเปิดใช้ \"The Eye of Timaeus\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "c6831749e3d22f155446d1e669e2e9f367edae4007d1fad56c885a3a200b2fcd",
+  "model": "gemma3:12b",
+  "updated": "2026-11-04"
+}

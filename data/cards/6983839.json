@@ -1,0 +1,9 @@
+{
+  "id": "6983839",
+  "name": "Tornado Dragon",
+  "th": "มอนสเตอร์ Level 4 จำนวน 2 ตัว\n1 ครั้งต่อเทิร์น (Quick Effect): คุณสามารถถอด Material 1 ชิ้นจากการ์ดใบนี้, จากนั้นเลือกเป้าหมาย Spell/Trap 1 ใบในสนาม; ทำลายมัน",
+  "status": "ai",
+  "en_sha256": "2b60c08a93b049107898746d8e4bb631ed6cd777257ed22c08a913f0a4bc74d5",
+  "model": "gemma3:12b",
+  "updated": "2026-11-04"
+}

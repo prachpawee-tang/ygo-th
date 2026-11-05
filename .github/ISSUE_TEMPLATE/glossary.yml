@@ -14,7 +14,7 @@ body:
     id: th
     attributes:
       label: คำไทยที่เสนอ
-      placeholder: "เนรเทศ (Banish)"
+      placeholder: "เอาออกจากเกม (Banish)"
     validations:
       required: true
   - type: textarea

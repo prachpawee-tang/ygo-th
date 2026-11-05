@@ -7,7 +7,7 @@
 
 | เครื่องมือ | ทำอะไร | ใช้ตอนไหน | รันที่ไหน |
 | --- | --- | --- | --- |
-| [`update-data.bat`](#update-data) | import + validate ในคำสั่งเดียว | หลัง batch แปลการ์ดได้เพิ่ม | เครื่อง Tonk (ดับเบิลคลิก) |
+| [`update-data.bat`](#update-data) | pull + import + validate + commit + push ในคำสั่งเดียว | หลัง batch แปลการ์ดได้เพิ่ม | เครื่อง Tonk (ดับเบิลคลิก) |
 | [`import-batch.mjs`](#import-batch) | แปลงผล batch เป็น `data/cards/*.json` | ถูกเรียกจาก update-data | เครื่อง Tonk |
 | [`validate.mjs`](#validate) | ตรวจรูปแบบไฟล์ใน `data/` | ก่อน push ทุกครั้ง · CI รันเองทุก PR/push | ทั้งสองที่ |
 | [`build.mjs`](#build) | สร้าง API static `site/v1/` และเซ็น | Actions รันเองหลัง push เข้า main | Actions (ลองในเครื่องได้) |
@@ -18,7 +18,7 @@
 
 ### ลำดับงานปกติ
 ```
-batch แปลบนเครื่อง ──► update-data.bat ──► git commit + push ──► [Actions] validate + build ──► Pages ──► extension ของเพื่อน (ภายใน 12 ชม.)
+batch แปลบนเครื่อง ──► update-data.bat (commit + push ให้เอง) ──► [Actions] validate + build ──► Pages ──► extension ของเพื่อน (ภายใน 12 ชม.)
 
 เพื่อนเปิด issue ──► [Actions] triage ──► label needs-ai-review ──► review.bat (AI บนเครื่อง) ──► Tonk อ่านแล้ว merge เอง
 ```
@@ -28,8 +28,15 @@ batch แปลบนเครื่อง ──► update-data.bat ──► g
 <a id="update-data"></a>
 ## `update-data.bat` / `update-data.mjs`: อัปเดตฐานจาก batch
 
-**ทำอะไร:** รัน `import-batch` แล้วต่อด้วย `validate` ถ้าทั้งสองขั้นผ่าน จะสรุปว่ามีไฟล์เปลี่ยนกี่ไฟล์ และมีการ์ดที่มี `note` รอตรวจกี่ใบ
+**ทำอะไร:** ทำครบ 5 ขั้นในคำสั่งเดียว
+1. `git pull --ff-only` ดึงของล่าสุดจาก GitHub
+2. `import-batch`
+3. `validate`
+4. commit **เฉพาะ `data/`** เป็น `data: import batch YYYY-MM-DD (N files)` ไฟล์อื่นที่แก้ค้างในเครื่องจะไม่ติดไปด้วย
+5. `git push`
+
 ถ้าขั้นไหนพัง จะขึ้นกรอบ **[ผิดพลาด]** บอกชื่อขั้นกับสาเหตุ แล้วหยุดทันที
+ถ้า validate ไม่ผ่าน จะไม่มีการ commit หรือ push ใด ๆ · ถ้าไม่มีการ์ดใหม่ จะจบโดยไม่ commit
 
 **ใช้ตอนไหน:** เมื่ออยากส่งการ์ดที่ batch แปลเสร็จขึ้น API รันระหว่างที่ batch ยังทำงานอยู่ก็ได้
 
@@ -37,22 +44,20 @@ batch แปลบนเครื่อง ──► update-data.bat ──► g
 ```bat
 :: ดับเบิลคลิก tools\update-data.bat  หรือ
 node tools/update-data.mjs
+node tools/update-data.mjs --no-push          :: แค่ import + validate ไม่ commit/push
 node tools/update-data.mjs "D:\other\cards-th.jsonl" "D:\other\verified.json"
 ```
 ค่าเริ่มต้นใช้ `E:\YGO-Translator\batch\cards-th.jsonl` และ `E:\YGO-Translator\extension\verified.json`
 
-ถ้าผ่าน ให้ทำต่อดังนี้:
-```sh
-git add data
-git commit -m "data: import batch 2026-11-05 (N cards)"
-git push
-```
-
 | ข้อความ error | แก้ยังไง |
 | --- | --- |
 | ขั้น: เตรียมไฟล์ · ไม่พบไฟล์ผล batch | ตรวจ path หรือส่ง path เป็นอาร์กิวเมนต์แรก |
+| ขั้น: git pull | มีงานในเครื่องที่ชนกับบน GitHub → `git status` ดูก่อน แล้ว commit หรือเก็บงานนั้น |
 | ขั้น: import-batch | ดูบรรทัด `skip ...` ด้านบน · ถ้าเป็น `not valid JSON` หลายบรรทัด แปลว่าไฟล์ jsonl เสีย |
-| ขั้น: validate | ดูชื่อไฟล์ที่ขึ้นด้านบน แก้ไฟล์นั้นแล้วรันใหม่ · **ห้าม push จนกว่าจะผ่าน** |
+| ขั้น: validate | ดูชื่อไฟล์ที่ขึ้นด้านบน แก้ไฟล์นั้นแล้วรันใหม่ (ยังไม่ได้ push อะไร) |
+| ขั้น: git commit | ตั้งชื่อและอีเมลด้วย `git config user.name` / `git config user.email` |
+| ขั้น: git push · ruleset | main ห้าม push ตรง → commit อยู่ในเครื่องแล้ว ให้เปิด PR หรือตั้ง bypass ให้บัญชีผู้ดูแล |
+| ขั้น: git push · มี commit ใหม่กว่า | `git pull --rebase` แล้ว `git push` |
 
 ---
 

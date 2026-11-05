@@ -5,5 +5,6 @@
   "status": "ai",
   "en_sha256": "9cd6f09eb821abae701132b0e215df046d83c5986519dc93bd1492fb62c8c4d4",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-05",
+  "note": "rule-check: \"face-up\" ×2 in English but \"หงาย\" ×1 in Thai — meaning may be wrong"
 }

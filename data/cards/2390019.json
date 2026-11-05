@@ -6,5 +6,5 @@
   "en_sha256": "ddf29a19c52af347df2a80c15a3b831ac87d1b7ef6047866ddc6e2d6a95b4514",
   "model": "gemma3:12b",
   "updated": "2026-11-05",
-  "note": "rule-check: card names in quotes changed/missing: \"Ojama\""
+  "note": "rule-check: card names in quotes changed/missing: \"Ojama\"; \"face-up\" ×1 in English but \"หงาย\" ×0 in Thai — meaning may be wrong"
 }

@@ -6,5 +6,5 @@
   "en_sha256": "ed3bf4fc157bbbc42b914e705ea53ff09707637ed36c0675c266be43e464d498",
   "model": "gemma3:12b",
   "updated": "2026-11-05",
-  "note": "rule-check: fewer \":\" than English (0 < 1) — activation condition may be lost"
+  "note": "rule-check: fewer \":\" than English (0 < 1) — activation condition may be lost; \"banish\" ×2 in English but \"ออกจากเกม\" ×1 in Thai — meaning may be wrong"
 }

@@ -6,5 +6,5 @@
   "en_sha256": "18f18684a89af050393d5ac2e83049a7f36df98decc6b4675815e7d66a51fb24",
   "model": "gemma3:12b",
   "updated": "2026-11-05",
-  "note": "rule-check: numbers missing in Thai: 1; card names in quotes changed/missing: \"Black-Winged Dragon\""
+  "note": "rule-check: numbers missing in Thai: 1; card names in quotes changed/missing: \"Black-Winged Dragon\"; \"face-up\" ×1 in English but \"หงาย\" ×0 in Thai — meaning may be wrong"
 }

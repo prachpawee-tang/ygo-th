@@ -6,5 +6,5 @@
   "en_sha256": "528121506871298eebbca839fc71651305fd894c3fb105da6807ccef3b7d6495",
   "model": "gemma3:12b",
   "updated": "2026-11-05",
-  "note": "rule-check: numbers missing in Thai: 1"
+  "note": "rule-check: numbers missing in Thai: 1; \"face-up\" ×1 in English but \"หงาย\" ×0 in Thai — meaning may be wrong"
 }

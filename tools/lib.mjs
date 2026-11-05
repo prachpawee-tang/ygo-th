@@ -67,6 +67,21 @@ export function ruleCheck(en, th) {
   if (count(th, ";") < count(en, ";")) problems.push(`fewer ";" than English (${count(th, ";")} < ${count(en, ";")}) — cost/resolution split may be lost`);
   if (count(th, ":") < count(en, ":")) problems.push(`fewer ":" than English (${count(th, ":")} < ${count(en, ":")}) — activation condition may be lost`);
   if (count(en, "●") !== count(th, "●")) problems.push(`bullet (●) count differs`);
+
+  // key game words whose Thai must appear at least as often (card names in quotes don't count)
+  const enPlain = String(en).replace(/"[^"]*"|“[^”]*”/g, "");
+  const thPlain = String(th).replace(/"[^"]*"|“[^”]*”/g, "");
+  const n = (s, re) => (s.match(re) || []).length;
+  const KEY = [
+    // the English word kept as-is in the Thai text also counts
+    [/\bbanish/gi, /ออกจากเกม|banish/gi, "banish", "ออกจากเกม"],
+    [/\bface-up\b/gi, /หงาย|face-up/gi, "face-up", "หงาย"],
+    [/\bface-down\b/gi, /คว่ำ|face-down/gi, "face-down", "คว่ำ"]
+  ];
+  for (const [reEn, reTh, w, t] of KEY) {
+    const e = n(enPlain, reEn), x = n(thPlain, reTh);
+    if (x < e) problems.push(`"${w}" ×${e} in English but "${t}" ×${x} in Thai — meaning may be wrong`);
+  }
   if (!/[฀-๿]/.test(th) && /[a-z]{4,}\s+[a-z]{4,}/i.test(en.replace(/"[^"]+"/g, ""))) problems.push("no Thai text");
   problems.push(...unsafeText(th));
   return { ok: problems.length === 0, problems };

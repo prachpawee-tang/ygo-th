@@ -49,6 +49,8 @@
 
   // "จากนั้น ถ้า…" / "และ ถ้า…" continue the same effect — not a new one
   const CONTINUES = /(?:จากนั้น|และ|แล้ว|หรือ|แต่)\s*$/;
+  const SECONDARY = /^(?:ในขณะที่|ขณะที่|ตอนที่)/;          // "while …" inside a condition
+  const PRIMARY = /^(?:ถ้า|หาก|เมื่อ)/;                       // what such a condition starts with
   const startsHere = (s, i) => s[i] === " " && STARTERS.test(s.slice(i + 1)) && !CONTINUES.test(s.slice(0, i));
 
   /** where does the condition/cost that ends at `p` start? latest starter in (from, p), extended over "A, B, C:" chains */
@@ -57,9 +59,13 @@
     for (let i = p - 1; i > from; i--) if (startsHere(s, i)) { j = i; break; }
     if (j < 0) return -1;
     for (;;) {
-      if (!/,\s*$/.test(s.slice(from, j))) break;
+      // "เมื่อ … ในขณะที่ …:" / "ถ้า … ระหว่าง …:" — the 2nd word is part of the same condition
+      const inner = SECONDARY.test(s.slice(j + 1));
+      if (!inner && !/,\s*$/.test(s.slice(from, j))) break;
       let k = -1;
-      for (let i = j - 1; i > from; i--) if (startsHere(s, i)) { k = i; break; }
+      for (let i = j - 1; i > from; i--) if (startsHere(s, i) && (!inner || PRIMARY.test(s.slice(i + 1)))) { k = i; break; }
+      // the sentence itself starts with the 1st word ("เมื่อ … ในขณะที่ …:") → whole thing is one condition, no cut
+      if (k < 0 && inner && STARTERS.test(s.slice(from).trimStart()) && !/[:;]/.test(s.slice(from, j))) return -1;
       if (k < 0 || /[:;]/.test(s.slice(k, j))) break;
       j = k;
     }
@@ -92,7 +98,8 @@
     for (const m of s.matchAll(LIMIT)) {
       const start = m.index, end = m.index + m[0].length;
       if (start > 0 && !/[:;]/.test(s.slice(end))) cuts.add(start);
-      if (end < s.length - 1 && s[end] === " ") cuts.add(end);
+      // "…ต่อเทิร์น และเพียงครั้งเดียว…" continues the same limit — don't cut
+      if (end < s.length - 1 && s[end] === " " && !/^(?:และ|หรือ|แต่|โดย)/.test(s.slice(end + 1))) cuts.add(end);
     }
     const sorted = [...cuts].sort((a, b) => a - b);
     const parts = [];

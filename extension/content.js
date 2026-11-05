@@ -62,15 +62,38 @@
   function isOurWrite(el) {
     const st = replaced.get(el);
     if (!st) return false;
-    return st.showing === "th" ? el.textContent === st.th : el.innerHTML === st.origHTML;
+    return st.showing === "th" ? el.textContent === st.text : el.innerHTML === st.origHTML;
+  }
+
+  // คำแปล → บล็อกมีเว้นวรรค + สี แบบเดียวกับที่เว็บจัดภาษาอังกฤษ (format.js)
+  // สร้างด้วย createElement + textContent เท่านั้น — ห้าม innerHTML กับคำแปล
+  const SEG_CLASS = { cond: "ygot-cond", cost: "ygot-cost", summon: "ygot-summon", name: "ygot-name", limit: "ygot-limit", quick: "ygot-quick" };
+  function renderThai(el, th) {
+    el.textContent = "";
+    let blocks;
+    try { blocks = globalThis.ygotFormatThai(th); } catch { blocks = null; }
+    if (!blocks?.length) { el.textContent = th; return el.textContent; }
+    for (const b of blocks) {
+      const div = document.createElement("span");
+      div.className = "ygot-block";
+      for (const s of b.segs) {
+        if (!s.cls.length) { div.append(document.createTextNode(s.text)); continue; }
+        const span = document.createElement("span");
+        span.className = s.cls.map(c => SEG_CLASS[c]).filter(Boolean).join(" ");
+        span.textContent = s.text;
+        div.append(span);
+      }
+      el.append(div);
+    }
+    return el.textContent;
   }
 
   function writeThai(el, th) {
     const prev = replaced.get(el);
     const origHTML = prev && isOurWrite(el) ? prev.origHTML : el.innerHTML;
-    replaced.set(el, { th, origHTML, showing: "th" });
     el.classList.add("ygot-replaced");
-    el.textContent = th; // textContent เท่านั้น — ห้าม innerHTML กับคำแปล
+    const text = renderThai(el, th);
+    replaced.set(el, { th, text, origHTML, showing: "th" });
     el.title = "คลิกเพื่อสลับ ไทย / English";
     if (!bound.has(el)) {
       bound.add(el);
@@ -78,7 +101,7 @@
         const st = replaced.get(el);
         if (!st || !isOurWrite(el)) return;
         if (st.showing === "th") { st.showing = "en"; el.classList.remove("ygot-replaced"); el.innerHTML = st.origHTML; }
-        else { st.showing = "th"; el.classList.add("ygot-replaced"); el.textContent = st.th; }
+        else { st.showing = "th"; el.classList.add("ygot-replaced"); st.text = renderThai(el, st.th); }
       });
     }
   }
@@ -137,7 +160,7 @@
       panel.append(el("div", { className: "ygot-head", textContent: "🇹🇭 แปลไทย" }), el("div", { className: "ygot-body" }));
     }
     if (panel.previousElementSibling !== target) target.insertAdjacentElement("afterend", panel);
-    panel.querySelector(".ygot-body").textContent = th;
+    renderThai(panel.querySelector(".ygot-body"), th);
   }
 
   function apply(target, id, res) {

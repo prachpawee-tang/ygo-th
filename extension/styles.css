@@ -95,3 +95,13 @@
 .ygot-badge .ygot-st-reviewed { color: #8ee08e; }
 .ygot-badge .ygot-st-community { color: #8ec5ff; }
 .ygot-badge .ygot-stale { color: #ffb74d; cursor: help; }
+
+/* v2.1: จัดรูปแบบคำแปลแบบเดียวกับที่ Dueling Nexus จัดภาษาอังกฤษ (สีชุดเดียวกับเว็บ) */
+.ygot-block { display: block; }
+.ygot-block + .ygot-block { margin-top: 10px; }
+.ygot-cond { color: #F1FA8C; font-weight: 500; }
+.ygot-cost { color: #FF79C6; font-weight: 500; }
+.ygot-summon { color: #8BE9FD; font-weight: 500; }
+.ygot-name { font-style: italic; }
+.ygot-limit { text-decoration: underline; }
+.ygot-quick { font-weight: bold; }

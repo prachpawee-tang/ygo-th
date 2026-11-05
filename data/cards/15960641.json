@@ -1,0 +1,9 @@
+{
+  "id": "15960641",
+  "name": "Mirage Dragon",
+  "th": "คู่ต่อสู้ของคุณไม่สามารถเปิดใช้การ์ดกับดักในช่วง Battle Phase ได้",
+  "status": "ai",
+  "en_sha256": "6ca9c405387c9a71ba38aa330038e6bc8441d8300db55a57456cfa31c1d8a5c0",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

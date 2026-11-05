@@ -1,0 +1,9 @@
+{
+  "id": "52077741",
+  "name": "Obnoxious Celtic Guard",
+  "th": "ไม่สามารถถูกทำลายจากการต่อสู้กับมอนสเตอร์ที่มี ATK 1900 หรือมากกว่า",
+  "status": "ai",
+  "en_sha256": "af1a10f57d32c14cf505c55f2a749e553896d78bb37e1fd70592a701d49b1ec1",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

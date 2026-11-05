@@ -1,0 +1,9 @@
+{
+  "id": "56196385",
+  "name": "Tri-Brigade Kitt",
+  "th": "คุณสามารถเนรเทศมอนสเตอร์ประเภท Beast, Beast-Warrior และ/หรือ Winged Beast จำนวนใดก็ได้ในสุสานของคุณ; อัญเชิญพิเศษมอนสเตอร์ Link ประเภท Beast, Beast-Warrior หรือ Winged Beast 1 ตัวจาก เอ็กซ์ตร้าเด็คของคุณ โดยมี Link Rating เท่ากับจำนวนที่เนรเทศ นอกจากนี้ คุณสามารถใช้เฉพาะมอนสเตอร์ประเภท Beast, Beast-Warrior และ Winged Beast เป็น Link Material สำหรับเทิร์นนี้เท่านั้น หากการ์ดใบนี้ถูกส่งลงสุสาน: คุณสามารถส่งการ์ด \"Tri-Brigade\" 1 ใบจากเด็คของคุณลงสุสาน ยกเว้น \"Tri-Brigade Kitt\" คุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Tri-Brigade Kitt\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "227eca5b6d4ab8b15e7d617da4b7e73bb8d2c9240ffb41a81e2b82707ce0a57b",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

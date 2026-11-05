@@ -1,0 +1,10 @@
+{
+  "id": "95454996",
+  "name": "Maliss <Q> White Binder",
+  "th": "มอนสเตอร์ 2+ ตัว, รวมทั้งมอนสเตอร์ \"Maliss\"\nถ้าการ์ดใบนี้ถูกอัญเชิญพิเศษ: คุณสามารถเลือกเป้าหมายการ์ดสูงสุด 3 ใบในสุสานใดๆ ก็ได้; เนรเทศพวกมัน ในระหว่าง Main Phase ของคุณ: คุณสามารถเซ็ตกับดัก \"Maliss\" 1 ใบจากเด็คหรือสุสานของคุณ คุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Maliss White Binder\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "3a2958bfd0e66a6324e3c8a4e0f2ce6a29f962ca2421b7e88731109f1a14cd51",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05",
+  "note": "rule-check: numbers missing in Thai: 900; fewer \";\" than English (1 < 2) — cost/resolution split may be lost; fewer \":\" than English (2 < 3) — activation condition may be lost"
+}

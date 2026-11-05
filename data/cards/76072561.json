@@ -1,0 +1,10 @@
+{
+  "id": "76072561",
+  "name": "Sky Striker Ace = Zero",
+  "th": "“มอนสเตอร์ “Sky Striker Ace” 2 ตัว\nคุณสามารถ อัญเชิญพิเศษ “Sky Striker Ace = Zero(s)” ได้ 1 ครั้งต่อเทิร์นเท่านั้น ไม่สามารถใช้เป็น Link Material ได้ ถ้าการ์ดใบนี้ถูก อัญเชิญพิเศษ: คุณสามารถ จั่ว การ์ด “Sky Striker” เวทมนตร์ 1 ใบจาก เด็ค หรือ สุสาน (GY) ขึ้นมือ (Quick Effect): คุณสามารถ สังเวย การ์ดใบนี้; อัญเชิญพิเศษ “Sky Striker Ace - Raye” และ “Sky Striker Ace - Roze” จาก เด็ค และ/หรือ สุสาน 1 ตัว และคุณสามารถ ทำลาย การ์ด 1 ใบในสนาม คุณสามารถใช้ เอฟเฟกต์ ของ “Sky Striker Ace = Zero” ได้ 1 ครั้งต่อเทิร์น และเพียงครั้งเดียวในเทิร์นนั้นเท่านั้น",
+  "status": "ai",
+  "en_sha256": "ab0623c431c96edaf0090aa7d67c0e72487074c082c8318d4daf686e49459973",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05",
+  "note": "rule-check: card names in quotes changed/missing: \"Sky Striker Ace\""
+}

@@ -1,0 +1,9 @@
+{
+  "id": "58528964",
+  "name": "Flame Ghost",
+  "th": "\"Skull Servant\" + \"Dissolverock\"",
+  "status": "ai",
+  "en_sha256": "ec53d6c69f63e6521066dc4983a61c0394a9212a4b1013647666e0e85b175215",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

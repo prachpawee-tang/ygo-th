@@ -1,0 +1,9 @@
+{
+  "id": "25655502",
+  "name": "Bickuribox",
+  "th": "\"Crass Clown\" + \"Dream Clown\"",
+  "status": "ai",
+  "en_sha256": "3c8cc4e94398c2081ab09d300347440f56ac73a157da942782af87ebc8dc14fc",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

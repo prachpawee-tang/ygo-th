@@ -1,0 +1,9 @@
+{
+  "id": "54332792",
+  "name": "Neo Kaiser Sea Horse",
+  "th": "ถ้าคุณควบคุม \"Blue-Eyes White Dragon\": คุณสามารถ อัญเชิญพิเศษ การ์ดใบนี้จากมือของคุณได้ คุณสามารถ เลือกเป้าหมาย LIGHT Tuner 1 ตัวที่คุณควบคุม; เพิ่มหรือลด Level ของมันด้วย 1 ถ้าการ์ดใบนี้ถูกส่งจากสนามไปยัง สุสาน (GY): คุณสามารถ ส่ง มอนสเตอร์ \"Blue-Eyes\" 1 ตัว หรือ มอนสเตอร์ที่กล่าวถึง \"Blue-Eyes White Dragon\" จาก เด็ค ของคุณไปยัง สุสาน (GY) ยกเว้น \"Neo Kaiser Sea Horse\" คุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Neo Kaiser Sea Horse\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "d1b93fc5de76aa97bdeeb3cd65397f57beaef5f6c4670f2639a6bd436baae583",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

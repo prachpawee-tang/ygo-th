@@ -1,0 +1,9 @@
+{
+  "id": "62325062",
+  "name": "Adhesion Trap Hole",
+  "th": "เมื่อคู่ต่อสู้ของคุณอัญเชิญมอนสเตอร์(s): ลดครึ่ง ATK เดิมของมอนสเตอร์(s) นั้น",
+  "status": "ai",
+  "en_sha256": "17cf8d7081dfb0712ecc8a95e5175f4ca77fb2cd9a082b969140dfae4a38c1f4",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

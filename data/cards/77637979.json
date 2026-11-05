@@ -1,0 +1,9 @@
+{
+  "id": "77637979",
+  "name": "LANphorhynchus",
+  "th": "2 มอนสเตอร์",
+  "status": "ai",
+  "en_sha256": "ea210c2759a562519c8feb1de7fc667f9544f822588dc7b44c7a47d4c8b65b0c",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

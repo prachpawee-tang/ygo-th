@@ -1,0 +1,9 @@
+{
+  "id": "13301895",
+  "name": "Fallen Paradise",
+  "th": "คู่ต่อสู้ของคุณไม่สามารถเลือกเป้าหมาย \"Uria, Lord of Searing Flames\", \"Hamon, Lord of Striking Thunder\", \"Raviel, Lord of Phantasms\" หรือ \"Armityle the Chaos Phantom\" ใน Main Monster Zone หรือ Extra Monster Zone ของคุณด้วยเอฟเฟกต์การ์ดได้ นอกจากนี้ มอนสเตอร์เหล่านั้นจะไม่ถูกทำลายโดยเอฟเฟกต์การ์ดของคู่ต่อสู้ในขณะที่คุณควบคุมมัน ถ้าคุณควบคุม \"Uria, Lord of Searing Flames\", \"Hamon, Lord of Striking Thunder\", \"Raviel, Lord of Phantasms\" หรือ \"Armityle the Chaos Phantom\" ใน Monster Zone ของคุณ: คุณสามารถจั่วการ์ด 2 ใบ คุณสามารถใช้เอฟเฟกต์นี้ของ \"Fallen Paradise\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "521f3a7382efc5e7849bfc399628825f2a65c6f6f91b07b541012e5667a12e6e",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

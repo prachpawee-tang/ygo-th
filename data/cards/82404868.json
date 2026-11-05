@@ -1,0 +1,9 @@
+{
+  "id": "82404868",
+  "name": "Dark Magic Veil",
+  "th": "จ่าย LP 1000; อัญเชิญพิเศษมอนสเตอร์ DARK ประเภท Spellcaster-Type 1 ตัวจากมือของคุณหรือสุสาน (GY).",
+  "status": "ai",
+  "en_sha256": "440c3a184d288ee5de7080e465ce9c593d98c211cf5351efb673b81ff537b0dc",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "39256679",
+  "name": "Beta The Magnet Warrior",
+  "th": "\"Alpha, Beta, และ Gamma รวมร่างเป็นหนึ่งเดียวเพื่อก่อตัวเป็นมอนสเตอร์ที่ทรงพลัง\"",
+  "status": "ai",
+  "en_sha256": "55a0a1d68ff4ce93988f339128b461b2c564fdba337e558612fd4a7ec66905b3",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

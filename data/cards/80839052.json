@@ -1,0 +1,10 @@
+{
+  "id": "80839052",
+  "name": "Koa'ki Meiru Supplier",
+  "th": "ถ้ามอนสเตอร์ “Rock” ที่หงายอยู่ซึ่งคุณควบคุมถูกส่งลงสุสาน (ยกเว้นระหว่าง Damage Step): คุณสามารถ อัญเชิญพิเศษ การ์ดนี้จากมือของคุณ คุณสามารถเพิ่มจากเด็คของคุณขึ้นมือ 1 “Iron Core of Koa'ki Meiru” หรือ 1 การ์ดที่ระบุชื่อ “Iron Core of Koa'ki Meiru” ไว้ในข้อความของมันโดยเฉพาะ ยกเว้น “Koa'ki Meiru Supplier” คุณสามารถใช้แต่ละเอฟเฟกต์ของ “Koa'ki Meiru Supplier” ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "e2c95d53d82cf6ecea6ef3e95d1dbdc2b4fcb349ed9629766b4f38881cdd517a",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05",
+  "note": "rule-check: fewer \":\" than English (1 < 2) — activation condition may be lost"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "28596933",
+  "name": "A Wingbeat of Giant Dragon",
+  "th": "ส่งมอนสเตอร์ Dragon-Type ที่มี Level 5 หรือสูงกว่า 1 ตัวที่คุณควบคุมกลับขึ้นมือ, และถ้าทำได้ ให้ทำลาย Spell และ Trap Cards ทั้งหมดบนสนาม",
+  "status": "ai",
+  "en_sha256": "537aded58137ad4767ad872eb8270646c7151f16880b5e2ab0c4c88a1334e172",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

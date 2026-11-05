@@ -1,0 +1,9 @@
+{
+  "id": "64061284",
+  "name": "Ancient Gear Fusion",
+  "th": "อัญเชิญแบบ Fusion มอนสเตอร์ \"Ancient Gear\" แบบ Fusion 1 ตัวจาก เอ็กซ์ตร้าเด็ค โดยใช้ มอนสเตอร์จาก มือ หรือ สนาม เป็น Material สำหรับ Fusion คุณสามารถใช้ มอนสเตอร์ \"Ancient Gear Golem\" หรือ \"Ancient Gear Golem - Ultimate Pound\" ที่คุณควบคุม เป็น Material ได้ คุณยังสามารถใช้ มอนสเตอร์จาก เด็ค เป็น Material ได้ด้วย",
+  "status": "ai",
+  "en_sha256": "09bd783f6abbc157751adfd53fe902e1408aeb2993c456db76ac40af7e8756df",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

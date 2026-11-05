@@ -1,0 +1,9 @@
+{
+  "id": "70046172",
+  "name": "Rush Recklessly",
+  "th": "เลือกมอนสเตอร์หงาย 1 ตัวบนสนาม; มันได้รับ ATK 700 จนจบเทิร์นนี้",
+  "status": "ai",
+  "en_sha256": "e48aa02e3b383f0767daf18cac89a2f1175e076d6a7f3198f6d2b7a40aacbe98",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

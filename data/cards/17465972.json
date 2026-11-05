@@ -1,0 +1,10 @@
+{
+  "id": "17465972",
+  "name": "Blackwing - Auster the South Wind",
+  "th": "ไม่สามารถอัญเชิญพิเศษได้ อัญเชิญปกติการ์ดใบนี้: คุณสามารถเลือกเป้าหมายมอนสเตอร์ \"Blackwing\" ระดับ 4 หรือต่ำกว่าที่ถูกเนรเทศของคุณ 1 ตัว; อัญเชิญพิเศษมันในท่าป้องกัน คุณสามารถเนรเทศการ์ดใบนี้จาก สุสาน (GY) เพื่อเปิดใช้เอฟเฟกต์ต่อไปนี้ 1 เอฟเฟกต์;\n● วาง Black Feather Counter(s) บน \"Black-winged Dragon\" ที่คุณควบคุม เท่ากับจำนวนการ์ดที่คู่ต่อสู้ควบคุม\n● วาง 1 Wedge Counter บนมอนสเตอร์แต่ละตัวที่คู่ต่อสู้ควบคุมที่คว่ำอยู่และไม่มี Wedge Counter",
+  "status": "ai",
+  "en_sha256": "18f18684a89af050393d5ac2e83049a7f36df98decc6b4675815e7d66a51fb24",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05",
+  "note": "rule-check: numbers missing in Thai: 1; card names in quotes changed/missing: \"Black-Winged Dragon\""
+}

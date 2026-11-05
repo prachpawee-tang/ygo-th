@@ -1,0 +1,9 @@
+{
+  "id": "28593363",
+  "name": "Deepsea Shark",
+  "th": "\"Bottom Dweller\" + \"Tongyo\"",
+  "status": "ai",
+  "en_sha256": "5eac046f530f3ae976cd6d9292ccb63287d4eafef13fcbc59a062dfe4f21bab4",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

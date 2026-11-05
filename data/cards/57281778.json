@@ -1,0 +1,9 @@
+{
+  "id": "57281778",
+  "name": "Ryu Kokki",
+  "th": "เมื่อสิ้นสุด Damage Step, ถ้าการ์ดใบนี้ทำการต่อสู้กับมอนสเตอร์ Type นักรบหรือ Spellcaster: ทำลายมอนสเตอร์นั้น",
+  "status": "ai",
+  "en_sha256": "702cc54fdfd5c3fd64c82a52eded87fdfda8d587a690ff1a8e810ce7d4e8ddaa",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

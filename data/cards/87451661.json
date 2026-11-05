@@ -1,0 +1,9 @@
+{
+  "id": "87451661",
+  "name": "Scarred Dragon Archfiend",
+  "th": "1 Tuner + 1+ มอนสเตอร์ DARK non-Tuner\nชื่อของการ์ดนี้จะเปลี่ยนเป็น \"Red Dragon Archfiend\" ตราบเท่าที่อยู่ในสนามหรือสุสาน (GY) ถ้าการ์ดนี้ถูกส่งจาก Main Monster Zone ไปยัง สุสาน (GY): คุณสามารถ อัญเชิญพิเศษ มอนสเตอร์ \"Red Dragon Archfiend\" 1 ตัวจาก เอ็กซ์ตร้าเด็ค ของคุณ (ถือเป็นการ อัญเชิญแบบ Synchro), จากนั้น ถ้าการ์ดนี้ถูกส่งไปยัง สุสาน (GY) ในฐานะ Synchro Material สำหรับ มอนสเตอร์ Synchro Dragon DARK, คุณสามารถ ทำลาย มอนสเตอร์ที่อยู่ในท่าโจมตี ทั้งหมดที่คู่ต่อสู้ควบคุม คุณสามารถใช้เอฟเฟกต์ของ \"Scarred Dragon Archfiend\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "0e38e05c89aff6a230ce36a8ad41adae0d58e6b8b396c5ba1b27ca763d29daee",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

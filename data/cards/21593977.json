@@ -1,0 +1,9 @@
+{
+  "id": "21593977",
+  "name": "Makyura the Destructor",
+  "th": "ถ้าการ์ดใบนี้ถูกส่งจาก Main Monster Zone หรือ Extra Monster Zone ไปที่ สุสาน (GY): คุณสามารถเปิดใช้ การ์ดกับดัก 1 ใบจาก มือ ในเทิร์นนี้ คุณสามารถใช้เอฟเฟกต์ของ \"Makyura the Destructor\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "09cda594bc81822917f7cd2c9c12dd07864efeba303170465d590d8fb692ab46",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

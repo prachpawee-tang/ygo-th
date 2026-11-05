@@ -1,0 +1,10 @@
+{
+  "id": "71166481",
+  "name": "Number 75: Bamboozling Gossip Shadow",
+  "th": "มอนสเตอร์ Level 3 หรือสูงกว่า 2 ตัว\n1 ครั้งต่อเทิร์น, เมื่อมอนสเตอร์ของคู่ต่อสู้เปิดใช้งานเอฟเฟกต์ (Quick Effect): คุณสามารถถอด Material 2 ชิ้นจากการ์ดใบนี้; เอฟเฟกต์ที่เปิดใช้งานจะกลายเป็น \"ผู้เล่นทั้งสองจั่วการ์ด 1 ใบ\" คุณสามารถเลือกเป้าหมายมอนสเตอร์ Xyz \"Number\" อื่นๆ ที่คุณควบคุม 1 ตัว; ติดการ์ดใบนี้ลงไปเป็น Material ให้กับมัน (ถ่ายโอน Material ของมันไปยังมอนสเตอร์นั้น) คุณสามารถใช้เอฟเฟกต์ของ \"Number 75: Bamboozling Gossip Shadow\" ได้ 1 ครั้งต่อเทิร์นเท่านั้น",
+  "status": "ai",
+  "en_sha256": "696a7bf7ea6a1d2216f02f428998cf7c5970390d9ad7132036bbb0ea967d9f6a",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05",
+  "note": "rule-check: card names in quotes changed/missing: \"both players draw 1 card\""
+}

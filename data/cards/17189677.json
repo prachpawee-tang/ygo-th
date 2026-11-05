@@ -1,0 +1,9 @@
+{
+  "id": "17189677",
+  "name": "Snake Rain",
+  "th": "ทิ้งการ์ด 1 ใบ เลือกมอนสเตอร์ชนิด Reptile จากเด็คของคุณ 4 ตัว และส่งลงสุสาน",
+  "status": "ai",
+  "en_sha256": "95ce7b624a918a061314f370f0bf29ba21cf96dc6cf6692fe8c0eb68d3bd95ae",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

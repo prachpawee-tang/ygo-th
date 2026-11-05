@@ -1,0 +1,9 @@
+{
+  "id": "5402805",
+  "name": "Berserker of the Tenyi",
+  "th": "มอนสเตอร์ 2+ ตัว, รวมทั้งมอนสเตอร์ Link",
+  "status": "ai",
+  "en_sha256": "6b0688c655a8ffa6a7abe5768f1980cee85d37a346f6b6d05af74f78df6a9bbf",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

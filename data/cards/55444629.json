@@ -1,0 +1,9 @@
+{
+  "id": "55444629",
+  "name": "Lesser Dragon",
+  "th": "มังกรตัวน้อยที่ไม่สามารถพ่นไฟได้",
+  "status": "ai",
+  "en_sha256": "1def028fcfd0305882684cf98a400c941c1be86bec55c789a82fdd9561197b3e",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

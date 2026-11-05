@@ -1,0 +1,9 @@
+{
+  "id": "98477480",
+  "name": "Barrier of the Voiceless Voice",
+  "th": "ตราบใดที่คุณควบคุม \"Lo, the Prayers of the Voiceless Voice\" และมอนสเตอร์ Ritual ประเภท LIGHT, มอนสเตอร์ของคู่ต่อสู้สามารถโจมตีมอนสเตอร์ Ritual เท่านั้น, นอกจากนี้ คู่ต่อสู้ไม่สามารถเลือกมอนสเตอร์ LIGHT ที่คุณควบคุมเป็นเป้าหมายด้วยเอฟเฟกต์ของการ์ดได้ ในช่วง Main Phase ของคุณ: คุณสามารถเพิ่มการ์ด \"Voiceless Voice\" 1 ใบ หรือ มอนสเตอร์ Ritual \"Skull Guardian\" 1 ตัว จากเด็คของคุณขึ้นมือ, ยกเว้น \"Barrier of the Voiceless Voice\" คุณสามารถใช้เอฟเฟกต์นี้ของ \"Barrier of the Voiceless Voice\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "673974c40f9f265beee3a65d713c8139522c2cb58f38410bcdd7a2f0bb4f5c6b",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

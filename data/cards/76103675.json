@@ -1,0 +1,9 @@
+{
+  "id": "76103675",
+  "name": "Sparks",
+  "th": "สร้างความเสียหายแก่ Life Points ของคู่ต่อสู้ 200 แต้ม",
+  "status": "ai",
+  "en_sha256": "9e09b387f48a4d6af755eb99fb65b4f703f1f1c379b02f519f196907af7c0145",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

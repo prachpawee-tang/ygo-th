@@ -1,0 +1,9 @@
+{
+  "id": "91336701",
+  "name": "Day-Breaker the Shining Magical Warrior",
+  "th": "มอนสเตอร์ Spellcaster 2 ตัว\nถ้าการ์ดใบนี้ถูกอัญเชิญ Link: วาง Spell Counter 1 ตัวลงบนมัน ได้รับ ATK 300 สำหรับแต่ละ Spell Counter ที่อยู่บนมัน คุณสามารถเปิดใช้งานเอฟเฟกต์ต่อไปนี้ของ \"Day-Breaker the Shining Magical Warrior\" ได้ 1 ครั้งต่อเทิร์นเท่านั้น\n● ถ้ามีการอัญเชิญพิเศษมอนสเตอร์ Spellcaster (1 ตัวหรือมากกว่า) ไปยัง Main Monster Zone ที่การ์ดใบนี้ชี้: วาง Spell Counter 1 ตัวลงบนการ์ดใบนี้\n● คุณสามารถนำ Spell Counter ออก 2 ตัวจากบนการ์ดใบนี้ จากนั้น เลือกเป้าหมายการ์ด 1 ใบในสนาม; ทำลายมัน",
+  "status": "ai",
+  "en_sha256": "0fc137b11b681437169b6784221b3087d5512dc3a1e72312b6c17f20e420cec2",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

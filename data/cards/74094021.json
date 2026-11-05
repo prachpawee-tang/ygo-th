@@ -1,0 +1,9 @@
+{
+  "id": "74094021",
+  "name": "Legendary Six Samurai - Mizuho",
+  "th": "ถ้าคุณควบคุม \"Legendary Six Samurai - Shinai\", คุณสามารถ อัญเชิญพิเศษ การ์ดใบนี้ (จากมือ) ได้ Once per turn: คุณสามารถ สังเวย มอนสเตอร์ \"Six Samurai\" อีกตัวที่หงายอยู่, จากนั้น เลือกเป้าหมาย 1 การ์ดบนสนาม; ทำลายเป้าหมายนั้น",
+  "status": "ai",
+  "en_sha256": "7b8d4390d892295be87d85381a02c0803134bc3d3dec21e727a592c8a7474c21",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

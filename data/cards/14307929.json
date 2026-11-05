@@ -1,0 +1,9 @@
+{
+  "id": "14307929",
+  "name": "Diabell, Queen of the White Forest",
+  "th": "1 Tuner + 1+ non-Tuner monsters\nถ้าการ์ดนี้ถูกอัญเชิญแบบ Synchro โดยใช้ มอนสเตอร์ Synchro Tuner: คุณสามารถเลือกเป้าหมาย Spell/Trap 1 ใบในสุสานของคุณ; เพิ่มมันขึ้นมือ คุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Diabell, Queen of the White Forest\" ได้ 1 ครั้งต่อเทิร์น เมื่อคู่ต่อสู้เปิดใช้งานการ์ดหรือเอฟเฟกต์ (Quick Effect): คุณสามารถส่ง Spell/Trap 1 ใบจากมือหรือสนามของคุณลงสุสาน; อัญเชิญพิเศษ มอนสเตอร์ Synchro Tuner ระดับ 7 หรือต่ำกว่า 1 ตัวจาก เอ็กซ์ตร้าเด็ค, สุสาน, หรือเนรเทศ",
+  "status": "ai",
+  "en_sha256": "358e37fd97488a8cc4bea43d8ed3e2bc4ee52fa2827150728b4335518f0370cd",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

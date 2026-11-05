@@ -1,0 +1,9 @@
+{
+  "id": "89185742",
+  "name": "Lightning, Dragon Ruler of Drafts",
+  "th": "คุณสามารถทิ้งการ์ดนี้และมอนสเตอร์ Dragon หรือ WIND 1 ตัว; อัญเชิญพิเศษ \"Tempest, Dragon Ruler of Storms\" 1 ตัวจากเด็คของคุณ, แต่ไม่สามารถโจมตีได้ในเทิร์นนี้ คุณสามารถใช้เอฟเฟกต์ของ \"Lightning, Dragon Ruler of Drafts\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "ee7665718b0b9429598bdb67010b27291e8d95a9a687534758eeef83d64441e6",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

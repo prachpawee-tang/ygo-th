@@ -1,0 +1,9 @@
+{
+  "id": "62121",
+  "name": "Castle of Dark Illusions",
+  "th": "พลิก: มอนสเตอร์ Type Zombie ทั้งหมด ได้รับ ATK และ DEF +200 ในระหว่าง Standby Phase ของคุณใน 4 Turn ถัดไป มอนสเตอร์ Type Zombie แต่ละตัวได้รับ ATK และ DEF +200 เพิ่มเติม เอฟเฟกต์เหล่านี้คงอยู่ตราบเท่าที่การ์ดใบนี้หงายอยู่บนสนาม",
+  "status": "ai",
+  "en_sha256": "d09b04d2beaadda019cac7611044223c6d0a221138d323fbfbc94c82c67400b7",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

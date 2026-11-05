@@ -1,0 +1,9 @@
+{
+  "id": "17881964",
+  "name": "Darkfire Dragon",
+  "th": "\"Firegrass\" + \"Petit Dragon\"",
+  "status": "ai",
+  "en_sha256": "f2e3875e15fd12ddf49288261f33dbeda497ae874f897b710c34bea87149f2f7",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

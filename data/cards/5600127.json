@@ -1,0 +1,9 @@
+{
+  "id": "5600127",
+  "name": "Humanoid Worm Drake",
+  "th": "\"Worm Drake\" + \"Humanoid Slime\"",
+  "status": "ai",
+  "en_sha256": "84317661bf077fe694192a2adabeaab02a4e82a1a6ef087c20650753448e75cf",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

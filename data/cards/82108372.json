@@ -1,0 +1,9 @@
+{
+  "id": "82108372",
+  "name": "Mudora",
+  "th": "การ์ดใบนี้ได้รับ ATK 200 สำหรับมอนสเตอร์ Fairy-Type แต่ละตัวในสนามสุสานของคุณ",
+  "status": "ai",
+  "en_sha256": "f55ca90f7082ceebb51c5cec3933ce8d49e9d68c885560cbf66218e1e5980ced",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

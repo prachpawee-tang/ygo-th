@@ -1,0 +1,9 @@
+{
+  "id": "22702055",
+  "name": "Umi",
+  "th": "มอนสเตอร์ Fish, Sea Serpent, Thunder และ Aqua ทั้งหมดบนสนาม ได้รับ ATK/DEF 200, นอกจากนี้ มอนสเตอร์ Machine และ Pyro ทั้งหมดบนสนาม สูญเสีย ATK/DEF 200",
+  "status": "ai",
+  "en_sha256": "477a9642999b80fa8963e185cb407796ed3b28c6f48710c19070f16448d3ce52",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

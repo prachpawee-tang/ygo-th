@@ -1,0 +1,9 @@
+{
+  "id": "20394040",
+  "name": "Lava Battleguard",
+  "th": "การ์ดใบนี้ได้รับ ATK 500 สำหรับ “Swamp Battleguard” แต่ละตัวที่คุณควบคุม",
+  "status": "ai",
+  "en_sha256": "a6793643ad487944b18376406bab5d8777d25d91cb6d01976276b0c7c70b1c38",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

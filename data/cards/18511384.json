@@ -1,0 +1,9 @@
+{
+  "id": "18511384",
+  "name": "Fusion Recovery",
+  "th": "เลือก \"Polymerization\" 1 ใบในสุสานของคุณ และมอนสเตอร์ 1 ตัวในสุสานของคุณที่ถูกใช้เป็น Material สำหรับ Fusion Summon; เพิ่มลงมือ",
+  "status": "ai",
+  "en_sha256": "57a151e04d7577531f9d4311b137be2521c899ea6dbf8fb27793d1e99f8ecb53",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

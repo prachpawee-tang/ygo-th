@@ -1,0 +1,9 @@
+{
+  "id": "11868825",
+  "name": "Goblin's Secret Remedy",
+  "th": "เพิ่ม Life Points ของคุณขึ้น 600 points.",
+  "status": "ai",
+  "en_sha256": "6566fce8c9458a808ee7973722850a505e55d7309cd5ca6125b80a4478fb7c60",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

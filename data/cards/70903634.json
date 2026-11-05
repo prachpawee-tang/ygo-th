@@ -1,0 +1,9 @@
+{
+  "id": "70903634",
+  "name": "Right Arm of the Forbidden One",
+  "th": "แขนขวาต้องห้ามที่ถูกผนึกด้วยเวทมนตร์ ผู้ใดทำลายผนึกนี้จะได้รับพลังอันไม่มีที่สิ้นสุด",
+  "status": "ai",
+  "en_sha256": "fd0a48f331a62c77c0ea3e981a6eff6a4d02e00fc49382448c7847caecec3b9c",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

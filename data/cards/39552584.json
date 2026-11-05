@@ -1,0 +1,10 @@
+{
+  "id": "39552584",
+  "name": "Grapha, Dragon Overlord of Dark World",
+  "th": "\"Grapha, Dragon Lord of Dark World\" + มอนสเตอร์ DARK 1 ตัว\nเมื่อคู่ต่อสู้ของคุณเปิดใช้งานเอฟเฟกต์มอนสเตอร์ หรือ การ์ดเวทมนตร์/กับดักปกติ ในขณะที่คุณมีการ์ดในมือ (Quick Effect): คุณสามารถเปิดใช้งานเอฟเฟกต์นี้ได้; เอฟเฟกต์ที่เปิดใช้งานจะกลายเป็น \"คู่ต่อสู้ของคุณทิ้งการ์ด 1 ใบ\" คุณสามารถใช้เอฟเฟกต์นี้ของ \"Grapha, Dragon Overlord of Dark World\" ได้ 1 ครั้งต่อเทิร์น ถ้าการ์ด Fusion Summoned นี้ในภายใต้การควบคุมของผู้เป็นเจ้าของออกจากสนามเนื่องจากการ์ดของคู่ต่อสู้: คุณสามารถ อัญเชิญพิเศษ มอนสเตอร์ \"Grapha, Dragon Lord of Dark World\" 1 ตัวของคุณที่ถูกเนรเทศ หรืออยู่ในสุสาน (GY) จากนั้น ผู้เล่นแต่ละคนที่มีมือ ทิ้งการ์ด 1 ใบ",
+  "status": "ai",
+  "en_sha256": "08053034f0b0fbf53b653cc119710cb501241cf6acc5ae1e445151c41c5eee91",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05",
+  "note": "rule-check: card names in quotes changed/missing: \"Your opponent discards 1 card\""
+}

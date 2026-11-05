@@ -1,0 +1,9 @@
+{
+  "id": "86318356",
+  "name": "Sogen",
+  "th": "มอนสเตอร์ Warrior และ Beast-Warrior ทั้งหมดบนสนาม ได้รับ ATK/DEF 200",
+  "status": "ai",
+  "en_sha256": "7ccdb4b5445e32ca1663ef877d4bde6c0e1aac40bac3afec2c1a1e608843161a",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

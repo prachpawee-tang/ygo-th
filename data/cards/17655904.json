@@ -1,0 +1,9 @@
+{
+  "id": "17655904",
+  "name": "Burst Stream of Destruction",
+  "th": "ถ้าคุณควบคุม \"Blue-Eyes White Dragon\": ทำลายมอนสเตอร์ทั้งหมดที่คู่ต่อสู้ควบคุม \"Blue-Eyes White Dragon\" ที่คุณควบคุมไม่สามารถโจมตีได้ในเทิร์นที่คุณเปิดใช้งานการ์ดใบนี้",
+  "status": "ai",
+  "en_sha256": "4d846db4c1d64c64fd718d1b27e44acd04d630876b9b279ae0ae204e92e78b1d",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

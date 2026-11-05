@@ -1,0 +1,9 @@
+{
+  "id": "30914564",
+  "name": "Sacred Crane",
+  "th": "ถ้าการ์ดใบนี้ถูกอัญเชิญพิเศษ: จั่วการ์ด 1 ใบ",
+  "status": "ai",
+  "en_sha256": "9e2e2c45d4f3591b5bce84831f44d117e56b364f46d8bd63ffff60b45b0cd89c",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

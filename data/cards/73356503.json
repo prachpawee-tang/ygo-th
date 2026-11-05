@@ -1,0 +1,9 @@
+{
+  "id": "73356503",
+  "name": "Barrier Statue of the Stormwinds",
+  "th": "ห้ามทำการ อัญเชิญพิเศษ มอนสเตอร์ ยกเว้น มอนสเตอร์ WIND",
+  "status": "ai",
+  "en_sha256": "8aed486768df8ecc03e1fe5f12574b7e2a1fe4ec86f0a8fb8e5f2577d94b30a6",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

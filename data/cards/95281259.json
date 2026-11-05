@@ -1,0 +1,9 @@
+{
+  "id": "95281259",
+  "name": "The Warrior Returning Alive",
+  "th": "เลือกมอนสเตอร์ประเภท Warrior 1 ตัวในสุสานของคุณ; เพิ่มเป้าหมายนั้นขึ้นมือ",
+  "status": "ai",
+  "en_sha256": "afe16278ea087c268a9a7b3a2220793df701a5bc7bc6e3c097b20b8579ebd0ec",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

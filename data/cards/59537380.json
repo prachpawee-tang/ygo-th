@@ -1,0 +1,9 @@
+{
+  "id": "59537380",
+  "name": "Guardragon Agarpain",
+  "th": "มอนสเตอร์ Dragon 2 ตัว\nคุณไม่สามารถ อัญเชิญพิเศษ มอนสเตอร์ ยกเว้น มอนสเตอร์ Dragon ในระหว่าง Main Phase ของคุณ: คุณสามารถ อัญเชิญพิเศษ มอนสเตอร์ Dragon 1 ตัวจาก เอ็กซ์ตร้าเด็ค ไปยัง Extra Monster Zone หรือ Main Monster Zone ที่คุณสามารถ อัญเชิญได้ โดยที่ Link Monster อย่างน้อย 2 ตัวชี้ไปที่มัน คุณสามารถใช้เอฟเฟกต์ของ \"Guardragon Agarpain\" ได้ 1 ครั้งต่อเทิร์น ใช้ได้ 1 ครั้งต่อเทิร์น คุณสามารถ อัญเชิญพิเศษ \"Guardragon Agarpain(s)\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "dd8e245796f416da129c43f6ed4eb487db672c22b1dc25cb12d4c957d9d763bd",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

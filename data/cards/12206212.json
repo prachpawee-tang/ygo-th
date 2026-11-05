@@ -1,0 +1,9 @@
+{
+  "id": "12206212",
+  "name": "Harpie Lady Sisters",
+  "th": "ไม่สามารถอัญเชิญปกติ/เซ็ตได้ ต้องอัญเชิญพิเศษด้วย \"Elegant Egotist\" ก่อน",
+  "status": "ai",
+  "en_sha256": "a273b802a82a7a782e24969ef4997c1d0f0096c6641c5c6440ff9e2ee02edd22",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

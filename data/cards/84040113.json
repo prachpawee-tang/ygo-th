@@ -1,0 +1,9 @@
+{
+  "id": "84040113",
+  "name": "Muddy Mudragon",
+  "th": "1 Tuner + 1+ non-Tuner monsters\nการ์ดใบนี้สามารถใช้แทน Material การรวมร่าง 1 ชิ้น ที่ระบุชื่ออย่างเจาะจงไว้ใน Fusion Monster Card ได้ แต่ Material การรวมร่างอื่นๆ จะต้องถูกต้อง ในระหว่าง Main Phase ของคุณ ถ้าคุณควบคุมการ์ดที่ถูก Synchro Summon ด้วยนี้: คุณสามารถ Fusion Summon มอนสเตอร์ Fusion 1 ตัวจาก เอ็กซ์ตร้าเด็ค โดยใช้มอนสเตอร์ที่คุณควบคุมเป็น Material การรวมร่าง รวมทั้งการ์ดใบนี้ คุณสามารถใช้เอฟเฟกต์ของ \"Muddy Mudragon\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "fe8f47597f681a71e8cc01ec2fcbfc975c5cc6f5bb0a2cee0433fbc028f215ad",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

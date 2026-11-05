@@ -1,0 +1,9 @@
+{
+  "id": "37440988",
+  "name": "Rainbow Overdragon",
+  "th": "มอนสเตอร์ \"Crystal Beast\" 7 ตัว\n(การ์ดใบนี้จะถูกมองว่าเป็น \"Ultimate Crystal\" เสมอ)\nจะต้องทำการ Fusion Summon หรือ อัญเชิญพิเศษโดยการ สังเวย มอนสเตอร์ \"Ultimate Crystal\" ระดับ 10 (ในกรณีนี้ คุณจะไม่ใช้ \"Polymerization\") 1 ตัว (ในกรณีนี้ คุณจะไม่ใช้ \"Polymerization\") 1 ครั้งต่อเทิร์น: คุณสามารถเนรเทศ มอนสเตอร์ \"Crystal Beast\" 1 ตัวจาก สุสาน (GY) ของคุณ; การ์ดใบนี้จะได้รับ ATK เท่ากับ ATK ของมอนสเตอร์ที่ถูกเนรเทศ จนจบเทิร์นนี้ (Quick Effect): คุณสามารถ สังเวย การ์ด Fusion Summoned ใบนี้; สับการ์ดทั้งหมดบน สนาม กลับเข้า เด็ค",
+  "status": "ai",
+  "en_sha256": "4359760e81442a7db76c6ebfccb0a11ac057d2a5e573e3b4c710d7446dccfbc1",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

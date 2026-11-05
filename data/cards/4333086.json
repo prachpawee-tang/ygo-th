@@ -1,0 +1,9 @@
+{
+  "id": "4333086",
+  "name": "Shiranui Style Swallow's Slash",
+  "th": "สังเวยมอนสเตอร์ชนิด Zombie 1 ตัว, จากนั้นเลือกเป้าหมายการ์ด 2 ใบในสนาม; ทำลายพวกมัน, จากนั้นเนรเทศมอนสเตอร์ \"Shiranui\" 1 ตัวจากเด็คของคุณ คุณสามารถเปิดใช้ \"Shiranui Style Swallow's Slash\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "7c54bb8afd06eca6f1c327045acd05d249f4e6fe526c6a2a9201859ec25a7765",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

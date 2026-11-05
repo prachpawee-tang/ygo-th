@@ -1,0 +1,9 @@
+{
+  "id": "51267887",
+  "name": "Raise Body Heat",
+  "th": "ติดตั้งกับมอนสเตอร์ไดโนเสาร์เท่านั้น มันได้รับ ATK/DEF 300",
+  "status": "ai",
+  "en_sha256": "7097a95791d6a52839c79e4f4fa813cef9429b647c9761da2b1f033a2f6b6ce5",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

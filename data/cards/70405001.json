@@ -1,0 +1,9 @@
+{
+  "id": "70405001",
+  "name": "Black Luster Soldier - Soldier of Light and Darkness",
+  "th": "คุณสามารถ อัญเชิญแบบพิธีกรรม \"Black Luster Soldier - Soldier of Light and Darkness\" ได้ด้วย \"Light and Darkness Ritual\" ไม่ได้รับผลจากเอฟเฟกต์ที่เปิดใช้งานโดยคู่ต่อสู้ เว้นแต่พวกมันเลือกเป้าหมาย \"Black Luster Soldier - Soldier of Light and Darkness\" ยังไม่สามารถถูกทำลายโดยการต่อสู้ได้ คุณสามารถใช้แต่ละเอฟเฟกต์ต่อไปนี้ของ \"Black Luster Soldier - Soldier of Light and Darkness\" ได้ 1 ครั้งต่อเทิร์น ① ถ้ามีการ อัญเชิญพิเศษ \"Black Luster Soldier - Soldier of Light and Darkness\": คุณสามารถเลือกเป้าหมายการ์ด 1 ใบที่คู่ต่อสู้ควบคุม; เนรเทศมัน ② เมื่อ \"Black Luster Soldier - Soldier of Light and Darkness\" ทำลายมอนสเตอร์ของคู่ต่อสู้โดยการต่อสู้: คุณสามารถทำให้ \"Black Luster Soldier - Soldier of Light and Darkness\" ได้รับ ATK 1500 และถ้าทำได้ มันสามารถทำการโจมตีครั้งที่สองติดต่อกันได้",
+  "status": "ai",
+  "en_sha256": "ea1e1a07b6f384f855589225df27bf55d17083b53986f6d6e1ad69cc86bd75a5",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

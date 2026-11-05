@@ -1,0 +1,9 @@
+{
+  "id": "45809008",
+  "name": "Destiny Draw",
+  "th": "ทิ้งการ์ด \"Destiny HERO\" 1 ใบ; จั่วการ์ด 2 ใบ.",
+  "status": "ai",
+  "en_sha256": "1404c2948eb5f8d2284a55bb396ba9e17bc5ef18337d559f53f9246fcac7324a",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

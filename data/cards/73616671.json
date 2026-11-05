@@ -1,0 +1,9 @@
+{
+  "id": "73616671",
+  "name": "Illusion Magic",
+  "th": "สังเวยมอนสเตอร์ประเภท Spellcaster 1 ตัว; เพิ่มการ์ด \"Dark Magician\" จากเด็คและ/หรือ สุสาน (GY) ขึ้นมือได้สูงสุด 2 ใบ คุณสามารถเปิดใช้ \"Illusion Magic\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "562598fbb25db627caf97c53359a72c9e54d7a777bb05a90610a933bffed30aa",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

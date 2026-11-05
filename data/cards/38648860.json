@@ -1,0 +1,9 @@
+{
+  "id": "38648860",
+  "name": "Elzette, Azamina of the White Forest",
+  "th": "คุณสามารถเปิดเผยการ์ดนี้ในมือของคุณ; อัญเชิญพิเศษมอนสเตอร์ \"White Forest\" หรือ \"Azamina\" 1 ตัวจากมือของคุณ ช่วง Main Phase ของคุณ: คุณสามารถอัญเชิญแบบ Fusion มอนสเตอร์ \"Azamina\" Fusion Monster 1 ตัวจาก เอ็กซ์ตร้าเด็ค โดยใช้มอนสเตอร์จากมือหรือสนามของคุณ ถ้าการ์ดนี้ถูกส่งลง สุสาน (GY) เป็น Synchro Material: คุณสามารถเพิ่มการ์ด \"Sinful Spoils\" 1 ใบจาก เด็ค ขึ้นมือ คุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Elzette, Azamina of the White Forest\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "7add4726ba984147b83df724d3052f5b8e5c64a5f06b91487ca478222e539755",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

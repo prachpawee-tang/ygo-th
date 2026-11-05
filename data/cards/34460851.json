@@ -1,0 +1,9 @@
+{
+  "id": "34460851",
+  "name": "Flame Manipulator",
+  "th": "มอนสเตอร์ประเภท Spellcaster นี้โจมตีศัตรูด้วยเวทมนตร์ที่เกี่ยวข้องกับไฟ เช่น \"Sea of Flames\" และ \"Wall of Fire\"",
+  "status": "ai",
+  "en_sha256": "85bda8d24ad2a29635feba21b480de556b47a379cd3c7b2fc35103476fe50a56",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "14517422",
+  "name": "Darklord Contact",
+  "th": "อัญเชิญพิเศษมอนสเตอร์ \"Darklord\" 1 ตัวจากสุสาน (GY) ในท่าป้องกัน คุณสามารถเปิดใช้ \"Darklord Contact\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "b656855f045de9e81e94071f7c190fc3671939812a8e7e6664155c223ce3fad4",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

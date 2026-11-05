@@ -1,0 +1,9 @@
+{
+  "id": "77027445",
+  "name": "Power of Kaishin",
+  "th": "ติดตั้งกับมอนสเตอร์ Aqua เท่านั้น มันได้รับ ATK/DEF 300",
+  "status": "ai",
+  "en_sha256": "0e480e88e54a072478545942f75a2cde4bfee1dae13a62402b46abe14f382942",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

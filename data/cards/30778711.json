@@ -1,0 +1,9 @@
+{
+  "id": "30778711",
+  "name": "Shadow Ghoul",
+  "th": "การ์ดใบนี้ได้รับ ATK 100 ต่อมอนสเตอร์แต่ละตัวในสุสานของคุณ",
+  "status": "ai",
+  "en_sha256": "1ae3e15347af91fae3e8dfcf95ed04ff0cda213a87e1a5167c490b726fecda41",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

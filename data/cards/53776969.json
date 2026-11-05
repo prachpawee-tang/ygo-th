@@ -1,0 +1,9 @@
+{
+  "id": "53776969",
+  "name": "Scareclaw Light-Heart",
+  "th": "1 \"Scareclaw\" มอนสเตอร์ หรือ 1 \"Visas Starfrost\"\nสำหรับการ Link Summon นี้ คุณสามารถใช้มอนสเตอร์ใน Main Monster Zone ของคุณเป็น Material ได้เท่านั้น: ถ้าการ์ดใบนี้ Link Summoned ใน Extra Monster Zone: คุณสามารถเพิ่ม \"Primitive Planet Reichphobia\" 1 ใบจากเด็คของคุณขึ้นมือได้ ถ้าคุณควบคุม \"Visas Starfrost\": คุณสามารถ อัญเชิญพิเศษการ์ดใบนี้จาก สุสาน (GY) ได้ คุณสามารถใช้เอฟเฟกต์ของ \"Scareclaw Light-Heart\" ได้ 1 ครั้งต่อการต่อสู้",
+  "status": "ai",
+  "en_sha256": "b5604a4e030d8af5f3618c06a4c313962f5397fb3586431870435d8cab3349f2",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

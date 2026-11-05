@@ -1,0 +1,9 @@
+{
+  "id": "1164211",
+  "name": "Shield of the Millennium Dynasty",
+  "th": "ไม่สามารถถูกทำลายได้ด้วยเอฟเฟกต์ Spell/Trap คุณสามารถใช้แต่ละเอฟเฟกต์ต่อไปนี้ของ \"Shield of the Millennium Dynasty\" ได้ 1 ครั้งต่อเทิร์น ถ้าการ์ดนี้อยู่ในมือของคุณ: คุณสามารถวางมันใน Spell & Trap Zone ของคุณแบบหงายเป็นการ์ด Continuous Spell ขณะที่การ์ดนี้เป็น Continuous Spell: คุณสามารถจ่าย 2000 LP หรือเปิดเผย \"Millennium Ankh\" 1 ใบในมือของคุณ; อัญเชิญพิเศษการ์ดนี้ จากนั้นคุณสามารถเพิ่ม \"Millennium Ankh\" 1 ใบจากเด็คของคุณขึ้นมือ",
+  "status": "ai",
+  "en_sha256": "7bdf5e3fb80c3a1557869880a96c8e8507d03baf80afb9fc673c10947291407c",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

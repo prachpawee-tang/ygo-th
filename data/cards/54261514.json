@@ -1,0 +1,9 @@
+{
+  "id": "54261514",
+  "name": "Final Bringer of the End Times",
+  "th": "เลือกมอนสเตอร์ 1 ตัวที่ที่คุณควบคุม และการ์ด 1 ใบที่คู่ต่อสู้ควบคุม; ทำลายพวกมัน คุณสามารถเปิดใช้ \"Final Bringer of the End Times\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "7f033c28457aa969c1f66a092db9474159c6f17edbd5ed270f2197bf1592cab3",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

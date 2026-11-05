@@ -1,0 +1,9 @@
+{
+  "id": "64211118",
+  "name": "Firewall Dragon Darkfluid - Neo Tempest Terahertz",
+  "th": "3+ มอนสเตอร์ “Cyberse”\nลบล้างเอฟเฟกต์มอนสเตอร์ใดๆ ที่เปิดใช้โดยคู่ต่อสู้ระหว่าง Battle Phase (Quick Effect): คุณสามารถส่งมอนสเตอร์ “Cyberse” 1 ตัวจากเด็คหรือเอ็กซ์ตร้าเด็คลงสุสาน และถ้าทำได้ การ์ดใบนี้จะได้รับ Attribute ของมอนสเตอร์ที่ส่งลงสุสานนั้น และเพิ่ม ATK 2500 คุณสามารถใช้เอฟเฟกต์ของ “Firewall Dragon Darkfluid - Neo Tempest Terahertz” ได้ 1 ครั้งต่อเทิร์น การ์ดใบนี้สามารถโจมตีมอนสเตอร์ได้จำนวนครั้งเท่ากับจำนวน Attribute ที่แตกต่างกันในแต่ละ Battle Phase",
+  "status": "ai",
+  "en_sha256": "f768f4b9479ea935c765480213a7e883ec7b8c04789681f0c01e361fd4bdc35d",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

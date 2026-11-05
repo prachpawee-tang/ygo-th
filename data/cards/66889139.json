@@ -1,0 +1,9 @@
+{
+  "id": "66889139",
+  "name": "Gaia the Dragon Champion",
+  "th": "\"Gaia The Fierce Knight\" + \"Curse of Dragon\"",
+  "status": "ai",
+  "en_sha256": "2103fbec02fa4139e3dbb8102055aba8110032d78b5c28e9863eeecd2ced7e2b",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

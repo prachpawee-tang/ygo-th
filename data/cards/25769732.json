@@ -1,0 +1,9 @@
+{
+  "id": "25769732",
+  "name": "Machine Conversion Factory",
+  "th": "ติดตั้งกับมอนสเตอร์ Machine เท่านั้น มอนสเตอร์ตัวนั้นจะได้รับ ATK/DEF 300",
+  "status": "ai",
+  "en_sha256": "0a60d421c8e1135bf954d23d58b24ec898bdd4277492bb1a792b44a51a9af72b",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

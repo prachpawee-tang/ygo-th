@@ -1,0 +1,9 @@
+{
+  "id": "33178416",
+  "name": "Misairuzame",
+  "th": "ปลาที่ยิงขีปนาวุธ ป้องกันด้วยหนามแหลมคม",
+  "status": "ai",
+  "en_sha256": "e23f0abdf53c511c61d30f05911d39fe6855e2d08448a7643076cdf0ceade593",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

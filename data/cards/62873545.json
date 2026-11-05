@@ -1,0 +1,9 @@
+{
+  "id": "62873545",
+  "name": "Dragon Master Knight",
+  "th": "\"Black Luster Soldier\" + \"Blue-Eyes Ultimate Dragon\"\nต้องทำการฟิวชันซัมมอน (Fusion Summon) การ์ดใบนี้จะได้รับ ATK 500 สำหรับมอนสเตอร์ Dragon แต่ละตัวที่คุณควบคุม ยกเว้นการ์ดใบนี้",
+  "status": "ai",
+  "en_sha256": "d98dec71ce71eccde0c569548258b3ca163bf50fb5bcc988c8aeec13ac6c547a",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

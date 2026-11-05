@@ -1,0 +1,9 @@
+{
+  "id": "34710660",
+  "name": "Electromagnetic Turtle",
+  "th": "ระหว่าง Battle Phase ของคู่ต่อสู้ (Quick Effect): คุณสามารถเนรเทศการ์ดใบนี้จาก สุสานของคุณ; จบ Battle Phase คุณสามารถใช้เอฟเฟกต์ของ \"Electromagnetic Turtle\" ได้ 1 ครั้งต่อการต่อสู้",
+  "status": "ai",
+  "en_sha256": "4e5d64cbfe425f4523a4a9d1b7b985f39140f957bcac6689a4cfbe684148c17c",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

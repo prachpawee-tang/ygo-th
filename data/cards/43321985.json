@@ -1,0 +1,9 @@
+{
+  "id": "43321985",
+  "name": "Ancient Fairy Life Dragon",
+  "th": "1 Tuner + 1+ non-Tuner monsters\nถ้าการ์ดนี้ถูกอัญเชิญแบบ Synchro: คุณสามารถจั่วการ์ด 1 ใบ หรือ ถ้า “World of Spirits” อยู่บนสนาม: เพิ่มมอนสเตอร์ LIGHT (Beast, Plant หรือ Fairy) 1 ตัว หรือ “Eternal Sunshine” 1 ใบ จากเด็คของคุณขึ้นมือแทน คุณสามารถใช้เอฟเฟกต์ของ “Ancient Fairy Life Dragon” ได้ 1 ครั้งต่อเทิร์น “Ancient Fairy Dragon” และมอนสเตอร์ที่กล่าวถึงมันสามารถโจมตีขณะอยู่ในท่าป้องกันหงาย (ใช้ DEF ของพวกมันในการคำนวณความเสียหาย)",
+  "status": "ai",
+  "en_sha256": "a74736d75d0ad12a1846cde657bacc5d7c97d542a3527337e1aa8f9072a1eea9",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

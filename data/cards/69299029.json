@@ -1,0 +1,9 @@
+{
+  "id": "69299029",
+  "name": "Treasures of the Kings",
+  "th": "เมื่อเปิดใช้งานการ์ดใบนี้: คุณสามารถเซ็ต “Apophis” การ์ดกับดัก 1 ใบจากเด็คของคุณได้ ชื่อของการ์ดใบนี้จะเปลี่ยนเป็น “Temple of the Kings” ตราบเท่าที่อยู่ใน Main Monster Zone หรือ Extra Monster Zone ครั้งละ 1 ครั้ง, ถ้าคุณมี Set cards 2 ใบขึ้นไปบนสนามของคุณ, หรือมีกับดักในสุสาน (GY): คุณสามารถเพิ่มมอนสเตอร์ 1 ตัวที่กล่าวถึง “Temple of the Kings” จากเด็คของคุณขึ้นมือ คุณสามารถเปิดใช้ “Treasures of the Kings” ได้ 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "da1a85f839302ee5423d701b3c465bd5231b87909e4d3cd258e3c0b14909a4ad",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "9653271",
+  "name": "Kaminari Attack",
+  "th": "\"Ocubeam\" + \"Mega Thunderball\"",
+  "status": "ai",
+  "en_sha256": "f1c438a91f5e3e0b9d73fab423b0bbd6505cb9f7e466a4762ac910dc66f380e6",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

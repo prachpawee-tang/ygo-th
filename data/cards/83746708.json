@@ -1,0 +1,9 @@
+{
+  "id": "83746708",
+  "name": "Mage Power",
+  "th": "มอนสเตอร์ที่ถูกติดตั้งได้รับ ATK และ DEF +500 สำหรับแต่ละการ์ด Spell/Trap ที่คุณควบคุม",
+  "status": "ai",
+  "en_sha256": "1ea02ab4a6690a45e8e41eaff0867e0976f8694c50cdc55eb2f7b271551f3b26",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "72405967",
+  "name": "Royal Tribute",
+  "th": "ถ้าคุณควบคุม \"Necrovalley\": ผู้เล่นทั้งสองทิ้งมอนสเตอร์ทั้งหมดในมือ",
+  "status": "ai",
+  "en_sha256": "e73220d2c4b69fc30a0b2a5eba04bf56baabe492d4cb34bce90288974bb444ba",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

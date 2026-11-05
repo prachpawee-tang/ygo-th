@@ -1,0 +1,9 @@
+{
+  "id": "2665273",
+  "name": "Jormungandr, Generaider Boss of Eternity",
+  "th": "มอนสเตอร์ Level 9 2+ ตัว\nคุณสามารถควบคุม “Jormungandr, Generaider Boss of Eternity” ได้ 1 ใบเท่านั้น ค่า ATK/DEF เดิมของการ์ดใบนี้จะกลายเป็น 1000 x จำนวน Material ที่ติดอยู่ (Quick Effect): คุณสามารถถอด Material 1 ชิ้นจากการ์ดใบนี้; ผู้เล่นแต่ละคนจั่วการ์ด 1 ใบ จากนั้นผู้เล่นแต่ละคนที่จั่วจะติดการ์ด 1 ใบจากมือหรือสนามของตนเองกับการ์ดใบนี้ คุณสามารถใช้เอฟเฟกต์ของ “Jormungandr, Generaider Boss of Eternity” ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "cc05370193eca78621bb133e134fd91acde089a0a2ddb9d69ec6903b847dc726",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

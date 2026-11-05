@@ -1,0 +1,10 @@
+{
+  "id": "57288708",
+  "name": "World Legacy - \"World Chalice\"",
+  "th": "ถ้ามีการอัญเชิญพิเศษมอนสเตอร์จากเอ็กซ์ตร้าเด็ค (ยกเว้นระหว่าง Damage Step): คุณสามารถสังเวยการ์ดนี้; ส่งมอนสเตอร์นั้นไปยังสุสาน (GY) คุณสามารถใช้แต่ละเอฟเฟกต์ต่อไปนี้ของ \"World Legacy - \"World Chalice\"\" ได้ 1 ครั้งต่อเทิร์น\n● ถ้าการ์ดที่อัญเชิญปกติ/เซ็ตหงายนี้ออกจากสนาม: คุณสามารถอัญเชิญพิเศษมอนสเตอร์ \"World Chalice\" 2 ตัวจากเด็คของคุณ, ยกเว้น \"World Legacy - \"World Chalice\"\".\n● ระหว่าง Main Phase ของคุณ, ยกเว้นเทิร์นที่การ์ดนี้ถูกส่งลงสุสาน: คุณสามารถเนรเทศการ์ดนี้จากสุสาน (GY) ของคุณ; เพิ่มการ์ด \"World Legacy\" 1 ใบจากเด็คของคุณขึ้นมือ",
+  "status": "ai",
+  "en_sha256": "156552968db6eb9c100a43dc6c44543bcc30b9b4c189bc20d5ebd8a079de938f",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05",
+  "note": "rule-check: card names in quotes changed/missing: \" monsters from your Deck, except \", \" once per turn.\r\n● If this face-up Normal Summoned/Set card leaves the field: You can Special Summon 2 \", \".\r\n● During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY; add 1 \""
+}

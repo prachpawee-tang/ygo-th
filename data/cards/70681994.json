@@ -1,0 +1,9 @@
+{
+  "id": "70681994",
+  "name": "Dragoness the Wicked Knight",
+  "th": "\"Armaill\" + \"One-Eyed Shield Dragon\"",
+  "status": "ai",
+  "en_sha256": "5daafcaad4bbac9c0133f8051ee930d6e60e77d2373ff42b80b61af81275acd4",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

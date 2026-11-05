@@ -1,0 +1,10 @@
+{
+  "id": "44097050",
+  "name": "Mecha Phantom Beast Auroradon",
+  "th": "มอนสเตอร์ Machine 2+ ตัว\nถ้าการ์ดใบนี้ถูกอัญเชิญ Link: คุณสามารถเปิดใช้งานเอฟเฟกต์นี้: อัญเชิญพิเศษ \"Mecha Phantom Beast Tokens\" 3 ชิ้น (Machine/WIND/Level 3/ATK 0/DEF 0), นอกจากนี้ คุณจะไม่สามารถอัญเชิญ Link ได้สำหรับการเทิร์นที่เหลือนี้ 1 ครั้งต่อเทิร์น: คุณสามารถ สังเวย มอนสเตอร์สูงสุด 3 ตัว, จากนั้นใช้เอฟเฟกต์ใดเอฟเฟกต์หนึ่งต่อไปนี้ โดยอิงตามจำนวนที่สังเวย;\n● 1: ทำลายการ์ด 1 ใบในสนาม\n● 2: อัญเชิญพิเศษ มอนสเตอร์ \"Mecha Phantom Beast\" 1 ตัวจากเด็คของคุณ\n● 3: เพิ่ม การ์ด Trap 1 ใบจากสุสานของคุณขึ้นมือ",
+  "status": "ai",
+  "en_sha256": "32f348a62656ddf45de26fdf7b3b34f7ac531a44f66deb2adf2782ba09769a6f",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05",
+  "note": "rule-check: fewer \";\" than English (1 < 2) — cost/resolution split may be lost"
+}

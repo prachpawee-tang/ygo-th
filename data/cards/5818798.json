@@ -1,0 +1,9 @@
+{
+  "id": "5818798",
+  "name": "Gazelle the King of Mythical Beasts",
+  "th": "มอนสเตอร์ตัวนี้เคลื่อนที่เร็วมากจนดูเหมือนภาพลวงตาต่อสายตาของคนทั่วไป\n\n\n(การ์ดใบนี้จะถูกมองว่าเป็น “Phantom Beast” เสมอ)",
+  "status": "ai",
+  "en_sha256": "6d5d447eb8876e57fb65e1aecd4dab499d6f9e57497f7f3ce1c13278a71aba34",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

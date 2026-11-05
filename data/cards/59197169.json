@@ -1,0 +1,9 @@
+{
+  "id": "59197169",
+  "name": "Yami",
+  "th": "มอนสเตอร์ Fiend และ Spellcaster ทั้งหมดบนสนาม ได้รับ ATK/DEF 200, นอกจากนี้ มอนสเตอร์ Fairy ทั้งหมดบนสนาม สูญเสีย ATK/DEF 200",
+  "status": "ai",
+  "en_sha256": "022ce8b42e9b16a5efe49d3148f4db7977036d901742acd0e3b4a59ad8111c63",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

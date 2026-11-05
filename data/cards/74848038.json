@@ -1,0 +1,9 @@
+{
+  "id": "74848038",
+  "name": "Monster Reincarnation",
+  "th": "ทิ้งการ์ด 1 ใบ จากมือ, จากนั้นเลือกเป้าหมายมอนสเตอร์ 1 ตัวในสุสานของคุณ; เพิ่มมันขึ้นมือ",
+  "status": "ai",
+  "en_sha256": "afdbbeec1695e7f2f88524147edcc69ffebdee67ee057df1f94c127b15efe260",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "56907389",
+  "name": "Musician King",
+  "th": "\"Witch of the Black Forest\" + \"Lady of Faith\"",
+  "status": "ai",
+  "en_sha256": "aac946382cfe9d972a01e92f895eddb3f9503fc798381a021c12ecad8a24edf8",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

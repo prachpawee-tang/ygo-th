@@ -1,0 +1,9 @@
+{
+  "id": "3366982",
+  "name": "Alligator's Sword Dragon",
+  "th": "\"Baby Dragon\" + \"Alligator's Sword\"\nการ์ดใบนี้สามารถโจมตีคู่ต่อสู้โดยตรงได้ ถ้ามอนสเตอร์หงายเพียงตัวเดียวที่คู่ต่อสู้ควบคุมเป็น EARTH, WATER หรือ FIRE",
+  "status": "ai",
+  "en_sha256": "cc330101d1580d0bd0a865bce49bf8f2d866d63b0b8792fd9cad92590628dac3",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

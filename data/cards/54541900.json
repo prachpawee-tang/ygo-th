@@ -1,0 +1,9 @@
+{
+  "id": "54541900",
+  "name": "Karbonala Warrior",
+  "th": "\"M-Warrior #1\" + \"M-Warrior #2\"",
+  "status": "ai",
+  "en_sha256": "9ea3a08e1c7cad82c357d11573547570413e6f875b74bdd614801e4c858af967",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

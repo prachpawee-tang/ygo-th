@@ -1,0 +1,9 @@
+{
+  "id": "28649820",
+  "name": "Embodiment of Apophis",
+  "th": "ระหว่าง Main Phase ของผู้เล่นทั้งสอง: อัญเชิญพิเศษการ์ดใบนี้เป็นมอนสเตอร์ปกติ (Reptile-Type/EARTH/Level 4/ATK 1600/DEF 1800). (การ์ดใบนี้ยังคงเป็น Trap Card อยู่.)",
+  "status": "ai",
+  "en_sha256": "3b2f58d6386ec5bfbc76be1438545946bc1ed83aad2bb07f82d411ac1c3a73f1",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

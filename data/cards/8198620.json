@@ -1,0 +1,10 @@
+{
+  "id": "8198620",
+  "name": "Dragonecro Nethersoul Dragon",
+  "th": "มอนสเตอร์ซอมบี้ 2 ตัว\nต้องทำการอัญเชิญแบบ Fusion ก่อนเป็นอันดับแรก มอนสเตอร์จะไม่ถูกทำลายจากการต่อสู้ด้วยการ์ดใบนี้ ณ สิ้น Damage Step ถ้าการ์ดใบนี้ทำการต่อสู้กับมอนสเตอร์ที่มี Level เดิม: ATK ของมอนสเตอร์นั้นจะกลายเป็น 0 และถ้ามอนสเตอร์นั้นยังคงหงายอยู่บนสนาม ให้ทำการอัญเชิญพิเศษ \"Dark Soul Token\" (Zombie/DARK/Level ?/ATK ?/DEF 0) (เมื่ออัญเชิญ Level และ ATK จะเท่ากับ Level และ ATK เดิมของมอนสเตอร์นั้น) คุณสามารถควบคุม \"Dragonecro Nethersoul Dragon\" ได้ 1 ใบเท่านั้น",
+  "status": "ai",
+  "en_sha256": "11086957a60d9b568b367e1efffb8e91b5e418a8be1b37c501985689b4841ff1",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

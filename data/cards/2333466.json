@@ -1,0 +1,10 @@
+{
+  "id": "2333466",
+  "name": "Gandora-G the Dragon of Destruction",
+  "th": "ได้รับ ATK 300 สำหรับการ์ดแต่ละใบที่ถูกเนรเทศ ถ้าคุณไม่ได้ควบคุม \"Shining Sarcophagus\": คุณสามารถ อัญเชิญพิเศษ การ์ดใบนี้จากมือของคุณได้ 1 ครั้งต่อเทิร์น คุณสามารถจ่าย LP ครึ่งหนึ่งของคุณ; ทำลายการ์ดอื่นๆ บนสนามได้มากที่สุดเท่าที่ทำได้ และถ้าทำได้ ให้เนรเทศการ์ดเหล่านั้น จากนั้น อัญเชิญพิเศษ มอนสเตอร์ Level 7 หรือต่ำกว่าที่กล่าวถึง \"Shining Sarcophagus\" จากเด็คของคุณ และเพิ่ม Level ของมันด้วยจำนวนการ์ดที่ถูกทำลายด้วยเอฟเฟกต์นี้",
+  "status": "ai",
+  "en_sha256": "6a811723641a006f7972da78bbbab53d4b2f58c9c88e6541feed0e7aa44160c8",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05",
+  "note": "rule-check: card names in quotes changed/missing: \"Gandora-G the Dragon of Destruction\""
+}

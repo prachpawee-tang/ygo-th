@@ -1,0 +1,9 @@
+{
+  "id": "3629090",
+  "name": "Cyber Angel Idaten",
+  "th": "คุณสามารถ อัญเชิญแบบ Ritual การ์ดใบนี้ด้วย \"Machine Angel Ritual\" ถ้าการ์ดใบนี้ถูก อัญเชิญแบบ Ritual: คุณสามารถเพิ่ม Ritual Spell 1 ใบจาก เด็ค หรือ สุสาน (GY) ขึ้นมือ ถ้าการ์ดใบนี้ถูก สังเวย: คุณสามารถทำให้ Ritual Monsters ทั้งหมดที่คุณควบคุม ได้รับ ATK/DEF 1000",
+  "status": "ai",
+  "en_sha256": "0fcd0f3c8e6e1f0f09ee87bf33921ff023d40f4afa4487a87ea1a413610190e9",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

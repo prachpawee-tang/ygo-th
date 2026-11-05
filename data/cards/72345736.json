@@ -1,0 +1,9 @@
+{
+  "id": "72345736",
+  "name": "Six Samurai United",
+  "th": "ทุกครั้งที่มอนสเตอร์ \"Six Samurai\" ถูกอัญเชิญปกติหรืออัญเชิญพิเศษ วาง Bushido Counter 1 อันบนการ์ดนี้ (สูงสุด 2). คุณสามารถส่งการ์ดนี้ลงสุสาน; จั่วการ์ด 1 ใบสำหรับ Bushido Counter แต่ละอันบนการ์ดนี้",
+  "status": "ai",
+  "en_sha256": "0c1adb2c7e019bbe97ec08a6bf4fc518b50c63d78b93d4013fd584d0745176b1",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

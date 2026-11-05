@@ -1,0 +1,9 @@
+{
+  "id": "17393207",
+  "name": "Gravekeeper's Commandant",
+  "th": "คุณสามารถทิ้งการ์ดใบนี้ลงสุสาน; เพิ่ม \"Necrovalley\" 1 ใบจากเด็คของคุณขึ้นมือ",
+  "status": "ai",
+  "en_sha256": "3e4d66959bf1e72943b1584935db5d5163a79fd27196c72c2e043ba0c4146eb1",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

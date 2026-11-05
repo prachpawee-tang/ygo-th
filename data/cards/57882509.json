@@ -1,0 +1,9 @@
+{
+  "id": "57882509",
+  "name": "Mask of Weakness",
+  "th": "เลือกมอนสเตอร์ที่กำลังโจมตี 1 ตัว; เป้าหมายนั้นจะเสีย ATK 700 จนจบเทิร์นนี้",
+  "status": "ai",
+  "en_sha256": "86f81b3d06a384c2a9bff94d6ead6cff17cc9d7fc9e52baea2def5bc1b0b781a",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

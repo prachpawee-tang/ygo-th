@@ -1,0 +1,9 @@
+{
+  "id": "26118970",
+  "name": "Red Rose Dragon",
+  "th": "ถ้าการ์ดใบนี้ถูกส่งลงสุสาน (GY) เป็น Synchro Material: คุณสามารถ อัญเชิญพิเศษ มอนสเตอร์ \"Rose Dragon\" 1 ตัวจาก มือ หรือ เด็ค, ยกเว้น \"Red Rose Dragon\", จากนั้น ถ้ามันถูกส่งเพื่อการ Synchro Summon ของ \"Black Rose Dragon\" หรือ มอนสเตอร์ Synchro Plant, คุณสามารถเพิ่ม การ์ด \"Frozen Rose\" หรือ การ์ด \"Blooming of the Darkest Rose\" 1 ใบจาก เด็ค ขึ้นมือได้ด้วย คุณสามารถใช้เอฟเฟกต์ของ \"Red Rose Dragon\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "14e82cfb5af6124e84252d6551292d10d46cc8e424d2d098768f48890c6ffeb2",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

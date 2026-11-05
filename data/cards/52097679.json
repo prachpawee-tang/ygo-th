@@ -1,0 +1,9 @@
+{
+  "id": "52097679",
+  "name": "Shield & Sword",
+  "th": "สลับค่า ATK และ DEF เดิมของมอนสเตอร์หงายทั้งหมดบนสนาม จนจบเทิร์นนี้",
+  "status": "ai",
+  "en_sha256": "7d88cc6a34588ccb7c9ae3e2c02d155e5fea98d8b77d1cf43efc08e2d773c984",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

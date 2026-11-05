@@ -1,0 +1,9 @@
+{
+  "id": "48505422",
+  "name": "Legendary Six Samurai - Shinai",
+  "th": "ถ้าคุณควบคุม \"Legendary Six Samurai - Mizuho\", คุณสามารถ อัญเชิญพิเศษ การ์ดใบนี้ (จากมือ) คุณสามารถ อัญเชิญพิเศษ การ์ดใบนี้จากมือของคุณ ถ้าการ์ดใบนี้ในสนามถูก สังเวย: เลือกเป้าหมายมอนสเตอร์ \"Six Samurai\" 1 ตัวใน สุสาน (GY) ของคุณ, ยกเว้น \"Legendary Six Samurai - Shinai\"; เพิ่มมันขึ้นมือ",
+  "status": "ai",
+  "en_sha256": "a196f93d7a3b57e025d7408b26bbc54da7cb00bc9e1ee2536e5682ac1872c2ee",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

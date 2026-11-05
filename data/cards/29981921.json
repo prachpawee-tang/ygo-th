@@ -1,0 +1,9 @@
+{
+  "id": "29981921",
+  "name": "Legendary Six Samurai - Shi En",
+  "th": "1 Warrior Tuner + 1+ non-Tuner \"Six Samurai\" monsters\n1 ครั้งต่อเทิร์น, เมื่อคู่ต่อสู้เปิดใช้การ์ด Spell/Trap (Quick Effect): คุณสามารถลบล้างการเปิดใช้งาน และถ้าทำได้ ให้ทำลายมัน ถ้าการ์ดใบนี้ในสนามจะถูกทำลายโดยการต่อสู้หรือเอฟเฟกต์ของการ์ด คุณสามารถทำลายมอนสเตอร์ \"Six Samurai\" อีกตัวที่คุณควบคุมแทนได้",
+  "status": "ai",
+  "en_sha256": "dcfd34cd0f48d6b83376ce485763a6185725227a06b00f80d8047bdc60081cb3",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

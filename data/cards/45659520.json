@@ -1,0 +1,9 @@
+{
+  "id": "45659520",
+  "name": "Evil HERO Sinister Necrom",
+  "th": "คุณสามารถเนรเทศการ์ดใบนี้จากสุสานของคุณ; อัญเชิญพิเศษมอนสเตอร์ \"Evil HERO\" 1 ตัวจากมือหรือเด็คของคุณ, ยกเว้น \"Evil HERO Sinister Necrom\" คุณสามารถใช้เอฟเฟกต์ของ \"Evil HERO Sinister Necrom\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "ec5df2eb8ac11f31b88a42189d6dfde3013be8deccc69115c6a3d4dc5b629900",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

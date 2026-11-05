@@ -1,0 +1,9 @@
+{
+  "id": "49721684",
+  "name": "Mitsurugi Mirror",
+  "th": "การ์ดใบนี้สามารถใช้เพื่ออัญเชิญแบบพิธีกรรม (Ritual Summon) มอนสเตอร์พิธีกรรมประเภท Reptile ตัวใดก็ได้จากมือของคุณหรือสุสาน (GY) คุณต้องสังเวยมอนสเตอร์ Reptile จากมือหรือสนามของคุณที่มี Level รวมเท่าหรือมากกว่า Level ของมอนสเตอร์พิธีกรรม หาก \"Ame no Murakumo no Mitsurugi\", \"Futsu no Mitama no Mitsurugi\", หรือ \"Ame no Habakiri no Mitsurugi\" ที่คุณควบคุมถูกสังเวย ในขณะที่การ์ดใบนี้อยู่ในสุสาน (GY): คุณสามารถสับการ์ดใบนี้กลับเข้าเด็คได้ คุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Mitsurugi Mirror\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "1c60bd8bc66a9d5bb22621b1c762ebf4a7b88c1e6247f42a8b43f042a7c66561",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

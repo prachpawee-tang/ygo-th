@@ -1,0 +1,9 @@
+{
+  "id": "57624336",
+  "name": "Archfiend Eccentrick",
+  "th": "[ เอฟเฟกต์ Pendulum ]\nคุณสามารถเลือกเป้าหมาย Spell/Trap การ์ดอื่นบนสนาม 1 ใบ; ทำลายทั้งมันและ \"Archfiend Eccentrick\" นี้ คุณสามารถใช้เอฟเฟกต์นี้ของ \"Archfiend Eccentrick\" ได้ 1 ครั้งต่อเทิร์น\n\n[ เอฟเฟกต์มอนสเตอร์ ]\nคุณสามารถ สังเวย \"Archfiend Eccentrick\" นี้ จากนั้นเลือกเป้าหมายมอนสเตอร์ 1 ตัวบนสนาม; ทำลายมัน คุณสามารถใช้เอฟเฟกต์นี้ของ \"Archfiend Eccentrick\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "00abb49a6e3d8fc1551a13e9143ef117dcd0a6c625eb160e7f369c839ecb2cd7",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

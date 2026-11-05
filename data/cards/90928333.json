@@ -1,0 +1,9 @@
+{
+  "id": "90928333",
+  "name": "Dark Factory of Mass Production",
+  "th": "เลือกมอนสเตอร์ Normal 2 ตัวในสุสานของคุณ; เพิ่มขึ้นมือ",
+  "status": "ai",
+  "en_sha256": "d9f3aff49e914c6343aa0882800f7c0fad090bc1c43591038ad8c85c2b63c328",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

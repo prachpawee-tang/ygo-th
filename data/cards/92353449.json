@@ -1,0 +1,9 @@
+{
+  "id": "92353449",
+  "name": "Red-Eyes Insight",
+  "th": "ส่งมอนสเตอร์ \"Red-Eyes\" 1 ตัวจากมือหรือเด็คของคุณไปยังสุสาน (GY); เพิ่มการ์ดเวทมนตร์ (Spell)/กับดัก (Trap) \"Red-Eyes\" 1 ใบจากเด็คของคุณขึ้นมือ, ยกเว้น \"Red-Eyes Insight\" คุณสามารถเปิดใช้ \"Red-Eyes Insight\" ได้ 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "47df05cc7f31aa8f91fc0c4f48531e4e24f388bbb2e0c2a339d16a18da740551",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

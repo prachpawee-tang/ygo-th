@@ -1,0 +1,9 @@
+{
+  "id": "28240337",
+  "name": "Red-Eyes Zombie Necro Dragon",
+  "th": "1 Tuner + 1+ non-Tuner monsters\nได้ ATK/DEF เพิ่มขึ้น 100 สำหรับ Zombie monster แต่ละตัวในสนามและในสุสาน (GY); เมื่อ Zombie monster ตัวอื่นถูกทำลายในการต่อสู้: คุณสามารถ อัญเชิญพิเศษ Zombie monster 1 ตัวจากสุสาน (GY) ใดก็ได้ไปยังสนามของคุณ คุณสามารถใช้เอฟเฟกต์ของ \"Red-Eyes Zombie Necro Dragon\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "1e5111e284cbd4965d5daa65f4f0178ce1ace5b1a7420437376a9a71226cd147",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

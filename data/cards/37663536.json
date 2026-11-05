@@ -1,0 +1,9 @@
+{
+  "id": "37663536",
+  "name": "Ancient Gear Megaton Golem",
+  "th": "“Ancient Gear” มอนสเตอร์ 3 ตัว\nถ้าการ์ดนี้โจมตี คู่ต่อสู้จะไม่สามารถเปิดใช้การ์ดเวทมนตร์/กับดักได้จนจบ Damage Step ถ้าการ์ดนี้ถูก อัญเชิญแบบฟิวชั่น โดยใช้ “Ancient Gear Golem” และ/หรือ “Ancient Gear Golem - Ultimate Pound” 2 ตัวขึ้นไปเป็น Material มันสามารถโจมตีได้สูงสุดตามจำนวนนั้นในแต่ละ Battle Phase ถ้าการ์ดฟิวชั่นที่หงายอยู่ใบนี้ออกจากสนามเนื่องจากเอฟเฟกต์ของการ์ดของคู่ต่อสู้: คุณสามารถ อัญเชิญพิเศษ “Ultimate Ancient Gear Golem” 1 ตัวจาก เอ็กซ์ตร้าเด็ค โดยไม่สนใจเงื่อนไขการอัญเชิญ",
+  "status": "ai",
+  "en_sha256": "eaaef0c1acd20fc0db8ac8f4557fa2b7b263062859ceaaa44b5c54a6df5d648c",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

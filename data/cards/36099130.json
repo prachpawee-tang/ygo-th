@@ -1,0 +1,9 @@
+{
+  "id": "36099130",
+  "name": "Zoroa, the Magistus of Flame",
+  "th": "คุณสามารถเลือกเป้าหมายมอนสเตอร์ \"Magistus\" 1 ตัวที่คุณควบคุม; ติดมันด้วยมอนสเตอร์ \"Magistus\" 1 ตัวจากเอ็กซ์ตร้าเด็คของคุณ ถ้าการ์ดใบนี้กลายเป็น Equip Card ที่มี \"Magistus\" Monster Card ติดอยู่: คุณสามารถ อัญเชิญพิเศษ มอนสเตอร์ Spellcaster เลเวล 4 1 ตัวจากมือของคุณหรือสุสาน (GY) ในท่าป้องกัน ยกเว้น \"Zoroa, the Magistus of Flame\" แต่เอฟเฟกต์ของมันจะถูกลบล้าง คุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Zoroa, the Magistus of Flame\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "9ace046e2f7df9fbd76429e790b41febf00acd43f822826690af59908dccec7b",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

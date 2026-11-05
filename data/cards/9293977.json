@@ -1,0 +1,9 @@
+{
+  "id": "9293977",
+  "name": "Metal Dragon",
+  "th": "\"Steel Ogre Grotto #1\" + \"Lesser Dragon\"",
+  "status": "ai",
+  "en_sha256": "ec9c51f7a1423c3fc8a5dae5813b17bd68bad5cfe46c06c791475e47a6bde8ac",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

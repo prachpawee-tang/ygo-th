@@ -1,0 +1,10 @@
+{
+  "id": "74157028",
+  "name": "Cyber Twin Dragon",
+  "th": "\"ไซเบอร์ ดราก้อน\" + \"ไซเบอร์ ดราก้อน\"\nการอัญเชิญแบบฟิวชั่นด้วยการ์ดใบนี้สามารถทำได้โดยใช้ Material ฟิวชั่นข้างต้นเท่านั้น การ์ดใบนี้สามารถทำการโจมตีครั้งที่สองในระหว่าง Battle Phase แต่ละครั้ง",
+  "status": "ai",
+  "en_sha256": "1a793f7da8ea76a65c9873bd0dd233ed9328ba84b60fadf85b502b6477bde392",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05",
+  "note": "rule-check: card names in quotes changed/missing: \"Cyber Dragon\""
+}

@@ -1,0 +1,9 @@
+{
+  "id": "21862633",
+  "name": "Piercing the Darkness",
+  "th": "ถ้าคุณทำการอัญเชิญปกติหรืออัญเชิญพิเศษมอนสเตอร์ Normal Monster ที่ไม่ใช่ Token (ยกเว้นระหว่าง Damage Step): คุณสามารถจั่วการ์ด 1 ใบได้ เมื่อมีการประกาศโจมตีที่เกี่ยวข้องกับมอนสเตอร์ของคู่ต่อสู้และมอนสเตอร์ที่คุณควบคุมที่เป็น Level 5 หรือสูงกว่าที่เป็น Normal Monster หรือถูก Ritual Summoned โดยใช้ Normal Monster หรือถูก Fusion, Synchro หรือ Xyz Summoned โดยใช้ Normal Monster เป็น Material: คุณสามารถทำให้มอนสเตอร์ที่คุณควบคุมได้รับ ATK เท่ากับ ATK ของมอนสเตอร์ของคู่ต่อสู้ จนกว่าจะจบเทิร์นนี้ คุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Piercing the Darkness\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "79c341414ed38228cd030c5bacf2a31fc5b280f9eef241b99f3fce118deaef65",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

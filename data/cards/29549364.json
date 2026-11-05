@@ -1,0 +1,9 @@
+{
+  "id": "29549364",
+  "name": "Mask of Restrict",
+  "th": "ผู้เล่นทั้งสองไม่สามารถทำการสังเวยการ์ดได้",
+  "status": "ai",
+  "en_sha256": "aaa1f3db27123f49afdb5c02b8bda445a4c9116d74a98e215db5ab55e2799839",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

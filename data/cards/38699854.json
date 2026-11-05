@@ -1,0 +1,9 @@
+{
+  "id": "38699854",
+  "name": "Book of Taiyou",
+  "th": "พลิกมอนสเตอร์คว่ำ 1 ตัวบนสนามเป็นท่าโจมตี หงาย",
+  "status": "ai",
+  "en_sha256": "8cac38190bca18f27ece2ad938b46e8c5f52c4f3c8cd9c608fff51348657b66c",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "19066538",
+  "name": "Roaring Ocean Snake",
+  "th": "\"Mystic Lamp\" + \"Hyosube\"",
+  "status": "ai",
+  "en_sha256": "c6b1f71dce4f43018fcaa8f3aa295870f8f983fdf6e278579fe494d1da13a44f",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

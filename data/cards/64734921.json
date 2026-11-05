@@ -1,0 +1,9 @@
+{
+  "id": "64734921",
+  "name": "The Agent of Creation - Venus",
+  "th": "คุณสามารถจ่าย LP 500; อัญเชิญพิเศษ \"Mystical Shine Ball\" 1 ตัวจากมือหรือเด็คของคุณ",
+  "status": "ai",
+  "en_sha256": "dabcf235b959e4b20cf537b40ccc6f7b3b49def1a4b25b304904178f74a0d141",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "43378048",
+  "name": "Armityle the Chaos Phantasm",
+  "th": "\"Uria, Lord of Searing Flames\" + \"Hamon, Lord of Striking Thunder\" + \"Raviel, Lord of Phantasms\"\nต้องอัญเชิญพิเศษก่อน (จากเอ็กซ์ตร้าเด็ค) โดยการเนรเทศการ์ดข้างต้นที่คุณควบคุมอยู่ (คุณไม่ใช้ \"Polymerization\"). ไม่สามารถถูกทำลายด้วยการต่อสู้ได้ ได้รับ ATK 10,000 ระหว่างเทิร์นของคุณเท่านั้น",
+  "status": "ai",
+  "en_sha256": "f96e256addc1f625c22a0a5cbca4ca0d2223880486d5219c22863e30627b54d6",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

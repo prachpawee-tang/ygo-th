@@ -1,0 +1,12 @@
+{
+  "id": "73134082",
+  "name": "Final Flame",
+  "th": "สร้างความเสียหาย 600 แต้มให้กับ Life Points ของคู่ต่อสู้",
+  "status": "ai",
+  "en_sha256": "c5b45cae1db38b245c62a2b4895dcf2f3a271062f4dd58f160f31872ab5917d1",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05",
+  "alt": [
+    "73134081"
+  ]
+}

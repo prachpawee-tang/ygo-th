@@ -1,0 +1,9 @@
+{
+  "id": "97204936",
+  "name": "Gaia Knight, the Force of Earth",
+  "th": "1 Tuner + 1 หรือมากกว่า มอนสเตอร์ non-Tuner",
+  "status": "ai",
+  "en_sha256": "022868cc1c1bbf96fb29ad8155547d483c1562ff8e1ba7c01afb05c3046d16e9",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

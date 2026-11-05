@@ -1,0 +1,9 @@
+{
+  "id": "54537489",
+  "name": "Mare Mare",
+  "th": "ไม่อัญเชิญพิเศษได้ เว้นแต่ด้วยเอฟเฟกต์ของมอนสเตอร์ประเภท Wyrm ในระหว่าง Main Phase ของคุณ: คุณสามารถลด Level ของการ์ดใบนี้ลง 1 ได้ และถ้าทำได้ ให้ อัญเชิญพิเศษ “Mini Mare Mare Token” (Wyrm-Type/WATER/Level 1/ATK 300/DEF 200) 1 ตัว คุณสามารถใช้เอฟเฟกต์นี้ของ \"Mare Mare\" ได้สูงสุด 3 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "e1d12fe1935a753af4a0e994ece18b4aae8ab2b4b80e36cf28e4e846ec3d7c3f",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

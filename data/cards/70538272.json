@@ -1,0 +1,10 @@
+{
+  "id": "70538272",
+  "name": "Filia Regis",
+  "th": "1 มอนสเตอร์ฟิวชั่น Dragon + มอนสเตอร์ Dragon เลเวล 7 หรือสูงกว่า\nระหว่าง Main Phase (Quick Effect): คุณสามารถเลือกเป้าหมายการ์ด 1 ใบที่คู่ต่อสู้ควบคุม หรืออยู่ในสุสานของพวกเขา; เนรเทศมัน, จากนั้นถ้าคุณเนรเทศการ์ดบนสนาม, คืนมอนสเตอร์ Dragon 1 ตัวที่คุณควบคุมขึ้นมือ คุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Filia Regis\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "3ea52ca465b82f886b1cc3860165f73c867e112adcf466f3b4970b245093718e",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05",
+  "note": "rule-check: numbers missing in Thai: 1; fewer \":\" than English (1 < 2) — activation condition may be lost"
+}

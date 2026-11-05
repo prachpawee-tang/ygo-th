@@ -1,0 +1,9 @@
+{
+  "id": "94677445",
+  "name": "Ib the World Chalice Justiciar",
+  "th": "1 Tuner + 1+ non-Tuner monsters\nสำหรับการอัญเชิญ Synchro ของการ์ดใบนี้ คุณสามารถมองมอนสเตอร์ Normal ที่มี \"World Chalice\" ที่คุณควบคุม 1 ตัวเป็น Tuner ได้ คุณสามารถใช้แต่ละเอฟเฟกต์ต่อไปนี้ของ \"Ib the World Chalice Justiciar\" ได้ 1 ครั้งต่อเทิร์นเท่านั้น\n● ถ้าการ์ดใบนี้ถูกอัญเชิญ Synchro: คุณสามารถเพิ่มการ์ด \"World Legacy\" 1 ใบจากเด็คของคุณขึ้นมือได้\n● ถ้าการ์ด Synchro ที่อัญเชิญนี้ถูกส่งจากสนามลงสุสาน: คุณสามารถอัญเชิญพิเศษมอนสเตอร์ \"World Chalice\" 1 ตัวจากเด็คหรือสุสานของคุณได้ ยกเว้น \"Ib the World Chalice Justiciar\"",
+  "status": "ai",
+  "en_sha256": "414c89ed27e93544a0bd25a1a6880364ebe79f6b891fb5a9aa1fec623b6e87b1",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

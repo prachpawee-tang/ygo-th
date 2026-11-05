@@ -1,0 +1,9 @@
+{
+  "id": "35346968",
+  "name": "Solemn Wishes",
+  "th": "เพิ่ม Life Points ของคุณ 500 points ทุกครั้งที่คุณจั่วการ์ด (หรือการ์ดหลายใบ).",
+  "status": "ai",
+  "en_sha256": "9022cf017408d27caf1f94937c47becdf4329603a6cd1e21fe73b5004f6e594b",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

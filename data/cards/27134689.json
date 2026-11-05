@@ -1,0 +1,9 @@
+{
+  "id": "27134689",
+  "name": "Master of Oz",
+  "th": "\"Big Koala\" + \"Des Kangaroo\"",
+  "status": "ai",
+  "en_sha256": "b8d89435a3438a496ac800857669c550959c2301427ee16df834abe5fc1b5a4f",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

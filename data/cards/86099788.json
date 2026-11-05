@@ -1,0 +1,9 @@
+{
+  "id": "86099788",
+  "name": "The Last Warrior from Another Planet",
+  "th": "\"Zombyra the Dark\" + \"Maryokutai\"\nถ้าการ์ดใบนี้ถูกอัญเชิญพิเศษ: ทำลายมอนสเตอร์อื่นทั้งหมดที่คุณควบคุม นอกจากนี้ ผู้เล่นทั้งสองไม่สามารถอัญเชิญมอนสเตอร์ได้",
+  "status": "ai",
+  "en_sha256": "def36b6f8b63fa5b2fde0b230fe553fa227c1dcabfb5e20d30ef52feeddfcf2a",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

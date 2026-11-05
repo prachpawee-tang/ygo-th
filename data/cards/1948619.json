@@ -1,0 +1,10 @@
+{
+  "id": "1948619",
+  "name": "Xtra HERO Wonder Driver",
+  "th": "“มอนสเตอร์ HERO” 2 ตัว\nถ้ามีการ อัญเชิญปกติ หรือ อัญเชิญพิเศษ “HERO” มอนสเตอร์ไปยัง Main Monster Zone ที่การ์ดใบนี้ชี้อยู่: เลือกเป้าหมาย “Polymerization” Spell Card, “Fusion” Spell Card หรือ “Change” Quick-Play Spell Card 1 ใบใน สุสาน (GY) ของคุณ; เซ็ตเป้าหมายนั้น คุณสามารถใช้เอฟเฟกต์ของ “Xtra HERO Wonder Driver” ได้ 1 ครั้งต่อเทิร์น ถ้าการ์ดใบนี้ถูกทำลายจากการต่อสู้และส่งลง สุสาน (GY) หรือถ้าการ์ดใบนี้ในครอบครองของคุณถูกทำลายโดยเอฟเฟกต์ของการ์ดของคู่ต่อสู้และส่งลง สุสาน (GY): อัญเชิญพิเศษ มอนสเตอร์ “HERO” 1 ตัวจาก มือ",
+  "status": "ai",
+  "en_sha256": "9c50dbeebcdc5c4879788e1de87485135f5427c0961f6867deb63f02d68b529f",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

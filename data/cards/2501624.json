@@ -1,0 +1,9 @@
+{
+  "id": "2501624",
+  "name": "Dark Magician Girl the Magician's Apprentice",
+  "th": "คุณสามารถ อัญเชิญพิเศษ การ์ดใบนี้ (จากมือ) โดยการ ทิ้ง การ์ด 1 ใบ และถ้าทำได้ ชื่อของการ์ดใบนี้จะกลายเป็น \"Dark Magician Girl\" คุณสามารถ อัญเชิญพิเศษ \"Dark Magician Girl the Magician's Apprentice\" ได้ 1 ครั้งต่อเทิร์นด้วยวิธีนี้เท่านั้น ถ้าการ์ดใบนี้ถูก อัญเชิญปกติ หรือ อัญเชิญพิเศษ: คุณสามารถ เพิ่ม การ์ด \"Shining Sarcophagus\" 1 ใบจาก เด็ค ไปที่ มือ คุณสามารถใช้ เอฟเฟกต์ ของ \"Dark Magician Girl the Magician's Apprentice\" ได้ 1 ครั้งต่อเทิร์น ได้รับ ATK 300 สำหรับแต่ละมอนสเตอร์ที่กล่าวถึง \"Shining Sarcophagus\" ใน สุสาน",
+  "status": "ai",
+  "en_sha256": "b6b3b815179c27c434b5a176a4ac31c2534c34c80d4d74dbd920bdfd8ed3ee71",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

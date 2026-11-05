@@ -1,0 +1,9 @@
+{
+  "id": "32519092",
+  "name": "Monk of the Tenyi",
+  "th": "มอนสเตอร์ \"Tenyi\" ที่ไม่ใช่ Link 1 ตัว",
+  "status": "ai",
+  "en_sha256": "b550ad0c204a4d3eae9186c65ec28095cf181399d8f81447c5af1fd7cfc967b2",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

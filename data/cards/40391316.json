@@ -1,0 +1,9 @@
+{
+  "id": "40391316",
+  "name": "Ojama Knight",
+  "th": "1 มอนสเตอร์ \"Ojama\" + 1 มอนสเตอร์ \"Ojama\"\nเลือก Main Monster Zone ของคู่ต่อสู้สูงสุด 2 โซน โซนที่เลือกจะไม่สามารถใช้งานได้",
+  "status": "ai",
+  "en_sha256": "653322cc6b4a461a2cc51b4c69e93778cc5b66ba13e6278c9562642fff8d5e20",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

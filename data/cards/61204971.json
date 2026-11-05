@@ -1,0 +1,9 @@
+{
+  "id": "61204971",
+  "name": "Elemental HERO Thunder Giant",
+  "th": "\"Elemental HERO Sparkman\" + \"Elemental HERO Clayman\"\nต้องทำการ Fusion Summon และไม่สามารถอัญเชิญพิเศษด้วยวิธีอื่นได้ 1 ครั้งต่อเทิร์น: คุณสามารถทิ้งการ์ด 1 ใบเพื่อเลือกเป้าหมายมอนสเตอร์ที่หงายอยู่บนสนามที่มี ATK เดิมน้อยกว่า ATK ของการ์ดใบนี้; ทำลายเป้าหมายนั้น",
+  "status": "ai",
+  "en_sha256": "d5a29bd40ca8b80151228c32a28cdabd810d78561db64f434ddb79589405b167",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

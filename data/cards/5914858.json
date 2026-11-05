@@ -1,0 +1,9 @@
+{
+  "id": "5914858",
+  "name": "Junora the Power Patron of Tuning",
+  "th": "1 Tuner + 2 non-Tuners\nสำหรับการอัญเชิญ Synchro ของการ์ดใบนี้ คุณสามารถมองข้ามมอนสเตอร์ 1 ตัวใน Main Monster Zone กลางของคุณ ให้เป็น Tuner ได้: ถ้าการ์ดใบนี้ถูกอัญเชิญ Synchro: คุณสามารถลบล้างเอฟเฟกต์ของการ์ดที่หงายอยู่ทั้งหมดที่คู่ต่อสู้ควบคุม (Quick Effect): คุณสามารถเปิดใช้เอฟเฟกต์นี้; มอนสเตอร์ที่คู่ต่อสู้ควบคุมในคอลัมน์เดียวกันกับมอนสเตอร์ \"Elfnote\" ที่คุณควบคุม ไม่สามารถใช้เป็น Material สำหรับ Fusion, Synchro, Xyz หรือ Link Summon ได้ จนจบเทิร์นนี้ คุณสามารถใช้เอฟเฟกต์ของ \"Junora the Power Patron of Tuning\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "50bf19eb127325532827861892d88b223e3f1fa2d8cf28045c2ac3221ac6f8e7",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

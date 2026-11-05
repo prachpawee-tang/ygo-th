@@ -1,0 +1,9 @@
+{
+  "id": "33041277",
+  "name": "Cyber Revsystem",
+  "th": "อัญเชิญพิเศษ \"Cyber Dragon\" 1 ตัวจากมือของคุณหรือสุสาน (GY) คุณจะไม่สามารถทำลายมันได้ด้วยเอฟเฟกต์ของการ์ด",
+  "status": "ai",
+  "en_sha256": "d7372790ae3c54a6dd6bced7b0db346d91d5ba1c0d3d566aada13d7a7979b338",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

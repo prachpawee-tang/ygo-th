@@ -1,0 +1,10 @@
+{
+  "id": "84764038",
+  "name": "Scarm, Malebranche of the Burning Abyss",
+  "th": "ถ้าคุณไม่ได้ควบคุมมอนสเตอร์ที่ไม่ได้เป็นมอนสเตอร์ \"Burning Abyss\" ทำลายการ์ดนี้ คุณสามารถใช้เอฟเฟกต์นี้ของ \"Scarm, Malebranche of the Burning Abyss\" ได้ 1 ครั้งต่อเทิร์น และเพียงครั้งเดียวในเทิร์นนั้น\n● ถ้าคุณไม่ได้ควบคุม Spell/Trap Cards: คุณสามารถ อัญเชิญพิเศษ การ์ดนี้จากมือของคุณ\n● ในช่วง End Phase, ถ้าการ์ดนี้อยู่ใน สุสาน (GY) เพราะถูกส่งลงที่นั่นในเทิร์นนี้: คุณสามารถเพิ่ม มอนสเตอร์ Level 3 DARK ประเภท Fiend จาก เด็ค ของคุณขึ้นมือ, ยกเว้น \"Scarm, Malebranche of the Burning Abyss\"",
+  "status": "ai",
+  "en_sha256": "33ea60f2d97209732d4c328b86f4d975614d8b27e8afd0cac439da7cddf5d09a",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

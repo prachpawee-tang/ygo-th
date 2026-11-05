@@ -1,0 +1,9 @@
+{
+  "id": "79418928",
+  "name": "Beta The Electromagnet Warrior",
+  "th": "ถ้าการ์ดใบนี้ถูกอัญเชิญปกติหรืออัญเชิญพิเศษ: คุณสามารถเพิ่มมอนสเตอร์ \"Magnet Warrior\" ระดับ 4 หรือต่ำกว่า 1 ตัวจากเด็คของคุณขึ้นมือ, ยกเว้น \"Beta The Electromagnet Warrior\" คุณสามารถใช้เอฟเฟกต์ของ \"Beta The Electromagnet Warrior\" ได้ 1 ครั้งต่อเทิร์น ในเทิร์นของคู่ต่อสู้ (Quick Effect): คุณสามารถสังเวยการ์ดใบนี้; อัญเชิญพิเศษมอนสเตอร์ \"Magnet Warrior\" ระดับ 4 1 ตัวจากเด็คของคุณ",
+  "status": "ai",
+  "en_sha256": "eefa5fea51d2cc5b0c91ea59dbb2af04ca5ba6396d220016b71aa1ce51eb747f",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

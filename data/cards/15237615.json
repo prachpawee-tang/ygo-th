@@ -1,0 +1,9 @@
+{
+  "id": "15237615",
+  "name": "Empress Judge",
+  "th": "\"Queen's Double\" + \"Hibikime\"",
+  "status": "ai",
+  "en_sha256": "d7180424d607982c38f5734ea52b91f3c03cd661403d1e545eb1ac4f8a136215",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "38199696",
+  "name": "Red Medicine",
+  "th": "เพิ่ม Life Points ของคุณขึ้น 500 points.",
+  "status": "ai",
+  "en_sha256": "c5fc1a43a531711f0075d941aaf26df6f4f6b6d85985e0df5902a9002e00d911",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

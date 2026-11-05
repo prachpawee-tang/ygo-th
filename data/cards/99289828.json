@@ -1,0 +1,9 @@
+{
+  "id": "99289828",
+  "name": "Tales of the White Forest",
+  "th": "ถ้าคุณควบคุมมอนสเตอร์ Illusion หรือ Spellcaster: เพิ่มมอนสเตอร์ \"White Forest\" 1 ตัวจากเด็คขึ้นมือ คุณสามารถ Set การ์ดนี้ได้ ถ้าการ์ดนี้ถูกส่งลงสุสานเพื่อเปิดใช้เอฟเฟกต์มอนสเตอร์: คุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Tales of the White Forest\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "3c23becf5579514dab2cc1b8cb3d1f42ef2f807e3c26c688042d36d88b0b3533",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "94905343",
+  "name": "Rabid Horseman",
+  "th": "\"Battle Ox\" + \"Mystic Horseman\"",
+  "status": "ai",
+  "en_sha256": "9322a464af0de5c15d4e1936000d372a185e7c03ea3c51099dc39ad2c77393d7",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

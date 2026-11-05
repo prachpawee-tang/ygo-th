@@ -1,0 +1,9 @@
+{
+  "id": "53855409",
+  "name": "Doppelwarrior",
+  "th": "เมื่อมอนสเตอร์ถูกอัญเชิญพิเศษจากสุสานของคุณ (ยกเว้นระหว่าง Damage Step): คุณสามารถอัญเชิญพิเศษการ์ดนี้จากมือของคุณได้ ถ้าการ์ดนี้ถูกส่งลงสุสานในฐานะ Synchro Material: คุณสามารถอัญเชิญพิเศษ “Doppel Tokens” 2 ตัว (Warrior/DARK/Level 1/ATK 400/DEF 400) ในท่าโจมตี",
+  "status": "ai",
+  "en_sha256": "87fb8d43a8dcaa68cac4c4a1868591ef1bbd58fe0e5abed33b2b90e23f28f024",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

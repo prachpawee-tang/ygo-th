@@ -1,0 +1,9 @@
+{
+  "id": "21015833",
+  "name": "Hayabusa Knight",
+  "th": "การ์ดใบนี้สามารถทำการโจมตีครั้งที่สองได้ในระหว่าง Battle Phase แต่ละครั้ง",
+  "status": "ai",
+  "en_sha256": "eb07b9c4f849086a06a3296aa8e370417da3c70e8ed70e0b8e9a87a210eb3725",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

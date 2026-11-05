@@ -1,0 +1,9 @@
+{
+  "id": "72714461",
+  "name": "Wisdom-Eye Magician",
+  "th": "[ เอฟเฟกต์ Pendulum ]\nถ้าคุณมีการ์ด \"Magician\" หรือ \"Performapal\" ใน Pendulum Zone อื่นของคุณ: คุณสามารถทำลายการ์ดใบนี้ได้ และถ้าทำได้ ให้วางมอนสเตอร์ Pendulum \"Magician\" 1 ตัวจากเด็คของคุณใน Pendulum Zone ของคุณ ยกเว้น \"Wisdom-Eye Magician\"\n\n[ เอฟเฟกต์มอนสเตอร์ ]\nคุณสามารถทิ้งการ์ดใบนี้ จากนั้นเลือกเป้าหมายการ์ด 1 ใบใน Pendulum Zone ของคุณ ซึ่ง Pendulum Scale ปัจจุบันแตกต่างจาก Pendulum Scale เดิมของมัน; Pendulum Scale ของมันจะกลายเป็น Pendulum Scale เดิมของมัน จนกว่าจะจบเทิร์นนี้",
+  "status": "ai",
+  "en_sha256": "5de41cad4737af90b794320e2d86b931f7a20c6a9b94b07007e8c51bdeb05417",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

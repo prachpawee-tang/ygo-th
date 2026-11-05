@@ -1,0 +1,9 @@
+{
+  "id": "37820550",
+  "name": "Electro-Whip",
+  "th": "เพิ่ม ATK และ DEF ของมอนสเตอร์ชนิด Thunder ที่ติดตั้งการ์ดนี้อยู่ ด้วย 300 แต้ม",
+  "status": "ai",
+  "en_sha256": "b2ca4f6e0f9e5ba716a705425c44df7bff1f8ee4c95145fb1f32e588d6f82aec",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "32104431",
+  "name": "Destruction Sword Memories",
+  "th": "ทิ้งการ์ด \"Destruction Sword\" 1 ใบ; อัญเชิญพิเศษมอนสเตอร์ \"Buster Blader\" 1 ตัวจากเด็ค คุณสามารถเนรเทศการ์ดใบนี้จากสุสานของคุณ; ทำ Fusion Summon มอนสเตอร์ \"Buster Blader, the Dragon Destroyer Swordsman\" 1 ตัวจากเอ็กซ์ตร้าเด็คของคุณ โดยเนรเทศ Material Fusion ที่ระบุไว้บนการ์ดจากสุสานของคุณ",
+  "status": "ai",
+  "en_sha256": "b8b2d42811069207f6ed34a8f3a064b68bf347c66f920e1aad315500a926560d",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

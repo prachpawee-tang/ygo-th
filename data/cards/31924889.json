@@ -1,0 +1,9 @@
+{
+  "id": "31924889",
+  "name": "Arcanite Magician",
+  "th": "1 Tuner + 1+ มอนสเตอร์ Spellcaster ที่ไม่ใช่ Tuner\nถ้าการ์ดใบนี้ถูกอัญเชิญแบบ Synchro: วาง Spell Counter 2 ชิ้นบนการ์ดใบนี้ การ์ดใบนี้ได้รับ ATK 1000 ต่อ Spell Counter ที่อยู่บนการ์ดใบนี้ คุณสามารถนำ Spell Counter 1 ชิ้นออกจากสนามของคุณ จากนั้นเลือกเป้าหมายการ์ด 1 ใบที่คู่ต่อสู้ควบคุม; ทำลายเป้าหมายนั้น",
+  "status": "ai",
+  "en_sha256": "bb5406f6b3d9abfd3f9cbcc6bf275cf84881c4da6bca98dfda4fef3b19186f56",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

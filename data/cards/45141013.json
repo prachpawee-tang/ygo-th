@@ -1,0 +1,9 @@
+{
+  "id": "45141013",
+  "name": "Heat Wave",
+  "th": "ช่วงเริ่มต้น Main Phase 1 ของคุณ: ผู้เล่นทั้งสองไม่สามารถ อัญเชิญปกติ หรือ อัญเชิญพิเศษ มอนสเตอร์เอฟเฟกต์ จนกว่าจะถึง Draw Phase ถัดไป",
+  "status": "ai",
+  "en_sha256": "360ddec64f3b9ec2b63c3d37f13e639c549c7fbd577ffd4fa2bf8b7eee0c8f3f",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

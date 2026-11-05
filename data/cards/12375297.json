@@ -1,0 +1,9 @@
+{
+  "id": "12375297",
+  "name": "Elfnote Power Patron",
+  "th": "คุณจะไม่สามารถอัญเชิญพิเศษจากเอ็กซ์ตร้าเด็คได้ ยกเว้นมอนสเตอร์ Synchro คุณสามารถใช้แต่ละเอฟเฟกต์ต่อไปนี้ของ \"Elfnote Power Patron\" ได้ 1 ครั้งต่อเทิร์น ① ในช่วง Main Phase (Quick Effect): คุณสามารถเลือกเป้าหมายมอนสเตอร์ 1 ตัวใน Main Monster Zone กลางของคุณ; เพิ่ม Level ของมันขึ้น 3 (จนกว่าเอฟเฟกต์นี้จะจบลง) จากนั้นทันทีหลังจากเอฟเฟกต์นี้แก้ไขเสร็จ คุณสามารถอัญเชิญ Synchro 1 \"Elfnote\" มอนสเตอร์ Synchro หรือ 1 \"Junora the Power Patron of Tuning\" ถ้าการ์ดใบนี้ถูกส่งลงสุสานในฐานะ Synchro Material: คุณสามารถเพิ่มการ์ด \"Elfnote\" 1 ใบจากเด็คของคุณขึ้นมือ",
+  "status": "ai",
+  "en_sha256": "37ad961d5ee70427cc46c132267f9abba5586d9c540a8c1fe3fdb45f2f02ca61",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "69140098",
+  "name": "Gemini Elf",
+  "th": "เอลฟ์แฝดที่สลับการโจมตีกัน",
+  "status": "ai",
+  "en_sha256": "1d517e3fce6a767a3b10a775011f0b92fd736ae33cce857b8cfbee19cb5d3bc9",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05",
+  "alt": [
+    "69140099"
+  ]
+}

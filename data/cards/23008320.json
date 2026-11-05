@@ -1,0 +1,9 @@
+{
+  "id": "23008320",
+  "name": "Resonator Call",
+  "th": "เพิ่มมอนสเตอร์ \"Resonator\" 1 ตัวจากเด็คของคุณขึ้นมือ",
+  "status": "ai",
+  "en_sha256": "e8a6ce5d2f2fcbf9b458a4c5ac3a9269bf7c0728ed68a69d0f1f03d2128c9fee",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

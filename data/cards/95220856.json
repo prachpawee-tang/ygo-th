@@ -1,0 +1,9 @@
+{
+  "id": "95220856",
+  "name": "Vengeful Bog Spirit",
+  "th": "มอนสเตอร์ไม่สามารถโจมตีได้ในเทิร์นที่ถูกอัญเชิญ",
+  "status": "ai",
+  "en_sha256": "5123c5d51e2bb9b19e2ba702d8db9854e7f629ef8dd7b915f9a51afe2e114466",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

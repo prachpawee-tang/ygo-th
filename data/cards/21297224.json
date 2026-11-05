@@ -1,0 +1,9 @@
+{
+  "id": "21297224",
+  "name": "Hysteric Fairy",
+  "th": "สังเวยมอนสเตอร์ 2 ตัวบนสนามฝั่งของคุณเพื่อเพิ่ม Life Points ของคุณขึ้น 1000 points.",
+  "status": "ai",
+  "en_sha256": "4e02ee83ef9f0bfc9ec8b5f50a10657bfc343bd6b35e9174f48d7c16186e8261",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

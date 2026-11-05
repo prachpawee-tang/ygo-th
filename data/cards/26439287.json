@@ -1,0 +1,9 @@
+{
+  "id": "26439287",
+  "name": "Proto-Cyber Dragon",
+  "th": "ชื่อของการ์ดใบนี้จะเปลี่ยนเป็น \"Cyber Dragon\" ตราบเท่าที่มันอยู่ในสนาม",
+  "status": "ai",
+  "en_sha256": "25671273d1d5fd0609ce4c7b09c4ad617d0a00ad20e162e3015f83fc89a62865",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

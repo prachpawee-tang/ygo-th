@@ -1,0 +1,9 @@
+{
+  "id": "4614116",
+  "name": "Dark Energy",
+  "th": "เพิ่ม ATK และ DEF ของมอนสเตอร์ชนิด Fiend ที่ถูกติดตั้งด้วยการ์ดใบนี้ 300 แต้ม",
+  "status": "ai",
+  "en_sha256": "d6fb3ea95ae0cc913b55d7f2d3e75f1e548c0981bd6204a380ef92f2219e05f4",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

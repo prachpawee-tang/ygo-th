@@ -1,0 +1,9 @@
+{
+  "id": "50913601",
+  "name": "Mountain",
+  "th": "มอนสเตอร์ Dragon, Winged Beast และ Thunder ทั้งหมดบนสนาม ได้รับ ATK/DEF 200",
+  "status": "ai",
+  "en_sha256": "2b74c6195e08fa22e81b906f42418613db449647a9604ecfd104e4335b24adc8",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "24096499",
+  "name": "Valerifawn, Mystical Beast of the Forest",
+  "th": "คุณสามารถทิ้งการ์ด 1 ใบ จากนั้นเลือกว่าจะทำลายมอนสเตอร์ Beast เลเวล 2 หรือต่ำกว่า 1 ตัวในสุสานของคุณ, ยกเว้น \"Valerifawn, Mystical Beast of the Forest\"; อัญเชิญพิเศษมันในท่าโจมตี หรือในท่าป้องกันแบบคว่ำ คุณสามารถใช้เอฟเฟกต์ของ \"Valerifawn, Mystical Beast of the Forest\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "18b9c7bb96f1a5200d27e3e797af800b388fbcccfae56743ab096c9b3a4cd886",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

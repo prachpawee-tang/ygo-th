@@ -1,0 +1,9 @@
+{
+  "id": "13903402",
+  "name": "Mardel, Generaider Boss of Light",
+  "th": "คุณสามารถควบคุม “Mardel, Generaider Boss of Light” ได้ 1 ตัวเท่านั้น หากการ์ดใบนี้ถูก อัญเชิญปกติ หรือ อัญเชิญพิเศษ: คุณสามารถเพิ่มการ์ด “Generaider” 1 ใบ หรือ มอนสเตอร์ Plant 1 ตัว จากเด็คของคุณขึ้นมือได้ 1 ใบ ยกเว้น “Mardel, Generaider Boss of Light” คุณสามารถใช้เอฟเฟกต์ของ “Mardel, Generaider Boss of Light” ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "0cd415533b4db80bd6fb4a31b63d886577e50c30db4081bcb9fa677473655946",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

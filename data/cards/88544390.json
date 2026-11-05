@@ -1,0 +1,9 @@
+{
+  "id": "88544390",
+  "name": "The Phantom Knights of Stained Greaves",
+  "th": "ถ้ามอนสเตอร์ \"The Phantom Knights\" ตัวใดๆ (หรือหลายตัว) ถูกอัญเชิญพิเศษไปยังสนามของคุณ (ยกเว้นระหว่าง Damage Step): คุณสามารถอัญเชิญพิเศษการ์ดนี้จากมือของคุณ จากนั้นคุณสามารถเพิ่ม Level ของการ์ดนี้ขึ้น 1 ได้ คุณสามารถเนรเทศการ์ดนี้จาก สุสาน (GY) ของคุณ; อัญเชิญพิเศษมอนสเตอร์ \"The Phantom Knights\" ตัวที่ 1 จากมือของคุณ ยกเว้น \"The Phantom Knights of Stained Greaves\" จากนั้นคุณสามารถเพิ่ม Level ของมันขึ้น 1 ได้ แต่ละเอฟเฟกต์ของ \"The Phantom Knights of Stained Greaves\" ใช้ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "2fe369de486a5686a1da5046b645b33b29d515553de5ca23629a9390e331bba3",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

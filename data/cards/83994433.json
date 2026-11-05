@@ -1,0 +1,9 @@
+{
+  "id": "83994433",
+  "name": "Stardust Spark Dragon",
+  "th": "1 Tuner + 1+ non-Tuner monsters\n1 ครั้งต่อเทิร์น (Quick Effect): คุณสามารถเลือกเป้าหมายการ์ดที่หงายอยู่ 1 ใบที่คุณควบคุม; ระหว่างเทิร์นนี้ มันจะไม่ถูกทำลายโดยการต่อสู้หรือเอฟเฟกต์ของการ์ด",
+  "status": "ai",
+  "en_sha256": "3cf2f1d6afec029c32168761b6b29fa725d3ae04fbb2f55347f14d6ba8ae4ea7",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

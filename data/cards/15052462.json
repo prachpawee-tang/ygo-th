@@ -1,0 +1,9 @@
+{
+  "id": "15052462",
+  "name": "Violet Crystal",
+  "th": "(การ์ดใบนี้ไม่ได้ถือว่าเป็น “Crystal” การ์ด)\nติดตั้งกับมอนสเตอร์ Zombie เท่านั้น มันได้รับ ATK/DEF 300",
+  "status": "ai",
+  "en_sha256": "4dcc2ae786e5834a10bb2da1b54ea906b605cfaa19fc7c320b5032eb6e1bc0f3",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

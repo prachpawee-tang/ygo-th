@@ -1,0 +1,9 @@
+{
+  "id": "89112729",
+  "name": "Cyber Saurus",
+  "th": "\"Blast Juggler\" + \"Two-Headed King Rex\"",
+  "status": "ai",
+  "en_sha256": "f393e74ee1664a1ef18fd118f726a8f25a9845550638987d704b6cfe9cbbbf44",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

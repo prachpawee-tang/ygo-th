@@ -1,0 +1,9 @@
+{
+  "id": "83994646",
+  "name": "4-Starred Ladybug of Doom",
+  "th": "พลิก: ทำลายมอนสเตอร์ Level 4 ทั้งหมดที่คู่ต่อสู้ควบคุม",
+  "status": "ai",
+  "en_sha256": "a3fa866857de464662662152e293731aacbb75bd68e56fcb2eedc8aba751a043",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "81777047",
+  "name": "Luminous Spark",
+  "th": "มอนสเตอร์ LIGHT ทั้งหมด ได้รับ ATK 500 และเสีย DEF 400",
+  "status": "ai",
+  "en_sha256": "eb96a1ff497bc93ba0c2272e82e329d555ebe28bac93a333ba6ea015f55be7b3",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

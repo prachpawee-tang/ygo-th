@@ -1,0 +1,9 @@
+{
+  "id": "26593852",
+  "name": "Ally of Justice Catastor",
+  "th": "1 Tuner + 1+ มอนสเตอร์ non-Tuner\nเมื่อเริ่ม Damage Step, ถ้าการ์ดนี้ทำการต่อสู้กับมอนสเตอร์ non-DARK ที่หงายอยู่: ทำลายมอนสเตอร์นั้น",
+  "status": "ai",
+  "en_sha256": "b67c5b0ee708e5e945026fb5e8bb1278e7535219b1f150df87a07a7e87fe6825",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

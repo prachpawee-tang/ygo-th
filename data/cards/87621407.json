@@ -1,0 +1,9 @@
+{
+  "id": "87621407",
+  "name": "Dekoichi the Battlechanted Locomotive",
+  "th": "พลิก: จั่วการ์ด 1 ใบ จากนั้นจั่วเพิ่มอีก 1 ใบสำหรับ \"Bokoichi the Freightening Car\" แต่ละตัวที่คุณควบคุมที่หงายอยู่",
+  "status": "ai",
+  "en_sha256": "939c364c189cca3d5f3e75bd85249e31302155d7ce9a50ebd0bf63797190d112",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

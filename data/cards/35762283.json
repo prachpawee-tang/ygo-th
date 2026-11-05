@@ -1,0 +1,9 @@
+{
+  "id": "35762283",
+  "name": "Heart of the Underdog",
+  "th": "ระหว่าง Draw Phase ของคุณ, เมื่อคุณจั่วมอนสเตอร์ Normal(s): คุณสามารถเปิดเผยมัน; จั่วเพิ่มอีก 1 ใบ.",
+  "status": "ai",
+  "en_sha256": "21bd03c22f3cf9e0dc0e9121069b0fda2d3149ff837fa1ab60481e65a135f987",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

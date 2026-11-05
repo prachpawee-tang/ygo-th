@@ -1,0 +1,9 @@
+{
+  "id": "8131171",
+  "name": "Sinister Serpent",
+  "th": "ระหว่าง Standby Phase ของคุณ, ถ้าการ์ดใบนี้อยู่ใน สุสาน (GY) ของคุณ: คุณสามารถเพิ่มมันขึ้นมือ, และเนรเทศ \"Sinister Serpent\" 1 ใบจาก สุสาน (GY) ของคุณในช่วง End Phase ถัดไปของคู่ต่อสู้ คุณสามารถใช้เอฟเฟกต์ของ \"Sinister Serpent\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "e3dadd31e911869472eaecb8ea9c083e58b1e3fd45ae3daae5c5fd91e4ba4287",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

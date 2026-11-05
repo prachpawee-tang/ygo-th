@@ -1,0 +1,9 @@
+{
+  "id": "27439792",
+  "name": "Chaos Summoning Beast",
+  "th": "คุณสามารถสังเวยการ์ดใบนี้; อัญเชิญพิเศษมอนสเตอร์ \"Uria, Lord of Searing Flames\", \"Hamon, Lord of Striking Thunder\", หรือ \"Raviel, Lord of Phantasms\" 1 ตัวจากมือของคุณ โดยไม่สนใจเงื่อนไขการอัญเชิญ คุณสามารถเนรเทศการ์ดใบนี้จากสุสานของคุณ; เพิ่มการ์ด \"Fallen Paradise\" 1 ใบจากเด็คของคุณขึ้นมือ คุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Chaos Summoning Beast\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "dbd642d83dacf1f365debfa72eb7685a04aa18fc6bb7fff5a9539464e6ab4657",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

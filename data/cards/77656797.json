@@ -1,0 +1,9 @@
+{
+  "id": "77656797",
+  "name": "Infernoble Knight Emperor Charles",
+  "th": "1 Tuner + 1+ non-Tuner monsters\nถ้าการ์ด Equip ถูกติดตั้งกับมอนสเตอร์ในสนาม แม้ระหว่าง Damage Step: คุณสามารถทำลายการ์ด 1 ใบในสนาม ในช่วง End Phase: คุณสามารถติดตั้งการ์ด Spell Equip 1 ใบจากมือหรือ สุสาน (GY) ของคุณไปยังการ์ดนี้ จากนั้นคุณสามารถติดตั้งมอนสเตอร์ FIRE Warrior 1 ตัวจากเด็คของคุณไปยังการ์ดนี้เป็นการ์ด Spell Equip ที่ให้ ATK 500แก่การ์ดนั้น คุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Infernoble Knight Emperor Charles\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "76e663043c7081c74657d5261238a2d181c61e21b442d15709b979390a398174",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

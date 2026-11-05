@@ -1,0 +1,9 @@
+{
+  "id": "1641882",
+  "name": "Fusionist",
+  "th": "\"Petit Angel\" + \"Mystical Sheep #2\"",
+  "status": "ai",
+  "en_sha256": "7000da827d6cc8668eccf5996b6518a90115fe17572d5bf2c69aa9304d970a87",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

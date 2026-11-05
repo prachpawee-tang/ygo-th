@@ -1,0 +1,9 @@
+{
+  "id": "50810455",
+  "name": "Tri-Brigade Kerass",
+  "th": "คุณสามารถทิ้งมอนสเตอร์ประเภท Beast, Beast-Warrior หรือ Winged Beast 1 ตัว; อัญเชิญพิเศษการ์ดใบนี้จากมือคุณ คุณสามารถเนรเทศมอนสเตอร์ประเภท Beast, Beast-Warrior และ/หรือ Winged Beast จำนวนใดๆ ในสุสานของคุณ; อัญเชิญพิเศษมอนสเตอร์ Link ประเภท Beast, Beast-Warrior หรือ Winged Beast 1 ตัวจาก เอ็กซ์ตร้าเด็คของคุณ โดยมี Link Rating เท่ากับจำนวนที่เนรเทศ และคุณสามารถใช้เฉพาะมอนสเตอร์ประเภท Beast, Beast-Warrior และ Winged Beast เป็น Link Material สำหรับที่เหลือของเทิร์นนี้เท่านั้น คุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Tri-Brigade Kerass\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "98c949fd89301b1289fab4db8a86bfe9937c8362c23b2b4b6563f4a419a6886b",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "41587307",
+  "name": "Broken Bamboo Sword",
+  "th": "มอนสเตอร์ที่ถูกติดตั้งได้รับ ATK 0",
+  "status": "ai",
+  "en_sha256": "51a95270021e45ac69cd20de433bdf9b4f1b68c24b844b6578276b939c05dba8",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

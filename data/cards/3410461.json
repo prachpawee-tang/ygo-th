@@ -1,0 +1,9 @@
+{
+  "id": "3410461",
+  "name": "Alba-Lenatus the Abyss Dragon",
+  "th": "\"Fallen of Albaz\" 1 ใบ + มอนสเตอร์ Dragon 1+ ตัว\nไม่สามารถใช้เป็น Material ในการ Fusion ได้ ต้องทำการ Fusion Summon หรือ อัญเชิญพิเศษโดยการส่งการ์ดข้างต้นจาก Main Monster Zone หรือ Extra Monster Zone ไปที่ สุสาน (GY) การ์ดใบนี้สามารถโจมตีมอนสเตอร์ได้จำนวนครั้งเท่ากับจำนวน Material ที่ใช้ในการอัญเชิญในการ Battle Phase แต่ละครั้ง 1 ครั้งต่อเทิร์น, ในช่วง End Phase, ถ้าการ์ดใบนี้อยู่ใน สุสาน (GY) เนื่องจากถูกส่งไปที่นั่นในเทิร์นนี้: คุณสามารถเพิ่ม Normal Spell \"Polymerization\" หรือ Normal Spell \"Fusion\" 1 ใบจาก เด็ค ขึ้นมือ",
+  "status": "ai",
+  "en_sha256": "03c92e412eba48d377779a83a208a189139487e2dd4b331cc4e860c144c89d65",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "3431737",
+  "name": "Assault Beast",
+  "th": "คุณสามารถทิ้งการ์ดใบนี้ลงสุสาน (GY) ได้; เพิ่ม \"Assault Mode Activate\" 1 ใบจากเด็คของคุณขึ้นมือ",
+  "status": "ai",
+  "en_sha256": "6cf1bef22dd3e6053eede33715d1b80ddf17e355d70ff915f6266b40fee346e1",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

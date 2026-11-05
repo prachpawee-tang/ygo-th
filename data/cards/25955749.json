@@ -1,0 +1,9 @@
+{
+  "id": "25955749",
+  "name": "Sky Striker Maneuver - Jamming Waves!",
+  "th": "ถ้าคุณไม่ได้ควบคุมมอนสเตอร์ใน Main Monster Zone ของคุณ: เลือกเป้าหมาย Spell/Trap ที่วางคว่ำ 1 ใบในสนาม; ทำลายมัน, จากนั้น ถ้าคุณมี Spell 3 ใบขึ้นไปในสุสาน (GY), คุณสามารถทำลายมอนสเตอร์ 1 ตัวในสนามได้",
+  "status": "ai",
+  "en_sha256": "3a0779808e5a2f860bcad36ce5d30d236885b948f8e3ff1f558cee2ea9c10bbb",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

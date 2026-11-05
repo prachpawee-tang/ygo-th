@@ -1,0 +1,9 @@
+{
+  "id": "423705",
+  "name": "Gearfried the Iron Knight",
+  "th": "ถ้าผู้เล่นคนใดคนหนึ่งติดตั้งการ์ด Equip กับการ์ดใบนี้: ทำลายการ์ด Equip นั้นๆ",
+  "status": "ai",
+  "en_sha256": "6b2ea88eea13c37ad02235a86aa8cfef20897893ead3ccf220805225fc8f9fe6",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

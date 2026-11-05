@@ -1,0 +1,9 @@
+{
+  "id": "91595718",
+  "name": "Book of Secret Arts",
+  "th": "มอนสเตอร์ชนิด Spellcaster-Type ที่ถูกติดตั้งด้วยการ์ดใบนี้ เพิ่ม ATK และ DEF ขึ้น 300 แต้ม",
+  "status": "ai",
+  "en_sha256": "6e90116a0f5849001691ddd3785da4ba784cd0aa2ff165e1fff5904a352a6702",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "99551425",
+  "name": "Labyrinth Tank",
+  "th": "\"Giga-Tech Wolf\" + \"Cannon Soldier\"",
+  "status": "ai",
+  "en_sha256": "9ebc85a9e8618356172d317e0eb126c7744f9463f0806ee0522d1f83719e75a3",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

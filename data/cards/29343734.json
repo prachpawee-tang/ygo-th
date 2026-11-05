@@ -1,7 +1,7 @@
 {
   "id": "29343734",
   "name": "Elemental HERO Electrum",
-  "th": "\"Elemental HERO Avian\" + \"Elemental HERO Burstinatrix\" + \"Elemental HERO Clayman\" + \"Elemental HERO Bubbleman\"\nต้องทำการอัญเชิญแบบฟิวชั่น และไม่สามารถอัญเชิญพิเศษด้วยวิธีอื่นได้ ขณะที่อยู่บนสนาม: การ์ดใบนี้ถือเป็น Attribute WIND, WATER, FIRE และ EARTH ด้วย เมื่อทำการอัญเชิญแบบฟิวชั่น: สับการ์ดที่เนรเทศทั้งหมดกลับเข้าเด็ค(s) การ์ดใบนี้ได้รับ ATK 300 สำหรับมอนสเตอร์แต่ละตัวที่คู่ต่อสู้ควบคุมซึ่งมี Attribute เดียวกันกับการ์ดใบนี้",
+  "th": "\"Elemental HERO Avian\" + \"Elemental HERO Burstinatrix\" + \"Elemental HERO Clayman\" + \"Elemental HERO Bubbleman\"\nต้องทำการอัญเชิญแบบฟิวชั่น และไม่สามารถอัญเชิญพิเศษด้วยวิธีอื่นได้ ขณะที่อยู่บนสนาม: การ์ดใบนี้ถือเป็น Attribute WIND, WATER, FIRE และ EARTH ด้วย เมื่อทำการอัญเชิญแบบฟิวชั่น: สับการ์ดที่เอาออกจากเกมทั้งหมดกลับเข้าเด็ค(s) การ์ดใบนี้ได้รับ ATK 300 สำหรับมอนสเตอร์แต่ละตัวที่คู่ต่อสู้ควบคุมซึ่งมี Attribute เดียวกันกับการ์ดใบนี้",
   "status": "ai",
   "en_sha256": "45fbef0a27111df826d233db15c2d364fcae06c904caa6e62bf45708c68abaf3",
   "model": "gemma3:12b",

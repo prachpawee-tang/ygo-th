@@ -1,10 +1,10 @@
 {
   "id": "80326401",
   "name": "Wishes for Eyes of Blue",
-  "th": "ทิ้งการ์ด 1 ใบ; เพิ่มการ์ด Level 1 LIGHT Tuner และการ์ด Spell/Trap ที่กล่าวถึง \"Blue-Eyes White Dragon\" จากเด็คของคุณขึ้นมือ, ยกเว้น \"Wishes for Eyes of Blue\" คุณสามารถเนรเทศการ์ดนี้จากสุสานของคุณ, จากนั้นเลือกเป้าหมาย \"Blue-Eyes White Dragon\" 1 ตัวที่คุณควบคุม; ติดมอนสเตอร์ \"Blue-Eyes\" 1 ตัวจากเอ็กซ์ตร้าเด็คของคุณให้กับมันในฐานะ Equip Spell ที่ให้ ATK 400 คุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Wishes for Eyes of Blue\" ได้ 1 ครั้งต่อเทิร์น",
+  "th": "ทิ้งการ์ด 1 ใบ; เพิ่มการ์ด Level 1 LIGHT Tuner และการ์ด Spell/Trap ที่กล่าวถึง \"Blue-Eyes White Dragon\" จากเด็คของคุณขึ้นมือ, ยกเว้น \"Wishes for Eyes of Blue\" คุณสามารถเอาการ์ดนี้ออกจากเกมจากสุสานของคุณ, จากนั้นเลือกเป้าหมาย \"Blue-Eyes White Dragon\" 1 ตัวที่คุณควบคุม; ติดมอนสเตอร์ \"Blue-Eyes\" 1 ตัวจากเอ็กซ์ตร้าเด็คของคุณให้กับมันในฐานะ Equip Spell ที่ให้ ATK 400 คุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Wishes for Eyes of Blue\" ได้ 1 ครั้งต่อเทิร์น",
   "status": "ai",
   "en_sha256": "889e82d80b632c76b712f0e27156e7070ce9e85b3a91ea64f42533c21a680fbc",
   "model": "gemma3:12b",
-  "updated": "2026-11-04",
+  "updated": "2026-11-05",
   "note": "rule-check: numbers missing in Thai: 1"
 }

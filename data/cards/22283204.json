@@ -1,7 +1,7 @@
 {
   "id": "22283204",
   "name": "The Gaze of Timaeus",
-  "th": "เลือก \"Dark Magician\" หรือ \"Dark Magician Girl\" 1 ตัวในสนามของคุณหรือสุสาน (GY); อัญเชิญ Fusion ด้วยการรวมร่าง 1 มอนสเตอร์ Fusion จากเอ็กซ์ตร้าเด็คของคุณที่ระบุมอนสเตอร์นั้นเป็น Material โดยการสับมันกลับเข้าเด็คเป็น Material (ถือว่าเป็นการอัญเชิญ Fusion ด้วย \"The Eye of Timaeus\") แต่เนรเทศมันในช่วง End Phase ของเทิร์นถัดไป คุณสามารถเปิดใช้ \"The Gaze of Timaeus\" ได้ 1 ครั้งต่อเทิร์น",
+  "th": "เลือก \"Dark Magician\" หรือ \"Dark Magician Girl\" 1 ตัวในสนามของคุณหรือสุสาน (GY); อัญเชิญ Fusion ด้วยการรวมร่าง 1 มอนสเตอร์ Fusion จากเอ็กซ์ตร้าเด็คของคุณที่ระบุมอนสเตอร์นั้นเป็น Material โดยการสับมันกลับเข้าเด็คเป็น Material (ถือว่าเป็นการอัญเชิญ Fusion ด้วย \"The Eye of Timaeus\") แต่เอามันออกจากเกมในช่วง End Phase ของเทิร์นถัดไป คุณสามารถเปิดใช้ \"The Gaze of Timaeus\" ได้ 1 ครั้งต่อเทิร์น",
   "status": "ai",
   "en_sha256": "e236766652029661288f3f6b08d33370fd1665b37fb2d32b2a5c36464d57eca3",
   "model": "gemma3:12b",

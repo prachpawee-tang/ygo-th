@@ -1,7 +1,7 @@
 {
   "id": "94253655",
   "name": "Plunder Patrollship Brann",
-  "th": "1 Tuner + 1+ non-Tuner monsters\nมอนสเตอร์ Fiend อื่นๆ ทั้งหมดที่คุณควบคุม ได้รับ ATK 500. คุณสามารถทิ้งการ์ด \"Plunder Patroll\" 1 ใบ จากนั้น เลือกเป้าหมาย Spell/Trap 1 ใบที่คู่ต่อสู้ควบคุม; เนรเทศมัน, จากนั้น คุณสามารถเพิ่ม มอนสเตอร์ \"Plunder Patroll\" 1 ตัว จากเด็คของคุณขึ้นมือ. นี่คือ Quick Effect ถ้าการ์ดนี้ถูกติดตั้งด้วยการ์ด \"Plunder Patroll\". คุณสามารถใช้เอฟเฟกต์ของ \"Plunder Patrollship Brann\" ได้ 1 ครั้งต่อเทิร์น.",
+  "th": "1 Tuner + 1+ non-Tuner monsters\nมอนสเตอร์ Fiend อื่นๆ ทั้งหมดที่คุณควบคุม ได้รับ ATK 500. คุณสามารถทิ้งการ์ด \"Plunder Patroll\" 1 ใบ จากนั้น เลือกเป้าหมาย Spell/Trap 1 ใบที่คู่ต่อสู้ควบคุม; เอามันออกจากเกม, จากนั้น คุณสามารถเพิ่ม มอนสเตอร์ \"Plunder Patroll\" 1 ตัว จากเด็คของคุณขึ้นมือ. นี่คือ Quick Effect ถ้าการ์ดนี้ถูกติดตั้งด้วยการ์ด \"Plunder Patroll\". คุณสามารถใช้เอฟเฟกต์ของ \"Plunder Patrollship Brann\" ได้ 1 ครั้งต่อเทิร์น.",
   "status": "ai",
   "en_sha256": "fe7aa4d089c5c0dc83311a08c8c86b870439e29a6cf1e13c5f462e3906bf174d",
   "model": "gemma3:12b",

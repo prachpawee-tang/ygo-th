@@ -1,7 +1,7 @@
 {
   "id": "11674673",
   "name": "Cyberse Witch",
-  "th": "มอนสเตอร์ Cyberse 2 ตัว\nถ้ามีการอัญเชิญพิเศษมอนสเตอร์ไปยัง Main Monster Zone ที่การ์ดนี้ชี้ (ยกเว้นระหว่าง Damage Step): คุณสามารถเนรเทศ Spell 1 ใบจาก สุสานของคุณ; เพิ่ม Cyberse Ritual Monster 1 ตัวและ \"Cynet Ritual\" 1 ใบจาก เด็คของคุณขึ้นมือ คุณสามารถใช้เอฟเฟกต์แต่ละอย่างของ \"Cyberse Witch\" ได้ 1 ครั้งต่อเทิร์น",
+  "th": "มอนสเตอร์ Cyberse 2 ตัว\nถ้ามีการอัญเชิญพิเศษมอนสเตอร์ไปยัง Main Monster Zone ที่การ์ดนี้ชี้ (ยกเว้นระหว่าง Damage Step): คุณสามารถเอาออกจากเกม Spell 1 ใบจาก สุสานของคุณ; เพิ่ม Cyberse Ritual Monster 1 ตัวและ \"Cynet Ritual\" 1 ใบจาก เด็คของคุณขึ้นมือ คุณสามารถใช้เอฟเฟกต์แต่ละอย่างของ \"Cyberse Witch\" ได้ 1 ครั้งต่อเทิร์น",
   "status": "ai",
   "en_sha256": "37675eb84969b37ef4633fa4b6b50544f3e294c5aba98a3c6afe2f36cca62bcc",
   "model": "gemma3:12b",

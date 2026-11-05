@@ -1,7 +1,7 @@
 {
   "id": "92418590",
   "name": "Gimmick Puppet Dreary Doll",
-  "th": "ถ้าการ์ดใบนี้อยู่ในสุสานของคุณ: คุณสามารถเนรเทศมอนสเตอร์ \"Gimmick Puppet\" อื่นๆ 1 ตัวจากสุสานของคุณ; อัญเชิญพิเศษการ์ดใบนี้ คุณสามารถใช้เอฟเฟกต์ของ \"Gimmick Puppet Dreary Doll\" ได้ 1 ครั้งต่อเทิร์น ไม่สามารถใช้เป็น Material สำหรับ Xyz Summon ได้ ยกเว้นสำหรับการ Xyz Summon ของมอนสเตอร์ \"Gimmick Puppet\"",
+  "th": "ถ้าการ์ดใบนี้อยู่ในสุสานของคุณ: คุณสามารถเอาออกจากเกมมอนสเตอร์ \"Gimmick Puppet\" อื่นๆ 1 ตัวจากสุสานของคุณ; อัญเชิญพิเศษการ์ดใบนี้ คุณสามารถใช้เอฟเฟกต์ของ \"Gimmick Puppet Dreary Doll\" ได้ 1 ครั้งต่อเทิร์น ไม่สามารถใช้เป็น Material สำหรับ Xyz Summon ได้ ยกเว้นสำหรับการ Xyz Summon ของมอนสเตอร์ \"Gimmick Puppet\"",
   "status": "ai",
   "en_sha256": "6fb12f2d2905083245127dad3250aa98ff67aaf40b98d7ac64ebc5a88855118c",
   "model": "gemma3:12b",

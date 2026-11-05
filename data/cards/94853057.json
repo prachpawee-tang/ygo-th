@@ -1,7 +1,7 @@
 {
   "id": "94853057",
   "name": "Banisher of the Radiance",
-  "th": "การ์ดใดก็ตามที่ถูกส่งลงสุสาน (GY) จะถูกเนรเทศแทน",
+  "th": "การ์ดใดก็ตามที่ถูกส่งลงสุสาน (GY) จะถูกเอาออกจากเกมแทน",
   "status": "ai",
   "en_sha256": "3fde6bfce7ef3eb85b19eb5dbad92780b33c374262f132a7fa06fbacb44a7f8c",
   "model": "gemma3:12b",

@@ -1,7 +1,7 @@
 {
   "id": "62543393",
   "name": "Lekunga",
-  "th": "คุณสามารถเนรเทศ มอนสเตอร์ WATER 2 ตัวจาก สุสานของคุณ; อัญเชิญพิเศษ \"Lekunga Token\" (Plant-Type/WATER/Level 2/ATK 700/DEF 700) ใน ท่าโจมตี",
+  "th": "คุณสามารถเอาออกจากเกม มอนสเตอร์ WATER 2 ตัวจาก สุสานของคุณ; อัญเชิญพิเศษ \"Lekunga Token\" (Plant-Type/WATER/Level 2/ATK 700/DEF 700) ใน ท่าโจมตี",
   "status": "ai",
   "en_sha256": "13cfaab0fe48dd7a1308486b38a3d15d6fb0a8740d1b4d59250106383123d621",
   "model": "gemma3:12b",

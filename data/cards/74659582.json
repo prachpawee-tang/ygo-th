@@ -1,7 +1,7 @@
 {
   "id": "74659582",
   "name": "Sleipnir the Runick Mane",
-  "th": "มอนสเตอร์ \"Runick\" 2 ตัว\nระหว่าง Main Phase ของคุณ หรือ Battle Phase ของคู่ต่อสู้ (Quick Effect): คุณสามารถเลือกเป้าหมายมอนสเตอร์หงาย 1 ตัวที่คู่ต่อสู้ควบคุม; เนรเทศมอนสเตอร์นั้นและ \"Sleipnir the Runick Mane\" จนถึง End Phase ถ้ามีการเพิ่มการ์ดจาก Main Deck ไปที่มือของคู่ต่อสู้ (ยกเว้นระหว่าง Damage Step): คุณสามารถ อัญเชิญพิเศษ \"Runick Token\" (Fairy/LIGHT/Level 4/ATK 1500/DEF 1500) ในท่าโจมตี คุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Sleipnir the Runick Mane\" ได้ 1 ครั้งต่อเทิร์น",
+  "th": "มอนสเตอร์ \"Runick\" 2 ตัว\nระหว่าง Main Phase ของคุณ หรือ Battle Phase ของคู่ต่อสู้ (Quick Effect): คุณสามารถเลือกเป้าหมายมอนสเตอร์หงาย 1 ตัวที่คู่ต่อสู้ควบคุม; เอามอนสเตอร์นั้นออกจากเกมและ \"Sleipnir the Runick Mane\" จนถึง End Phase ถ้ามีการเพิ่มการ์ดจาก Main Deck ไปที่มือของคู่ต่อสู้ (ยกเว้นระหว่าง Damage Step): คุณสามารถ อัญเชิญพิเศษ \"Runick Token\" (Fairy/LIGHT/Level 4/ATK 1500/DEF 1500) ในท่าโจมตี คุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Sleipnir the Runick Mane\" ได้ 1 ครั้งต่อเทิร์น",
   "status": "ai",
   "en_sha256": "32eaad0026fdc0efa3f7c533ca771a0eda39b7ec9bb5fe1a6d694b63d878265f",
   "model": "gemma3:12b",

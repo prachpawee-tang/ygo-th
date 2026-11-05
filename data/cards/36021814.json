@@ -1,7 +1,7 @@
 {
   "id": "36021814",
   "name": "King of the Skull Servants",
-  "th": "ATK ดั้งเดิมของการ์ดใบนี้เท่ากับจำนวนรวมของ \"King of the Skull Servants\" และ \"Skull Servant\" ในสุสานของคุณ x 1000 เมื่อการ์ดใบนี้ถูกทำลายด้วยการต่อสู้และส่งลงสุสาน: คุณสามารถเนรเทศ \"King of the Skull Servants\" หรือ \"Skull Servant\" อื่นๆ 1 ใบจากสุสานของคุณ; อัญเชิญพิเศษการ์ดใบนี้",
+  "th": "ATK ดั้งเดิมของการ์ดใบนี้เท่ากับจำนวนรวมของ \"King of the Skull Servants\" และ \"Skull Servant\" ในสุสานของคุณ x 1000 เมื่อการ์ดใบนี้ถูกทำลายด้วยการต่อสู้และส่งลงสุสาน: คุณสามารถเอาออกจากเกม \"King of the Skull Servants\" หรือ \"Skull Servant\" อื่นๆ 1 ใบจากสุสานของคุณ; อัญเชิญพิเศษการ์ดใบนี้",
   "status": "ai",
   "en_sha256": "5169c550271cea00ed5187bcde02ef1e235580395eb5c4b86dbf1796f6c6d065",
   "model": "gemma3:12b",

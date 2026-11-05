@@ -1,9 +1,9 @@
 {
   "id": "99726621",
   "name": "Tri-Brigade Shuraig the Ominous Omen",
-  "th": "มอนสเตอร์ประเภท Beast, Beast-Warrior และ/หรือ Winged Beast 2+ ตัว\nถ้าการ์ดใบนี้ถูกอัญเชิญพิเศษ หรือถ้ามอนสเตอร์ประเภท Beast, Beast-Warrior หรือ Winged Beast ตัวอื่นๆ ถูกอัญเชิญพิเศษไปยังสนามของคุณ: คุณสามารถเนรเทศการ์ด 1 ใบในสนามได้ ถ้าการ์ดใบนี้ถูกส่งลงสุสาน: คุณสามารถเพิ่มมอนสเตอร์ประเภท Beast, Beast-Warrior หรือ Winged Beast 1 ตัวจากเด็คของคุณขึ้นมือ ซึ่งมี Level น้อยกว่าหรือเท่ากับจำนวนมอนสเตอร์ประเภท Beast, Beast-Warrior และ Winged Beast ที่คุณเนรเทศ คุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Tri-Brigade Shuraig the Ominous Omen\" ได้ 1 ครั้งต่อเทิร์น",
+  "th": "มอนสเตอร์ประเภท Beast, Beast-Warrior และ/หรือ Winged Beast 2+ ตัว\nถ้าการ์ดใบนี้ถูกอัญเชิญพิเศษ หรือถ้ามอนสเตอร์ประเภท Beast, Beast-Warrior หรือ Winged Beast ตัวอื่นๆ ถูกอัญเชิญพิเศษไปยังสนามของคุณ: คุณสามารถเอาการ์ด 1 ใบออกจากเกมในสนามได้ ถ้าการ์ดใบนี้ถูกส่งลงสุสาน: คุณสามารถเพิ่มมอนสเตอร์ประเภท Beast, Beast-Warrior หรือ Winged Beast 1 ตัวจากเด็คของคุณขึ้นมือ ซึ่งมี Level น้อยกว่าหรือเท่ากับจำนวนมอนสเตอร์ประเภท Beast, Beast-Warrior และ Winged Beast ที่คุณเอาออกจากเกม คุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Tri-Brigade Shuraig the Ominous Omen\" ได้ 1 ครั้งต่อเทิร์น",
   "status": "ai",
   "en_sha256": "a4c9a0feb35c33c3f1d4971daa9beb7eaaff0573162d16e0a659238b207ba7d2",
   "model": "gemma3:12b",
-  "updated": "2026-11-04"
+  "updated": "2026-11-05"
 }

@@ -1,7 +1,7 @@
 {
   "id": "69601012",
   "name": "Berfomet the Mythical King of Phantom Beasts",
-  "th": "มอนสเตอร์ 2 ตัวที่มีชนิด (Beast, Fiend หรือ Illusion) ต่างกัน\nชื่อของการ์ดนี้จะเปลี่ยนเป็น \"Chimera the Flying Mythical Beast\" ตราบเท่าที่อยู่ในสนามหรือสุสาน (GY) คุณสามารถใช้แต่ละเอฟเฟกต์ต่อไปนี้ของ \"Berfomet the Mythical King of Phantom Beasts\" ได้ 1 ครั้งต่อเทิร์น ① ถ้าการ์ดนี้ถูกอัญเชิญแบบ Fusion: คุณสามารถส่งมอนสเตอร์ Beast, Fiend หรือ Illusion 1 ตัวจากเด็คของคุณไปยังสุสาน (GY) ② ระหว่างเทิร์นของคู่ต่อสู้ (Quick Effect): คุณสามารถเนรเทศการ์ดนี้จากสุสาน (GY) ของคุณ จากนั้นเลือกเป้าหมายมอนสเตอร์ Beast, Fiend หรือ Illusion ที่ถูกเนรเทศ 1 ตัวของคุณ ยกเว้น \"Berfomet the Mythical King of Phantom Beasts\"; อัญเชิญพิเศษมัน",
+  "th": "มอนสเตอร์ 2 ตัวที่มีชนิด (Beast, Fiend หรือ Illusion) ต่างกัน\nชื่อของการ์ดนี้จะเปลี่ยนเป็น \"Chimera the Flying Mythical Beast\" ตราบเท่าที่อยู่ในสนามหรือสุสาน (GY) คุณสามารถใช้แต่ละเอฟเฟกต์ต่อไปนี้ของ \"Berfomet the Mythical King of Phantom Beasts\" ได้ 1 ครั้งต่อเทิร์น ① ถ้าการ์ดนี้ถูกอัญเชิญแบบ Fusion: คุณสามารถส่งมอนสเตอร์ Beast, Fiend หรือ Illusion 1 ตัวจากเด็คของคุณไปยังสุสาน (GY) ② ระหว่างเทิร์นของคู่ต่อสู้ (Quick Effect): คุณสามารถเอาการ์ดนี้ออกจากเกมจากสุสาน (GY) ของคุณ จากนั้นเลือกเป้าหมายมอนสเตอร์ Beast, Fiend หรือ Illusion ที่ถูกเอาออกจากเกม 1 ตัวของคุณ ยกเว้น \"Berfomet the Mythical King of Phantom Beasts\"; อัญเชิญพิเศษมัน",
   "status": "ai",
   "en_sha256": "ed6946132afc061966ff93c9f03c3af07aea8692e79ac75da5e71bc26d7c7e76",
   "model": "gemma3:12b",

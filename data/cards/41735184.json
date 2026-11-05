@@ -1,7 +1,7 @@
 {
   "id": "41735184",
   "name": "Dark Magic Inheritance",
-  "th": "เนรเทศ Spells 2 ใบจาก สุสานของคุณ; เพิ่มการ์ด Spell/Trap 1 ใบจาก เด็คของคุณขึ้นมือ ซึ่งระบุชื่อการ์ด \"Dark Magician\" หรือ \"Dark Magician Girl\" ไว้ในข้อความอย่างชัดเจน ยกเว้น \"Dark Magic Inheritance\" คุณสามารถเปิดใช้ \"Dark Magic Inheritance\" ได้ 1 ใบต่อเทิร์น",
+  "th": "เอาออกจากเกม Spells 2 ใบจาก สุสานของคุณ; เพิ่มการ์ด Spell/Trap 1 ใบจาก เด็คของคุณขึ้นมือ ซึ่งระบุชื่อการ์ด \"Dark Magician\" หรือ \"Dark Magician Girl\" ไว้ในข้อความอย่างชัดเจน ยกเว้น \"Dark Magic Inheritance\" คุณสามารถเปิดใช้ \"Dark Magic Inheritance\" ได้ 1 ใบต่อเทิร์น",
   "status": "ai",
   "en_sha256": "401b48171b03e577771d6a82b7698e68a020fcf073ed64de5e48f476dcb4c835",
   "model": "gemma3:12b",

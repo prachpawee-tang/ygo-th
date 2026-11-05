@@ -1,7 +1,7 @@
 {
   "id": "25538345",
   "name": "The Phantom Knights of Torn Scales",
-  "th": "คุณสามารถทิ้งการ์ด 1 ใบ; ส่งการ์ด \"Phantom Knights\" 1 ใบจากเด็คของคุณลงสุสาน (GY), ยกเว้น \"The Phantom Knights of Torn Scales\" ถ้าการ์ด \"Phantom Knights\" อีกใบใน GY ของคุณถูกเนรเทศ, ในขณะที่การ์ดนี้อยู่ใน GY ของคุณ: คุณสามารถอัญเชิญพิเศษการ์ดนี้, แต่เนรเทศมันเมื่อมันออกจากสนาม คุณสามารถใช้แต่ละเอฟเฟกต์ของ \"The Phantom Knights of Torn Scales\" ได้ 1 ครั้งต่อเทิร์น",
+  "th": "คุณสามารถทิ้งการ์ด 1 ใบ; ส่งการ์ด \"Phantom Knights\" 1 ใบจากเด็คของคุณลงสุสาน (GY), ยกเว้น \"The Phantom Knights of Torn Scales\" ถ้าการ์ด \"Phantom Knights\" อีกใบใน GY ของคุณถูกเอาออกจากเกม, ในขณะที่การ์ดนี้อยู่ใน GY ของคุณ: คุณสามารถอัญเชิญพิเศษการ์ดนี้, แต่เอามันออกจากเกมเมื่อมันออกจากสนาม คุณสามารถใช้แต่ละเอฟเฟกต์ของ \"The Phantom Knights of Torn Scales\" ได้ 1 ครั้งต่อเทิร์น",
   "status": "ai",
   "en_sha256": "ef953f845d332bb0d9dfdd022c8c35c76dc9ad9f818afedab281abae54cfae7c",
   "model": "gemma3:12b",

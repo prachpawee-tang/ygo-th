@@ -1,9 +1,9 @@
 {
   "id": "71490127",
   "name": "Dragon's Mirror",
-  "th": "อัญเชิญ Fusion 1 \"มอนสเตอร์ Link\" ประเภท Dragon Fusion จาก เอ็กซ์ตร้าเด็ค ของคุณ โดยเนรเทศ Material Fusion ที่ระบุไว้บนการ์ด จาก สนาม หรือ สุสาน (GY)",
+  "th": "อัญเชิญ Fusion 1 \"มอนสเตอร์ Link\" ประเภท Dragon Fusion จาก เอ็กซ์ตร้าเด็ค ของคุณ โดยเอาออกจากเกม Material Fusion ที่ระบุไว้บนการ์ด จาก สนาม หรือ สุสาน (GY)",
   "status": "ai",
   "en_sha256": "a5bdedc7fb7d3599be4a8af2d5cf6bd8b937580f4ec22b844f7f81abfad324f0",
   "model": "gemma3:12b",
-  "updated": "2026-11-04"
+  "updated": "2026-11-05"
 }

@@ -1,7 +1,7 @@
 {
   "id": "21744288",
   "name": "Witchcrafter Schmietta",
-  "th": "ระหว่าง Main Phase (Quick Effect): คุณสามารถ สังเวย การ์ดใบนี้, จากนั้น ทิ้งการ์ด เวทมนตร์ 1 ใบ; อัญเชิญพิเศษ มอนสเตอร์ \"Witchcrafter\" 1 ตัวจาก เด็คของคุณ, ยกเว้น \"Witchcrafter Schmietta\" คุณสามารถ เนรเทศ การ์ดใบนี้จาก สุสานของคุณ; ส่ง การ์ด \"Witchcrafter\" 1 ใบจาก เด็คของคุณลง สุสาน, ยกเว้น \"Witchcrafter Schmietta\" คุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Witchcrafter Schmietta\" ได้ 1 ครั้งต่อเทิร์น",
+  "th": "ระหว่าง Main Phase (Quick Effect): คุณสามารถ สังเวย การ์ดใบนี้, จากนั้น ทิ้งการ์ด เวทมนตร์ 1 ใบ; อัญเชิญพิเศษ มอนสเตอร์ \"Witchcrafter\" 1 ตัวจาก เด็คของคุณ, ยกเว้น \"Witchcrafter Schmietta\" คุณสามารถ เอาออกจากเกม การ์ดใบนี้จาก สุสานของคุณ; ส่ง การ์ด \"Witchcrafter\" 1 ใบจาก เด็คของคุณลง สุสาน, ยกเว้น \"Witchcrafter Schmietta\" คุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Witchcrafter Schmietta\" ได้ 1 ครั้งต่อเทิร์น",
   "status": "ai",
   "en_sha256": "d63f50392d3f49fe322271a4fa2668ca2d678b113ac6916c3a92f4f95e1fe774",
   "model": "gemma3:12b",

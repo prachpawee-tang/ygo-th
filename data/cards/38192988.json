@@ -1,7 +1,7 @@
 {
   "id": "38192988",
   "name": "Red-Eyes Zombie Dragon Lord",
-  "th": "1 Zombie Tuner + 1+ non-Tuner monsters\nระหว่างเทิร์นของคู่ต่อสู้ (Quick Effect): คุณสามารถเลือกเป้าหมายมอนสเตอร์ Zombie 1 ตัวในสุสานของคุณ, ยกเว้น \"Red-Eyes Zombie Dragon Lord\"; อัญเชิญพิเศษมัน. ถ้าการ์ดใบนี้อยู่ในสุสานของคุณ: คุณสามารถเนรเทศมอนสเตอร์ Zombie 1 ตัวที่คุณควบคุม; อัญเชิญพิเศษการ์ดใบนี้. คุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Red-Eyes Zombie Dragon Lord\" ได้ 1 ครั้งต่อเทิร์น.",
+  "th": "1 Zombie Tuner + 1+ non-Tuner monsters\nระหว่างเทิร์นของคู่ต่อสู้ (Quick Effect): คุณสามารถเลือกเป้าหมายมอนสเตอร์ Zombie 1 ตัวในสุสานของคุณ, ยกเว้น \"Red-Eyes Zombie Dragon Lord\"; อัญเชิญพิเศษมัน. ถ้าการ์ดใบนี้อยู่ในสุสานของคุณ: คุณสามารถเอาออกจากเกมมอนสเตอร์ Zombie 1 ตัวที่คุณควบคุม; อัญเชิญพิเศษการ์ดใบนี้. คุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Red-Eyes Zombie Dragon Lord\" ได้ 1 ครั้งต่อเทิร์น.",
   "status": "ai",
   "en_sha256": "52f853cc529368cf040a85ace75515ab1b65a987b2d5c51c4bbeab63389ef174",
   "model": "gemma3:12b",

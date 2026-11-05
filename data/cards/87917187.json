@@ -1,7 +1,7 @@
 {
   "id": "87917187",
   "name": "Dark Summoning Beast",
-  "th": "คุณสามารถสังเวยการ์ดนี้; อัญเชิญพิเศษมอนสเตอร์ \"Uria, Lord of Searing Flames\", \"Hamon, Lord of Striking Thunder\", หรือ \"Raviel, Lord of Phantasms\" 1 ตัวจากมือหรือเด็คของคุณ โดยไม่สนใจเงื่อนไขการอัญเชิญ, นอกจากนี้ มอนสเตอร์ที่คุณควบคุมจะไม่สามารถโจมตีได้จนจบเทิร์นนี้ คุณสามารถใช้เอฟเฟกต์ของ \"Dark Summoning Beast\" ได้ 1 ครั้งต่อเทิร์น คุณสามารถเนรเทศการ์ดนี้จากสุสานของคุณ; เพิ่มการ์ด \"Uria, Lord of Searing Flames\", \"Hamon, Lord of Striking Thunder\", หรือ \"Raviel, Lord of Phantasms\" 1 ใบจากเด็คของคุณขึ้นมือ",
+  "th": "คุณสามารถสังเวยการ์ดนี้; อัญเชิญพิเศษมอนสเตอร์ \"Uria, Lord of Searing Flames\", \"Hamon, Lord of Striking Thunder\", หรือ \"Raviel, Lord of Phantasms\" 1 ตัวจากมือหรือเด็คของคุณ โดยไม่สนใจเงื่อนไขการอัญเชิญ, นอกจากนี้ มอนสเตอร์ที่คุณควบคุมจะไม่สามารถโจมตีได้จนจบเทิร์นนี้ คุณสามารถใช้เอฟเฟกต์ของ \"Dark Summoning Beast\" ได้ 1 ครั้งต่อเทิร์น คุณสามารถเอาการ์ดนี้ออกจากเกมจากสุสานของคุณ; เพิ่มการ์ด \"Uria, Lord of Searing Flames\", \"Hamon, Lord of Striking Thunder\", หรือ \"Raviel, Lord of Phantasms\" 1 ใบจากเด็คของคุณขึ้นมือ",
   "status": "ai",
   "en_sha256": "e8bafe8548b5e8aa0822777dd3d263dc4dee3f44681e317603ac15abd4d76ed2",
   "model": "gemma3:12b",

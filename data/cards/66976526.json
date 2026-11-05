@@ -1,0 +1,9 @@
+{
+  "id": "66976526",
+  "name": "Karakuri Steel Shogun mdl 00X \"Bureido\"",
+  "th": "1 Tuner + 1 หรือ มอนสเตอร์ Machine-Type ที่ไม่ใช่ Tuner หรือมากกว่า\nเมื่อการ์ดนี้ถูกอัญเชิญแบบ Synchro: คุณสามารถ อัญเชิญพิเศษ มอนสเตอร์ \"Karakuri\" 1 ตัวจาก เด็คของคุณ Once per turn, เมื่อท่าโจมตี/ท่าป้องกันของมอนสเตอร์ \"Karakuri\" ที่หงายอยู่ซึ่งคุณควบคุม เปลี่ยนแปลง (และยังคงหงายอยู่): จั่วการ์ด 1 ใบ",
+  "status": "ai",
+  "en_sha256": "6fe20beffec6eac35f66a31f83e0d6d928aa6881c9f8072ff1ac90d34be14a65",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

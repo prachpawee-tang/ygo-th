@@ -1,0 +1,9 @@
+{
+  "id": "5368615",
+  "name": "Steam Gyroid",
+  "th": "\"Gyroid\" + \"Steamroid\"",
+  "status": "ai",
+  "en_sha256": "e3197a1fed8f561601a7c803572fa97df178ac63aa7db94d04de197298afae19",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

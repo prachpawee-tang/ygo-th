@@ -1,0 +1,9 @@
+{
+  "id": "91869203",
+  "name": "Amazoness Archer",
+  "th": "คุณสามารถสังเวยมอนสเตอร์ 2 ตัว; สร้างความเสียหาย 1200 ให้กับคู่ต่อสู้ของคุณ",
+  "status": "ai",
+  "en_sha256": "d74c0c596aab934fe781e2c25f0ec2c6fef8d9c4105402ce6ebbfeb105b22cef",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

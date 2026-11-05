@@ -1,0 +1,12 @@
+{
+  "id": "41462083",
+  "name": "Thousand Dragon",
+  "th": "\"Time Wizard\" + \"Baby Dragon\"",
+  "status": "ai",
+  "en_sha256": "72b2c16d053626274e55cf056126a2277c521184539a3e364f8ff80558879c68",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05",
+  "alt": [
+    "41462084"
+  ]
+}

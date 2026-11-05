@@ -1,0 +1,9 @@
+{
+  "id": "76587747",
+  "name": "Time Thief Retrograde",
+  "th": "เมื่อเปิดใช้การ์ด Spell/Trap ขณะที่คุณควบคุมมอนสเตอร์ Link \"Time Thief\": ลบล้างการเปิดใช้, และถ้าทำได้ ให้ติดการ์ดใบนั้นกับมอนสเตอร์ Link \"Time Thief\" ที่คุณควบคุมเป็น Material คุณสามารถเปิดใช้ \"Time Thief Retrograde\" ได้ 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "d9118bdf0b09b9e7f4bafd00c932b3ee36021893c318137261396062ff2db2bc",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

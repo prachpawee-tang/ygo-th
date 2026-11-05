@@ -1,0 +1,9 @@
+{
+  "id": "80141480",
+  "name": "Hunter Spider",
+  "th": "มอนสเตอร์ตัวนี้กินทุกสิ่งที่มันจับได้ในใยแมงมุมของมัน",
+  "status": "ai",
+  "en_sha256": "4b6ecdfda2616c578cbe6151b2ea0e7bfe11d2baa7e24984e8f3b42a60b38e23",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

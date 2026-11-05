@@ -1,0 +1,9 @@
+{
+  "id": "53539634",
+  "name": "Sanwitch",
+  "th": "\"Sangan\" + \"Witch of the Black Forest\"",
+  "status": "ai",
+  "en_sha256": "4f6025eaba2f1cedcf6f9e7decc76dab95193e9edee91539bb8d78104b3d48ab",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

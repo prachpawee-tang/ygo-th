@@ -1,0 +1,9 @@
+{
+  "id": "60666820",
+  "name": "Nefarious Archfiend Eater of Nefariousness",
+  "th": "คุณสามารถควบคุม “Nefarious Archfiend Eater of Nefariousness” ได้ 1 ตัวเท่านั้น ถ้าคุณควบคุมมอนสเตอร์ Type นักเวทมนตร์ คุณสามารถ อัญเชิญพิเศษ การ์ดนี้ (จากมือ) ได้ Once per turn, ในช่วง End Phase ของคู่ต่อสู้, ถ้าการ์ดนี้อยู่ใน สุสาน (GY): คุณสามารถ เลือกเป้าหมายมอนสเตอร์หงาย 1 ตัวที่คุณควบคุม; ทำลายมัน และถ้าทำได้, อัญเชิญพิเศษ การ์ดนี้",
+  "status": "ai",
+  "en_sha256": "e8e5510c365c690090f7171a99aec82a1aa91159f1f2c22e9a41f8592e7c722d",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

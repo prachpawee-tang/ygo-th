@@ -1,0 +1,10 @@
+{
+  "id": "86676862",
+  "name": "Evil HERO Malicious Fiend",
+  "th": "\"Evil HERO Malicious Edge\" + มอนสเตอร์ Fiend ระดับ 6 หรือสูงกว่า\nต้องอัญเชิญพิเศษด้วย \"Dark Fusion\" ระหว่าง Battle Phase ของคู่ต่อสู้ มอนสเตอร์ทั้งหมดที่พวกเขาควบคุมจะเปลี่ยนเป็นท่าโจมตีหงาย และมอนสเตอร์แต่ละตัวที่พวกเขาควบคุมต้องโจมตีการ์ดนี้ ถ้าทำได้",
+  "status": "ai",
+  "en_sha256": "b8138ff2105d00d6a30e7e459badd9296b14459dd64de37ae8c958f8523784d5",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

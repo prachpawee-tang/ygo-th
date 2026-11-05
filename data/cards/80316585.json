@@ -1,0 +1,9 @@
+{
+  "id": "80316585",
+  "name": "Cyber Harpie Lady",
+  "th": "(ชื่อของการ์ดใบนี้จะถือว่าเป็น \"Harpie Lady\" เสมอ.)",
+  "status": "ai",
+  "en_sha256": "3cfd7a58882ae7fa3241d298c170ab34a121901bb02c5a7863e7c8dc17d9aadd",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

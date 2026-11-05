@@ -1,0 +1,9 @@
+{
+  "id": "1050186",
+  "name": "Satellarknight Unukalhai",
+  "th": "ถ้าการ์ดใบนี้ถูกอัญเชิญ: คุณสามารถส่งการ์ด \"tellarknight\" 1 ใบจากเด็คของคุณลงสุสาน, ยกเว้น \"Satellarknight Unukalhai\" คุณสามารถใช้เอฟเฟกต์ของ \"Satellarknight Unukalhai\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "8f7d6cc00788f9e9a56e07affa50c9b82a2126feb8614aec166c573cd8ac1e40",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

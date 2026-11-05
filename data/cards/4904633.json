@@ -1,0 +1,10 @@
+{
+  "id": "4904633",
+  "name": "Shaddoll Core",
+  "th": "อัญเชิญพิเศษการ์ดนี้เป็นมอนสเตอร์เอฟเฟกต์ (Spellcaster/DARK/Level 9/ATK 1450/DEF 1950). (การ์ดใบนี้ยังคงเป็นกับดัก.) ถ้าอัญเชิญด้วยวิธีนี้ คุณสามารถใช้การ์ดใบนี้แทน Material สำหรับ Fusion ที่ระบุ Attribute บนการ์ดมอนสเตอร์ Fusion \"Shaddoll\" ได้ ถ้าการ์ดใบนี้ถูกส่งลงสุสานโดยเอฟเฟกต์ของการ์ด: คุณสามารถเลือกเป้าหมายกับดัก/เวทมนตร์ \"Shaddoll\" 1 ใบในสุสานของคุณ ยกเว้น \"Shaddoll Core\"; เพิ่มมันขึ้นมือ",
+  "status": "ai",
+  "en_sha256": "1fffaea0f1d872fba49a49cc000a7b2b462f5ccf4e8f58cd5e46ee2f5ef49e86",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

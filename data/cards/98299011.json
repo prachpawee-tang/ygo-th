@@ -1,0 +1,9 @@
+{
+  "id": "98299011",
+  "name": "Gift of The Mystical Elf",
+  "th": "เพิ่ม Life Points ของคุณ 300 points สำหรับมอนสเตอร์แต่ละตัวในสนาม",
+  "status": "ai",
+  "en_sha256": "9315876790a9017980cdbda82f959218b66a7e98beedb827b41e0af165b3ff77",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

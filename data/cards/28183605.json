@@ -1,0 +1,10 @@
+{
+  "id": "28183605",
+  "name": "Dragunity Dux",
+  "th": "ได้ ATK 200 สำหรับแต่ละการ์ด \"Dragunity\" ที่คุณควบคุม เมื่อการ์ดใบนี้ถูก อัญเชิญปกติ: คุณสามารถเลือกเป้าหมายมอนสเตอร์ Dragon \"Dragunity\" ระดับ 3 หรือต่ำกว่าใน สุสาน (GY) ของคุณ; ติดการ์ดเป้าหมายนั้นเข้ากับการ์ดใบนี้",
+  "status": "ai",
+  "en_sha256": "d897de18641cfd671462ec67bac9ed174bf27d97046b64b2bebc7be71070f14e",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

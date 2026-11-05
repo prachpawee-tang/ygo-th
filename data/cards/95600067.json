@@ -1,0 +1,9 @@
+{
+  "id": "95600067",
+  "name": "Crystal Beast Topaz Tiger",
+  "th": "ถ้าการ์ดใบนี้โจมตีมอนสเตอร์ของคู่ต่อสู้ มันจะได้รับ ATK 400 ระหว่าง Damage Step เท่านั้น ถ้าการ์ดหงายที่คว่ำอยู่ใบนี้ถูกทำลายขณะอยู่ใน Main Monster Zone หรือ Extra Monster Zone คุณสามารถวางมันแบบหงายใน Spell & Trap Card Zone ของคุณได้ แทนที่จะส่งมันลงสุสาน",
+  "status": "ai",
+  "en_sha256": "f7c7ad2e58e3fcd1824dc675dbeea90ba086519aae59ea74a4d443f6ea0420dc",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

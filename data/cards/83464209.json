@@ -1,0 +1,9 @@
+{
+  "id": "83464209",
+  "name": "Mystical Sheep #2",
+  "th": "แกะยักษ์ที่มีหางยาวสำหรับสะกดจิตศัตรู",
+  "status": "ai",
+  "en_sha256": "62557d6b0555dfc42330af45d21b4b84e31a32cb3311b1f70bed52bc032cfbcd",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "9453320",
+  "name": "Abysstrite, the Atlantean Spirit",
+  "th": "มอนสเตอร์ WATER ระดับ 2+\nมอนสเตอร์ WATER ที่คุณควบคุมได้รับ ATK/DEF 300 สำหรับ Material แต่ละชิ้นที่ติดอยู่กับการ์ดใบนี้ คุณสามารถใช้เอฟเฟกต์ต่อไปนี้ของ \"Abysstrite, the Atlantean Spirit\" ได้ 1 ครั้งต่อเทิร์น: ถ้าการ์ดใบนี้ถูกอัญเชิญแบบ Xyz: คุณสามารถเลือกมอนสเตอร์ Fish, Sea Serpent หรือ Aqua ระดับ 7 หรือต่ำกว่าใน GY ของคุณ 1 ตัว; อัญเชิญพิเศษมัน คุณสามารถถอด Material 1 ชิ้นจากการ์ดใบนี้; เซ็ตกับดัก \"Abyss-\" 1 ใบจากเด็คของคุณ",
+  "status": "ai",
+  "en_sha256": "f8ca544e991d63cd7129a2ea36c7b3cceea072fae9e2ce77c12cd111ecb8b62a",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05",
+  "note": "rule-check: numbers missing in Thai: 7"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "70000776",
+  "name": "Hidden Temples of Necrovalley",
+  "th": "เปิดใช้ได้เฉพาะเมื่อมีมอนสเตอร์ \"Gravekeeper's\" และ \"Necrovalley\" อยู่บนสนามทั้งคู่ ผู้เล่นทั้งสองไม่สามารถอัญเชิญพิเศษมอนสเตอร์ ยกเว้นมอนสเตอร์ \"Gravekeeper's\" ถ้าไม่มีมอนสเตอร์ \"Gravekeeper's\" หรือ \"Necrovalley\" อยู่บนสนาม ทำลายการ์ดนี้",
+  "status": "ai",
+  "en_sha256": "b4b5217882aded858fcf8f209365614b05a2a81204eebe59f05d40a457e80cfe",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

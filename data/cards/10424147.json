@@ -1,0 +1,9 @@
+{
+  "id": "10424147",
+  "name": "Super Quantal Mech Ship Magnacarrier",
+  "th": "ทิ้งการ์ด 1 ใบ, จากนั้นเลือกเป้าหมายมอนสเตอร์ \"Super Quantum\" 1 ตัวที่คุณควบคุม; อัญเชิญพิเศษจาก เอ็กซ์ตร้าเด็ค มอนสเตอร์ Xyz \"Super Quantal Mech Beast\" 1 ตัวที่มี Attribute เดียวกันกับมอนสเตอร์ที่คุณควบคุม โดยใช้มันเป็น Material (ถือเป็นการอัญเชิญแบบ Xyz) คุณสามารถส่งการ์ดใบนี้จาก Main Monster Zone หรือ Extra Monster Zone ลง สุสาน (GY), จากนั้นเลือกเป้าหมายมอนสเตอร์ Xyz \"Super Quantal Mech Beast\" 3 ตัวที่มีชื่อต่างกันที่คุณควบคุมและ/หรืออยู่ใน สุสาน (GY); อัญเชิญพิเศษ \"Super Quantal Mech King Great Magnus\" 1 ตัวจาก เอ็กซ์ตร้าเด็คของคุณ, และถ้าทำได้ ให้ติดมอนสเตอร์ที่ถูกเลือกเป้าหมายและ Material ของมันเข้ากับมันเป็น Material",
+  "status": "ai",
+  "en_sha256": "fe6e6b1540c44c2dead02e6d898fb80487cff0a4f3bf356c4cb0f9b42bf1784e",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

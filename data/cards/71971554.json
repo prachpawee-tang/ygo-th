@@ -1,0 +1,9 @@
+{
+  "id": "71971554",
+  "name": "Road Synchron",
+  "th": "เมื่อใช้การ์ดใบนี้เป็น Material สำหรับการอัญเชิญ Synchro ของมอนสเตอร์ที่ไม่ใช่ \"Road Warrior\", ลด Level ของการ์ดใบนี้ลง 2; ถ้าการ์ดใบนี้ทำการโจมตี, ตอนจบของ Damage Step: เพิ่ม Level ของมันขึ้น 1 จนจบเทิร์นนี้",
+  "status": "ai",
+  "en_sha256": "00030d24bc63373dfdb72de45b793b35d6afaab89ef3c6b77949ae2b729d8bb8",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

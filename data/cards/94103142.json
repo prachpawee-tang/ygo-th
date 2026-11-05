@@ -1,0 +1,9 @@
+{
+  "id": "94103142",
+  "name": "Radiant Typhoon Manifestation",
+  "th": "ถ้าการ์ดใบนี้ถูกทำลายโดยเอฟเฟกต์ของ \"Mystical Space Typhoon\": คุณสามารถเซ็ตการ์ดใบนี้ได้ เปิดใช้เอฟเฟกต์ใดเอฟเฟกต์หนึ่งต่อไปนี้ (แต่คุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Radiant Typhoon Manifestation\" ได้ 1 ครั้งต่อเทิร์น);\n● ส่งมอนสเตอร์ \"Radiant Typhoon\" 1 ตัวจากเด็คของคุณไปยังสุสาน (GY)\n● เพิ่มการ์ด \"Mystical Space Typhoon\" 1 ใบจากเด็คหรือสุสาน (GY) ของคุณขึ้นมือ",
+  "status": "ai",
+  "en_sha256": "799e8686705401316c0ff97d9c2a1fb6a72128df33851322c94468cc180dcae7",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

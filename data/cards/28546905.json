@@ -1,0 +1,9 @@
+{
+  "id": "28546905",
+  "name": "Illusionist Faceless Mage",
+  "th": "ใช้พลังแห่งภาพลวงตาในการควบคุมการโจมตีของศัตรู",
+  "status": "ai",
+  "en_sha256": "c1e962ba5a8cba1a10e8e8ce29eaa69fc5c4c19cea035188e8829d2c6b525fe0",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

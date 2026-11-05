@@ -1,0 +1,9 @@
+{
+  "id": "44928016",
+  "name": "World Carrotweight Champion",
+  "th": "ถ้าการ์ดใบนี้อยู่ในสุสานของคุณ: คุณสามารถส่งมอนสเตอร์ Plant-Type 1 ตัวจากมือของคุณ หรือจากสนามของคุณในท่าหงายลงสุสาน ยกเว้น \"World Carrotweight Champion\"; อัญเชิญพิเศษการ์ดใบนี้ คุณสามารถใช้เอฟเฟกต์ของ \"World Carrotweight Champion\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "66962e516ca551d29345363e4ea22f22130406d2d5c10f1e466654c1be5adba0",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

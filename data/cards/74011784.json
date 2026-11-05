@@ -1,0 +1,9 @@
+{
+  "id": "74011784",
+  "name": "Artmage Varnish -Alteration-",
+  "th": "วาง “Artmage Academic Arcane Arts Acropolis” 1 ใบจากเด็คหรือสุสาน (GY) ของคุณ, หงายใน Field Zone ของคุณ, หรือถ้าคุณควบคุม “Artmage Academic Arcane Arts Acropolis”, เพิ่มการ์ด “Artmage” 1 ใบจากเด็คของคุณขึ้นมือแทน, ยกเว้น “Artmage Varnish -Alteration-” เมื่อมอนสเตอร์ “Artmage” ของคุณถูกเลือกเป้าหมายสำหรับการโจมตี: คุณสามารถเนรเทศการ์ดนี้จากสุสาน (GY) ของคุณ; ลบล้างการโจมตีนั้น, จากนั้นคุณสามารถ อัญเชิญพิเศษ “Medius the Pure” 1 ใบจากมือของคุณได้ คุณสามารถใช้แต่ละเอฟเฟกต์ของ “Artmage Varnish -Alteration-” ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "23fad5cb17097de3998385f7911fe617a7a425199e6f7e383f94b3f51731a08e",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

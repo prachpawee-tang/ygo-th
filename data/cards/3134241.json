@@ -1,0 +1,9 @@
+{
+  "id": "3134241",
+  "name": "Flying Kamakiri #2",
+  "th": "แมลงตั๊กแตนบินที่กินแมลงเป็นอาหารเป็นหลัก",
+  "status": "ai",
+  "en_sha256": "be94d6548a28f34f5d77da90d8c94fe64b307fb67cd1de8a4e9b3c03f3414bd5",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

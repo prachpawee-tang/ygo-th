@@ -1,0 +1,9 @@
+{
+  "id": "1965724",
+  "name": "Mokey Mokey Smackdown",
+  "th": "ตราบใดที่ “Mokey Mokey” ที่หงายอยู่มีอยู่บนสนามของคุณ, ถ้ามอนสเตอร์ Fairy-Type บนสนามของคุณถูกทำลาย, ATK ของ “Mokey Mokey” แต่ละตัวบนสนามของคุณจะกลายเป็น 3000 จนจบเทิร์นนี้",
+  "status": "ai",
+  "en_sha256": "fa692ee222d60330ddb0be5eec53cba2d23fffd340d7baf98f938a80f8856c6c",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

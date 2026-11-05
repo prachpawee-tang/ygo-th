@@ -1,0 +1,9 @@
+{
+  "id": "96474800",
+  "name": "Magic Deflector",
+  "th": "สำหรับส่วนที่เหลือของเทิร์นนี้ ลบล้างเอฟเฟกต์ของการ์ด Spell ประเภท Equip, Field, Continuous และ Quick-Play ทั้งหมดบนสนาม",
+  "status": "ai",
+  "en_sha256": "721022211996409c3520248f09651c51145c11e4035f834fabab9440a8dfcfd3",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

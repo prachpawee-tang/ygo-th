@@ -1,0 +1,9 @@
+{
+  "id": "46145256",
+  "name": "Barrier Statue of the Heavens",
+  "th": "ห้ามทำการ อัญเชิญพิเศษ มอนสเตอร์ ยกเว้น มอนสเตอร์ LIGHT",
+  "status": "ai",
+  "en_sha256": "38089620b688dabf15c81e32b74b2a690bdc388ec8df2110ba96216a2582a82d",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

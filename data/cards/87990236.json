@@ -1,0 +1,9 @@
+{
+  "id": "87990236",
+  "name": "Darklord Enchantment",
+  "th": "ส่งมอนสเตอร์ \"Darklord\" 1 ตัวจากมือของคุณ หรือการ์ดสนามที่หงายอยู่ไปยังสุสาน; ควบคุมมอนสเตอร์ที่คู่ต่อสู้ควบคุมที่หงายอยู่ 1 ตัวจนถึง End Phase คุณสามารถเปิดใช้ \"Darklord Enchantment\" ได้ 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "d8e633ced5b4bbcd05d459b7f478d800e6db767ac602df456119952eab0bafc8",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

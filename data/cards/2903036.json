@@ -1,0 +1,10 @@
+{
+  "id": "2903036",
+  "name": "Tribute Doll",
+  "th": "สังเวยมอนสเตอร์ 1 ตัว; อัญเชิญพิเศษมอนสเตอร์ Level 7 จากมือของคุณ ที่สามารถ อัญเชิญปกติ/เซ็ต ได้ มันไม่สามารถโจมตีได้ในเทิร์นนี้",
+  "status": "ai",
+  "en_sha256": "8526fc423d5cd2aa684dce2e0c0d6d5981547d33ea16fcc8057f2fca72885fb8",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

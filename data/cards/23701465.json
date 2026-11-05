@@ -1,0 +1,9 @@
+{
+  "id": "23701465",
+  "name": "Primal Seed",
+  "th": "ถ้า “Black Luster Soldier - Envoy of the Beginning” หรือ “Chaos Emperor Dragon - Envoy of the End” อยู่บนสนาม: เลือกการ์ดที่ถูกเนรเทศของคุณ 2 ใบ; เพิ่มทั้ง 2 เป้าหมายนั้นขึ้นมือ",
+  "status": "ai",
+  "en_sha256": "4b7b8e4b5182abd14e6358c5d85cbc4901effe5aeb3d08694928316cd7cb80f1",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

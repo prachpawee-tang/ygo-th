@@ -1,0 +1,9 @@
+{
+  "id": "74703140",
+  "name": "Punished Eagle",
+  "th": "\"Blue-Winged Crown\" + \"Niwatori\"",
+  "status": "ai",
+  "en_sha256": "e0cd70d054fa187077aa0f6bdb956105b7da1cd00d325f8f406c930f27a0efc7",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

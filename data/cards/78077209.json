@@ -1,0 +1,10 @@
+{
+  "id": "78077209",
+  "name": "Diabolica the Draconique General",
+  "th": "ถ้ามอนสเตอร์ Fiend (ยกเว้น \"Diabolica the Draconique General\") ถูกส่งลงสุสาน (GY) ของคุณด้วยเอฟเฟกต์ของการ์ด (ยกเว้นในช่วง Damage Step): คุณสามารถ อัญเชิญพิเศษ การ์ดนี้จาก GY ของคุณ (ถ้ามันอยู่ที่นั่นตอนที่มอนสเตอร์ถูกส่ง) หรือ มือ (แม้ว่าจะไม่ได้อยู่) แต่เนรเทศมันเมื่อมันออกจากสนาม คุณสามารถใช้เอฟเฟกต์นี้ของ \"Diabolica the Draconique General\" ได้ 1 ครั้งต่อเทิร์น และเพียงครั้งเดียวในเทิร์นนั้น",
+  "status": "ai",
+  "en_sha256": "5561d784e249dd1f7ae3de08d853a1f41f5e421d8fd18d77ded50b8bb4582545",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05",
+  "note": "rule-check: numbers missing in Thai: 1; fewer \";\" than English (0 < 1) — cost/resolution split may be lost; fewer \":\" than English (1 < 2) — activation condition may be lost"
+}

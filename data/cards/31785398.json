@@ -1,0 +1,9 @@
+{
+  "id": "31785398",
+  "name": "Ready for Intercepting",
+  "th": "เลือกเป้าหมายมอนสเตอร์ Warrior หรือ Spellcaster 1 ตัวในสนาม; เปลี่ยนเป้าหมายนั้นเป็นท่าป้องกันคว่ำ",
+  "status": "ai",
+  "en_sha256": "59c6dc8ef9b5eb20ba364ad013657dbc4a8826df6a2f567d646725063ee31a31",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

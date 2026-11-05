@@ -1,0 +1,9 @@
+{
+  "id": "47247792",
+  "name": "Conduction Warrior Plasma Magnum",
+  "th": "มอนสเตอร์หิน EARTH 2 ตัว\nมอนสเตอร์ที่หงายอยู่บนสนามกลายเป็น EARTH คุณสามารถใช้เอฟเฟกต์ต่อไปนี้ของ \"Conduction Warrior Plasma Magnum\" ได้ 1 ครั้งต่อเทิร์นเท่านั้น: ถ้าการ์ดนี้ถูกอัญเชิญแบบ Fusion: คุณสามารถเพิ่มการ์ด “Magnet” เวทมนตร์ปกติ, Quick-Play หรือ Field Spell 1 ใบจากเด็คของคุณขึ้นมือ คุณสามารถส่งมอนสเตอร์ “Magna Warrior” ระดับ 8 จากเด็คของคุณลงสุสาน; ทันทีหลังจากเอฟเฟกต์นี้แก้ไขเสร็จสิ้น, อัญเชิญปกติมอนสเตอร์ “Magnet Warrior” ระดับ 4 หรือต่ำกว่า 1 ตัว",
+  "status": "ai",
+  "en_sha256": "b6e9dd2a8c609d58bcabcfd916dbfab98232b2cdac9a13b91ab974ec10bf8354",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

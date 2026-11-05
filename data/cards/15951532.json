@@ -1,0 +1,9 @@
+{
+  "id": "15951532",
+  "name": "Amazoness Queen",
+  "th": "“Amazoness” มอนสเตอร์ที่คุณควบคุมจะไม่ถูกทำลายโดยการต่อสู้",
+  "status": "ai",
+  "en_sha256": "23cd4cc3b1087bf1c0d70495d8743684e9cefe20af33c387902a60762c8fba82",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

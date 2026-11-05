@@ -1,0 +1,9 @@
+{
+  "id": "31339260",
+  "name": "Zombie Warrior",
+  "th": "\"Skull Servant\" + \"Battle Warrior\"",
+  "status": "ai",
+  "en_sha256": "34120fc333020c3bb8415894986f915794e3ad19c2cdc10c99ad3a0c903f1afb",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

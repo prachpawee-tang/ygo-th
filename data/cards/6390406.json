@@ -1,0 +1,9 @@
+{
+  "id": "6390406",
+  "name": "Emblem of Dragon Destroyer",
+  "th": "เพิ่ม \"Buster Blader\" 1 ใบจากเด็คของคุณหรือสุสาน (GY) ขึ้นมือ",
+  "status": "ai",
+  "en_sha256": "234c52fd981af3799d82d1a7fb7c56a31c4381c5f8c9d0b9bb1d8c95b86d0a3b",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

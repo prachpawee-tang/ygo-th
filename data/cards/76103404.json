@@ -1,0 +1,9 @@
+{
+  "id": "76103404",
+  "name": "Cyber Petit Angel",
+  "th": "ถ้าการ์ดใบนี้ถูกอัญเชิญ: คุณสามารถเพิ่มมอนสเตอร์ \"Cyber Angel\" หรือ \"Machine Angel Ritual\" 1 ใบจากเด็คของคุณขึ้นมือ คุณสามารถใช้เอฟเฟกต์ของ \"Cyber Petit Angel\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "e2a9f3b2db4ac807cfead4fe93782e18a14ceb1889b60eaf16ebc399b126e85d",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

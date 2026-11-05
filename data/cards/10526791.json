@@ -1,0 +1,9 @@
+{
+  "id": "10526791",
+  "name": "Elemental HERO Wildedge",
+  "th": "\"Elemental HERO Wildheart\" + \"Elemental HERO Bladedge\"\nต้องทำการ Fusion Summon และไม่สามารถอัญเชิญพิเศษด้วยวิธีอื่นได้ การ์ดใบนี้สามารถโจมตีมอนสเตอร์ทุกตัวที่คู่ต่อสู้ควบคุมได้ (โจมตีแต่ละมอนสเตอร์ 1 ครั้งต่อ Battle Phase)",
+  "status": "ai",
+  "en_sha256": "d53199548e849cf6c17a4f623fd4ff3e02650588d1f766d16c54c51692426bba",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

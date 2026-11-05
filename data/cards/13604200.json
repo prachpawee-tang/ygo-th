@@ -1,0 +1,9 @@
+{
+  "id": "13604200",
+  "name": "Sage's Stone",
+  "th": "ถ้าคุณควบคุม \"Dark Magician Girl\" ที่หงายอยู่: อัญเชิญพิเศษ \"Dark Magician\" 1 ตัวจากมือของคุณหรือเด็คของคุณ",
+  "status": "ai",
+  "en_sha256": "f1ab0f46505b0c8459febc2ba6958d7a072552544fda88a4545c8992af4b01db",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "88089103",
+  "name": "The Graveyard in the Fourth Dimension",
+  "th": "เพิ่มมอนสเตอร์ \"LV\" จากสุสาน (GY) ของคุณลงในเด็ค 2 ตัว และสับกลับเข้าเด็ค",
+  "status": "ai",
+  "en_sha256": "9f8ffcae94fed2cd965510836464b93b72eb1cd61f3224ea35d1b08d933ac9fc",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

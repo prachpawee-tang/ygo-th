@@ -1,0 +1,9 @@
+{
+  "id": "9744376",
+  "name": "Good Goblin Housekeeping",
+  "th": "จั่วการ์ดจำนวนเท่ากับจำนวนการ์ด \"Good Goblin Housekeeping\" ในสุสาน (GY) +1 จากนั้น เลือกการ์ด 1 ใบจากมือของคุณ และนำกลับไปไว้ด้านล่างของเด็ค",
+  "status": "ai",
+  "en_sha256": "3c2a3324e9f0f7448b7c5993584855b6ba03a1d290e4cfc9c91cbd6084441ab8",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "65017789",
+  "name": "The Weather Painter Snow",
+  "th": "เมื่อการ์ดใบนี้ถูกอัญเชิญปกติ: คุณสามารถวางการ์ด “The Weather” แบบเวทมนตร์/กับดัก 1 ใบจากเด็คของคุณแบบหงายใน Spell & Trap Zone ของคุณ คุณสามารถใช้เอฟเฟกต์ของ \"The Weather Painter Snow\" ได้ 1 ครั้งต่อเทิร์น เมื่อมีการ์ดใบนี้ถูกเนรเทศจากสนามไปยังสุสาน ในช่วง Standby Phase ของเทิร์นถัดไป คุณสามารถอัญเชิญพิเศษการ์ดที่ถูกเนรเทศใบนี้",
+  "status": "ai",
+  "en_sha256": "a96bf2d3482d6741a13594adc548122034073181761f456fec408b9b69f1675c",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05",
+  "note": "rule-check: fewer \":\" than English (1 < 2) — activation condition may be lost"
+}

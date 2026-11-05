@@ -1,0 +1,9 @@
+{
+  "id": "94423983",
+  "name": "Simul Archfiends",
+  "th": "เทิร์นนี้ ผู้เล่นทั้งสองไม่สามารถ อัญเชิญพิเศษ มอนสเตอร์ที่มีชนิดการ์ดเดียวกัน (Ritual, Fusion, Synchro, Xyz หรือ Link) กับชนิดการ์ดที่ควบคุมอยู่แล้ว หากคุณไม่ได้ควบคุมชนิดการ์ดเดียวกัน 2 ชนิดขึ้นไป (Ritual, Fusion, Synchro, Xyz หรือ Link) มอนสเตอร์ Ritual, Fusion, Synchro, Xyz และ Link ทั้งหมดที่คุณควบคุมอยู่จะได้รับ ATK 500 คุณสามารถเปิดใช้ \"Simul Archfiends\" ได้ 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "f5eb9a7f087be2a03c340c5fc88a0bed4b69c4ce71005db928235596d97c8d9a",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

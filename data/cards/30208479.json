@@ -1,0 +1,9 @@
+{
+  "id": "30208479",
+  "name": "Magician of Black Chaos",
+  "th": "คุณสามารถ อัญเชิญแบบพิธีกรรม (Ritual Summon) การ์ดใบนี้ด้วย \"Black Magic Ritual\"",
+  "status": "ai",
+  "en_sha256": "7bd4a89a92e81f1d11aecf9748acf0ad3e77eecf0f5408cee501857f7dadf4ae",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

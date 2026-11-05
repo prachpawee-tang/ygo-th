@@ -1,0 +1,9 @@
+{
+  "id": "59383041",
+  "name": "Toon Alligator",
+  "th": "มอนสเตอร์จระเข้จากโลกการ์ตูนโดยตรง",
+  "status": "ai",
+  "en_sha256": "3784441e806e6ace413fcaef8e905d63a04ddeeefe0bd81fae732bea94daf67e",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "74405783",
+  "name": "The Three Champions of Swordsoul",
+  "th": "1 Tuner Level 4 + 1+ non-Tuners\nถ้าการ์ดใบนี้ถูกอัญเชิญแบบ Synchro: คุณสามารถเพิ่มการ์ด Spellcaster Level 4 หรือ 8 ที่ ATK เท่ากับ DEF ของมัน จากเด็คหรือสุสาน (GY) ขึ้นมือ คุณสามารถเลือกเป้าหมายการ์ดที่หงายอยู่บนสนาม 1 ใบ; ลบล้างเอฟเฟกต์ของมัน จากนั้น ถ้าคุณมีการ์ด \"Ecclesia\" หรือ \"Fallen of Albaz\" ในสุสาน (GY) คุณสามารถทำลายการ์ดใบนั้นได้ คุณสามารถใช้แต่ละเอฟเฟกต์ของ \"The Three Brave Swordsouls\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "c01bcc2229e4409e1cd5c89f181fe4c05bff9a5d6c836ab9b3174b7d79729b05",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

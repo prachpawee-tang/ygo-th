@@ -1,0 +1,9 @@
+{
+  "id": "79234734",
+  "name": "Super Soldier Soul",
+  "th": "คุณสามารถส่งมอนสเตอร์ \"Black Luster Soldier\" 1 ตัวจากมือของคุณไปยังสุสาน (GY); จนกว่าจะถึง End Phase ถัดไปของคู่ต่อสู้, ATK ของการ์ดใบนี้จะกลายเป็น 3000, และชื่อของการ์ดใบนี้จะกลายเป็น \"Black Luster Soldier\" คุณสามารถเนรเทศการ์ดใบนี้จากสุสาน (GY) ของคุณ; เพิ่มการ์ด \"Beginning Knight\" หรือ \"Evening Twilight Knight\" 1 ใบจากเด็คของคุณขึ้นมือ คุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Super Soldier Soul\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "8d8c95927888bf17b4f195a7dbbb88d91462d5b7a5e9c016a085e104a169e8c8",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

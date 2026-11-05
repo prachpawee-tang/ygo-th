@@ -1,0 +1,9 @@
+{
+  "id": "80908502",
+  "name": "Elemental HERO Captain Gold",
+  "th": "คุณสามารถทิ้งการ์ดใบนี้ลงสุสาน; เพิ่ม \"Skyscraper\" 1 ใบจากเด็คของคุณขึ้นมือ คุณ ถ้า \"Skyscraper\" ไม่หงายอยู่บนสนาม ทำลายการ์ดใบนี้",
+  "status": "ai",
+  "en_sha256": "c8c0c7b8d38e14c613d7b12f6d7a58b2a6a25625decacd2418dbe0cbc40fabbe",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

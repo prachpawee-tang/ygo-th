@@ -1,0 +1,9 @@
+{
+  "id": "53341729",
+  "name": "Light-Imprisoning Mirror",
+  "th": "ลบล้างเอฟเฟกต์มอนสเตอร์ LIGHT ทั้งหมดที่เปิดใช้บนสนาม หรือในสุสาน (GY).",
+  "status": "ai",
+  "en_sha256": "f6062f9297bb72e588ead2216e410fd4936864ade0edeefc4e2c02a96b469706",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "48348921",
+  "name": "Number C62: Neo Galaxy-Eyes Prime Photon Dragon",
+  "th": "มอนสเตอร์ Level 8 LIGHT 3 ตัว\nคุณสามารถทำการอัญเชิญ Link มอนสเตอร์นี้โดยใช้ \"Number 62: Galaxy-Eyes Prime Photon Dragon\" ที่คุณควบคุมอยู่ (ส่ง Material ของมันไปยังการ์ดใบนี้) ณ จุดเริ่มต้น Battle Phase ของคุณ: คุณสามารถถอด Material 1 ชิ้นจากการ์ดใบนี้; การ์ดใบนี้สามารถทำการโจมตีได้สูงสุด 3 ครั้งต่อมอนสเตอร์ในช่วง Battle Phase นี้ ถ้าการ์ดใบนี้มี \"Galaxy-Eyes Photon Dragon\" เป็น Material จะได้รับ Effect เหล่านี้\n● ไม่ได้รับผลจาก Effect มอนสเตอร์ของคู่ต่อสู้\n● ได้รับ ATK เท่ากับผลรวมของ Level/Rank ของ Material ที่ติดอยู่ x 100",
+  "status": "ai",
+  "en_sha256": "02eaccca9adb1c850247b9c404e9ced2944d10939f58921b6f84b2a1f173261c",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

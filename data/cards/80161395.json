@@ -1,0 +1,9 @@
+{
+  "id": "80161395",
+  "name": "Mystik Wok",
+  "th": "สังเวยมอนสเตอร์ 1 ตัว เลือก ATK หรือ DEF ของมัน และได้รับ Life Points จำนวนเท่านั้น",
+  "status": "ai",
+  "en_sha256": "03b7db43f7a68dfc9509fc3ef345bd7bb6644f31897796635308d0721d5bccd7",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

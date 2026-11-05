@@ -1,0 +1,9 @@
+{
+  "id": "8275702",
+  "name": "Crystal Promise",
+  "th": "เลือกการ์ด \"Crystal Beast\" 1 ใบใน Spell & Trap Card Zone ของคุณ; อัญเชิญพิเศษการ์ดที่เลือก",
+  "status": "ai",
+  "en_sha256": "0a447143a1bee017dcb89bce6b9e0042731ad6f25bda018172520e5a92b39a05",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

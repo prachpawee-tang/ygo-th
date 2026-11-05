@@ -1,0 +1,9 @@
+{
+  "id": "85489096",
+  "name": "Arsenal Summoner",
+  "th": "พลิก: เพิ่มการ์ด \"Guardian\" 1 ใบจากเด็คของคุณขึ้นมือ, ยกเว้น \"Celtic Guardian\", \"Winged Dragon, Guardian of the Fortress #1\", \"Winged Dragon, Guardian of the Fortress #2\", \"Guardian of the Labyrinth\", หรือ \"The Reliable Guardian\".",
+  "status": "ai",
+  "en_sha256": "aee1bf412970cd3543571894a73e4793257bdce2e208750da686bb4937d8a9d8",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

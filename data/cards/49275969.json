@@ -1,0 +1,9 @@
+{
+  "id": "49275969",
+  "name": "Nidhogg, Generaider Boss of Ice",
+  "th": "คุณสามารถควบคุม “Nidhogg, Generaider Boss of Ice” ได้ 1 ตัวเท่านั้น เมื่อคู่ต่อสู้จะทำการอัญเชิญพิเศษมอนสเตอร์ (Quick Effect): คุณสามารถสังเวยมอนสเตอร์ \"Generaider\" 1 ตัว หรือมอนสเตอร์ Wyrm 1 ตัว; ลบล้างการอัญเชิญ และถ้าทำได้ ให้ทำลายมอนสเตอร์นั้นๆ คุณสามารถใช้เอฟเฟกต์ของ “Nidhogg, Generaider Boss of Ice” ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "92c09ff82de335374f8979f034adf736a49c4c6cac1af649ed15e0ea0793e3e8",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

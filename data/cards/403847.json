@@ -1,0 +1,9 @@
+{
+  "id": "403847",
+  "name": "The A. Forces",
+  "th": "มอนสเตอร์ Warrior-Type ทั้งหมดที่คุณควบคุม ได้รับ ATK 200 สำหรับมอนสเตอร์ Warrior หรือ Spellcaster-Type แต่ละตัวที่คุณควบคุม",
+  "status": "ai",
+  "en_sha256": "e3828af4fb0cfb12f6627198931e298919fe7931e02f78b073a1d7ccd6d3515d",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

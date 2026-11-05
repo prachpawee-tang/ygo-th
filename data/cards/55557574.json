@@ -1,0 +1,10 @@
+{
+  "id": "55557574",
+  "name": "Thunderspeed Summon",
+  "th": "ระหว่าง Main Phase หรือ Battle Phase: หลังจากเอฟเฟกต์นี้จบลงทันที, อัญเชิญปกติ มอนสเตอร์ Level 10 1 ตัว, หรือ, ถ้าคุณควบคุม \"Queen's Knight\", \"King's Knight\", และ \"Jack's Knight\", คุณสามารถใช้เอฟเฟกต์นี้แทนได้\n● เพิ่มมอนสเตอร์ Level 10 non-DARK ที่มี ? ATK จากเด็คของคุณขึ้นมือ, จากนั้น, หลังจากเอฟเฟกต์นี้จบลงทันที, คุณสามารถอัญเชิญปกติ มอนสเตอร์ Level 10 1 ตัวได้\nคุณสามารถเปิดใช้ \"Thunderspeed Summon\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "f740251526e5c4b1d0eba3d9a09ae7b9751030282bd49cc7436c94e038f41a63",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

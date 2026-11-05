@@ -1,0 +1,9 @@
+{
+  "id": "98287529",
+  "name": "Amorphactor Pain, the Imagination Dracoverlord",
+  "th": "คุณสามารถ อัญเชิญแบบ Ritual การ์ดใบนี้ด้วย \"Amorphous Persona\" ได้; ถ้าการ์ดใบนี้ถูก อัญเชิญแบบ Ritual: คู่ต่อสู้ของคุณข้าม Main Phase 1 ครั้งถัดไปของพวกเขา ลบล้างเอฟเฟกต์ของ มอนสเตอร์ Fusion, Synchro, และ Xyz ที่หงายอยู่ขณะที่พวกมันอยู่ในสนาม ถ้าการ์ดใบนี้ถูกส่งจากสนามไปยัง สุสาน: คุณสามารถเพิ่ม มอนสเตอร์ \"Dracoverlord\" 1 ตัวจาก เด็ค ของคุณขึ้นมือ ยกเว้น \"Amorphactor Pain, the Imagination Dracoverlord\"",
+  "status": "ai",
+  "en_sha256": "02f9f6ab1e5d928979599efb1202bd15c28291a988bb4fc30a74029ad7b3f9e0",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

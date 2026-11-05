@@ -1,0 +1,9 @@
+{
+  "id": "94739788",
+  "name": "Remove Brainwashing",
+  "th": "การควบคุมมอนสเตอร์ทั้งหมดบนสนามกลับไปยังเจ้าของเดิม",
+  "status": "ai",
+  "en_sha256": "b1cbd210deda62cc551790378696494edbdad414d1d90948e16428d9602f13f5",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

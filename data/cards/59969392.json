@@ -1,0 +1,9 @@
+{
+  "id": "59969392",
+  "name": "Archfiend Zombie-Skull",
+  "th": "\"Plaguespreader Zombie\" + มอนสเตอร์ Zombie ที่ไม่ใช่ Tuner 2+ ตัว\nมอนสเตอร์ Zombie ที่คุณควบคุมไม่สามารถถูกทำลายได้ด้วยเอฟเฟกต์ของการ์ด",
+  "status": "ai",
+  "en_sha256": "cb50718d1ecf13ce05a8a64dfae8587f8af96b8003977ce001b06157698dedbd",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

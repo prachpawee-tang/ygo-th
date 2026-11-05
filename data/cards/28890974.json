@@ -1,0 +1,9 @@
+{
+  "id": "28890974",
+  "name": "Celestial Transformation",
+  "th": "อัญเชิญพิเศษมอนสเตอร์ Fairy 1 ตัวจากมือของคุณ มอนสเตอร์นั้น ATK ลดลงครึ่ง และจะถูกทำลายในช่วง End Phase",
+  "status": "ai",
+  "en_sha256": "3ae5ca8d4783b906e0c8f5f2406a8f64438407efdb0ccf670c574b0208a52c1f",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

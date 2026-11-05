@@ -1,0 +1,9 @@
+{
+  "id": "12525049",
+  "name": "Symphonic Warrior Guitaar",
+  "th": "[ เอฟเฟกต์ Pendulum ]\nคุณสามารถทิ้งการ์ด 1 ใบ; อัญเชิญพิเศษมอนสเตอร์ \"Symphonic Warrior\" 1 ตัวจากเด็คของคุณ, ยกเว้น \"Symphonic Warrior Guitaar\" คุณสามารถใช้เอฟเฟกต์นี้ของ \"Symphonic Warrior Guitaar\" ได้ 1 ครั้งต่อเทิร์น\n\n[ เอฟเฟกต์มอนสเตอร์ ]\nเมื่อการ์ดใบนี้ถูกอัญเชิญปกติ: คุณสามารถเลือกเป้าหมายมอนสเตอร์ \"Symphonic Warrior\" 1 ตัวในสุสานของคุณ; อัญเชิญพิเศษมัน",
+  "status": "ai",
+  "en_sha256": "736836ac39db430a37d3cfdeada4846e976a432578a7d26177b50d997ba30b43",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

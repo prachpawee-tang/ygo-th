@@ -1,0 +1,9 @@
+{
+  "id": "7573135",
+  "name": "Gladiator Beast Augustus",
+  "th": "เมื่อการ์ดใบนี้ถูกอัญเชิญพิเศษโดยเอฟเฟกต์ของมอนสเตอร์ \"Gladiator Beast\": คุณสามารถอัญเชิญพิเศษมอนสเตอร์ \"Gladiator Beast\" 1 ตัวจากมือของคุณในท่าป้องกัน คุณสามารถสับกลับเข้าเด็คในช่วง End Phase ที่สิ้นสุด Battle Phase, ถ้าการ์ดใบนี้โจมตีหรือถูกโจมตี: คุณสามารถสับกลับเข้าเด็ค; อัญเชิญพิเศษมอนสเตอร์ \"Gladiator Beast\" 1 ตัวจากเด็คของคุณ ยกเว้น \"Gladiator Beast Augustus\"",
+  "status": "ai",
+  "en_sha256": "b9da57bd5ae7e91f6802dcaf09ee29dfd020d8da71cc834c8ebc6d0cbd6b6739",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

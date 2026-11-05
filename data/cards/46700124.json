@@ -1,0 +1,9 @@
+{
+  "id": "46700124",
+  "name": "Machine King",
+  "th": "การ์ดใบนี้ได้รับ ATK 100 ต่อมอนสเตอร์ประเภท Machine ที่อยู่ในสนาม",
+  "status": "ai",
+  "en_sha256": "20fa70ce52cf3e9e1e456a3c70ca3daa2a732d3cef314029a2410ca95702b0f4",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

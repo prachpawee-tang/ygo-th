@@ -1,0 +1,9 @@
+{
+  "id": "36484016",
+  "name": "Miracle Synchro Fusion",
+  "th": "นำออกจากสนามหรือสุสานของคุณ, มอนสเตอร์ Material สำหรับ Fusion ที่ระบุไว้บน Fusion Monster Card ที่ระบุ Synchro Monster เป็น Fusion Material Monster, และ อัญเชิญพิเศษ มอนสเตอร์ Fusion นั้นจาก เอ็กซ์ตร้าเด็ค (การ อัญเชิญพิเศษ นี้ถือเป็นการ Fusion Summon) ถ้าการ์ดที่เซ็ตนี้ถูกทำลายโดยเอฟเฟกต์ของการ์ดของคู่ต่อสู้และส่งลงสุสาน, จั่วการ์ด 1 ใบ",
+  "status": "ai",
+  "en_sha256": "72edf7b93b481fc785869b5f2244653ee84eed304ff7534f841bc56459f5af95",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

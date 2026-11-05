@@ -1,0 +1,9 @@
+{
+  "id": "6077601",
+  "name": "Frightfur Fusion",
+  "th": "อัญเชิญแบบ Fusion มอนสเตอร์ \"Frightfur\" Fusion 1 ตัวจาก เอ็กซ์ตร้าเด็ค ของคุณ โดยเนรเทศ Material การ Fusion ที่ระบุไว้บนการ์ดจาก สนาม หรือ สุสาน ของคุณ คุณสามารถเปิดใช้ \"Frightfur Fusion\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "96f8309c78d34fe898f1c100fcd9f964e26d5e625675c77454df6d5257f58d1d",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

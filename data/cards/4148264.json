@@ -1,0 +1,10 @@
+{
+  "id": "4148264",
+  "name": "Shiny Black \"C\" Squadder",
+  "th": "“เมื่อใดก็ตามที่มีเงา คุณจะพบกับ “C” Squad! ความสามารถในการบินที่ซ่อนอยู่ของพวกเขาช่วยให้พวกเขาเผชิญหน้ากับยักษ์ใหญ่ได้อย่างเสมอภาค!”",
+  "status": "ai",
+  "en_sha256": "da079c58cb7c0803897c5d96d7daa273f433fd656ddbb383f7f8082a02c0b193",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05",
+  "note": "rule-check: card names in quotes changed/missing: \"C\""
+}

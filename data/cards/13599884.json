@@ -1,0 +1,9 @@
+{
+  "id": "13599884",
+  "name": "Steel Scorpion",
+  "th": "มอนสเตอร์ชนิดที่ไม่ใช่ Machine-Type ที่โจมตี \"Steel Scorpion\" จะถูกทำลายในช่วง End Phase ของเทิร์นที่ 2 ของคู่ต่อสู้หลังจากการโจมตี",
+  "status": "ai",
+  "en_sha256": "2f72261f938a9df56bb281e0887b84e2db6729106faea2573e274e7c5366208b",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

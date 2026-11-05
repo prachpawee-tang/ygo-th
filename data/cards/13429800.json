@@ -1,0 +1,9 @@
+{
+  "id": "13429800",
+  "name": "Great White",
+  "th": "ฉลามขาวตัวใหญ่ที่มีฟันแหลมคมราวกับมีด",
+  "status": "ai",
+  "en_sha256": "42ba16f579deee04487c23f2e0cbb4dd231adab1f9bb7aabfe4f5090c66e428a",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

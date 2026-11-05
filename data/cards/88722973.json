@@ -1,0 +1,9 @@
+{
+  "id": "88722973",
+  "name": "Majester Paladin, the Ascending Dracoslayer",
+  "th": "มอนสเตอร์ Level 4 2 ตัว\nเมื่อการ์ดนี้ถูกอัญเชิญแบบ Xyz: คุณสามารถเพิ่มมอนสเตอร์ Pendulum 1 ตัวจากเด็คของคุณขึ้นมือระหว่าง End Phase ของเทิร์นนี้ ใช้ได้ 1 ครั้งต่อเทิร์น: คุณสามารถถอด Material Xyz 1 ตัวจากการ์ดนี้; อัญเชิญพิเศษมอนสเตอร์ \"Dracoslayer\" Pendulum ที่หงายอยู่ 1 ตัวจากเอ็กซ์ตร้าเด็คของคุณ แต่ไม่สามารถใช้เป็น Material Xyz สำหรับการอัญเชิญได้",
+  "status": "ai",
+  "en_sha256": "be34bd0be98f66ab7c69c2fc6a5c10d36d30afbc4f610b5571f4a8dc257bcac6",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

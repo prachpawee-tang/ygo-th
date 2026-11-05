@@ -1,0 +1,9 @@
+{
+  "id": "19642774",
+  "name": "Fleur Synchron",
+  "th": "ถ้าการ์ดใบนี้ถูกส่งลงสุสาน (GY) เป็น Material Synchro: คุณสามารถ อัญเชิญพิเศษ มอนสเตอร์ Level 2 หรือต่ำกว่า 1 ตัวจาก มือ",
+  "status": "ai",
+  "en_sha256": "805db10b17eea8ca0093bb25bf32dac81bc97d17d786f7429def44fa5281e899",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

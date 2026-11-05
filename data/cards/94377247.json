@@ -1,0 +1,9 @@
+{
+  "id": "94377247",
+  "name": "Curse of the Masked Beast",
+  "th": "การ์ดใบนี้ใช้ในการอัญเชิญแบบพิธีกรรม \"The Masked Beast\" คุณต้องสังเวยมอนสเตอร์จากมือหรือสนามของคุณที่มี Level รวมกันเท่ากับ 8 หรือมากกว่า",
+  "status": "ai",
+  "en_sha256": "f791eb95a6d18ef2713ad899dcd6e5eb271ca63631b36df172951bad35ee0bc8",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

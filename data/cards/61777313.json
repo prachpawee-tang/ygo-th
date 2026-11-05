@@ -1,0 +1,9 @@
+{
+  "id": "61777313",
+  "name": "Vanadis of the Nordic Ascendant",
+  "th": "สำหรับการอัญเชิญ Synchro, คุณสามารถใช้การ์ดนี้แทน \"Nordic\" Tuner ตัวใดก็ได้ 1 ตัว หากการ์ดนี้ถูกใช้เป็น Material Synchro, Material Synchro อื่นๆ ทั้งหมดต้องเป็นมอนสเตอร์ \"Nordic\" 1 ครั้งต่อเทิร์น: คุณสามารถส่งมอนสเตอร์ \"Nordic\" 1 ตัวจากเด็คของคุณลงสุสาน; Level ของการ์ดนี้จะกลายเป็น Level ของมอนสเตอร์นั้น จนกว่าจะจบเทิร์นนี้",
+  "status": "ai",
+  "en_sha256": "fa4cb4d47adcc96cb4e298a2940e9ee948e275d0b67bb686e49ecd3837e0e203",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

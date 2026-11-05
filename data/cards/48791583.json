@@ -1,0 +1,9 @@
+{
+  "id": "48791583",
+  "name": "Invoked Magellanica",
+  "th": "\"Aleister the Invoker\" + มอนสเตอร์ EARTH 1 ตัว",
+  "status": "ai",
+  "en_sha256": "2b7bf8d5b11f9442a1e220b04e3d234174ef9ae30a83139a8330b968e23d0934",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "33413638",
+  "name": "Cockroach Knight",
+  "th": "เมื่อการ์ดใบนี้ถูกส่งลงสุสาน (GY) มันจะถูกส่งกลับไปยังบนสุดของเด็ค",
+  "status": "ai",
+  "en_sha256": "1237529e13ecbc0881c9be5ee1c908752f79e462df7ba65d5ace0fcafc631956",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "84478195",
+  "name": "Barrier Statue of the Abyss",
+  "th": "ห้ามทำการ อัญเชิญพิเศษ มอนสเตอร์ ยกเว้น มอนสเตอร์ DARK",
+  "status": "ai",
+  "en_sha256": "70b1c436721641c1f0595cd93e71ea828d10978f622cae2a58b966be7feb1956",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "89272878",
+  "name": "Guardian of the Labyrinth",
+  "th": "มอนสเตอร์ที่คอยปกป้องทางเข้าสู่โลกหลังความตาย",
+  "status": "ai",
+  "en_sha256": "3bcd90b4c00e3b8350213ccf87205ac363e54df297af0466b64eed5e06e2c39d",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

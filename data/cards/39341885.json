@@ -1,0 +1,9 @@
+{
+  "id": "39341885",
+  "name": "Radiant Typhoon Varuroon, the Marine Eidolon",
+  "th": "มอนสเตอร์ \"Radiant Typhoon\" 2 ตัว\nถ้าการ์ดนี้ถูกอัญเชิญ Link: คุณสามารถเพิ่มการ์ด \"Mystical Space Typhoon\" 1 ใบจากเด็คหรือสุสาน (GY) ขึ้นมือ คุณสามารถเลือกมอนสเตอร์หงายอยู่บนสนาม 2 ตัว ซึ่งรวมถึงมอนสเตอร์ \"Radiant Typhoon\" ที่คุณควบคุม 1 ตัว; วางพวกมันคว่ำหน้าใน Spell & Trap Zones ของเจ้าของเป็นการ์ด Continuous Spell ถ้ามีการ์ด Spell Quick-Play ถูกเปิดใช้ (ยกเว้นระหว่าง Damage Step): คุณสามารถวางการ์ด Continuous Trap \"Radiant Typhoon\" 1 ใบจากเด็คหรือสุสาน (GY) คว่ำหน้าบนสนามของคุณ คุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Radiant Typhoon Varuroon, the Marine Eidolon\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "a185484930210080ee603a95ea2b1124a8ea3392a48710ab53c5a4cb8b0958a0",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

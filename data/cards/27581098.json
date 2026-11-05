@@ -1,0 +1,9 @@
+{
+  "id": "27581098",
+  "name": "Non-Fusion Area",
+  "th": "ผู้เล่นทั้งสองไม่สามารถ อัญเชิญแบบรวมร่าง (Fusion Summon) ได้",
+  "status": "ai",
+  "en_sha256": "9515bda28ec7293615542abe8dcfe7d9346fff4b84ff6dcde64b43b469e829dd",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "59138498",
+  "name": "Martyr of the Sacred Beasts",
+  "th": "ถ้าการ์ดใบนี้ถูกอัญเชิญปกติหรืออัญเชิญพิเศษ: คุณสามารถวางการ์ด “Sacred Beast” Field Spell หรือการ์ด Spell/Trap แบบต่อเนื่อง “Sacred Beast” 1 ใบจากเด็คของคุณ หงายอยู่บนสนามของคุณ ถ้าคุณควบคุมมอนสเตอร์ “Sacred Beast” อีกตัว: คุณสามารถอัญเชิญพิเศษ “Martyr of the Sacred Beasts” 2 ตัวจากมือ, เด็ค, และ/หรือ สุสาน (GY) ได้ ในระหว่าง End Phase ของคู่ต่อสู้, ถ้าคุณมีการ์ดใบนี้และมอนสเตอร์ Level 10 “Sacred Beast” อยู่ในสุสาน (GY): คุณสามารถเพิ่มการ์ดใบนี้ขึ้นมือได้ แต่ละเอฟเฟกต์ของ “Martyr of the Sacred Beasts” ใช้ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "0427f1d03643b3f08b63cb491b78821a01dd1c9bc710d6dff796c411153464dd",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

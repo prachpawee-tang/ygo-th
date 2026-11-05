@@ -1,0 +1,9 @@
+{
+  "id": "48736598",
+  "name": "Codebreaker Virus Berserker",
+  "th": "มอนสเตอร์ 2+ ตัว, รวมมอนสเตอร์ \"Codebreaker\"\nเมื่อการ์ดใบนี้ถูกอัญเชิญพิเศษ: ถ้ามันถูก Co-Link: คุณสามารถอัญเชิญพิเศษมอนสเตอร์ \"Codebreaker\" ได้สูงสุด 2 ตัวจากมือและ/หรือ สุสาน (GY) ไปยัง Main Monster Zone/Extra Monster Zone ใดก็ได้ที่มอนสเตอร์ Link ชี้อยู่ ในระหว่าง Main Phase ของคุณ: คุณสามารถทำลาย Spell/Trap ที่คู่ต่อสู้ควบคุมได้, สูงสุดตามจำนวนมอนสเตอร์ \"Codebreaker\" ที่ Link อยู่บนสนาม คุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Codebreaker Virus Berserker\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "e3d35127b280fb59f0a1821131fa4b2c6485168287f5219fc78d78e3c6cb2015",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

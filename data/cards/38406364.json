@@ -1,0 +1,9 @@
+{
+  "id": "38406364",
+  "name": "Some Summer Summoner",
+  "th": "2 มอนสเตอร์ “Thunder”\n1 ครั้งต่อเทิร์นของคู่ต่อสู้ (Quick Effect): คุณสามารถทิ้งการ์ด 1 ใบ จากนั้นเลือkmอนสเตอร์ “Thunder” 1 ตัวในสุสานของคุณ ยกเว้นมอนสเตอร์ Link; อัญเชิญพิเศษมันไปยัง Main Monster Zone ที่การ์ดใบนี้ชี้",
+  "status": "ai",
+  "en_sha256": "dea2d30fba6743597467943d2994951ab545ae6febe745a0ba081801735c023d",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

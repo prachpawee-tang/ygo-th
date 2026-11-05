@@ -1,0 +1,9 @@
+{
+  "id": "89172051",
+  "name": "Dragunity Legatus",
+  "th": "ถ้าคุณควบคุม \"Dragon Ravine\" หรือมอนสเตอร์ \"Dragunity\": คุณสามารถอัญเชิญพิเศษการ์ดใบนี้จากมือของคุณได้ ถ้าการ์ด Spell & Trap \"Dragunity\" อยู่ใน Spell & Trap Zone ของคุณ: คุณสามารถเลือกเป้าหมาย Spell/Trap 1 ใบในสนาม; ทำลายมัน คุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Dragunity Legatus\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "2fa9a14906035b4349acf7f09c247407c88d9c05d00c968b5c429a17bce47692",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

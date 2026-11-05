@@ -1,0 +1,10 @@
+{
+  "id": "12524259",
+  "name": "Unauthorized Reactivation",
+  "th": "เลือกเป้าหมายมอนสเตอร์ Machine ที่คุณควบคุม; อุปกรณ์มอนสเตอร์ Machine Union ที่เหมาะสม 1 ตัวจากมือหรือเด็คของคุณไปยังมอนสเตอร์นั้น แต่ มอนสเตอร์ Union ที่คุณอุปกรณ์ไว้ไม่สามารถอัญเชิญพิเศษในเทิร์นนี้ได้ คุณสามารถเปิดใช้ \"Unauthorized Reactivation\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "c8b2e3a9e268a853931e675f75746b982003a6a43d7ef52a271294f654793b96",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

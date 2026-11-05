@@ -1,0 +1,9 @@
+{
+  "id": "95952802",
+  "name": "Flower Wolf",
+  "th": "\"Silver Fang\" + \"Darkworld Thorns\"",
+  "status": "ai",
+  "en_sha256": "772e7c30c8c6b3320d1ca63e8c3a027d22f6611e19a3028d7dd2b60db7c3f3b5",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

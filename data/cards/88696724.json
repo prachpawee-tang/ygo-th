@@ -1,0 +1,9 @@
+{
+  "id": "88696724",
+  "name": "The Earth - Hex-Sealed Fusion",
+  "th": "คุณสามารถใช้การ์ดนี้แทนมอนสเตอร์ Material Fusion 1 ตัวได้ แต่ Material Fusion มอนสเตอร์อื่นๆ จะต้องถูกต้อง คุณสามารถ สังเวย Material Fusion มอนสเตอร์บนสนาม รวมถึงการ์ดหงายหน้าใบนี้ได้; อัญเชิญพิเศษ มอนสเตอร์ Fusion ประเภท EARTH ที่ตรงกัน 1 ตัวจาก เอ็กซ์ตร้าเด็ค ของคุณ",
+  "status": "ai",
+  "en_sha256": "3ef3ae5a063f61bd109f875ead73d9f8f136c2d899dc3a10c3ecfdeae732749e",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

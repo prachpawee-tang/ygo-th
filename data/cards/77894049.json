@@ -1,0 +1,9 @@
+{
+  "id": "77894049",
+  "name": "Vanquish Soul Rocks",
+  "th": "มอนสเตอร์ Level 4 \"Vanquish Soul\" 2+ ตัว\n1 ครั้งต่อเทิร์น, ถ้ามอนสเตอร์ \"Vanquish Soul\" ต่อสู้ในเทิร์นนี้, คุณสามารถ Xyz Summon \"Vanquish Soul Rocks\" โดยใช้มอนสเตอร์ \"Vanquish Soul\" 1 ตัว หรือ \"Rock of the Vanquisher\" 1 ตัวที่คุณควบคุม (ส่ง Material ของมันไปยังการ์ดนี้) ได้รับ Effect ดังต่อไปนี้, ขึ้นอยู่กับ Attribute ของ Material ที่ติดอยู่:\n● DARK: มอนสเตอร์ทั้งหมดที่คู่ต่อสู้ควบคุม ลด ATK 800\n● FIRE: มอนสเตอร์ \"Vanquish Soul\" ที่คุณควบคุม เพิ่ม ATK 1000\n● EARTH: คุณสามารถถอด Material 1 ตัวจากมอนสเตอร์นี้; ทำลายการ์ด 1 ใบที่คู่ต่อสู้ควบคุม",
+  "status": "ai",
+  "en_sha256": "33805c2b3472b4546386cf95b7cb30165e4ddf0e58bf88a94ec1194eacb27f4d",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

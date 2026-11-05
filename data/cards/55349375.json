@@ -1,0 +1,9 @@
+{
+  "id": "55349375",
+  "name": "Bluebeard, the Plunder Patroll Shipwright",
+  "th": "ถ้าคุณควบคุมมอนสเตอร์ \"Plunder Patroll\" ยกเว้น \"Bluebeard, the Plunder Patroll Shipwright\": คุณสามารถ อัญเชิญพิเศษการ์ดใบนี้จากมือของคุณได้ ถ้าการ์ดใบนี้ถูกส่งจากมือหรือ Main Monster Zone ไปที่ สุสาน (GY): คุณสามารถ ทิ้งการ์ด 1 ใบ; จั่วการ์ด 1 ใบ คุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Bluebeard, the Plunder Patroll Shipwright\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "3f579d45a7aa28e2e9f41c4eae94419e0450b19554aa6cd10772c79550b9e059",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "4628897",
+  "name": "Imperion Magnum the Superconductive Battlebot",
+  "th": "\"Valkyrion the Magna Warrior\" + \"Berserkion the Electromagna Warrior\"\nต้องทำการฟิวชันซัมมอนด้วยวัตถุดิบฟิวชันข้างต้น และไม่สามารถอัญเชิญพิเศษด้วยวิธีอื่นได้ ใช้ได้ 1 ครั้งต่อเทิร์น ในเทิร์นของผู้เล่นคนใดก็ได้ เมื่อคู่ต่อสู้เปิดใช้การ์ด Spell/Trap หรือเอฟเฟกต์มอนสเตอร์: คุณสามารถลบล้างการเปิดใช้นั้นได้ และถ้าทำได้ ให้ทำลายการ์ดนั้น ถ้าการ์ดใบนี้ที่หงายอยู่ภายใต้การควบคุมของผู้เป็นเจ้าของ ออกจากสนามเนื่องจากเอฟเฟกต์การ์ดของคู่ต่อสู้: คุณสามารถอัญเชิญพิเศษทั้ง \"Valkyrion the Magna Warrior\" และ \"Berserkion the Electromagna Warrior\" จากมือและ/หรือเด็คของคุณ โดยไม่สนใจเงื่อนไขการอัญเชิญของพวกมัน",
+  "status": "ai",
+  "en_sha256": "72c17ca69445792c958a3605cb8c5dccde934aba4954894f8789c818f1705ae6",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "15401633",
+  "name": "Kagemusha of the Blue Flame",
+  "th": "ทำหน้าที่เป็นตัวแทนของ \"Ruler of the Blue Flame\", เขาเป็นนักดาบที่เชี่ยวชาญซึ่งใช้ดาบที่ยอดเยี่ยม",
+  "status": "ai",
+  "en_sha256": "6637783fcc1c263a87346e49d71ba12c4d48d1dbd95f03a9e97541df97c8c0e0",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

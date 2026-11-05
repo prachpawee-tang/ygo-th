@@ -1,0 +1,9 @@
+{
+  "id": "80168720",
+  "name": "Darkness Approaches",
+  "th": "ทิ้งการ์ด 2 ใบจากมือของคุณ เลือกมอนสเตอร์หงาย 1 ตัว และเปลี่ยนมันเป็นท่าป้องกันคว่ำ",
+  "status": "ai",
+  "en_sha256": "b09a716919a0ecf9b997e77d3b7b2db79e42d0bebedac836eca498e6a4c4ff25",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "40410110",
+  "name": "Homunculus the Alchemic Being",
+  "th": "1 ครั้งต่อเทิร์น: คุณสามารถเปลี่ยน Attribute ของการ์ดใบนี้ได้",
+  "status": "ai",
+  "en_sha256": "d5e707d03f8101d4a2637558e1ea8e81ea12ffd02cbb33fbfffa4da811580a09",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

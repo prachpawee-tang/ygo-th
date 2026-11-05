@@ -1,0 +1,9 @@
+{
+  "id": "8978197",
+  "name": "The King of D.",
+  "th": "ชื่อของการ์ดใบนี้จะเปลี่ยนเป็น \"Lord of D.\" ตราบเท่าที่มันอยู่ในสนาม เมื่อการ์ดใบนี้ถูกอัญเชิญปกติ: คุณสามารถทิ้งการ์ดเวทมนตร์ (Spell)/กับดัก (Trap) 1 ใบ; เพิ่มการ์ด \"The Flute of Summoning Dragon\", \"The Melody of Awakening Dragon\", หรือ \"Dragon Revival Rhapsody\" 1 ใบจากเด็คของคุณขึ้นมือ",
+  "status": "ai",
+  "en_sha256": "b008100776b9d09e7ca7d373b7a1d7601f120421c53bec0dc4692839aa33f0f5",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

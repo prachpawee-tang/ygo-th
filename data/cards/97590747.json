@@ -1,0 +1,12 @@
+{
+  "id": "97590747",
+  "name": "La Jinn the Mystical Genie of the Lamp",
+  "th": "จินนี่แห่งคบไฟที่พร้อมจะทำตามคำสั่งของผู้เป็นนาย",
+  "status": "ai",
+  "en_sha256": "9faf7dab1f1e1b49e9c972328009929b7aca7aa7ef9a901df4569a28a4ac20b2",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05",
+  "alt": [
+    "97590748"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "94634433",
+  "name": "Urgent Tuning",
+  "th": "ระหว่าง Battle Phase: หลังจากเอฟเฟกต์นี้จบลงทันที, อัญเชิญ Synchro มอนสเตอร์ 1 ตัวโดยใช้มอนสเตอร์ที่คุณควบคุม",
+  "status": "ai",
+  "en_sha256": "000fede27bde5d93473bf49c6af1c557726263a63b5689c2e6c68cebd8bd7c29",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

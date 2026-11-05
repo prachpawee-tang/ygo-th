@@ -1,0 +1,9 @@
+{
+  "id": "87303357",
+  "name": "Shining Abyss",
+  "th": "มอนสเตอร์ตัวนี้ใช้พลังของทั้งแสงและเงามืด",
+  "status": "ai",
+  "en_sha256": "74bba94fe2679678a924c2e911ff666659f41fbcb4ebdb39f9755a302527be9d",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

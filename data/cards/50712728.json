@@ -1,0 +1,9 @@
+{
+  "id": "50712728",
+  "name": "Gravekeeper's Curse",
+  "th": "ถ้าการ์ดใบนี้ถูกอัญเชิญ: สร้างความเสียหาย 500 ให้กับคู่ต่อสู้",
+  "status": "ai",
+  "en_sha256": "5e2c8b89e8bd4e6a1ff9bf8c656654b6ddf3e2ed56a65838000ad4e6ca56ee85",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

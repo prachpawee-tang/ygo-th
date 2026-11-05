@@ -1,0 +1,10 @@
+{
+  "id": "18756904",
+  "name": "White Elephant's Gift",
+  "th": "ส่งมอนสเตอร์ non-Effect ที่หงายอยู่ที่คุณควบคุมลงสุสาน; จั่วการ์ด 2 ใบ",
+  "status": "ai",
+  "en_sha256": "322e32760d8823755af7c2a1fa0d63b896546749d0e1eec98dc21a9febf0b5db",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

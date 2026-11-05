@@ -1,0 +1,10 @@
+{
+  "id": "69852487",
+  "name": "Astraltopia",
+  "th": "ถ้ามีมอนสเตอร์ Xyz อยู่บนสนาม: คุณสามารถอัญเชิญพิเศษการ์ดใบนี้จากมือของคุณได้ คุณสามารถส่งการ์ดอื่น 1 ใบจากมือหรือสนามของคุณไปยังสุสาน: เพิ่มการ์ด Spell/Trap \"Xyz\", \"Onomat\", \"Zexal\" หรือ \"Number\" 1 ใบจากเด็คของคุณขึ้นมือ คุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Astraltopia\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "7bdc7aef689a82def993fc0c75ff842dc3e5bd6e2991974742303a0e79fa096f",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05",
+  "note": "rule-check: fewer \";\" than English (0 < 1) — cost/resolution split may be lost"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "15173384",
+  "name": "Illusionist Faceless Magician",
+  "th": "ถ้า \"Eyes Restrict\" Fusion Monster ที่หงายอยู่ หรือ \"Relinquished\" ที่คุณควบคุมถูกทำลายโดยการต่อสู้หรือเอฟเฟกต์ของการ์ด: คุณสามารถ อัญเชิญพิเศษ การ์ดใบนี้จาก สุสาน (ถ้ามันอยู่ที่นั่นตอนที่มอนสเตอร์ตัวนั้นถูกทำลาย) หรือ มือ (แม้ว่าจะไม่ได้อยู่) คุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Illusionist Faceless Magician\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "a25823aba6b4592401157a40da5cc1e21c39f743f750520b802d9d34e579d000",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05",
+  "note": "rule-check: fewer \";\" than English (0 < 1) — cost/resolution split may be lost; fewer \":\" than English (1 < 2) — activation condition may be lost"
+}

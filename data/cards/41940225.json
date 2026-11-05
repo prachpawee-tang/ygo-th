@@ -1,0 +1,9 @@
+{
+  "id": "41940225",
+  "name": "Destruction Swordsman Fusion",
+  "th": "อัญเชิญ Fusion 1 ตัวที่ระบุชื่อ \"Buster Blader\" เป็น Material จาก เอ็กซ์ตร้าเด็ค โดยใช้ มอนสเตอร์จาก มือ หรือทั้งสองด้านของ สนาม เป็น Fusion Materials ถ้าการ์ดใบนี้อยู่ใน สุสาน: คุณสามารถส่งการ์ด 1 ใบจาก มือ ลง สุสาน; เพิ่มการ์ดใบนี้ขึ้น มือ คุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Destruction Swordsman Fusion\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "27ad04138d668b9dd0a818dafe41d3e1e645d86d8fdd217cbf2b0c89ed822d1f",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

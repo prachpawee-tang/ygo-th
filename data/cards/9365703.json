@@ -1,0 +1,9 @@
+{
+  "id": "9365703",
+  "name": "Speed Warrior",
+  "th": "1 ครั้งต่อ Battle Phase, ถ้าการ์ดใบนี้ถูก อัญเชิญปกติ ในเทิร์นนี้ (ยกเว้นระหว่าง Damage Step): คุณสามารถทำให้ ATK ของมันกลายเป็นสองเท่าของ ATK เดิม จนจบ Battle Phase",
+  "status": "ai",
+  "en_sha256": "e1599bf5eb8f73ec949868cc5d5ed61bb0832741075b013377640aa42e577631",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

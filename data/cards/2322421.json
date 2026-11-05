@@ -1,0 +1,9 @@
+{
+  "id": "2322421",
+  "name": "Road Warrior",
+  "th": "\"Road Synchron\" + มอนสเตอร์ non-Tuner 2 ตัวขึ้นไป\n1 ครั้งต่อเทิร์น: คุณสามารถ อัญเชิญพิเศษ มอนสเตอร์ Warrior หรือ Machine-Type ระดับ 2 หรือต่ำกว่า 1 ตัวจากเด็คของคุณ",
+  "status": "ai",
+  "en_sha256": "ece37ae58fb8a51ae9ad890eb4fe047f72a43ce9632a6c280107153998d52c28",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "37931734",
+  "name": "Generaider Boss Fight",
+  "th": "เปิดใช้ “Generaider” Field Spell 1 ใบโดยตรงจากเด็คของคุณหรือสุสาน, จากนั้นคู่ต่อสู้จั่วการ์ด 1 ใบ คุณสามารถเปิดใช้ “Generaider Boss Fight” ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "829450c39f2c9a0b41239c111ad2b39e2cd28dc73d72f809a681348047980709",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

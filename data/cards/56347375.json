@@ -1,0 +1,9 @@
+{
+  "id": "56347375",
+  "name": "Ignis Phoenix, the Dracoslayer",
+  "th": "[ เอฟเฟกต์ Pendulum ] \nระหว่าง Main Phase ของคุณ: คุณสามารถสับมอนสเตอร์ Pendulum ที่หงายอยู่ 1 ตัวจาก เอ็กซ์ตร้าเด็ค กลับเข้าเด็ค จากนั้นเพิ่มมอนสเตอร์ \"Dracoslayer\" หรือ \"Igknight\" ที่ไม่ใช่ Pendulum จากเด็คของคุณขึ้นมือ คุณสามารถใช้เอฟเฟกต์นี้ของ \"Ignis Phoenix, the Dracoslayer\" ได้ 1 ครั้งต่อเทิร์น\n\n[ เอฟเฟกต์มอนสเตอร์ ] \n(การ์ดใบนี้ถือเป็นการ์ด \"Igknight\" เสมอ)\nถ้าการ์ดใบนี้ในสนามถูกทำลายโดยการต่อสู้หรือเอฟเฟกต์ของการ์ด: คุณสามารถ อัญเชิญพิเศษ มอนสเตอร์ \"Dracoslayer\" หรือ \"Igknight\" 1 ตัวจากเด็คของคุณ ยกเว้น \"Ignis Phoenix, the Dracoslayer\" และถ้าทำได้ การ์ดใบนั้นจะถือว่าเป็น Tuner คุณสามารถใช้เอฟเฟกต์นี้ของ \"Ignis Phoenix, the Dracoslayer\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "6f79f5862e54a3fcbddadd1c7d4b79c7601db743a9483778692be8ffb00e64a1",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

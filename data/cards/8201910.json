@@ -1,0 +1,9 @@
+{
+  "id": "8201910",
+  "name": "Star Boy",
+  "th": "ตราบใดที่การ์ดใบนี้ยังหงายอยู่บนสนาม เพิ่ม ATK ของมอนสเตอร์ WATER ทั้งหมด 500 points และลด ATK ของมอนสเตอร์ FIRE ทั้งหมด 400 points",
+  "status": "ai",
+  "en_sha256": "2384daad95fade901b13711758e63fbfef0b64b4bddfe475a1f63fde2d6f947e",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

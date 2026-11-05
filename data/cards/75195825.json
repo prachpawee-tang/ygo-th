@@ -1,0 +1,9 @@
+{
+  "id": "75195825",
+  "name": "Master Pendulum, the Dracoslayer",
+  "th": "[ เอฟเฟกต์ Pendulum ]\n1 ครั้ง ในขณะที่การ์ดใบนี้อยู่ใน Pendulum Zone ของคุณ: คุณสามารถเลือกเป้าหมายการ์ด 1 ใบใน Pendulum Zone; ทำลายมัน\n\n[ เอฟเฟกต์มอนสเตอร์ ] \n''\"Luster Pendulum, the Dracoslayer\" ยังคงเดินทางเพื่อเปิดเผยความลับของ Dragon Alchemy เชื่อว่าเป็นกุญแจสำคัญในการลบล้างคำสาปและฟื้นคืนความทรงจำของเขา พลังของเขายังคงเติบโต... บางทีพลังเดียวกันที่ Dracofiends ใช้?''",
+  "status": "ai",
+  "en_sha256": "6f368dae0b1bd6be03a1ae80c76c681c32d7aa63f20ea0dc3574c657acb61d64",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

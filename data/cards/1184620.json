@@ -1,0 +1,9 @@
+{
+  "id": "1184620",
+  "name": "Kojikocy",
+  "th": "นักล่าผู้มีแขนอันทรงพลังที่สามารถบดหินได้",
+  "status": "ai",
+  "en_sha256": "a58ba7c0e9f1cd34e43f6dfaa785e69e01120701474765e8abf81fb7ef31d8e6",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

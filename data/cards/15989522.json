@@ -1,0 +1,9 @@
+{
+  "id": "15989522",
+  "name": "Gaia the Magical Knight of Dragons",
+  "th": "มอนสเตอร์ \"Gaia The Fierce Knight\" 1 ตัว + มอนสเตอร์ Dragon เลเวล 5 1 ตัว\nชื่อของการ์ดนี้จะเปลี่ยนเป็น \"Gaia the Dragon Champion\" ตราบเท่าที่มันอยู่ในสนาม คุณสามารถใช้แต่ละเอฟเฟกต์ต่อไปนี้ของ \"Gaia the Magical Knight of Dragons\" ได้ 1 ครั้งต่อเทิร์น ① ในช่วง Main Phase (Quick Effect): คุณสามารถเลือกเป้าหมายการ์ด 1 ใบในสนาม; การ์ดนี้จะเสีย ATK 2600 และถ้าเสีย, ทำลายการ์ดนั้น ② เมื่อการ์ดนี้ทำลายมอนสเตอร์ของคู่ต่อสู้ด้วยการต่อสู้: คุณสามารถทำให้การ์ดนี้ได้รับ ATK 2600",
+  "status": "ai",
+  "en_sha256": "30b9dc2ac70d77396a893fb855fd1eb143d05ba9867c8bcfa5c365cd0a22faad",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

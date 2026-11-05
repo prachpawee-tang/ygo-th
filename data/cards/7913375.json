@@ -1,0 +1,9 @@
+{
+  "id": "7913375",
+  "name": "Artillery Catapult Turtle",
+  "th": "คุณสามารถสังเวยมอนสเตอร์ 1 ตัว; อัญเชิญพิเศษมอนสเตอร์ \"Gaia The Fierce Knight\" 1 ตัว หรือมอนสเตอร์ Dragon เลเวล 5 จากมือหรือเด็คของคุณ คุณสามารถใช้เอฟเฟกต์ของ \"Artillery Catapult Turtle\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "ef145a8072e16fecd2df85e99c650fe67bd8a48becc7c8809254711452e48c2d",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

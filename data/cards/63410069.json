@@ -1,0 +1,9 @@
+{
+  "id": "63410069",
+  "name": "Desert Locusts",
+  "th": "1 Tuner + 1+ non-Tuner monsters\nถ้าการ์ดนี้ถูกอัญเชิญแบบ Synchro: ผู้เล่นที่เปิดใช้ทิ้งการ์ด 1 ใบ คุณสามารถใช้เอฟเฟกต์ของ \"Desert Locusts\" ได้ 1 ครั้งต่อเทิร์น เมื่อ Chain 1 ครั้ง ระหว่าง Main Phase ของคู่ต่อสู้ คุณสามารถ (Quick Effect): ทันทีหลังจากเอฟเฟกต์นี้แก้ไขเสร็จสิ้น อัญเชิญแบบ Synchro โดยใช้การ์ดนี้ที่ควบคุมอยู่",
+  "status": "ai",
+  "en_sha256": "01ba6b6cde6c9dbc32fce49ebca2978096b2e1f15d5c3b7731db9b0b53d1f9d4",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

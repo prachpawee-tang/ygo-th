@@ -1,0 +1,9 @@
+{
+  "id": "91182675",
+  "name": "Mythical Beast Jackal",
+  "th": "[ เอฟเฟกต์ Pendulum ] \nถ้าคุณไม่มีการ์ดใน Pendulum Zone อื่น: คุณสามารถเลือกเป้าหมายการ์ดหงาย 1 ใบที่คุณควบคุมซึ่งคุณสามารถวาง Spell Counter บนได้; ทำลายการ์ดนี้, และถ้าทำได้ ให้วาง 1 Spell Counter บนการ์ดนั้น คุณสามารถใช้เอฟเฟกต์นี้ของ \"Mythical Beast Jackal\" ได้ 1 ครั้งต่อเทิร์น\n\n[ เอฟเฟกต์มอนสเตอร์ ] \nทุกครั้งที่เปิดใช้ Spell Card ให้วาง 1 Spell Counter บนการ์ดนี้เมื่อ Spell Card นั้นแก้ไข คุณสามารถนำ Spell Counter ออก 3 ตัวจากสนามของคุณและ สังเวย การ์ดนี้; อัญเชิญพิเศษ มอนสเตอร์เอฟเฟกต์ \"Mythical Beast\" 1 ตัวจากเด็คของคุณ ยกเว้น \"Mythical Beast Jackal\"",
+  "status": "ai",
+  "en_sha256": "f7efefaa40294e46b31d3aa05d6296314e08e146177ddc95c0ff01dc53b4bcde",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

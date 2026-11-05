@@ -1,0 +1,9 @@
+{
+  "id": "45379225",
+  "name": "Psychic Lifetrancer",
+  "th": "1 Tuner + 1 หรือ มอนสเตอร์ non-Tuner หรือมากกว่า\n1 ครั้งต่อเทิร์น, คุณสามารถนำมอนสเตอร์ Psychic-Type 1 ตัวจาก สุสาน (GY) ของคุณออกจากสนาม เพื่อรับ Life Points 1200",
+  "status": "ai",
+  "en_sha256": "bf0bae8722c82cb513e6acc38b6b0e93cba95026dc35ddd7dd0e72350947cf7a",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

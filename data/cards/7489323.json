@@ -1,0 +1,9 @@
+{
+  "id": "7489323",
+  "name": "Milus Radiant",
+  "th": "ตราบใดที่การ์ดใบนี้ยังคงหงายอยู่บนสนาม เพิ่ม ATK ของมอนสเตอร์ EARTH ทั้งหมด 500 points และลด ATK ของมอนสเตอร์ WIND ทั้งหมด 400 points",
+  "status": "ai",
+  "en_sha256": "60d8fbbfdcb032f36241d93d61c0ef7907c7ccc326fc4205ce39a1110c6fc756",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "23471572",
+  "name": "Solomon's Lawbook",
+  "th": "ข้าม Standby Phase ครั้งถัดไปของคุณ",
+  "status": "ai",
+  "en_sha256": "ca2aee1886ed195fa6bd7e8055b0698ade5cbf8331ca8f13ba74a67604a78299",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

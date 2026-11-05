@@ -1,0 +1,10 @@
+{
+  "id": "48905153",
+  "name": "Zoodiac Drident",
+  "th": "มอนสเตอร์ Level 4 จำนวน 4 ตัว\n1 ครั้งต่อเทิร์น, คุณสามารถทำการอัญเชิญ Link โดยใช้มอนสเตอร์ \"Zoodiac\" ที่คุณควบคุมที่มีชื่อต่างกัน 1 ตัวเป็น Material ได้ (ถ้าคุณใช้มอนสเตอร์ Link, Material Xyz ที่ติดอยู่กับมันจะกลายเป็น Material ของการ์ดใบนี้ด้วย) การ์ดใบนี้ได้รับ ATK และ DEF เท่ากับ ATK และ DEF ของมอนสเตอร์ \"Zoodiac\" ทั้งหมดที่ติดอยู่กับมันเป็น Material 1 ครั้งต่อเทิร์น, ในเทิร์นของผู้เล่นคนใดคนหนึ่ง: คุณสามารถถอด Material Xyz 1 ตัวจากของการ์ดใบนี้, จากนั้นเลือกเป้าหมายการ์ดที่หงายอยู่ 1 ใบในสนาม; ทำลายมัน",
+  "status": "ai",
+  "en_sha256": "6e46ae9fc123aa27d9b8721b5745dfd4e9621a19eddc4eca2dcfce80eae0438f",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05",
+  "note": "rule-check: card names in quotes changed/missing: \"Zoodiac Drident\""
+}

@@ -1,0 +1,9 @@
+{
+  "id": "84031359",
+  "name": "Darklord Gulgolet",
+  "th": "คุณสามารถ อัญเชิญพิเศษ \"Darklord Gulgolet(s)\" ได้ 1 ครั้งต่อเทิร์นเท่านั้น ถ้าการ์ดใบนี้ถูก อัญเชิญพิเศษ: คุณสามารถ อัญเชิญพิเศษ \"Darklord Tokens\" 2 ตัว (Fairy/DARK/Level 6/ATK 0/DEF 0) ได้, นอกจากนี้ คุณจะไม่สามารถ อัญเชิญพิเศษได้ในเทิร์นนี้ ยกเว้น มอนสเตอร์ Fairy ถ้าการ์ดใบนี้ถูกส่งลงสุสาน: คุณสามารถเพิ่มการ์ด \"Darklord\" 1 ใบ, ยกเว้น \"Darklord Gulgolet\", หรือ Quick-Play Spell \"Forbidden\" 1 ใบ จากเด็คของคุณขึ้นมือ คุณสามารถใช้เอฟเฟกต์ของ \"Darklord Gulgolet\" ได้ 1 ครั้งต่อเทิร์นเท่านั้น",
+  "status": "ai",
+  "en_sha256": "1d4427fd4e1d2e0cf09e6b5abb8c5101a06613d7527ea89f55bcca9b0a515cda",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

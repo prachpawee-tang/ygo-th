@@ -1,0 +1,9 @@
+{
+  "id": "90660762",
+  "name": "Meteor Black Dragon",
+  "th": "\"Red-Eyes Black Dragon\" + \"Meteor Dragon\"",
+  "status": "ai",
+  "en_sha256": "7b139c955032ac5f77d56850e1adb93375fbaeeea35fb6a411ec5c10b68f0023",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

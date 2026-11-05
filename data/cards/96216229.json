@@ -1,0 +1,9 @@
+{
+  "id": "96216229",
+  "name": "Gladiator Beast War Chariot",
+  "th": "เมื่อเปิดใช้งานเอฟเฟกต์ของมอนสเตอร์เอฟเฟกต์, ถ้าคุณควบคุมมอนสเตอร์ \"Gladiator Beast\" ที่หงายอยู่: ลบล้างการเปิดใช้งานและทำลายมัน.",
+  "status": "ai",
+  "en_sha256": "dab9919be0f911c07c8eca1a19be23d1f1eb519c60091b7cf8e39a6ddc2c3438",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

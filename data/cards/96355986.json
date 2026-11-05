@@ -1,0 +1,9 @@
+{
+  "id": "96355986",
+  "name": "Enchanted Javelin",
+  "th": "เลือกมอนสเตอร์ที่กำลังโจมตี 1 ตัว; ได้รับ Life Points เท่ากับ ATK ของมัน",
+  "status": "ai",
+  "en_sha256": "dc25c4e4029e59ca91d7b903273b212fc76bdb15eabe3f18f7fec6b25731160d",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

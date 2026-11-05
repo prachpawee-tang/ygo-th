@@ -1,0 +1,9 @@
+{
+  "id": "36261276",
+  "name": "Interdimensional Matter Transporter",
+  "th": "เลือกมอนสเตอร์หงาย 1 ตัวที่ที่คุณควบคุม; เนรเทศเป้าหมายนั้นจนถึง End Phase",
+  "status": "ai",
+  "en_sha256": "6cc41a434c34177f17308f9b0cebd73014f798727b507ec869dd73d15f9a0bb0",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

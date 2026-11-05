@@ -1,0 +1,9 @@
+{
+  "id": "66719324",
+  "name": "Rain of Mercy",
+  "th": "เพิ่ม Life Points ของทั้งผู้เล่นทั้งสองฝ่าย 1000 points.",
+  "status": "ai",
+  "en_sha256": "6da05149f6cfc172e369ae9361ed7a69040b2c07aa043027613487c1d5cd7f96",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

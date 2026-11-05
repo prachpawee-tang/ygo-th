@@ -1,0 +1,9 @@
+{
+  "id": "21249921",
+  "name": "Dragunity Knight - Vajrayana",
+  "th": "1 Dragon Tuner + 1+ non-Tuner Winged Beast monsters\nเมื่ออัญเชิญ Synchro: คุณสามารถเลือกเป้าหมายมอนสเตอร์ Dragon \"Dragunity\" เลเวล 3 หรือต่ำกว่าในสุสานของคุณ; ติดเป้าหมายนั้นกับการ์ดใบนี้ เมื่อ 1 ครั้งต่อเทิร์น: คุณสามารถส่ง Equip Card 1 ใบที่ติดอยู่กับการ์ดใบนี้ลงสุสาน; เพิ่มเป็นสองเท่า ATK ของการ์ดใบนี้จนจบเทิร์นนี้",
+  "status": "ai",
+  "en_sha256": "bd3a9ebae6df71563f7fa7e4635ff3f48703a31efa9a7008a4e7592ff50c1698",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "78362751",
+  "name": "Gunkan Suship Shirauo",
+  "th": "ถ้าคุณควบคุม \"Gunkan Suship Shari\" หรือ มอนสเตอร์ Xyz ที่มี \"Gunkan Suship Shari\" เป็น Material: คุณสามารถ อัญเชิญพิเศษการ์ดใบนี้จากมือของคุณได้ ในระหว่าง Main Phase ของคุณ: คุณสามารถ อัญเชิญพิเศษ มอนสเตอร์ \"Gunkan\" 1 ตัวจากมือของคุณได้ ยกเว้น \"Gunkan Suship Shirauo\" จากนั้นคุณสามารถนำ \"Gunkan Suship Shari\" จำนวนใดๆ จากเด็คหรือสุสาน (GY) และวางไว้ด้านบนเด็คของคุณได้ตามต้องการ คุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Gunkan Suship Shirauo\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "57fbdb4ef3e2c8818d6672b8c9b83e48eb795511b487511d252013194ead781a",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "45462149",
+  "name": "Code Talker Inverted",
+  "th": "มอนสเตอร์ Cyberse 2 ตัว\nถ้าการ์ดนี้ถูกอัญเชิญแบบ Link: คุณสามารถ อัญเชิญพิเศษ มอนสเตอร์ Cyberse 1 ตัวจากมือของคุณไปยัง Main Monster Zone ที่การ์ดนี้ชี้ได้ คุณสามารถใช้เอฟเฟกต์ของ \"Code Talker Inverted\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "f8c17cab6d3fe21e0d65460188428cc228193e982d572b024df9ad72b5252c4c",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

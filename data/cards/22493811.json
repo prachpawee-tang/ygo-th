@@ -1,0 +1,9 @@
+{
+  "id": "22493811",
+  "name": "Multiplication of Ants",
+  "th": "สังเวยมอนสเตอร์ประเภท “Insect” 1 ตัวบนสนามของคุณ อัญเชิญพิเศษ “Army Ant Tokens” 2 ชิ้น (Insect-Type/EARTH/Level 4/ATK 500/DEF 1200) บนสนามของคุณ Tokens เหล่านี้ไม่สามารถใช้เป็นสังเวยสำหรับการ อัญเชิญแบบสังเวย",
+  "status": "ai",
+  "en_sha256": "54c3f62951823008b2ca93a0c6a4116bcb9c86adfb50f29e7265150a5dec7e88",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

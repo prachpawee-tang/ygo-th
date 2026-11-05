@@ -1,0 +1,9 @@
+{
+  "id": "93356623",
+  "name": "Magical Musket - Cross-Domination",
+  "th": "ถ้าคุณควบคุมมอนสเตอร์ \"Magical Musket\": เลือกเป้าหมายมอนสเตอร์หงาย 1 ตัวบนสนาม; จนกว่าจะถึงจบเทิร์นนี้ เปลี่ยน ATK/DEF ของมันเป็น 0, และลบล้างเอฟเฟกต์ของมัน คุณสามารถเปิดใช้ \"Magical Musket - Cross-Domination\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "58dde17ac1180c3bb3a40cec5fd873abb91cb9d493569013324d77e9f3c011a1",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

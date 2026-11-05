@@ -1,0 +1,9 @@
+{
+  "id": "31447217",
+  "name": "Wingweaver",
+  "th": "นางฟ้าหกปีกที่อธิษฐานขอสันติสุขและความหวัง",
+  "status": "ai",
+  "en_sha256": "34f6e7149afebbefadabe5fc58a80c3e48c0e16aa4fcd003b30a3d0e48d7916e",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

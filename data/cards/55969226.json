@@ -1,0 +1,9 @@
+{
+  "id": "55969226",
+  "name": "Blue Dragon Summoner",
+  "th": "ถ้าการ์ดใบนี้ถูกส่งจากสนามไปยังสุสาน: คุณสามารถจั่วมอนสเตอร์ Normal ที่เป็น Dragon, Warrior หรือ Spellcaster 1 ใบจากเด็คของคุณขึ้นมือ",
+  "status": "ai",
+  "en_sha256": "42af1a847854e68be5b688d32253ae487618b8c763738e03366d7f14cb50a507",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

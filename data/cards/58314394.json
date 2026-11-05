@@ -1,0 +1,9 @@
+{
+  "id": "58314394",
+  "name": "Ground Attacker Bugroth",
+  "th": "หุ่นยนต์ต่อสู้บนพื้นผิวที่เคยถูกใช้ในการสงครามทางทะเล",
+  "status": "ai",
+  "en_sha256": "742fc2c5bb8826e40c9ffe049d8e5de0d107bbb5747a981436cc437030a40760",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

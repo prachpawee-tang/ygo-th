@@ -1,0 +1,9 @@
+{
+  "id": "47393199",
+  "name": "Guardragon Cataclysm",
+  "th": "อัญเชิญแบบสังเวย มอนสเตอร์ Dragon 1 ตัว, จากนั้น เลือกเป้าหมายการ์ด 2 ใบในสนาม; ทำลายพวกมัน คุณสามารถเปิดใช้ \"Guardragon Cataclysm\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "940bf089ff5004b30dbcda6abb24a8f89b4194a475fb352fbe06a487812b30b6",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "12298909",
+  "name": "Prime Material Dragon",
+  "th": "เอฟเฟกต์ใดๆ ที่จะสร้างความเสียหายแก่ผู้เล่น 1 คน จะเพิ่ม Life Points ของผู้เล่นคนนั้นในจำนวนที่เท่ากันแทน During either player's turn, when a card or effect is activated that would destroy a monster(s) on the field: คุณสามารถส่งการ์ด 1 ใบจากมือลงสุสาน; ลบล้างการเปิดใช้งาน และถ้าทำได้ ให้ทำลายมัน",
+  "status": "ai",
+  "en_sha256": "fac1a8244c84a67a986046d6f5955d24c00726fae245cb857e1a9a310b756639",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

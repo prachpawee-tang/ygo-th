@@ -1,0 +1,10 @@
+{
+  "id": "56187077",
+  "name": "Proto Enneacraft - \"orgIA\"",
+  "th": "[ เอฟเฟกต์ Pendulum ]\nทุกครั้งที่มอนสเตอร์ถูกพลิกหงาย, วาง E.C. Counter 1 ตัวลงบนการ์ดนี้ คุณสามารถจ่าย LP 900; เปิดเผยการ์ด \"Enneacraft\" 3 ใบจากเด็คของคุณ, คู่ต่อสู้สุ่มเลือก 1 ใบให้คุณเพิ่มขึ้นมือ, สับที่เหลือกลับเข้าเด็ค คุณสามารถใช้เอฟเฟกต์นี้ของ \"Proto Enneacraft - \"orgIA\"\" ได้ 1 ครั้งต่อเทิร์น\n\n[ เอฟเฟกต์มอนสเตอร์ ]\nFLIP: ทำลายมอนสเตอร์ 1 ตัวที่คู่ต่อสู้ควบคุม\nเมื่อคู่ต่อสู้เปิดใช้งานเอฟเฟกต์มอนสเตอร์ในมือ (Quick Effect): คุณสามารถเปลี่ยนการ์ดคว่ำนี้ให้หงายในท่าป้องกัน และเพิ่มการ์ด \"Enneacraft\" 1 ใบจากเด็คของคุณขึ้นมือ คุณสามารถเปิดเผยการ์ดนี้ในมือของคุณ; อัญเชิญพิเศษมอนสเตอร์ 1 ตัวจากมือของคุณในท่าป้องกันคว่ำ คุณไม่สามารถอัญเชิญพิเศษได้ในเทิร์นที่คุณเปิดใช้งานเอฟเฟกต์นี้ ยกเว้นในท่าป้องกันคว่ำ",
+  "status": "ai",
+  "en_sha256": "4dac5b9c078b932d6b49e726e65841c68a635eb656d78a9d70deee51076882c4",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05",
+  "note": "rule-check: card names in quotes changed/missing: \" once per turn.\n\n[ Monster Effect ] \nFLIP: Destroy 1 monster your opponent controls.\r\nWhen your opponent activates a monster effect in the hand (Quick Effect): You can change this face-down card to face-up Defense Position; add 1 \"; fewer \";\" than English (2 < 3) — cost/resolution split may be lost"
+}

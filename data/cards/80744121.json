@@ -1,0 +1,9 @@
+{
+  "id": "80744121",
+  "name": "Destiny HERO - Fear Monger",
+  "th": "ระหว่าง Standby Phase ของคุณ, ถ้าการ์ดใบนี้อยู่ในสุสาน (GY) เพราะถูกทำลายจากการต่อสู้และถูกส่งลงที่นั่นตั้งแต่ Standby Phase ก่อนหน้า: เลือกเป้าหมายมอนสเตอร์ \"Destiny HERO\" 1 ตัวในสุสาน (GY) ของคุณ, ยกเว้น \"Destiny HERO - Fear Monger\"; อัญเชิญพิเศษมอนสเตอร์เป้าหมายนั้น",
+  "status": "ai",
+  "en_sha256": "4b5e5aeaff1627c7b8e9ac4fefa8db19601125f9c0936d3109593fbf960b59f4",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

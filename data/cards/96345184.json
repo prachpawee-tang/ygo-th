@@ -1,0 +1,9 @@
+{
+  "id": "96345184",
+  "name": "Infinity of the Sacred Beasts - Raviel, Lord of Phantasms",
+  "th": "ไม่อัญเชิญปกติ/เซ็ตได้ อัญเชิญพิเศษเท่านั้นด้วยเอฟเฟกต์ของการ์ด \"Sacred Beast\" คุณสามารถเปิดเผยการ์ดนี้ในมือของคุณ; เพิ่มมอนสเตอร์ \"Sacred Beast\" 1 ตัวจากเด็คของคุณขึ้นมือ ยกเว้น \"Infinity of the Sacred Beasts - Raviel, Lord of Phantasms\", จากนั้นทิ้งการ์ด 1 ใบ คุณสามารถใช้เอฟเฟกต์นี้ของ \"Infinity of the Sacred Beasts - Raviel, Lord of Phantasms\" ได้ 1 ครั้งต่อเทิร์น 1 ครั้งต่อเทิร์น (Quick Effect): คุณสามารถสังเวยมอนสเตอร์ \"Sacred Beast\" อื่นๆ 2 ตัว; ทำลายมอนสเตอร์ที่คู่ต่อสู้ควบคุมได้มากที่สุดเท่าที่จะเป็นไปได้ และถ้าทำได้ การ์ดใบนี้จะได้รับ ATK 1000 ต่อการ์ดที่ถูกทำลาย",
+  "status": "ai",
+  "en_sha256": "611989d8e1fa45c17a204ce1a544bcf8a559110e397c77e7cdbacc88e80a4ec4",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

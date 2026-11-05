@@ -1,0 +1,9 @@
+{
+  "id": "30113682",
+  "name": "Judge Man",
+  "th": "นักรบถือกระบองผู้นี้ต่อสู้จนจบ และจะไม่ยอมแพ้ никогда.",
+  "status": "ai",
+  "en_sha256": "7bbe43fdac4ffd5f1ccae489b7db527b8ab2378c711ecfa0eda5bd60a8e26520",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

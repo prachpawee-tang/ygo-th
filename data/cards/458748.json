@@ -1,0 +1,9 @@
+{
+  "id": "458748",
+  "name": "The Book of the Law",
+  "th": "สังเวยมอนสเตอร์ \"Invoked\" 1 ตัว; อัญเชิญพิเศษมอนสเตอร์ \"Invoked\" 1 ตัวจาก เอ็กซ์ตร้าเด็ค ที่มี Attribute เดิมต่างจากมอนสเตอร์ตัวนั้น (การอัญเชิญพิเศษนี้ถือเป็น Fusion Summon) คุณสามารถเปิดใช้ \"The Book of the Law\" ได้ 1 ครั้งต่อเทิร์นเท่านั้น",
+  "status": "ai",
+  "en_sha256": "adfe61ffbf3152245417b40414774d1b7bc45679912633cfaae0b0afda05de8d",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "24668830",
+  "name": "Germ Infection",
+  "th": "ATK ของมอนสเตอร์ชนิดที่ไม่ใช่ Machine ถูกลดลง 300 แต้มในแต่ละ Standby Phase ของมัน",
+  "status": "ai",
+  "en_sha256": "0171b8a69d24011869121f051e6daf5cda522814d6b45fac606d5992e3566647",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

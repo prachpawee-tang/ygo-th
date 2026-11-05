@@ -1,0 +1,9 @@
+{
+  "id": "80741828",
+  "name": "Witch's Apprentice",
+  "th": "ตราบใดที่การ์ดใบนี้ยังหงายอยู่บนสนาม เพิ่ม ATK ของมอนสเตอร์ DARK ทั้งหมด 500 แต้ม และลด ATK ของมอนสเตอร์ LIGHT ทั้งหมด 400 แต้ม",
+  "status": "ai",
+  "en_sha256": "b615ae59358f62ba6dca40b25f7d4a7ec0da19fbda26dbdaaaa5f8605ab2020c",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "1434352",
+  "name": "Chaos Necromancer",
+  "th": "ATK ของการ์ดใบนี้คือจำนวนการ์ดมอนสเตอร์ในสนามสุสานของคุณ x 300",
+  "status": "ai",
+  "en_sha256": "2582fa9dcbd2c7ff59a006da79f3d1a9a220b014e9403437cf64d8458b45c282",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

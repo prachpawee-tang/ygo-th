@@ -1,0 +1,9 @@
+{
+  "id": "54622031",
+  "name": "Great Mammoth of Goldfine",
+  "th": "\"The Snake Hair\" + \"Dragon Zombie\"",
+  "status": "ai",
+  "en_sha256": "d7bfd805fd9b8c48c98e494da0c7ce207ed198214343f6f42f66c80414536f5a",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

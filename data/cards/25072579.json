@@ -1,0 +1,10 @@
+{
+  "id": "25072579",
+  "name": "Prototype Sky Striker Ace - Amatsu",
+  "th": "1 \"Sky Striker Ace\" monster\nคุณสามารถ อัญเชิญพิเศษ \"Prototype Sky Striker Ace - Amatsu(s)\" ได้ 1 ครั้งต่อเทิร์น เมื่อมอนสเตอร์ที่คู่ต่อสู้ควบคุมที่มี ATK 2000 หรือมากกว่าเปิดใช้งานเอฟเฟกต์ (Quick Effect): คุณสามารถทำให้เอฟเฟกต์ที่เปิดใช้งานกลายเป็น \"ทำลาย มอนสเตอร์ Link \"Sky Striker Ace\" 1 ตัวที่คู่ต่อสู้ควบคุม\" เมื่อมีการประกาศโจมตีที่เกี่ยวข้องกับการ์ดนี้และมอนสเตอร์ของคู่ต่อสู้: คุณสามารถเลือกเป้าหมาย มอนสเตอร์ \"Sky Striker Ace\" 1 ตัวที่คุณควบคุม และการ์ด 1 ใบที่คู่ต่อสู้ควบคุม; ทำลายพวกมัน คุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Prototype Sky Striker Ace - Amatsu\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "c1e0fce3e7f080374326937de0aaaa89e014964f51b4e2946cfe2097ecccf4ee",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05",
+  "note": "rule-check: card names in quotes changed/missing: \" Link Monster your opponent controls\", \"Destroy 1 \""
+}

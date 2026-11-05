@@ -1,0 +1,9 @@
+{
+  "id": "4423206",
+  "name": "M-X-Saber Invoker",
+  "th": "มอนสเตอร์ Level 3 จำนวน 2 ตัว\n1 ครั้งต่อเทิร์น: คุณสามารถถอด Material 1 ชิ้นจากการ์ดใบนี้; อัญเชิญพิเศษมอนสเตอร์ Warrior หรือ Beast-Warrior ที่เป็น EARTH Level 4 จากเด็คของคุณ ในท่าป้องกัน แต่ทำลายมันในช่วง End Phase",
+  "status": "ai",
+  "en_sha256": "519b3a869bdd3dc4d0fe16283be1ae178b6b80f03a2377461aea6ffa755daf36",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

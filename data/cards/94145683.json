@@ -1,0 +1,9 @@
+{
+  "id": "94145683",
+  "name": "Swallow's Nest",
+  "th": "สังเวยมอนสเตอร์ Winged Beast-Type ที่หงายอยู่ 1 ตัว; อัญเชิญพิเศษมอนสเตอร์ Winged Beast-Type 1 ตัวจากเด็คของคุณ ที่มี Level เดียวกันกับมอนสเตอร์ที่ถูกสังเวยในสนาม",
+  "status": "ai",
+  "en_sha256": "adc4d741356265c267d6fee0c3f114c4241ac2298fb30d4e28768454d897c7c9",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

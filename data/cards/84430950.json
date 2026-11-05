@@ -1,0 +1,9 @@
+{
+  "id": "84430950",
+  "name": "Armed Samurai - Ben Kei",
+  "th": "สำหรับแต่ละ “Equip Card” ที่ติดตั้งอยู่กับการ์ดใบนี้ มันจะได้รับพลังโจมตีเพิ่มเติม 1 หน่วยในช่วง Battle Phase แต่ละครั้ง",
+  "status": "ai",
+  "en_sha256": "3c2b5b2bdd8e0da645fddae4495d1e4e2065960efe0150501df69ebe5cd6ea09",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

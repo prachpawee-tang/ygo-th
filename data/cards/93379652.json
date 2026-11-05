@@ -1,0 +1,10 @@
+{
+  "id": "93379652",
+  "name": "Gem-Knight Prismaura",
+  "th": "มอนสเตอร์ \"Gem-Knight\" 1 ตัว + มอนสเตอร์ธาตุฟ้าร่า 1 ตัว\nต้องทำการ Fusion Summon ก่อน คุณสามารถส่งการ์ด \"Gem-Knight\" 1 ใบจากมือของคุณลงสุสานเพื่อเลือกเป้าหมายการ์ดที่คว่ำอยู่บนสนาม 1 ใบ; ทำลายเป้าหมายนั้น",
+  "status": "ai",
+  "en_sha256": "72cb46557ed42133e2f9481569cb9dd3ec9d3d3c0ef74ab5e48d903f5a9de4f8",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05",
+  "note": "rule-check: fewer \":\" than English (0 < 1) — activation condition may be lost"
+}

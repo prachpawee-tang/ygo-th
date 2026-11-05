@@ -1,0 +1,9 @@
+{
+  "id": "26700718",
+  "name": "Dramatic Snake-Eye Chase",
+  "th": "วางมอนสเตอร์ \"Diabellstar\" 1 ตัวจากมือ, เด็ค หรือ สุสาน (GY) ในท่าหงายใน Spell & Trap Zone ของเจ้าของเป็น Continuous Spell: ในช่วง End Phase: คุณสามารถเนรเทศการ์ดนี้จากสุสาน (GY) ของคุณ จากนั้นเลือกเป้าหมาย Monster Card ที่ถูกนับว่าเป็น Continuous Spell ที่คุณควบคุม; อัญเชิญพิเศษมัน คุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Dramatic Snake-Eye Chase\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "3b13cb7389dd2d5b1d2ee96c25acacf0e0f0fb1a8c392e264e6df9d5f878b49b",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

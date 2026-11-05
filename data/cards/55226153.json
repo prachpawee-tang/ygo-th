@@ -1,0 +1,9 @@
+{
+  "id": "55226153",
+  "name": "DoSolfachord Cutia",
+  "th": "[ เอฟเฟกต์ Pendulum ]\nการอัญเชิญแบบ Pendulum ของ \"Solfachord\" Pendulum Monsters ของคุณ ไม่สามารถถูกลบล้างได้\n\n[ เอฟเฟกต์มอนสเตอร์ ]\nตราบใดที่คุณมี Pendulum Scale ที่เป็นเลขคู่ใน Pendulum Zone ของคุณ \"Solfachord\" Pendulum Monsters ที่คุณควบคุม จะได้รับ ATK เท่ากับ 100 x Pendulum Scale ของมันเอง ถ้าการ์ดใบนี้ถูก อัญเชิญปกติ หรือ อัญเชิญพิเศษ: คุณสามารถเพิ่ม \"Solfachord\" Pendulum Monster 1 ตัวจากเด็คของคุณขึ้นมือได้ ยกเว้น \"DoSolfachord Cutia\" คุณสามารถใช้เอฟเฟกต์นี้ของ \"DoSolfachord Cutia\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "1d85c1b4f6692bec66f6bc3fee4a6e5a30e0bff9d7a6fc76fe08a8f4c2dc1fde",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

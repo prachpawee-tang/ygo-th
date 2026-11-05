@@ -1,0 +1,9 @@
+{
+  "id": "70465810",
+  "name": "Blackwing - Sudri the Phantom Glimmer",
+  "th": "เมื่อการ์ดใบนี้ถูกอัญเชิญปกติ: คุณสามารถเพิ่มการ์ด 1 ใบที่กล่าวถึง \"Black-Winged Dragon\" จากเด็คของคุณขึ้นมือ, ยกเว้น \"Blackwing - Sudri the Phantom Glimmer\" คุณสามารถสังเวยมอนสเตอร์ 1 ตัว; อัญเชิญพิเศษ \"Phantom Glimmer Token\" (Winged Beast/Tuner/DARK/Level 2/ATK 700/DEF 700) จากนั้นคุณได้รับความเสียหาย 700 คุณไม่สามารถอัญเชิญพิเศษมอนสเตอร์จากเอ็กซ์ตร้าเด็คในเทิร์นที่คุณเปิดใช้เอฟเฟกต์นี้ได้, ยกเว้นมอนสเตอร์ Link คุณสามารถใช้เอฟเฟกต์นี้ของ \"Blackwing - Sudri the Phantom Glimmer\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "462978d5e7801bd8bde4076a73a5d916017dca4f754304a685206f6af41c2aca",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

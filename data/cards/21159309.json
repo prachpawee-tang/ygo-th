@@ -1,0 +1,9 @@
+{
+  "id": "21159309",
+  "name": "Majestic Dragon",
+  "th": "ไม่สามารถใช้เป็น Material สำหรับการ Synchro Summon ได้, ยกเว้นสำหรับการ Synchro Summon มอนสเตอร์ \"Majestic\".",
+  "status": "ai",
+  "en_sha256": "d232b22eece3a9ea2931692a41a2a2ad3d3b7f215d13ef14ac1e4252324f02d1",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

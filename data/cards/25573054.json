@@ -1,0 +1,10 @@
+{
+  "id": "25573054",
+  "name": "Transcendent Wings",
+  "th": "ส่ง \"Winged Kuriboh\" ที่หงายหรือคว่ำที่คุณควบคุม และการ์ด 2 ใบจากมือของคุณไปยังสุสาน (GY); อัญเชิญพิเศษ \"Winged Kuriboh LV10\" 1 ตัวจากมือหรือเด็คของคุณ",
+  "status": "ai",
+  "en_sha256": "d39dc43d2b191fb475306317588ef34598f0f8eca78ee365a1e442d8a4a3ee42",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "89621922",
+  "name": "Neo-Spacian Flare Scarab",
+  "th": "ได้ ATK 400 ต่อการ์ดเวทมนตร์/กับดัก 1 ใบที่คู่ต่อสู้ควบคุม",
+  "status": "ai",
+  "en_sha256": "b0dc7b1bd0c9d7cb36bfeec6780683f4e164142b0bce770631daecc5f9f85e16",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

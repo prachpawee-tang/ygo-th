@@ -1,0 +1,9 @@
+{
+  "id": "20745268",
+  "name": "Magical Musket - Desperado",
+  "th": "ถ้าคุณควบคุมมอนสเตอร์ \"Magical Musket\": เลือกเป้าหมายการ์ดที่หงายอยู่ 1 ใบในสนาม; ทำลายมัน คุณสามารถเปิดใช้ \"Magical Musket - Desperado\" ได้ 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "77097eab7e49d59ecba45258f41394f5542d77d69c7ed72f38e3ad55adc0b36c",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

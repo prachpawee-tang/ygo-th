@@ -1,0 +1,9 @@
+{
+  "id": "6602300",
+  "name": "Blaze Fenix, the Burning Bombardment Bird",
+  "th": "1 มอนสเตอร์ Machine-Type + 1 มอนสเตอร์ Pyro-Type\n1 ครั้งต่อเทิร์น, ระหว่าง Main Phase ของคุณ: คุณสามารถสร้างความเสียหายแก่คู่ต่อสู้ 300 ได้สำหรับแต่ละการ์ดในสนาม การ์ดใบนี้ไม่สามารถโจมตีได้ในเทิร์นที่คุณเปิดใช้เอฟเฟกต์นี้",
+  "status": "ai",
+  "en_sha256": "af50d336dc2c8645b70d15b0b1f26eae4c8f5d5ff19682d4efe3ff0e03dd78f4",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

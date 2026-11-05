@@ -1,0 +1,9 @@
+{
+  "id": "35486099",
+  "name": "Crystal Blessing",
+  "th": "เลือกเป้าหมายมอนสเตอร์ \"Crystal Beast\" สูงสุด 2 ตัวในสุสานของคุณ; วางเป้าหมายเหล่านั้นคว่ำหน้าใน Spell & Trap Card Zone ของคุณในฐานะการ์ดเวทมนตร์ต่อเนื่อง",
+  "status": "ai",
+  "en_sha256": "bcb78c0d55e34dc89f53ef1d942fed28b24b18fc332441344bb59b416c0c3bde",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

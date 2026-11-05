@@ -1,0 +1,9 @@
+{
+  "id": "90434657",
+  "name": "Imperial Tombs of Necrovalley",
+  "th": "เมื่อมีการเปิดใช้การ์ดเวทมนตร์, การ์ดกับดัก, หรือเอฟเฟกต์มอนสเตอร์, ในขณะที่มอนสเตอร์ \"Gravekeeper's\" และ \"Necrovalley\" อยู่บนสนาม: ลบล้างการเปิดใช้งาน, และถ้าทำได้ ให้ทำลายมัน คุณสามารถเปิดใช้ \"Imperial Tombs of Necrovalley\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "0c4670e54bce36c38ad983de9fa3bf4c39fd0ec07a7e49211ba201f6172f0893",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

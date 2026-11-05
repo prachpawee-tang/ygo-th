@@ -1,0 +1,9 @@
+{
+  "id": "38267552",
+  "name": "Morpheus, the Dream Mirror Black Knight",
+  "th": "ถ้าการ์ดใบนี้ถูกอัญเชิญพิเศษโดยเอฟเฟกต์ของมอนสเตอร์ \"Dream Mirror\": คุณสามารถเลือกเป้าหมายการ์ด 1 ใบในสนาม; ทำลายมัน ในระหว่าง Main Phase หรือ Battle Phase, ถ้า \"Dream Mirror of Joy\" อยู่ใน Field Zone (Quick Effect): คุณสามารถสังเวยการ์ดใบนี้; อัญเชิญพิเศษมอนสเตอร์ \"Morpheus, the Dream Mirror White Knight\" 1 ตัวจากเด็ค คุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Morpheus, the Dream Mirror Black Knight\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "5b63869e1d932f1f54467175598e3bfcb5815f96079a906cfaac289379d3a1b7",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

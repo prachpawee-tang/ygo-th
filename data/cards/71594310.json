@@ -1,0 +1,9 @@
+{
+  "id": "71594310",
+  "name": "Gem-Knight Pearl",
+  "th": "มอนสเตอร์ Level 4 จำนวน 2 ตัว",
+  "status": "ai",
+  "en_sha256": "c153c351d0e0cac9fabd8b1b99ac935ffdb2e2e3b8c8d13bc8d7aeeded48aa72",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

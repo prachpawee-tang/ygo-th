@@ -1,0 +1,9 @@
+{
+  "id": "8251996",
+  "name": "Ojama Delta Hurricane!!",
+  "th": "คุณสามารถเปิดใช้การ์ดนี้ได้โดยที่ \"Ojama Green\", \"Ojama Yellow\" และ \"Ojama Black\" อยู่ในท่าหงายบนสนามของคุณ: ทำลายการ์ดทั้งหมดบนสนามฝั่งของคู่ต่อสู้",
+  "status": "ai",
+  "en_sha256": "02fb33e86768043740fc11b4f92da2b66aaccd2cda2a9daf51d544386735210f",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

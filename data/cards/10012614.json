@@ -1,0 +1,9 @@
+{
+  "id": "10012614",
+  "name": "Banner of Courage",
+  "th": "มอนสเตอร์ทั้งหมดที่คุณควบคุม ได้รับ 200 ATK ในระหว่าง Battle Phase ของคุณเท่านั้น",
+  "status": "ai",
+  "en_sha256": "7a4483b22c2732e6680d5fd269b61677568cccda38274b5741ae684b20f5046e",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "49064413",
+  "name": "The Masked Beast",
+  "th": "คุณสามารถ อัญเชิญแบบพิธีกรรม (Ritual Summon) การ์ดใบนี้ด้วย \"Curse of the Masked Beast\"",
+  "status": "ai",
+  "en_sha256": "6632a4edddbf5d7be046ae94cd5d5f3203eeeefdc9d6f77992cca2baf85843a8",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

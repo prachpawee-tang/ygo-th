@@ -1,0 +1,9 @@
+{
+  "id": "96331676",
+  "name": "Crystal Raigeki",
+  "th": "ส่งการ์ด \"Crystal Beast\" 1 ใบจาก Spell & Trap Card Zone ของคุณลงสุสาน (GY) เพื่อเลือกเป้าหมายการ์ด 1 ใบที่คู่ต่อสู้ควบคุม; ทำลายเป้าหมายนั้น",
+  "status": "ai",
+  "en_sha256": "a20f9d36b56eb2d3c716b48cde79cad3ef25a3cab762f7c58a203756667786bc",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

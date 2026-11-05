@@ -1,0 +1,9 @@
+{
+  "id": "2729285",
+  "name": "Fluffal Cat",
+  "th": "ถ้าการ์ดใบนี้ถูกส่งลงสุสาน (GY) เป็น Material สำหรับการอัญเชิญแบบ Fusion: คุณสามารถเลือกเป้าหมาย \"Polymerization\" 1 ใบในสุสาน (GY) ของคุณ; เพิ่มมันขึ้นมือ คุณสามารถใช้เอฟเฟกต์ของ \"Fluffal Cat\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "1189dccd3630e0db504a67f7c9f17efc0df0ae7f7ba1d5f97bf7dd220b4e0d76",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

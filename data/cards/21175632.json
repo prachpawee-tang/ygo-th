@@ -1,0 +1,9 @@
+{
+  "id": "21175632",
+  "name": "St. Joan",
+  "th": "\"The Forgiving Maiden\" + \"Darklord Marie\"",
+  "status": "ai",
+  "en_sha256": "c9f44566108b8b5a44b37d75cfa113419acdddac38019f3290733328456d5707",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

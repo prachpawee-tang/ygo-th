@@ -1,0 +1,9 @@
+{
+  "id": "31557782",
+  "name": "Ancient Gear",
+  "th": "ถ้าคุณควบคุม \"Ancient Gear\", คุณสามารถ อัญเชิญพิเศษ การ์ดใบนี้ (จากมือ) ในท่าโจมตีแบบหงายได้",
+  "status": "ai",
+  "en_sha256": "7e2af126d9bee50bc4be93cffd4096af5c1f908bedef2d1066b97be4580756d8",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

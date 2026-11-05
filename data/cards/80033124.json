@@ -1,0 +1,9 @@
+{
+  "id": "80033124",
+  "name": "Cyberdark Impact!",
+  "th": "อัญเชิญ Fusion 1 \"Cyberdark Dragon\" จาก เอ็กซ์ตร้าเด็ค ของคุณ โดยการส่งกลับ \"Cyberdark Horn\", \"Cyberdark Edge\" และ \"Cyberdark Keel\" จาก มือ, สุสาน และ/หรือ ที่ใดก็ได้บนสนามของคุณ กลับไปยัง เด็ค อย่างละ 1 ใบ เพื่อใช้เป็น Material การ Fusion",
+  "status": "ai",
+  "en_sha256": "bf24b8eff7f13da25305d9d1ae43af5bce9250d9ee3ffb0b94e36cadeabc5301",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

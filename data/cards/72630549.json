@@ -1,0 +1,10 @@
+{
+  "id": "72630549",
+  "name": "Chaos Command Magician",
+  "th": "ลบล้างเอฟเฟกต์ของการ์ดมอนสเตอร์ที่เลือกเป้าหมายการ์ดใบนี้.",
+  "status": "ai",
+  "en_sha256": "7f5e0292a4348875a99dfee40e5103fc39bb1dc686525dbb9badb4ee7811513d",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

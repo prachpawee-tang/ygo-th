@@ -1,0 +1,9 @@
+{
+  "id": "53530069",
+  "name": "Spirit of the Breeze",
+  "th": "ตราบใดที่การ์ดใบนี้ยังคงอยู่ในท่าโจมตี หงายบนสนามฝั่งของคุณ เพิ่ม Life Points ของคุณ 1000 points ในช่วง Standby Phase ของคุณในแต่ละครั้ง",
+  "status": "ai",
+  "en_sha256": "6e22aa77ef2744bcfa2db3446ea4915131761a06b8e7bf4ca51082a7487d61dd",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

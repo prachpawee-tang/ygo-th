@@ -1,0 +1,10 @@
+{
+  "id": "87475570",
+  "name": "Crystal Master",
+  "th": "[ เอฟเฟกต์ Pendulum ]\nคู่ต่อสู้ไม่สามารถเลือกเป้าหมายมอนสเตอร์ \"Ultimate Crystal\" หรือการ์ด \"Crystal Beast\" ที่คุณควบคุมด้วยเอฟเฟกต์การ์ดได้\n\n[ เอฟเฟกต์มอนสเตอร์ ]\nคุณสามารถ สังเวย การ์ดนี้; เพิ่มการ์ด \"Ultimate Crystal\" มอนสเตอร์, มอนสเตอร์ \"Crystal Beast\" หรือ การ์ด Spell/Trap \"Crystal\" จากเด็คของคุณขึ้นมือ",
+  "status": "ai",
+  "en_sha256": "35060eaedbee8d8948287b0e1582bda6cbcdad39441fc500fdf63ee1e4f8c8db",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

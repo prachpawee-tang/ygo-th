@@ -1,0 +1,9 @@
+{
+  "id": "11556339",
+  "name": "Ritual Beast Steeds",
+  "th": "ถ้าคุณควบคุมมอนสเตอร์ \"Ritual Beast\": ทำลายมอนสเตอร์บนสนามจำนวนเท่ากับจำนวนมอนสเตอร์ \"Ritual Beast\" ที่คุณควบคุมอยู่ขณะนี้",
+  "status": "ai",
+  "en_sha256": "2caa5b0d5c3f70a6a0f603789e638534049d2fad7649e768bc7801e106f4ef91",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

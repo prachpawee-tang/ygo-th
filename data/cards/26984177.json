@@ -1,0 +1,9 @@
+{
+  "id": "26984177",
+  "name": "Walls of the Imperial Tomb",
+  "th": "ชื่อของการ์ดใบนี้จะเปลี่ยนเป็น \"King's Sarcophagus\" ตราบเท่าที่อยู่ใน Field Zone ในระหว่าง Main Phase ของคุณ: คุณสามารถเพิ่ม มอนสเตอร์ \"Horus\" 1 ตัวจากเด็คของคุณขึ้นมือ จากนั้นวางการ์ด 1 ใบจากมือของคุณไว้ด้านล่างของเด็ค คุณสามารถใช้เอฟเฟกต์ของ \"Walls of the Imperial Tomb\" ได้ 1 ครั้งต่อเทิร์น ถ้าคุณเปิดใช้เอฟเฟกต์ของ \"Horus the Black Flame Deity\": คุณสามารถจั่วการ์ด 1 ใบ",
+  "status": "ai",
+  "en_sha256": "ddffbb64c1248c3297a62f0beb7c350592f08b5d2df5f2fc02ab6a43325f931f",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "84926738",
+  "name": "The Immortal of Thunder",
+  "th": "พลิก: เพิ่ม Life Points ของคุณ 3000 points เมื่อการ์ดใบนี้ถูกส่งจากสนามไปยังสุสาน (GY), คุณสูญเสีย Life Points 5000 points",
+  "status": "ai",
+  "en_sha256": "c3663afdfc2debc01b02385444597d6e9aee17f0c9d6a1b4894f2e0606bfdf56",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

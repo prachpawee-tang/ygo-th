@@ -1,0 +1,9 @@
+{
+  "id": "88820235",
+  "name": "Elemental HERO Shining Phoenix Enforcer",
+  "th": "\"Elemental HERO Phoenix Enforcer\" + \"Elemental HERO Sparkman\"\nต้องทำการ Fusion Summon และไม่สามารถอัญเชิญพิเศษด้วยวิธีอื่นได้ การ์ดใบนี้ได้รับ ATK 300 สำหรับแต่ละการ์ด \"Elemental HERO\" ในสุสานของคุณ การ์ดใบนี้ไม่สามารถถูกทำลายโดยการต่อสู้",
+  "status": "ai",
+  "en_sha256": "12abc535aab27fa62c8f504b804fac9b23a829daea793123160547661cb717c4",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "31458630",
+  "name": "Melodious Concerto",
+  "th": "อัญเชิญ Fusion 1 \"Fairy Fusion Monster\" จากเอ็กซ์ตร้าเด็คของคุณ โดยใช้มอนสเตอร์จากมือ สนาม และ/หรือ Pendulum Zones ของคุณ ถ้า \"Melodious\" Fusion Monster(s) ถูกส่งลงสุสานของคุณ ในขณะที่การ์ดใบนี้อยู่ในสุสานของคุณ แม้ระหว่าง Damage Step: คุณสามารถวางการ์ดใบนี้ไว้ด้านล่างเด็คของคุณ จากนั้นจั่วการ์ด 1 ใบ คุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Melodious Concerto\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "4001ec22ca4ffab23a29ebb99c81612c1dad72a7fdc72743b7f977a635014fb3",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

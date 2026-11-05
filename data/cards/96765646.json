@@ -1,0 +1,9 @@
+{
+  "id": "96765646",
+  "name": "Swing of Memories",
+  "th": "เลือกมอนสเตอร์ Normal 1 ตัวในสุสานของคุณ; อัญเชิญพิเศษมัน, แต่ทำลายมันในช่วง End Phase ของเทิร์นนี้",
+  "status": "ai",
+  "en_sha256": "a1a6ec6e0da9f380070d93888ab092ba97ecc31cf21b47aa5c1a25d3ac89ea45",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

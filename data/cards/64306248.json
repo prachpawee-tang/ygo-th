@@ -1,0 +1,9 @@
+{
+  "id": "64306248",
+  "name": "Skull-Mark Ladybug",
+  "th": "เมื่อการ์ดใบนี้ถูกส่งลงสุสาน (GY), เพิ่ม Life Points ของคุณขึ้น 1000 points.",
+  "status": "ai",
+  "en_sha256": "9c77ed0a3c820237db18f3796f965b8d0ef55a8875a6d469da26acea47b90d69",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

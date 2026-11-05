@@ -1,0 +1,9 @@
+{
+  "id": "19680539",
+  "name": "Noble Knight Gawayn",
+  "th": "ถ้าคุณควบคุมมอนสเตอร์ Normal ประเภท LIGHT, คุณสามารถ อัญเชิญพิเศษ การ์ดนี้ (จากมือ) ในท่าป้องกันได้",
+  "status": "ai",
+  "en_sha256": "de4e2ba5a88b7bedd8a5a484284ed2e6151ff1c2c73939af51b80f9ab1c93061",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "57031794",
+  "name": "Super Quantal Mech Beast Magnaliger",
+  "th": "มอนสเตอร์ Level 5 จำนวน 2 ตัว\nไม่สามารถโจมตีได้ เว้นแต่จะมี Material ติดอยู่ 1 ครั้งต่อเทิร์น: คุณสามารถถอด Material 1 ชิ้นจากการ์ดใบนี้ จากนั้นเลือกเป้าหมายมอนสเตอร์ 1 ตัวบนสนาม; ทำลายมัน เอฟเฟกต์นี้เป็น Quick Effect ถ้าการ์ดใบนี้มี \"Super Quantum Red Layer\" เป็น Material 1 ครั้งต่อเทิร์น: คุณสามารถติดมอนสเตอร์ \"Super Quantum\" 1 ตัวจากมือหรือสนามของคุณกับการ์ดใบนี้เป็น Material ได้",
+  "status": "ai",
+  "en_sha256": "950bb7aa5e7747cefc03c9f9406637b636e6757ee40433efa0e1a61d94130cda",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

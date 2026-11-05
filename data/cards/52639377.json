@@ -1,0 +1,10 @@
+{
+  "id": "52639377",
+  "name": "Underworld Fighter Balmung",
+  "th": "1 Tuner + มอนสเตอร์ non-Tuner 1 ตัวขึ้นไป\nเมื่อการ์ดนี้ถูกทำลายโดยเอฟเฟกต์การ์ดและส่งลงสุสาน: คุณสามารถเลือกเป้าหมายมอนสเตอร์ Level 4 หรือต่ำกว่าในสุสานของคุณ, ยกเว้นการ์ดนี้; อัญเชิญพิเศษเป้าหมายนั้น",
+  "status": "ai",
+  "en_sha256": "ce6eb92a33fbf5a8478a3c7d437ea2343d69fcba94e1f089c6d923b920ae74c9",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

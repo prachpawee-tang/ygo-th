@@ -1,0 +1,9 @@
+{
+  "id": "53797637",
+  "name": "Burner, Dragon Ruler of Sparks",
+  "th": "คุณสามารถทิ้งการ์ดนี้ และ มอนสเตอร์ Dragon-Type หรือ FIRE 1 ตัว; อัญเชิญพิเศษ \"Blaster, Dragon Ruler of Infernos\" 1 ตัวจากเด็คของคุณ มันไม่สามารถโจมตีได้ในเทิร์นนี้ คุณสามารถใช้เอฟเฟกต์ของ \"Burner, Dragon Ruler of Sparks\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "e6e4603bfd1bd76a89ba61d25f92bc1f9a3dda06e95dd008aafd75dd5b07bf8a",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

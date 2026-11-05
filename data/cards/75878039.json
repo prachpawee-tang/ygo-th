@@ -1,0 +1,9 @@
+{
+  "id": "75878039",
+  "name": "Satellarknight Deneb",
+  "th": "ถ้าการ์ดใบนี้ถูกอัญเชิญ: คุณสามารถเพิ่มมอนสเตอร์ \"tellarknight\" 1 ตัวจากเด็คของคุณขึ้นมือได้, ยกเว้น \"Satellarknight Deneb\" คุณสามารถใช้เอฟเฟกต์ของ \"Satellarknight Deneb\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "b184ce2ced3cdb27848d2060197af6a244750f8f80ae9d9a7154e4626a7fe500",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

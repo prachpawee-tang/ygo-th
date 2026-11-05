@@ -1,0 +1,9 @@
+{
+  "id": "78861134",
+  "name": "Darkfire Soldier #2",
+  "th": "นักรบที่ได้รับพลังอันมหาศาลจากใจกลางภูเขาไฟ",
+  "status": "ai",
+  "en_sha256": "3918a70fdc30e13ca245d65fc1075d0a0a54ac48527bf46be399ad694b0c96e6",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

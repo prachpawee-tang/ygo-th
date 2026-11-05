@@ -1,0 +1,9 @@
+{
+  "id": "2504891",
+  "name": "Skull Knight",
+  "th": "\"Tainted Wisdom\" + \"Ancient Brain\"",
+  "status": "ai",
+  "en_sha256": "a49da820a7fced7e17a7e493c900a7799705fc68b7d7a555760cb3625e0df7f4",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

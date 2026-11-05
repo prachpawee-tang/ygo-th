@@ -1,0 +1,9 @@
+{
+  "id": "92223430",
+  "name": "Elborz, the Sacred Lands of Simorgh",
+  "th": "มอนสเตอร์ “WIND Winged Beast” ทั้งหมดบนสนาม ได้รับ ATK/DEF 300 คุณสามารถใช้แต่ละเอฟเฟกต์ต่อไปนี้ของ \"Elborz, the Sacred Lands of Simorgh\" ได้ 1 ครั้งต่อเทิร์น\n● คุณสามารถเปิดเผยมอนสเตอร์ “WIND Winged Beast” ระดับ 5 หรือสูงกว่าในมือของคุณ; เทิร์นนี้ คุณสามารถ อัญเชิญปกติ มอนสเตอร์ Winged Beast โดยใช้ Tribute น้อยลง 1 (แม้ว่าการ์ดใบนี้จะออกจากสนาม)\n● ถ้าคุณควบคุมมอนสเตอร์ “WIND Winged Beast” คุณสามารถ: ทันทีหลังจากเอฟเฟกต์นี้แก้ไขเสร็จสิ้น, อัญเชิญปกติ มอนสเตอร์ Winged Beast 1 ตัว",
+  "status": "ai",
+  "en_sha256": "d098b7d83a9f9b3dad7bfc3fd04edf75565f3fd72ad6ea37072c1923a258d0c9",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

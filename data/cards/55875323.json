@@ -1,0 +1,9 @@
+{
+  "id": "55875323",
+  "name": "Electric Lizard",
+  "th": "มอนสเตอร์ชนิดที่ไม่ใช่ Zombie-Type ที่โจมตี \"Electric Lizard\" จะไม่สามารถโจมตีได้ในเทิร์นถัดไป",
+  "status": "ai",
+  "en_sha256": "85e689c91630ab45a1d9f16a935e2801b1554de39c931a2dc97475a6aa1f4409",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

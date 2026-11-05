@@ -1,0 +1,9 @@
+{
+  "id": "81843628",
+  "name": "Needle Worm",
+  "th": "พลิก: ส่งการ์ดบนสุดของเด็คของคู่ต่อสู้ 5 ใบลงสุสาน (GY).",
+  "status": "ai",
+  "en_sha256": "f9dabbaeb795af2b5db0de75897996964479c88abcefc527e2743d60ffe0192a",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

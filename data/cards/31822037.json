@@ -1,0 +1,9 @@
+{
+  "id": "31822037",
+  "name": "Purification Power Patron",
+  "th": "มอนสเตอร์ที่ไม่ใช่ Link 2 ตัว\nถ้าการ์ดใบนี้ถูกอัญเชิญแบบ Link และคุณมีมอนสเตอร์ \"Power Patron\" ในสุสาน: คุณสามารถเพิ่มการ์ด \"Theorealize\" 1 ใบจากเด็คขึ้นมือได้ แต่ละเอฟเฟกต์ของ \"Purification Power Patron\" ใช้ได้ 1 ครั้งต่อเทิร์น\n① ใน Main Phase, ถ้าคุณควบคุมมอนสเตอร์ Fairy ที่เป็น DARK อีกตัว คุณสามารถ (Quick Effect): ทันทีที่เอฟเฟกต์นี้จบลง ให้ทำการอัญเชิญ Link มอนสเตอร์ Link 1 ตัวโดยใช้ Material ที่คุณควบคุม ซึ่งรวมถึงการ์ดใบนี้ด้วย",
+  "status": "ai",
+  "en_sha256": "e8ed05c1728ac10bb499fc1d05ef9584aaf350f121c3d599ba3b1d00c1fe122c",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

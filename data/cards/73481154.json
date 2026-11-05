@@ -1,0 +1,9 @@
+{
+  "id": "73481154",
+  "name": "Destroyer Golem",
+  "th": "โกเลมที่มีมือขวาขนาดใหญ่สำหรับบดขยี้เหยื่อ",
+  "status": "ai",
+  "en_sha256": "affcb3e6bc12be1b4e95f6844f0abc22ef888a68ee3c7f58b3adce5968b8b305",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

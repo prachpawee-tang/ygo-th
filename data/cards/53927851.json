@@ -1,0 +1,9 @@
+{
+  "id": "53927851",
+  "name": "Radiant Typhoon Varuroon, the Vibrant Vortex",
+  "th": "ถ้ามีการเปิดใช้การ์ดเวทมนตร์ Quick-Play (ยกเว้นระหว่าง Damage Step): คุณสามารถ อัญเชิญพิเศษการ์ดนี้จากมือของคุณได้ เมื่อคู่ต่อสู้เปิดใช้เอฟเฟกต์มอนสเตอร์ และคุณมี \"Mystical Space Typhoon\" ใน สุสาน (GY) (Quick Effect): คุณสามารถลบล้างเอฟเฟกต์นั้นได้ จากนั้น ถ้าคุณมี \"Mystical Space Typhoon\" 2 ใบขึ้นไปใน สุสาน (GY) คุณสามารถทำลายมอนสเตอร์นั้นได้ ถ้า \"Mystical Space Typhoon\" ถูกเปิดใช้ ในขณะที่การ์ดนี้อยู่ใน สุสาน (GY) ของคุณ: คุณสามารถ อัญเชิญพิเศษการ์ดนี้ได้ คุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Radiant Typhoon Varuroon, the Vibrant Vortex\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "6ac5dd523fdb63886970e18e29e8e37ee2efa12386b095bc6e8d1879ab6ecb8e",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "67598234",
+  "name": "Gaia Saber, the Lightning Shadow",
+  "th": "2+ มอนสเตอร์",
+  "status": "ai",
+  "en_sha256": "d3f7a5089e8d904e2e4b8dd150bfd6df7b6ff35859ea8b1a6461af96100ac691",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

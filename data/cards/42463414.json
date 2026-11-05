@@ -1,0 +1,9 @@
+{
+  "id": "42463414",
+  "name": "Spined Gillman",
+  "th": "มอนสเตอร์ประเภท Fish, Sea Serpent และ Aqua-Type ทั้งหมดที่คุณควบคุม ได้รับ ATK 400",
+  "status": "ai",
+  "en_sha256": "c8099d36a758430bcfb4d859ca6cdbf514b8412e213fb6ed9647ea56315e0c50",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

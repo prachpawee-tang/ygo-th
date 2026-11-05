@@ -1,0 +1,9 @@
+{
+  "id": "95209656",
+  "name": "Drytron Meteonis Quadrantids",
+  "th": "คุณสามารถ อัญเชิญแบบพิธีกรรม \"Drytron Meteonis Quadrantids\" ได้ด้วย \"Meteonis Drytron\" คู่ต่อสู้ไม่สามารถเลือกเป้าหมาย \"Drytron Meteonis Quadrantids\" นี้ด้วย Spell/Trap Cards หรือเอฟเฟกต์ได้ คุณสามารถใช้แต่ละเอฟเฟกต์ต่อไปนี้ของ \"Drytron Meteonis Quadrantids\" ได้ 1 ครั้งต่อเทิร์นเท่านั้น: ถ้า Level รวมของมอนสเตอร์ที่ใช้สำหรับการ อัญเชิญแบบพิธีกรรมของ \"Drytron Meteonis Quadrantids\" นี้มี 2 หรือน้อยกว่า: คุณสามารถทำลาย Spells และ Traps ทั้งหมดที่คู่ต่อสู้ควบคุมได้ ถ้าการ์ดที่ อัญเชิญแบบพิธีกรรมนี้ถูกทำลาย: คุณสามารถ อัญเชิญพิเศษ มอนสเตอร์ \"Drytron\" จาก สุสาน (GY) ได้ ยกเว้น \"Drytron Meteonis Quadrantids\" โดยที่ ATK รวมกันเท่ากับ 4000 พอดี",
+  "status": "ai",
+  "en_sha256": "69d31352a34b6010b0fc701357b76ce550038c7fef09e37c02e06ccdb7f666d2",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

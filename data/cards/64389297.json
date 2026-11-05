@@ -1,0 +1,9 @@
+{
+  "id": "64389297",
+  "name": "Magical Labyrinth",
+  "th": "ติดตั้งกับ \"Labyrinth Wall\" เท่านั้น คุณสามารถ สังเวย มอนสเตอร์ที่ติดตั้งอยู่; อัญเชิญพิเศษ \"Wall Shadow\" จาก เด็ค ของคุณ",
+  "status": "ai",
+  "en_sha256": "337a120ee5d0f214feb6faf5a928694a412cbac006d3129fade08fb49dc31c6a",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

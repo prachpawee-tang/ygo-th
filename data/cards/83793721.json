@@ -1,0 +1,9 @@
+{
+  "id": "83793721",
+  "name": "Flowering Etoile the Melodious Magnificat",
+  "th": "มอนสเตอร์ \"Melodious Maestra\" 1 ตัว + มอนสเตอร์ \"Melodious\" 2 ตัว\n(Quick Effect): คุณสามารถเนรเทศ มอนสเตอร์ \"Melodious\" ที่คุณควบคุม จำนวนใดก็ได้ (จนถึง End Phase), จากนั้นคุณสามารถส่งการ์ดที่หงายอยู่บนสนามของคู่ต่อสู้กลับขึ้นมือได้มากที่สุดเท่ากับจำนวนที่เนรเทศ คุณสามารถใช้เอฟเฟกต์ของ \"Flowering Etoile the Melodious Magnificat\" ได้ 1 ครั้งต่อเทิร์น ถ้าการ์ด Fusion Summoned ที่หงายอยู่ซึ่งอยู่ในการควบคุมของผู้เล่นออกจากสนามเนื่องจากการ์ดของคู่ต่อสู้: คุณสามารถ อัญเชิญพิเศษ มอนสเตอร์ \"Melodious\" 1 ตัวจากเด็คหรือเอ็กซ์ตร้าเด็ค ยกเว้น \"Flowering Etoile the Melodious Magnificat\"",
+  "status": "ai",
+  "en_sha256": "4720b1dcf04453541f77201d671958138b279e5956d0976af1e8ffe26fcf27e9",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

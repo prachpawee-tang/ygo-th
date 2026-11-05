@@ -1,0 +1,9 @@
+{
+  "id": "60694662",
+  "name": "Skelengel",
+  "th": "พลิก: จั่วการ์ด 1 ใบ",
+  "status": "ai",
+  "en_sha256": "3adb08537b26a90afa9cb45210a8fe134726583f78e16cc894c4f8529ad2e0d5",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

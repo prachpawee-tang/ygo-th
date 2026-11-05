@@ -1,0 +1,9 @@
+{
+  "id": "96182448",
+  "name": "Nitro Synchron",
+  "th": "ถ้าการ์ดใบนี้ถูกส่งลงสุสาน (GY) เพื่อทำการอัญเชิญ Synchro มอนสเตอร์ \"Nitro\": จั่วการ์ด 1 ใบ",
+  "status": "ai",
+  "en_sha256": "f44ab76116f441cd2c3fe55d3465c4ab5c5e7a2ef3a57ce3c68b7add1a0b37ca",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

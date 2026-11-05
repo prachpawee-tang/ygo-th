@@ -1,0 +1,9 @@
+{
+  "id": "84686841",
+  "name": "King Fog",
+  "th": "ปีศาจที่อาศัยอยู่ในม่านควันอันบดบังสายตา",
+  "status": "ai",
+  "en_sha256": "7de32694d9e1bb0d6536cdc42be43d9cc5a81bbc80e5045a1c3bd58171dd75db",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "78543464",
+  "name": "Kuji-Kiri Curse",
+  "th": "ส่งมอนสเตอร์ Level 9 จากมือของคุณ หรือมอนสเตอร์ที่หงายอยู่บนสนาม ไปที่สุสาน; จั่วการ์ด 2 ใบ คุณสามารถเปิดใช้ \"Kuji-Kiri Curse\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "2d589da6399feccaa721923958c97062282e4116513ff8f6e430f3ecab50782c",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

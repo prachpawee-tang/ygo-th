@@ -1,0 +1,9 @@
+{
+  "id": "55550921",
+  "name": "Battle Warrior",
+  "th": "นักรบที่ต่อสู้ด้วยมือเปล่า!!!",
+  "status": "ai",
+  "en_sha256": "7d732566f5d42951358b1d9ec36cd3ee61a46d29d7e807dc608e2837ef485751",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

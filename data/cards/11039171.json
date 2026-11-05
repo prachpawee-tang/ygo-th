@@ -1,0 +1,9 @@
+{
+  "id": "11039171",
+  "name": "Frightfur Wolf",
+  "th": "\"Edge Imp Sabres\" + มอนสเตอร์ \"Fluffal\" 1 ตัวขึ้นไป\nต้องทำการ Fusion Summon โดยใช้ Material การ Fusion ข้างต้น และไม่สามารถ อัญเชิญพิเศษด้วยวิธีอื่นได้ การ์ดใบนี้สามารถโจมตีได้จำนวนครั้งเท่ากับจำนวน Material ที่ใช้ในการ Fusion Summon",
+  "status": "ai",
+  "en_sha256": "dfce6ef19ceff0f1a0f87e80eeff8b58a7331d5e0ec045cc1853fd8429af4e11",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

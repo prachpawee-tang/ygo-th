@@ -1,0 +1,9 @@
+{
+  "id": "91020571",
+  "name": "Reactan, Dragon Ruler of Pebbles",
+  "th": "คุณสามารถทิ้งการ์ดนี้ และ มอนสเตอร์ Dragon-Type หรือ EARTH 1 ตัว; อัญเชิญพิเศษ \"Redox, Dragon Ruler of Boulders\" 1 ตัวจากเด็คของคุณ มันไม่สามารถโจมตีได้ในเทิร์นนี้ คุณสามารถใช้เอฟเฟกต์ของ \"Reactan, Dragon Ruler of Pebbles\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "9c4f9540e88c871a616391921c589213afe6bc80e555a199c7797d0499c6fab0",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

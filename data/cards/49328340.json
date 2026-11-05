@@ -1,0 +1,9 @@
+{
+  "id": "49328340",
+  "name": "Spiral Spear Strike",
+  "th": "ถ้า “Gaia The Fierce Knight”, “Swift Gaia the Fierce Knight”, หรือ “Gaia the Dragon Champion” ที่คุณควบคุมโจมตีมอนสเตอร์ในท่าป้องกัน, สร้างความเสียหายจากการต่อสู้แบบเจาะทะลุให้คู่ต่อสู้ ถ้า “Gaia the Dragon Champion” สร้างความเสียหายจากการต่อสู้ด้วยเอฟเฟกต์นี้: จั่วการ์ด 2 ใบ, จากนั้นทิ้งการ์ด 1 ใบ",
+  "status": "ai",
+  "en_sha256": "7bddf75d002baf8abec76b4c609397fa37473fe27c4c5f40371df7b4c3b8fe69",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "81066751",
+  "name": "Divine Punishment",
+  "th": "เมื่อเปิดใช้การ์ด Spell/Trap หรือเอฟเฟกต์มอนสเตอร์ ในขณะที่ \"The Sanctuary in the Sky\" อยู่บนสนาม: ลบล้างการเปิดใช้ และถ้าทำได้ ให้ทำลายมัน",
+  "status": "ai",
+  "en_sha256": "024bbcdc9685f3ae957d9c43421f171e57a7fbc68eeaabffb92e535542dda0c2",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

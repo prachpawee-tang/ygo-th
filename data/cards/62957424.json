@@ -1,0 +1,10 @@
+{
+  "id": "62957424",
+  "name": "Libic, Malebranche of the Burning Abyss",
+  "th": "ถ้าคุณไม่ได้ควบคุมมอนสเตอร์ที่ไม่ได้เป็นมอนสเตอร์ \"Burning Abyss\" ทำลายการ์ดนี้ คุณสามารถใช้เอฟเฟกต์นี้ของ \"Libic, Malebranche of the Burning Abyss\" ได้ 1 ครั้งต่อเทิร์น และเพียงครั้งเดียวในเทิร์นนั้น\n● ถ้าคุณไม่ได้ควบคุม Spell/Trap Cards: คุณสามารถ อัญเชิญพิเศษ การ์ดนี้จากมือของคุณ\n● ถ้าการ์ดนี้ถูกส่งลงสุสาน: คุณสามารถ อัญเชิญพิเศษ มอนสเตอร์ Level 3 DARK ประเภท Fiend จากมือของคุณ แต่เอฟเฟกต์ของมันถูกลบล้าง",
+  "status": "ai",
+  "en_sha256": "be6b7dd8b6e19166b1ee460999b55d4bfec48b090b0f294eda2d61c0a7482153",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

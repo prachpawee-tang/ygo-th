@@ -1,0 +1,9 @@
+{
+  "id": "78984772",
+  "name": "Twin-Headed Fire Dragon",
+  "th": "มังกรสองตัวรวมร่างเป็นหนึ่งเดียวจากผลของบิ๊กแบง",
+  "status": "ai",
+  "en_sha256": "a77af9321cbebca0fe33664da49da82930474c8af06775aeb831ead1fee0f2fa",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

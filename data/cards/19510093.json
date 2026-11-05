@@ -1,0 +1,9 @@
+{
+  "id": "19510093",
+  "name": "Superheavy Samurai Monk Big Benkei",
+  "th": "[ เอฟเฟกต์ Pendulum ]\nถ้าคุณควบคุมมอนสเตอร์ \"Superheavy Samurai\": คุณสามารถเพิ่มมอนสเตอร์ \"Superheavy Samurai Soul\" 1 ตัวจากเด็คของคุณขึ้นมือได้ คุณสามารถใช้เอฟเฟกต์นี้ของ \"Superheavy Samurai Monk Big Benkei\" ได้ 1 ครั้งต่อเทิร์น\n\n[ เอฟเฟกต์มอนสเตอร์ ]\nถ้าคุณไม่มี Spell/Trap ในสุสาน (GY): คุณสามารถส่ง \"Superheavy Samurai Big Benkei\" 1 ตัวจากมือหรือเด็คของคุณลงสุสาน และถ้าทำได้ ให้ อัญเชิญพิเศษ การ์ดนี้จากมือของคุณ ถ้าการ์ดนี้ถูกใช้เป็น Material Synchro และเพิ่มเข้าไปใน เอ็กซ์ตร้าเด็ค แบบหงาย: คุณสามารถวางการ์ดนี้ใน Pendulum Zone ของคุณได้ คุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Superheavy Samurai Monk Big Benkei\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "9c2cfb42fe86b58a9eadf1436337f23078929abcca03ac2165e5e60305aaa1bf",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

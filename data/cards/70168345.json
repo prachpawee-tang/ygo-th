@@ -1,0 +1,10 @@
+{
+  "id": "70168345",
+  "name": "Dark Magic Twin Burst",
+  "th": "เลือกเป้าหมาย \"Dark Magician\" ที่คุณควบคุม; มันได้รับ ATK เท่ากับ ATK รวมของ \"Dark Magician Girl\" ทั้งหมดที่อยู่ในสนามและสุสาน (GY) จนจบเทิร์นนี้ คุณสามารถเปิดใช้ \"Dark Magic Twin Burst\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "84bf2a19173d319a7eb664be07e9044a4d502544f29d260846ca23e4c7f98e36",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

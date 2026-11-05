@@ -1,0 +1,9 @@
+{
+  "id": "11705261",
+  "name": "Xyz Change Tactics",
+  "th": "เมื่อมอนสเตอร์ \"Utopia\" ถูกอัญเชิญแบบ Xyz ลงบนสนามของคุณ: คุณสามารถจ่าย 500 LP; จั่วการ์ด 1 ใบ คุณสามารถควบคุม \"Xyz Change Tactics\" ได้เพียง 1 ใบเท่านั้น",
+  "status": "ai",
+  "en_sha256": "c137e6eb7bc63b9edd0938b17ba04a7cd7863c9ead1abcd664aca32364c26568",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

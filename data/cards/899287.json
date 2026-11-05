@@ -1,0 +1,9 @@
+{
+  "id": "899287",
+  "name": "Glife the Phantom Bird",
+  "th": "คุณสามารถทิ้งการ์ดใบนี้; เพิ่ม \"Golden Castle of Stromberg\" 1 ใบจากเด็คของคุณขึ้นมือ คุณสามารถอัญเชิญปกติหรืออัญเชิญพิเศษการ์ดนี้: เลือกเป้าหมายการ์ด 1 ใบใน Spell & Trap Zone ของคู่ต่อสู้; ทำลายมัน คุณสามารถใช้เอฟเฟกต์ของ \"Glife the Phantom Bird\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "47a40eb75d823dba47f37db63c0f8ac8cc6e653a2dd78f68967e6900a70ab2b3",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

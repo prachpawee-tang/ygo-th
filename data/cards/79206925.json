@@ -1,0 +1,10 @@
+{
+  "id": "79206925",
+  "name": "Gravekeeper's Supernaturalist",
+  "th": "“มอนสเตอร์ Gravekeeper’s” 2 ตัว\nได้รับ ATK/DEF เท่ากับระดับเดิมรวมกันของ Material ที่ใช้ในการอัญเชิญ Fusion คูณ 100 ขณะที่ “Necrovalley” อยู่บนสนาม การ์ดใบนี้ และการ์ดใดๆ ใน Field Zone ของคุณ ไม่สามารถถูกทำลายได้ด้วยเอฟเฟกต์ของการ์ด ระหว่าง Main Phase ของคุณ: คุณสามารถเปิดใช้เอฟเฟกต์นี้ได้; ในช่วง End Phase ของเทิร์นนี้ จั่วการ์ด “Gravekeeper’s” มอนสเตอร์ 1 ใบ หรือ การ์ด “Necrovalley” 1 ใบ จากเด็คขึ้นมือ คุณสามารถใช้เอฟเฟกต์ของ “Gravekeeper’s Supernaturalist” ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "aa11714dc1dbf40f7eb164bf7586fb06f80b90e59f113495f4327904bd1d55c8",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05",
+  "note": "rule-check: card names in quotes changed/missing: \"Gravekeeper's Supernaturalist\", \"Gravekeeper's\""
+}

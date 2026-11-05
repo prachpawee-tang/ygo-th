@@ -1,0 +1,10 @@
+{
+  "id": "96733134",
+  "name": "Supreme King Dragon Odd-Eyes",
+  "th": "[ เอฟเฟกต์ Pendulum ]\nคุณสามารถ สังเวย มอนสเตอร์ \"Supreme King Dragon\" 1 ตัว; ทำลายการ์ดนี้, และถ้าทำได้ ให้เพิ่ม Pendulum Monster ที่มี ATK ไม่เกิน 1500 จากเด็คของคุณขึ้นมือ\n\n[ เอฟเฟกต์ มอนสเตอร์ ]\nคุณสามารถ สังเวย มอนสเตอร์ \"Supreme King Dragon\" 2 ตัว; อัญเชิญพิเศษการ์ดนี้จากมือของคุณ ถ้า Pendulum Monster ของคุณทำการต่อสู้กับมอนสเตอร์ของคู่ต่อสู้ ความเสียหายจากการต่อสู้ที่มันสร้างให้กับคู่ต่อสู้จะเพิ่มเป็นสองเท่า ในช่วง Battle Phase (Quick Effect): คุณสามารถ สังเวย การ์ดนี้; อัญเชิญพิเศษ มอนสเตอร์ Pendulum \"Supreme King Dragon\" และ/หรือ \"Supreme King Gate\" ที่หงายอยู่จาก เอ็กซ์ตร้าเด็คของคุณสูงสุด 2 ตัว ในท่าป้องกัน ยกเว้น \"Supreme King Dragon Odd-Eyes\"",
+  "status": "ai",
+  "en_sha256": "785e80fe25d2858d384cbeb95ef8c15c7a47f1968036fd4566eb2c375359eec6",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

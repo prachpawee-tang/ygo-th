@@ -1,0 +1,9 @@
+{
+  "id": "43143567",
+  "name": "Fallen Angel of the Golden Land",
+  "th": "\"Eldlich the Golden Lord\" + มอนสเตอร์ Zombie 1 ตัว\nจะต้องทำการ Fusion Summon หรือ อัญเชิญพิเศษ (จาก เอ็กซ์ตร้าเด็ค) โดย สังเวย มอนสเตอร์ Zombie ประเภท LIGHT 1 ตัว ในขณะที่คุณมี \"Eldlich the Golden Lord\" อยู่ใน สนาม หรือ สุสาน (GY) คุณสามารถ อัญเชิญพิเศษ \"Fallen Angel of the Golden Land\" ได้ 1 ครั้งต่อเทิร์นเท่านั้นด้วยวิธีนี้ ไม่ว่าคุณจะใช้วิธีใดก็ตาม ถ้าการ์ดใบนี้ถูกส่งจาก สนาม ไปยัง สุสาน (GY): คุณสามารถ อัญเชิญพิเศษ มอนสเตอร์ \"Eldlich\" 1 ตัว จาก เด็ค, เอ็กซ์ตร้าเด็ค หรือ สุสาน (GY) คุณสามารถใช้เอฟเฟกต์ของ \"Fallen Angel of the Golden Land\" ได้ 1 ครั้งต่อเทิร์นเท่านั้น",
+  "status": "ai",
+  "en_sha256": "aad3bcdaf0e24ca8e53a14c2ab663021af897e3bf5d4607e462c0aefaa493919",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

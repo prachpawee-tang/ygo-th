@@ -1,0 +1,9 @@
+{
+  "id": "27967615",
+  "name": "Fusion Weapon",
+  "th": "ติดตั้งกับมอนสเตอร์ Fusion ที่มี Level 6 หรือต่ำกว่าได้เท่านั้น มอนสเตอร์ที่ติดตั้งได้รับ ATK และ DEF 1500",
+  "status": "ai",
+  "en_sha256": "94333f610441e7002a481a2adb3fa6921bdc0241d292d7e72798eeebc8ba600b",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

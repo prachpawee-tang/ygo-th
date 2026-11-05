@@ -1,0 +1,9 @@
+{
+  "id": "32646477",
+  "name": "Dark Strike Fighter",
+  "th": "1 Tuner + มอนสเตอร์ non-Tuner 1 ตัวขึ้นไป\nระหว่าง Main Phase ของคุณ 1: คุณสามารถ สังเวย มอนสเตอร์ 1 ตัว; สร้างความเสียหายให้คู่ต่อสู้เท่ากับ Level ของมอนสเตอร์ที่ถูกสังเวยในสนาม x 200 คุณสามารถใช้เอฟเฟกต์ของ \"Dark Strike Fighter\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "f2c8496cfeacfce3747319e1f884ca7f0ef43906ab536ae41cbce8e9efb6c909",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

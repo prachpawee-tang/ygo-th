@@ -1,0 +1,9 @@
+{
+  "id": "67957315",
+  "name": "Spirit Ryu",
+  "th": "ระหว่าง Battle Step ของคุณ, ถ้าการ์ดใบนี้ทำการต่อสู้ (Quick Effect): คุณสามารถทิ้งมอนสเตอร์ Dragon 1 ตัวลงสุสาน; การ์ดใบนี้ได้รับ ATK/DEF 1000 จนจบ Battle Phase",
+  "status": "ai",
+  "en_sha256": "187ddf997e3574f3ae2d3113f11a1aa72e7620dc11677b3d29bfe96502d66c79",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "75434695",
+  "name": "Elemental HERO Woodsman",
+  "th": "1 ครั้งต่อเทิร์น, ในช่วง Standby Phase ของคุณ: คุณสามารถเพิ่ม \"Polymerization\" 1 ใบจากเด็คหรือสุสานของคุณขึ้นมือ",
+  "status": "ai",
+  "en_sha256": "8a4fc7f265d7a74484583fac3992ad417be6cdd0ed9fbbdc9c981683437c64f5",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

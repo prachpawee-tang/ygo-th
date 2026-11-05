@@ -1,0 +1,9 @@
+{
+  "id": "26435595",
+  "name": "Patissciel Couverture",
+  "th": "[ เอฟเฟกต์ Pendulum ] \nถ้าคุณไม่มีการ์ดใน Pendulum Zone อื่น: คุณสามารถวาง Pendulum Monster ที่หงายอยู่ 1 ตัวจาก เอ็กซ์ตร้าเด็ค ของคุณใน Pendulum Zone ของคุณ คุณสามารถใช้เอฟเฟกต์นี้ของ \"Patissciel Couverture\" ได้ 1 ครั้งต่อเทิร์น\n\n[ เอฟเฟกต์มอนสเตอร์ ] \nมอนสเตอร์ Pendulum 2 ตัว\nถ้าการ์ดนี้ใน Main Monster Zone ถูกทำลาย: คุณสามารถวางการ์ดนี้ใน Pendulum Zone ของคุณ",
+  "status": "ai",
+  "en_sha256": "c22473695f860c42bb76e5afbb60969ea2e36d5105c5c6f0e5a96f5e6e73d29d",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "27415516",
+  "name": "Stream, Dragon Ruler of Droplets",
+  "th": "คุณสามารถทิ้งการ์ดนี้ และ มอนสเตอร์ Dragon-Type หรือ WATER 1 ตัว; อัญเชิญพิเศษ \"Tidal, Dragon Ruler of Waterfalls\" 1 ตัวจากเด็คของคุณ คุณจะไม่สามารถโจมตีได้ในเทิร์นนี้ คุณสามารถใช้เอฟเฟกต์ของ \"Stream, Dragon Ruler of Droplets\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "b021583dfa573d716aaa69f5a8108f510010717d46b49b4eb7e286835e53000e",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

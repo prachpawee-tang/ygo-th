@@ -1,0 +1,10 @@
+{
+  "id": "77121851",
+  "name": "Manticore of Darkness",
+  "th": "ระหว่าง End Phase ของเทิร์นที่การ์ดใบนี้ถูกส่งลงสุสาน: คุณสามารถส่งมอนสเตอร์ประเภท Beast, Beast-Warrior หรือ Winged Beast-Type จากมือของคุณหรือ Main Monster Zone ฝั่งคุณ ลงสุสาน; อัญเชิญพิเศษการ์ดใบนี้จากสุสานของคุณ",
+  "status": "ai",
+  "en_sha256": "c51e622ffab187674acf64fb09c0a77eb5fdaefd01d82b80676fcc69176b1349",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "93553943",
+  "name": "Man Eater",
+  "th": "พืชกินคนที่มีหนามพิษสำหรับโจมตีศัตรู",
+  "status": "ai",
+  "en_sha256": "824c4cbea9f8eb7b0e8fadf16c4a01f93e462ce7c26311df0e3ca0c5ec8a1ee2",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

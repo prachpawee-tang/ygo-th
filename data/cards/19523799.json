@@ -1,0 +1,9 @@
+{
+  "id": "19523799",
+  "name": "Ookazi",
+  "th": "สร้างความเสียหาย 800 ให้กับคู่ต่อสู้",
+  "status": "ai",
+  "en_sha256": "a727ba5d65f49bcb57fba38dce2b4c6daeca63a51d0b923228792d5f5cbd17d4",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

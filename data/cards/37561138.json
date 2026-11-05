@@ -1,0 +1,9 @@
+{
+  "id": "37561138",
+  "name": "Necrovalley Throne",
+  "th": "เปิดใช้เอฟเฟกต์ 1 ข้อ\n● เพิ่มมอนสเตอร์ \"Gravekeeper's\" 1 ตัวจากเด็คของคุณขึ้นมือ\n● ทันทีหลังจากเอฟเฟกต์นี้จบลง, อัญเชิญปกติ มอนสเตอร์ \"Gravekeeper's\" 1 ตัว\nคุณสามารถเปิดใช้ \"Necrovalley Throne\" ได้ 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "e3e888f5b3987bf78b05ac7fc9572fd665c5c6b3d3edf41e885c155cfea45e67",
+  "model": "gemma3:12b",
+  "updated": "2026-11-05"
+}

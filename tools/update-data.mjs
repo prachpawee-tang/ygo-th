@@ -29,8 +29,11 @@ function node(step, script, args, why) {
 }
 
 function git(args) {
-  const r = spawnSync("git", args, { cwd: ROOT, encoding: "utf8" });
-  if (r.error) fail("git", "เรียก git ไม่ได้ — ติดตั้ง Git for Windows แล้วเปิดหน้าต่างใหม่");
+  // core.safecrlf=false: ไม่ให้ git พิมพ์ "LF will be replaced by CRLF" ทีละไฟล์ (หลายพันไฟล์ = ข้อความหลาย MB)
+  // maxBuffer ใหญ่: ผลลัพธ์ของ git กับหลายพันไฟล์เกิน 1MB ที่เป็นค่าเริ่มต้นได้
+  const r = spawnSync("git", ["-c", "core.safecrlf=false", ...args], { cwd: ROOT, encoding: "utf8", maxBuffer: 256 * 1024 * 1024 });
+  if (r.error?.code === "ENOENT") fail("git", "ไม่พบ git — ติดตั้ง Git for Windows แล้วเปิดหน้าต่างใหม่");
+  if (r.error) fail(`git ${args[0]}`, `git ทำงานไม่สำเร็จ: ${r.error.message}`);
   return r;
 }
 

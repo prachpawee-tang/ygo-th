@@ -1,0 +1,9 @@
+{
+  "id": "80727036",
+  "name": "Man-Eating Black Shark",
+  "th": "\"Sea Kamen\" + \"Gruesome Goo\" + \"Amazon of the Seas\"",
+  "status": "ai",
+  "en_sha256": "994e246f688ce75878166c2ae8e562e0a130f5fc0ee13045a13854af6070951b",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "30276969",
+  "name": "Reese the Ice Mistress",
+  "th": "การ์ดใบนี้ไม่สามารถถูกทำลายด้วยการต่อสู้กับมอนสเตอร์ Level 4 หรือสูงกว่า.",
+  "status": "ai",
+  "en_sha256": "7cbefc4ab506980e1985da5ec29a6958bb5f395c70cbec7e3a3187461a16b0c7",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

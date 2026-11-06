@@ -1,0 +1,9 @@
+{
+  "id": "23166823",
+  "name": "Ritual Beast Tamer Zefrawendi",
+  "th": "[ เอฟเฟกต์ Pendulum ]\nคุณจะไม่สามารถอัญเชิญแบบ Pendulum มอนสเตอร์ได้ ยกเว้นมอนสเตอร์ \"Ritual Beast\" และ \"Zefra\"\nเอฟเฟกต์นี้ไม่สามารถถูกลบล้างได้\n[ เอฟเฟกต์มอนสเตอร์ ]\nเมื่อการ์ดใบนี้ถูกอัญเชิญปกติหรืออัญเชิญแบบ Pendulum: คุณสามารถเพิ่มมอนสเตอร์ \"Zefra\" ที่หงายอยู่ 1 ใบจากเอ็กซ์ตร้าเด็คของคุณขึ้นมือ ยกเว้น \"Ritual Beast Tamer Zefrawendi\"\nคุณสามารถอัญเชิญพิเศษ \"Ritual Beast Tamer Zefrawendi(s)\" ได้เพียง 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "1a83d0942780d944cf9822a0e8e8925d4bd17200bbc81b0eae6f948ec519df47",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

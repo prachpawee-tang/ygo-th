@@ -1,0 +1,9 @@
+{
+  "id": "67968069",
+  "name": "Junk Puppet",
+  "th": "เลือกมอนสเตอร์ \"Gimmick Puppet\" 1 ตัวในสุสานของคุณ; อัญเชิญพิเศษมัน\nคุณสามารถเปิดใช้ \"Junk Puppet\" ได้เพียง 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "4a0129ea965803384fd67f21d24975d4acc0d33f709dce16a5ea2d7fd8be9d97",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

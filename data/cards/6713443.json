@@ -1,0 +1,10 @@
+{
+  "id": "6713443",
+  "name": "Ultimate Fire Formation - Seito",
+  "th": "เอาการ์ด “Fire Formation” เวทมนตร์/กับดัก 7 ใบออกจากสุสานของคุณ; อัญเชิญพิเศษมอนสเตอร์ “Fire Fist” ได้มากที่สุดเท่าที่ทำได้จากสุสานของคุณ, จากนั้นคุณสามารถเซ็ตการ์ด “Fire Formation” เวทมนตร์/กับดักโดยตรงจากเด็คของคุณ, ยกเว้น “Ultimate Fire Formation - Seito”, ตามจำนวนมอนสเตอร์ที่ถูกอัญเชิญพิเศษโดยเอฟเฟกต์นี้.",
+  "status": "ai",
+  "en_sha256": "a7d4c2a20e41beb8e0b92f62376ba59466cb9b1a61f1a2461b6ba2b082ef052f",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: \"banish\" ×1 in English but \"ออกจากเกม\" ×0 in Thai — meaning may be wrong"
+}

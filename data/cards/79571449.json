@@ -1,9 +1,9 @@
 {
   "id": "79571449",
   "name": "Graceful Charity",
-  "th": "จั่วการ์ด 3 ใบ จากนั้นทิ้งการ์ด 2 ใบ",
+  "th": "จั่วการ์ด 3 ใบ จากนั้นทิ้งการ์ด 2 ใบ.",
   "status": "ai",
   "en_sha256": "6668277641e5cd98fcab6cd5c849d9e4b79d23ba94289eb9fc0beadc4d3d37c1",
   "model": "gemma3:12b",
-  "updated": "2026-11-04"
+  "updated": "2026-11-06"
 }

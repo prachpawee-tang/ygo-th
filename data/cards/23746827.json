@@ -1,0 +1,10 @@
+{
+  "id": "23746827",
+  "name": "Million-Century Ice Prison",
+  "th": "ในช่วง Main Phase, ถ้ามอนสเตอร์ที่คุณควบคุมออกจากสนามด้วยเอฟเฟกต์มอนสเตอร์ของคู่ต่อสู้, ยกเว้นจากการถูกทำลาย: เปิดใช้เอฟเฟกต์ใดเอฟเฟกต์หนึ่งต่อไปนี้;\n● จบ Main Phase\n● ข้าม Main Phase 1 ของเทิร์นถัดไปของคู่ต่อสู้\nคุณสามารถเปิดใช้ \"Million-Century Ice Prison\" ได้เพียง 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "86c2f89651b00e449f0d379326fe81897e9c0211bd9fc1ec89bfbaf471978b05",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

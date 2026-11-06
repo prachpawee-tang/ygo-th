@@ -1,0 +1,9 @@
+{
+  "id": "83678433",
+  "name": "Midnight Fiend",
+  "th": "\"มอนสเตอร์ตัวนี้ปรากฏตัวเมื่อมีการสังเวยในเที่ยงคืน.\"",
+  "status": "ai",
+  "en_sha256": "e2b9794fdcfeedbf9ef481402b4274f2a5a07f991a5ef6d4a74fe193e9754f00",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

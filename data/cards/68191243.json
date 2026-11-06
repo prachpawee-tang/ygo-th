@@ -1,0 +1,9 @@
+{
+  "id": "68191243",
+  "name": "Mustering of the Dark Scorpions",
+  "th": "ถ้าคุณควบคุม \"Don Zaloog\" ที่หงายอยู่: คุณสามารถอัญเชิญพิเศษมอนสเตอร์ \"Dark Scorpion\" จำนวนใดก็ได้จากมือของคุณ, แต่ละแบบมีเพียง 1 ใบเท่านั้น.",
+  "status": "ai",
+  "en_sha256": "1c5e2ee1d07e250621f51c949ed293bb7837fabe2c45f15c0a8ebe28b1190ca8",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

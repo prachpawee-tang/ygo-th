@@ -1,0 +1,9 @@
+{
+  "id": "20773176",
+  "name": "Zefraxa, Flame Beast of the Nekroz",
+  "th": "[ Pendulum Effect ]\nคุณจะไม่สามารถอัญเชิญแบบ Pendulum มอนสเตอร์ได้ ยกเว้นมอนสเตอร์ \"Nekroz\" และ \"Zefra\"\nเอฟเฟกต์นี้ไม่สามารถถูกลบล้างได้\n[ Monster Effect ]\nตราบใดที่การ์ดใบนี้อยู่ในมือของคุณหรือสุสานของคุณ ถ้าการ์ด \"Nekroz\" หรือ \"Zefra\" ที่หงายอยู่ (ยกเว้น \"Zefraxa, Flame Beast of the Nekroz\") ถูกทำลายโดยการต่อสู้หรือเอฟเฟกต์ของการ์ด ในขณะที่อยู่ใน Main Monster Zone หรือ Pendulum Zone ของคุณ: คุณสามารถอัญเชิญพิเศษการ์ดใบนี้ได้\nคุณสามารถใช้เอฟเฟกต์นี้ของ \"Zefraxa, Flame Beast of the Nekroz\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "51f279cd9ab062c830e256f4516c28011ab2431f77a0fd2a46fbbadb27016c3a",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

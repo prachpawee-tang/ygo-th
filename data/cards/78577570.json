@@ -1,0 +1,9 @@
+{
+  "id": "78577570",
+  "name": "Garma Sword Oath",
+  "th": "การ์ดใบนี้ใช้สำหรับ อัญเชิญแบบสังเวย \"Garma Sword\"\nคุณต้อง สังเวย มอนสเตอร์ที่มี Level รวมกันเท่ากับ 7 หรือมากกว่า จาก Main Monster Zone หรือ มือ",
+  "status": "ai",
+  "en_sha256": "f91878e6e05cadbd1dde863907ccd6aad5af697d2cc474625d52b3e4dcd5613a",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

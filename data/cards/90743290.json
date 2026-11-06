@@ -1,0 +1,9 @@
+{
+  "id": "90743290",
+  "name": "Hermit of Prophecy",
+  "th": "ทุกครั้งที่เปิดใช้การ์ดเวทมนตร์ \"Spellbook\" ระดับของการ์ดใบนี้จะเพิ่มขึ้น 2 และ ATK จะเพิ่มขึ้น 300.",
+  "status": "ai",
+  "en_sha256": "4efb8fb6eb5be39b653ef8c6d459c60623bb9049d2de8330f0aa38dccc364acc",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

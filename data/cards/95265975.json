@@ -1,0 +1,9 @@
+{
+  "id": "95265975",
+  "name": "Ghoul with an Appetite",
+  "th": "\"มอนสเตอร์ที่มีความอยากอาหารมากที่ไม่เคยถูกเติมเต็ม\"",
+  "status": "ai",
+  "en_sha256": "fd53bcfb205fecda1bfd773b001c62e74daab4af1877c213a31685e1c1b948be",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

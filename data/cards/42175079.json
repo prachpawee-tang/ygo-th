@@ -1,0 +1,9 @@
+{
+  "id": "42175079",
+  "name": "Volcanic Eruption",
+  "th": "ระหว่าง End Phase ของคุณ, ถ้าคุณควบคุม \"Jurassic World\": ทำลายการ์ดทั้งหมดบนสนาม.",
+  "status": "ai",
+  "en_sha256": "a3de63aa017fe1fa89d8680e739458d4689b2336202067b51f0b3609ef817ec2",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

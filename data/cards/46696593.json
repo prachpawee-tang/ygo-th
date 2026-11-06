@@ -1,0 +1,9 @@
+{
+  "id": "46696593",
+  "name": "Crimson Sunbird",
+  "th": "\"Faith Bird\" + \"Skull Red Bird\"",
+  "status": "ai",
+  "en_sha256": "13ffb4e489f510eef12f08520ea6b1da1033729a0e1546391e7d483e17941b77",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "68745629",
+  "name": "Elemental HERO Inferno",
+  "th": "\"Elemental HERO Heat\" + \"Elemental HERO Lady Heat\"\nต้องทำการอัญเชิญแบบฟิวชั่น และไม่สามารถอัญเชิญพิเศษด้วยวิธีอื่นได้\nถ้าการ์ดใบนี้ทำการต่อสู้กับมอนสเตอร์ธาตุน้ำ การ์ดใบนี้จะได้รับ ATK 1000 ในช่วง Damage Step เท่านั้น",
+  "status": "ai",
+  "en_sha256": "0a26ec342fb5318ff869f203b6c252846772bbb7e4adb07f38212e41e5676740",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

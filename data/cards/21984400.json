@@ -1,0 +1,10 @@
+{
+  "id": "21984400",
+  "name": "Beast Magic Attack",
+  "th": "นำ Spell Counter ออกจากสนามของคุณเพื่อเปิดใช้งานเอฟเฟกต์ใดเอฟเฟกต์หนึ่งต่อไปนี้\n● 2: นำมอนสเตอร์ Pendulum \"Mythical Beast\" 1 ตัวที่คุณควบคุมกลับขึ้นมือ\n● 4: อัญเชิญพิเศษมอนสเตอร์ Pendulum \"Mythical Beast\" ที่หงายอยู่ 1 ตัวจากเอ็กซ์ตร้าเด็คของคุณ จากนั้นคุณสามารถวาง Spell Counter 2 อันบนมันได้\n● 6: อัญเชิญพิเศษมอนสเตอร์ Pendulum ที่หงายอยู่ 1 ตัวจากเอ็กซ์ตร้าเด็คของคุณ\nคุณสามารถเปิดใช้ \"Beast Magic Attack\" ได้เพียง 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "b649cd282ebb64f42d0f0fc5529547658035f806b7ce31b620fb767c90548d6b",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

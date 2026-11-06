@@ -1,0 +1,9 @@
+{
+  "id": "43905751",
+  "name": "Madjinn Gunn",
+  "th": "\"อาวุธมีชีวิตที่พ่นกระสุน.\"",
+  "status": "ai",
+  "en_sha256": "e2237211db459a20d28939c40db1ae42fc8a95d6a489cfff69af56b0d4526e2d",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

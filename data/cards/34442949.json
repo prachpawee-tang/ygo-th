@@ -1,0 +1,9 @@
+{
+  "id": "34442949",
+  "name": "Mechanical Snail",
+  "th": "หอยทากไซบอร์กที่ยังคงเคลื่อนที่ด้วยความเร็วที่ช้า.",
+  "status": "ai",
+  "en_sha256": "7de2a5206611acb633a1ea0eacb288480e0a5a5bf0d5f6665352c5bf3066743d",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

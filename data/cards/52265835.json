@@ -1,0 +1,9 @@
+{
+  "id": "52265835",
+  "name": "Ally of Justice Rudra",
+  "th": "ถ้าการ์ดใบนี้ทำการต่อสู้กับมอนสเตอร์ธาตุแสง, มันจะได้รับ ATK 700 ในช่วง Damage Step เท่านั้น.",
+  "status": "ai",
+  "en_sha256": "fa359b265835f9b43da45862bd2e877e8597ce505f9b1579204b4b00d4a0a3ca",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

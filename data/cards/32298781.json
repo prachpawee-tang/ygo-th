@@ -1,0 +1,9 @@
+{
+  "id": "32298781",
+  "name": "Triangle Power",
+  "th": "เพิ่ม ATK และ DEF ของมอนสเตอร์ Normal ที่หงายอยู่ Level 1 ทั้งหมด (ยกเว้น Tokens) ที่ด้านของคุณบนสนาม 2000 points จนถึง End Phase\nทำลายมอนสเตอร์ Normal Level 1 ทั้งหมดที่ด้านของคุณบนสนามในช่วง End Phase",
+  "status": "ai",
+  "en_sha256": "4ec9fc6c343d83a743172d855715e856da9d600278acee9694e7dafd1309b286",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

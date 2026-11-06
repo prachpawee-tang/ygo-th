@@ -1,0 +1,9 @@
+{
+  "id": "6004133",
+  "name": "Abyss Actors' Dress Rehearsal",
+  "th": "ช่วงเริ่มต้น Main Phase 1 ของคุณ: เพิ่มการ์ด \"Abyss Actor\" 1 ใบ และการ์ด Spell \"Abyss Script\" 1 ใบ จากเด็คของคุณขึ้นมือ\nตลอดช่วงที่เหลือของเทิร์นนี้หลังจากเอฟเฟกต์ของการ์ดใบนี้จบลง คุณจะไม่สามารถ อัญเชิญแบบ Pendulum มอนสเตอร์ได้ ยกเว้นมอนสเตอร์ \"Abyss Actor\"",
+  "status": "ai",
+  "en_sha256": "db784ed4fe6df17ed0474d831e35a35b2482a2b1c01b19ff078bca5d5b47f0c9",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

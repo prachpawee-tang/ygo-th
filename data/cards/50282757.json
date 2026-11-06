@@ -1,0 +1,9 @@
+{
+  "id": "50282757",
+  "name": "Evil HERO Infernal Sniper",
+  "th": "\"Elemental HERO Clayman\" + \"Elemental HERO Burstinatrix\"\nต้องอัญเชิญพิเศษด้วย \"Dark Fusion\" และไม่สามารถอัญเชิญพิเศษด้วยวิธีอื่นได้\nการ์ดใบนี้ไม่สามารถถูกทำลายโดย Spell Cards\nในช่วง Standby Phase ของคุณในแต่ละครั้ง: สร้างความเสียหาย 1000 ให้กับคู่ต่อสู้\nการ์ดใบนี้ต้องอยู่ในท่าป้องกัน หงาย เพื่อเปิดใช้และเพื่อให้เอฟเฟกต์นี้ทำงาน",
+  "status": "ai",
+  "en_sha256": "bc42e7a5e8b51ee56db988856aaa6949a8615d47a710c01b8115d18c72c1ee0c",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

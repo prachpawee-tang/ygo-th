@@ -1,0 +1,9 @@
+{
+  "id": "84914462",
+  "name": "Axe Dragonute",
+  "th": "ถ้าการ์ดใบนี้ทำการโจมตี มันจะเปลี่ยนเป็นท่าป้องกันเมื่อสิ้นสุด Damage Step.",
+  "status": "ai",
+  "en_sha256": "c83e55d1e6f811a0275e2d1308375e7039d4a2c87ea8d6aec96fcbeecdbbb60a",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

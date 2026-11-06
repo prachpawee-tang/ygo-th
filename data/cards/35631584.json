@@ -1,0 +1,9 @@
+{
+  "id": "35631584",
+  "name": "Constellar Star Chart",
+  "th": "1 ครั้งต่อเทิร์น, เมื่อมอนสเตอร์ Xyz \"Constellar\" ถูกอัญเชิญพิเศษไปยังสนามของคุณ (ยกเว้นระหว่าง Damage Step): คุณสามารถจั่วการ์ด 1 ใบ.",
+  "status": "ai",
+  "en_sha256": "603d0fe8a85373669bd782ff6d1bbfc6c539bdaa98de780c5c08b36b1144cf64",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

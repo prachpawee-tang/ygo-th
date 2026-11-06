@@ -1,9 +1,9 @@
 {
   "id": "83968380",
   "name": "Jar of Greed",
-  "th": "จั่วการ์ด 1 ใบ",
+  "th": "จั่วการ์ด 1 ใบ.",
   "status": "ai",
   "en_sha256": "a63cd3569a05f63463e6436f6b4c272e05d7c060b5d9d44cf0fe1ce66f7f2d0c",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-06"
 }

@@ -1,0 +1,9 @@
+{
+  "id": "45462639",
+  "name": "Dark Red Enchanter",
+  "th": "ถ้าการ์ดใบนี้ถูกอัญเชิญปกติ: วาง Spell Counter 2 ชิ้นบนมัน\nทุกครั้งที่เปิดใช้ Spell Card ให้วาง Spell Counter 1 ชิ้นบนการ์ดใบนี้เมื่อ Spell Card นั้นได้รับการแก้ไข\nได้รับ ATK 300 สำหรับแต่ละ Spell Counter ที่อยู่บนมัน\n1 ครั้งต่อเทิร์น: คุณสามารถนำ Spell Counter 2 ชิ้นออกจากมัน; ทิ้งการ์ด 1 ใบแบบสุ่มจากมือของคู่ต่อสู้",
+  "status": "ai",
+  "en_sha256": "0f5b6ab2cc988cab57e8d86a0a65ac729e150533fed744cb8ec21dcf04233f97",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

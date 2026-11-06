@@ -1,0 +1,9 @@
+{
+  "id": "31118030",
+  "name": "Prediction Princess Arrowsylph",
+  "th": "พลิก: คุณสามารถเพิ่มการ์ดเวทมนตร์ Ritual 1 ใบจากเด็คของคุณหรือสุสานของคุณขึ้นมือ.",
+  "status": "ai",
+  "en_sha256": "74db77af11e225a9b6f9fcf925c80f83e6fec6a435cc90b3db9623e253035cc4",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

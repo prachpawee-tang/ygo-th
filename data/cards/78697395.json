@@ -1,0 +1,9 @@
+{
+  "id": "78697395",
+  "name": "The Third Sarcophagus",
+  "th": "การ์ดใบนี้สามารถวางบนสนามได้โดยเอฟเฟกต์ของ \"The First Sarcophagus\" เท่านั้น.",
+  "status": "ai",
+  "en_sha256": "37e26f171c28e5fcb5aa4f2c5e9e3533a2862f333d6b5ee64a28845ebd4c8ae4",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

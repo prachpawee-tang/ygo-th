@@ -1,0 +1,9 @@
+{
+  "id": "59811955",
+  "name": "Ancient Gear Workshop",
+  "th": "เลือกเป้าหมายมอนสเตอร์ \"Ancient Gear\" 1 ตัวในสุสานของคุณ; เพิ่มมันขึ้นมือ.",
+  "status": "ai",
+  "en_sha256": "8bf40a1034285976fe2d36db62ef36b1f4a232f4b15389b872480f6902d2241b",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

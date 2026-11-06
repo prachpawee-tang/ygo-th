@@ -1,0 +1,9 @@
+{
+  "id": "4259068",
+  "name": "Spell Economics",
+  "th": "คุณไม่เสีย LP ในการเปิดใช้การ์ดเวทมนตร์.",
+  "status": "ai",
+  "en_sha256": "196cae4b549fb9f87aa44dccf8f921c76f7463a7caf7c0f9b0cb81c5dc8f12fa",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

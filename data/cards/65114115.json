@@ -1,0 +1,10 @@
+{
+  "id": "65114115",
+  "name": "Seven Stars Slash - Army Annihilator Hagun",
+  "th": "เลือกมอนสเตอร์หงาย 1 ตัวที่คุณควบคุม; ติดมอนสเตอร์ Level 7 ที่มี Type เดียวกันแต่ชื่อต่างกันจากมือหรือเด็คของคุณเป็น Equip Spell ที่ให้ ATK 700แก่เป้าหมาย แต่ส่ง Equip Spell นั้นกลับขึ้นมือในช่วง End Phase\nเมื่อมอนสเตอร์ Level/Rank 8 หรือสูงกว่าของคู่ต่อสู้ถูกทำลายด้วยการต่อสู้ ในขณะที่การ์ดใบนี้อยู่ในสุสานของคุณ: คุณสามารถเพิ่มการ์ดใบนี้ขึ้นมือได้\nคุณสามารถเปิดใช้ \"Seven Stars Slash - Army Annihilator Hagun\" ได้เพียง 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "62cc72778116d828f250509115cf9ec123219d933cebca6eed640e8779074ba1",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

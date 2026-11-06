@@ -1,0 +1,9 @@
+{
+  "id": "20871001",
+  "name": "Blue Medicine",
+  "th": "เพิ่ม Life Points ของคุณขึ้น 400 points.",
+  "status": "ai",
+  "en_sha256": "e6f7708f73ef0efa71bd36ef87ca632f9600f032dd237b3e9162634ee03b1026",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

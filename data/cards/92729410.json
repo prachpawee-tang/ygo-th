@@ -1,0 +1,10 @@
+{
+  "id": "92729410",
+  "name": "Baby Raccoon Ponpoko",
+  "th": "เมื่อการ์ดใบนี้ถูกอัญเชิญปกติ: คุณสามารถอัญเชิญพิเศษมอนสเตอร์ประเภท Beast-Type ระดับ 2 จากเด็คของคุณในท่าป้องกันคว่ำ ยกเว้น \"Baby Raccoon Ponpoko\"\nคุณไม่สามารถอัญเชิญพิเศษมอนสเตอร์ใดๆ ในเทิร์นที่คุณเปิดใช้งานเอฟเฟกต์นี้ได้ ยกเว้นมอนสเตอร์ประเภท Beast-Type",
+  "status": "ai",
+  "en_sha256": "df18eb95f818beb5ebf92c87cfb9b928cd03c74a75e44cae978c704b0cab1c17",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

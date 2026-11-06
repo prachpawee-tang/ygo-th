@@ -1,0 +1,10 @@
+{
+  "id": "39091951",
+  "name": "Pandaborg",
+  "th": "เมื่อการ์ดใบนี้ถูกทำลายจากการต่อสู้และส่งลงสุสาน คุณสามารถจ่าย LP 800 เพื่ออัญเชิญพิเศษมอนสเตอร์ Psychic-Type เลเวล 4 จากเด็คของคุณ.",
+  "status": "ai",
+  "en_sha256": "61c41e29c1a8c5fc1f628e95b28e27df2eea6a1920052890446b150d7b69f658",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

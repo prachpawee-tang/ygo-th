@@ -1,0 +1,9 @@
+{
+  "id": "48171151",
+  "name": "Astrograph Sorcerer, the Starfrost Magician",
+  "th": "[ Pendulum Effect ]\nระหว่าง Main Phase ของคุณ: คุณสามารถทำลายการ์ดใบนี้ได้ และถ้าทำลาย, วางมอนสเตอร์ Pendulum 1 ตัวที่มี Pendulum Scale เป็น 1 จากมือหรือเด็คของคุณใน Pendulum Zone ของคุณ, ยกเว้น \"Astrograph Sorcerer, the Starfrost Magician\", แต่เอฟเฟกต์ Pendulum ของมันไม่สามารถเปิดใช้งานได้ในเทิร์นนี้\nคุณสามารถใช้เอฟเฟกต์นี้ของ \"Astrograph Sorcerer, the Starfrost Magician\" ได้ 1 ครั้งต่อเทิร์น\n[ Monster Effect ]\nถ้า Monster Card(s) ที่คุณควบคุมในท่าหงายถูกทำลายโดยการต่อสู้หรือเอฟเฟกต์ของการ์ด: คุณสามารถ อัญเชิญพิเศษ การ์ดใบนี้จากมือของคุณ, จากนั้นคุณสามารถ อัญเชิญพิเศษ มอนสเตอร์ที่ถูกทำลายเหล่านั้น 1 ตัวจากสุสานของคุณหรือ Extra Deck ที่หงายอยู่\nระหว่าง Main Phase (Quick Effect): คุณสามารถ สังเวย การ์ดใบนี้ได้, จากนั้นคุณสามารถ อัญเชิญ Fusion มอนสเตอร์ Dragon 1 ตัวจาก เอ็กซ์ตร้าเด็ค ของคุณ, โดยการ สับ Material ของมันจาก สนามของคุณและ/หรือ Extra Deck ที่หงายอยู่กลับเข้าไปในเด็ค\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Astrograph Sorcerer, the Starfrost Magician\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "26b51146fb4415fd15c99a2d094df79396e9df1235c8f82a71b4b232d51d9699",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

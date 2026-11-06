@@ -1,0 +1,9 @@
+{
+  "id": "46083380",
+  "name": "Attraffic Control",
+  "th": "ถ้าคู่ต่อสู้ควบคุมมอนสเตอร์ 3 ตัวขึ้นไป พวกเขาจะไม่สามารถประกาศโจมตีได้.",
+  "status": "ai",
+  "en_sha256": "dbdd8b318079a1e77bcd1aed33e48d8e5bf3fc970640fcfb894bba0ee5c789a9",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

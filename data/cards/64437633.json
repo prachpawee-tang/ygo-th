@@ -1,0 +1,9 @@
+{
+  "id": "64437633",
+  "name": "Aquamirror Illusion",
+  "th": "อัญเชิญพิเศษมอนสเตอร์พิธีกรรม \"Gishki\" 1 ตัวจากมือของคุณ\nมันไม่สามารถโจมตีได้ และจะถูกส่งกลับมือในช่วง End Phase",
+  "status": "ai",
+  "en_sha256": "ee60a9e97eada0fd7f7e6701c87abb6fb8c9d1b3721886335323e595ee048ab8",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

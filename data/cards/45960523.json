@@ -1,0 +1,10 @@
+{
+  "id": "45960523",
+  "name": "Metaphys Daedalus",
+  "th": "ถ้าการ์ดใบนี้ถูกอัญเชิญพิเศษด้วยเอฟเฟกต์ของมอนสเตอร์ \"Metaphys\": คุณสามารถเอามอนสเตอร์ที่ถูกอัญเชิญพิเศษทั้งหมดที่คว่ำอยู่บนสนามออกจากเกม\nถ้าการ์ดใบนี้ถูกเอาออกจากเกม: ในช่วง Standby Phase ของเทิร์นถัดไป: คุณสามารถสับการ์ดที่ถูกเอาออกจากเกมใบนี้กลับเข้าเด็ค; เอากลุ่มการ์ด \"Metaphys\" 1 ใบออกจากเด็คของคุณ ยกเว้น \"Metaphys Daedalus\"",
+  "status": "ai",
+  "en_sha256": "a64d01a1566564bb70372198087df850a1a10daab3897487746449d80724344a",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: \"banish\" ×4 in English but \"ออกจากเกม\" ×3 in Thai — meaning may be wrong; \"face-up\" ×1 in English but \"หงาย\" ×0 in Thai — meaning may be wrong"
+}

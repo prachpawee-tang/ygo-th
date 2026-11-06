@@ -1,0 +1,10 @@
+{
+  "id": "66607691",
+  "name": "Photon Generator Unit",
+  "th": "สังเวย \"Cyber Dragon\" 2 ตัว\nอัญเชิญพิเศษ \"Cyber Laser Dragon\" 1 ตัวจากมือ, เด็ค หรือสุสานของคุณ",
+  "status": "ai",
+  "en_sha256": "3457c71e8335c2dcaa9c9abb7c743ea7688575cb68a3370f573ce76f22d5edca",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: card names in quotes changed/missing: \"Cyber Dragons\""
+}

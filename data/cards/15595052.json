@@ -1,0 +1,9 @@
+{
+  "id": "15595052",
+  "name": "Disciple of the Forbidden Spell",
+  "th": "เมื่อการ์ดใบนี้ถูกอัญเชิญ, ประกาศ Attribute ของ Monster Card ที่แตกต่างกันเท่ากับจำนวน “Disciple of the Forbidden Spell”(s) ในสุสานของคุณ\nถ้าการ์ดใบนี้โจมตีมอนสเตอร์ที่มี Attribute ที่ถูกประกาศ, ทำลายมอนสเตอร์ด้วยเอฟเฟกต์ของการ์ดใบนี้โดยไม่ต้องใช้การคำนวณความเสียหาย",
+  "status": "ai",
+  "en_sha256": "4587ed04ba5eace940866f5d933fa244e2273635457adcc9c9b62cbcdc7f41e0",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

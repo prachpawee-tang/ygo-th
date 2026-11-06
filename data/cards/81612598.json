@@ -1,0 +1,10 @@
+{
+  "id": "81612598",
+  "name": "Metalfoes Adamante",
+  "th": "มอนสเตอร์ \"Metalfoes\" 1 ตัว + มอนสเตอร์ที่มี ATK 2500 หรือน้อยกว่า",
+  "status": "ai",
+  "en_sha256": "dcc089dd1c3e868b79643258f08a3628477c5decf11b460f0a51b6ad0072b5e4",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

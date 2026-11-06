@@ -1,0 +1,9 @@
+{
+  "id": "70410002",
+  "name": "The Accumulator",
+  "th": "ได้รับ ATK เท่ากับผลรวมของค่า Link ของมอนสเตอร์ Link ทั้งหมดบนสนาม คูณ 300.",
+  "status": "ai",
+  "en_sha256": "6df109b5f9261728e898467813ae5f90965a4a97cd92cafc1485035ccf4b6237",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

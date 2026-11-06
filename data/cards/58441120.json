@@ -1,0 +1,9 @@
+{
+  "id": "58441120",
+  "name": "Harmonic Waves",
+  "th": "เลือกมอนสเตอร์หงาย 1 ตัวบนสนาม; มันจะกลายเป็น Level 4 จนถึง End Phase.",
+  "status": "ai",
+  "en_sha256": "90ea239e3d836599894491740597739a14a7ed131ffef091e0bc0851b8c27664",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

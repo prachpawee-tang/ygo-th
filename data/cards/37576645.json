@@ -1,9 +1,9 @@
 {
   "id": "37576645",
   "name": "Reckless Greed",
-  "th": "จั่วการ์ด 2 ใบ และข้าม Draw Phase ถัดไป 2 ครั้ง",
+  "th": "จั่วการ์ด 2 ใบ และข้าม Draw Phase ถัดไป 2 ครั้ง.",
   "status": "ai",
   "en_sha256": "f8cc9f413794a4694a4dfbdd3fac26bda0b3f37782535abfa29ef877266a6124",
   "model": "gemma3:12b",
-  "updated": "2026-11-04"
+  "updated": "2026-11-06"
 }

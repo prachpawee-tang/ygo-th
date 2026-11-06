@@ -1,0 +1,9 @@
+{
+  "id": "74270067",
+  "name": "Pikeru's Circle of Enchantment",
+  "th": "ความเสียหายที่คุณได้รับจากเอฟเฟกต์ของการ์ดจะกลายเป็น 0 จนถึงสิ้นเทิร์นนี้.",
+  "status": "ai",
+  "en_sha256": "4ff0e7722e6541abba9ea02eaee614fe2f03c0c129fd36e72d59c7700b380336",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

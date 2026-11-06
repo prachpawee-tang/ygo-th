@@ -1,0 +1,9 @@
+{
+  "id": "73055622",
+  "name": "Shinobird's Calling",
+  "th": "การ์ดใบนี้ใช้ในการอัญเชิญแบบพิธีกรรม \"Shinobaroness Peacock\" หรือ \"Shinobaron Peacock\"\nคุณต้องสังเวยมอนสเตอร์จากมือหรือสนามของคุณ และ/หรือ เอา Spirit monsters ออกจากเกมจากสุสานของคุณ ซึ่งมียอดรวม Level เท่าหรือมากกว่า Level ของมอนสเตอร์พิธีกรรมที่คุณอัญเชิญแบบพิธีกรรม",
+  "status": "ai",
+  "en_sha256": "8191cc68d491c441ece08798a8a2e32ad170d1ef1bb9e977c11f49d42abc3b90",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

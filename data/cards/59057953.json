@@ -1,0 +1,9 @@
+{
+  "id": "59057953",
+  "name": "Abyss Actors Back Stage",
+  "th": "ถ้าคุณมี “Abyss Actor” การ์ด 2 ใบใน Pendulum Zones ของคุณ: เพิ่ม “Abyss Actor” มอนสเตอร์ Pendulum ที่มีชื่อต่างกัน 2 ตัวจากเด็คของคุณไปยังเอ็กซ์ตร้าเด็คของคุณแบบหงาย\nคุณสามารถเปิดใช้ “Abyss Actors Back Stage” ได้เพียง 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "9a706adc688717ceff9d467598a8d822690e4172a67ea4eef0b49a390e212d4e",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

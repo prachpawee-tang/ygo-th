@@ -1,0 +1,9 @@
+{
+  "id": "60728397",
+  "name": "Venom Shot",
+  "th": "เปิดใช้ได้เฉพาะเมื่อคุณควบคุมมอนสเตอร์ \"Venom\" ที่หงายอยู่, \"Vennominaga the Deity of Poisonous Snakes\" หรือ \"Vennominon the King of Poisonous Snakes\" เท่านั้น\nส่งมอนสเตอร์ Reptile-Type 1 ตัวจากเด็คของคุณไปยังสุสาน และวาง Venom Counter 2 อันบนมอนสเตอร์ที่คู่ต่อสู้ควบคุมที่หงายอยู่ 1 ตัว",
+  "status": "ai",
+  "en_sha256": "91b7ab413cb21bfa9019c97da98303a01ae23ac038d2f88eaec16a3bf2c79f9f",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "21495657",
+  "name": "Zefraxi, Treasure of the Yang Zing",
+  "th": "[ Pendulum Effect ]\nคุณไม่สามารถอัญเชิญแบบ Pendulum มอนสเตอร์ได้ ยกเว้นมอนสเตอร์ \"Yang Zing\" และ \"Zefra\"\nเอฟเฟกต์นี้ไม่สามารถถูกลบล้างได้\n[ Monster Effect ]\nถ้าการ์ดใบนี้ถูกอัญเชิญแบบ Pendulum หรือ อัญเชิญพิเศษจาก Main Deck: คุณสามารถเลือกเป้าหมายมอนสเตอร์ \"Yang Zing\" หรือ \"Zefra\" ที่คุณควบคุม 1 ตัว ยกเว้น \"Zefraxi, Treasure of the Yang Zing\"; มอนสเตอร์ที่หงายอยู่ใบนั้นจะถือว่าเป็น Tuner ในเทิร์นนี้ นอกจากนี้ ให้วางการ์ดใบนี้ไว้ที่ด้านล่างของเด็คเมื่อมันออกจากสนาม\nคุณสามารถใช้เอฟเฟกต์นี้ของ \"Zefraxi, Treasure of the Yang Zing\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "5d4e08ce6017ff10c6ad3658e643d136a3308b3d078ca8cd0301ebb2a860a70b",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

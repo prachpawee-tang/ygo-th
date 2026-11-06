@@ -1,0 +1,9 @@
+{
+  "id": "32062913",
+  "name": "Mega Ton Magical Cannon",
+  "th": "เอา Spell Counter 10 ตัวออกจากสนามฝั่งของคุณ\nทำลายการ์ดทั้งหมดบนสนามฝั่งของคู่ต่อสู้",
+  "status": "ai",
+  "en_sha256": "c36560dfcd844a8469912e20c1e89b476a155dcb923d8496fcf16388abfc633b",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

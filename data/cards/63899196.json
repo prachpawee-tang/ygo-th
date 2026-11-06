@@ -1,0 +1,9 @@
+{
+  "id": "63899196",
+  "name": "The Monarchs Masterplan",
+  "th": "ส่งการ์ด “Monarch” เวทมนตร์/กับดัก 1 ใบจากเด็คของคุณไปยังสุสาน (GY), ยกเว้น “The Monarchs Masterplan”.\nถ้าการ์ดใบนี้ถูกเอาออกจากเกม: คุณสามารถเลือกเป้าหมายมอนสเตอร์ที่หงายอยู่ 1 ตัวที่คู่ต่อสู้ควบคุม; เพิ่มมอนสเตอร์ที่มี Attribute เดียวกันที่มี ATK 2400/DEF 1000 จากเด็คหรือสุสานของคุณขึ้นมือ, จากนั้นคุณสามารถใช้เอฟเฟกต์นี้ได้\n● ทันทีหลังจากเอฟเฟกต์นี้แก้ไขเสร็จสิ้น, อัญเชิญปกติ (Normal Summon) มอนสเตอร์ 1 ตัวจาก “Zaborg the Thunder Monarch”, “Mobius the Frost Monarch”, “Thestalos the Firestorm Monarch”, “Granmarg the Rock Monarch”, “Raiza the Storm Monarch”, หรือ “Caius the Shadow Monarch”.\nคุณสามารถใช้เอฟเฟกต์นี้ของ “The Monarchs Masterplan” ได้เพียง 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "27021423152414631eef9b71b03933c7c95ec850d9450bb7cbd4db41ce98a9be",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

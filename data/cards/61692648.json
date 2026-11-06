@@ -1,0 +1,9 @@
+{
+  "id": "61692648",
+  "name": "Lionhearted Locomotive",
+  "th": "เมื่อการ์ดใบนี้ประกาศโจมตี: ATK ของมันจะกลายเป็นครึ่งหนึ่งของ ATK เดิม จนกว่าจะจบเฟส Damage Step.",
+  "status": "ai",
+  "en_sha256": "0e753db563806eb4de908870a49f05a33e620d53681dbed2573661840c260de4",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

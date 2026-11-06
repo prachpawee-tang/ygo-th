@@ -1,0 +1,9 @@
+{
+  "id": "14306092",
+  "name": "Shark Caesar",
+  "th": "มอนสเตอร์ Level 3 จำนวน 3 ตัวขึ้นไป (สูงสุด 5)\n1 ครั้งต่อเทิร์น: คุณสามารถถอด Material Xyz 1 ตัวจากการ์ดใบนี้; วาง Shark Counter 1 ตัวบนการ์ดใบนี้\nเมื่อการ์ดใบนี้โจมตีหรือถูกโจมตี มันจะได้รับ ATK 1000 สำหรับ Shark Counter แต่ละตัวที่อยู่บนมัน ในช่วง Damage Step เท่านั้น",
+  "status": "ai",
+  "en_sha256": "ea09dafb1ac476ddce1a04ee5220a07b1f6d9a42fdd61a99af6bf29f00778b63",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

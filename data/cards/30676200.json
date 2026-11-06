@@ -1,0 +1,9 @@
+{
+  "id": "30676200",
+  "name": "Hero of the Ashened City",
+  "th": "ถ้า “Obsidim, the Ashened City” อยู่ใน Field Zone คุณสามารถ อัญเชิญพิเศษ การ์ดใบนี้ได้ (จากมือของคุณ)\nคุณสามารถ อัญเชิญพิเศษ “Hero of the Ashened City” ได้เพียงครั้งเดียวต่อเทิร์นด้วยวิธีนี้\nในช่วง Main Phase (Quick Effect): คุณสามารถ เลือกเป้าหมายมอนสเตอร์ Pyro 1 ตัวในสนาม; ทำลายมัน, จากนั้นถ้าคุณทำลาย “Veidos the Eruption Dragon of Extinction” ด้วยเอฟเฟกต์นี้ คุณสามารถวาง “Obsidim, the Ashened City” 1 ใบจากเด็คของคุณหงายใน Field Zone ของคุณ\nคุณสามารถใช้เอฟเฟกต์ของ “Hero of the Ashened City” ได้เพียง 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "b0d0a30d366150c9a79cc1f185aa9f141ae1524390a4159bcfa061fc6b3fc7d9",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

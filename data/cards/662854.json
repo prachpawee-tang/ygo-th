@@ -1,0 +1,9 @@
+{
+  "id": "662854",
+  "name": "Noritoshi in Darkest Rainment",
+  "th": "3+ มอนสเตอร์เอฟเฟกต์ประเภท Spellcaster\nต้องทำการ Link Summon\nถ้าการ์ด Link Extra ที่ Link Summoned นี้โจมตีคู่ต่อสู้โดยตรงและลด LP ของพวกเขาเหลือ 0 คุณชนะการแข่งขัน",
+  "status": "ai",
+  "en_sha256": "cedf561ccfd1bca301612e5c3b7dddb5b40a2e59f96aaf2f35be86428e7f98c3",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

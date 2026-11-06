@@ -1,0 +1,9 @@
+{
+  "id": "4404099",
+  "name": "The Dragon Dwelling in the Deep",
+  "th": "วาง Ocean Counter 1 อันบนการ์ดใบนี้ในช่วง Standby Phase ของผู้เล่นแต่ละคน\nเมื่อการ์ดใบนี้ถูกนำออกจากสนาม, มอนสเตอร์ประเภท Fish-Type และ Sea Serpent-Type ที่คุณควบคุมได้รับ ATK เพิ่ม 200 สำหรับ Ocean Counter แต่ละอันที่อยู่บนการ์ดใบนี้ จนถึง End Phase",
+  "status": "ai",
+  "en_sha256": "d28831649733c1084c2ce447741901aeef6bfdcc9c36e2c5ba05d0f7ef5bf3ca",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

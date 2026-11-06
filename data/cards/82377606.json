@@ -1,0 +1,9 @@
+{
+  "id": "82377606",
+  "name": "Ally of Justice Unlimiter",
+  "th": "คุณสามารถสังเวยการ์ดใบนี้เพื่อเลือกมอนสเตอร์ \"Ally of Justice\" ที่หงายอยู่ 1 ตัวที่คุณควบคุม\nเพิ่มเป็นสองเท่าของ ATK เดิมของมันจนถึง End Phase",
+  "status": "ai",
+  "en_sha256": "07b3d81689f5f3283e4bd456d1da16a7ce254a47deb0cdbce4e04241dd605db0",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

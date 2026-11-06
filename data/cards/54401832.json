@@ -1,0 +1,9 @@
+{
+  "id": "54401832",
+  "name": "Metalfoes Crimsonite",
+  "th": "มอนสเตอร์ \"Metalfoes\" 1 ตัว + มอนสเตอร์ 2 ตัวที่มี ATK ไม่เกิน 3000.",
+  "status": "ai",
+  "en_sha256": "e3a6559174a497020fc00104b578968615e746e2f7e0d6d04046f2906eec550e",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

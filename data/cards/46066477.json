@@ -1,0 +1,9 @@
+{
+  "id": "46066477",
+  "name": "Performance Hurricane",
+  "th": "เลือกการ์ดที่คู่ต่อสู้ควบคุม จำนวนสูงสุดเท่ากับจำนวนมอนสเตอร์ \"Performapal\" ที่คุณควบคุม; คืนพวกมันขึ้นมือ\nคุณสามารถเปิดใช้ \"Performance Hurricane\" ได้เพียง 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "d03ceeb6c685fc56954db469d2cec5967c3b66396c04a021b2a2892b41decee4",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

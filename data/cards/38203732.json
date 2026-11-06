@@ -1,0 +1,9 @@
+{
+  "id": "38203732",
+  "name": "Pendulum Paradox",
+  "th": "เพิ่มมอนสเตอร์ Pendulum ที่หงายอยู่ 2 ตัวที่มี Pendulum Scale เหมือนกัน แต่ชื่อต่างกัน จาก เอ็กซ์ตร้าเด็ค ขึ้นมือ\nคุณสามารถเปิดใช้ \"Pendulum Paradox\" ได้เพียง 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "aac4074da1970e980bbb90b467db48a065b452a4259755d14c4f49a92b97914f",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

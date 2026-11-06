@@ -1,0 +1,9 @@
+{
+  "id": "44728989",
+  "name": "Ocean of Regeneration",
+  "th": "คุณสามารถเลือกเป้าหมายมอนสเตอร์ WATER ที่มี ATK 1000 หรือน้อยกว่าในสุสานของคุณ; อัญเชิญพิเศษมัน แต่ทำลายมันในช่วง End Phase\nคุณสามารถใช้เอฟเฟกต์ของ \"Ocean of Regeneration\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "b8c7bc2f8a403b041dbf90de56c6502978c6f644ecd99ecb14e9b866c1c85473",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

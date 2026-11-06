@@ -1,0 +1,10 @@
+{
+  "id": "64413994",
+  "name": "Stealth Angecradle",
+  "th": "''เอ็นทิตี้ลึกลับที่รู้จักกันในชื่อ \"นางฟ้าที่นำความรอดให้กับจิตวิญญาณนอกรีต\"\nสิ่งเดียวที่เหลืออยู่หลังจาก \"สิ่งนั้น\" ผ่านพ้นไปคือความเงียบสงัดนิรันดร์...\nAnge Passe.''",
+  "status": "ai",
+  "en_sha256": "959db7c7b23804c62d7c5fa10a9dc5b7ab10825aeace6b9648b5e05128c3bdd2",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: card names in quotes changed/missing: \"that thing\", \"the angel that brings salvation to heretical souls\""
+}

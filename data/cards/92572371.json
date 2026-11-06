@@ -1,0 +1,10 @@
+{
+  "id": "92572371",
+  "name": "Brotherhood of the Fire Fist - Buffalo",
+  "th": "ถ้าการ์ดใบนี้อยู่ในสุสานของคุณ: คุณสามารถส่งการ์ด \"Fire Fist\" / \"Fire Formation\" รวมทั้งหมด 2 ใบจากมือของคุณและ/หรือที่คว่ำอยู่บนสนามของคุณลงสุสาน; อัญเชิญพิเศษการ์ดใบนี้จากสุสานของคุณ\nคุณสามารถใช้เอฟเฟกต์ของ \"Brotherhood of the Fire Fist - Buffalo\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "0efce9dc5071f87bf205c2b5e82936edb3a0ca8ee86254538b7986686f432924",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: \"face-up\" ×1 in English but \"หงาย\" ×0 in Thai — meaning may be wrong"
+}

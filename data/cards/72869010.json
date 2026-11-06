@@ -1,0 +1,9 @@
+{
+  "id": "72869010",
+  "name": "Soul Hunter",
+  "th": "\"Lord of the Lamp\" + \"Invader from Another Dimension\"",
+  "status": "ai",
+  "en_sha256": "d179100cd42374ee91ec742289c4dd1988f3c0c85d064c69146d35375c00f958",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

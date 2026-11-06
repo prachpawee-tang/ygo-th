@@ -1,0 +1,9 @@
+{
+  "id": "58809685",
+  "name": "Elfnotes: Quatrain of Succession",
+  "th": "มอนสเตอร์ใน Main Monster Zone กลางของคุณไม่สามารถถูกเอามออกจากเกมด้วยเอฟเฟกต์ของการ์ดของคู่ต่อสู้ได้\nคุณสามารถส่งการ์ด Spell/Trap อีก 1 ใบจากมือหรือสนามของคุณลงสุสาน, จากนั้นประกาศ Level จาก 1 ถึง 4; อัญเชิญพิเศษ \"Elfnote Seraphim Token\" (Plant/Tuner/FIRE/ATK 0/DEF 0) ที่มี Level ที่ประกาศ\nตราบใดที่ Token นั้นอยู่ใน Monster Zone ผู้เล่นที่อัญเชิญมันไม่สามารถอัญเชิญพิเศษจากเอ็กซ์ตร้าเด็คได้, ยกเว้นมอนสเตอร์ \"Elfnote\"\nคุณสามารถใช้เอฟเฟกต์นี้ของ \"Elfnotes: Quatrain of Succession\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "007cf74e4bca8f2a00723dd9a01eef54efc114e357006408a14a861d360dc2f4",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

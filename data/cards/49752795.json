@@ -1,0 +1,9 @@
+{
+  "id": "49752795",
+  "name": "Dual Avatar Return",
+  "th": "เลือกมอนสเตอร์ \"Dual Avatar\" 1 ตัวในสุสานของคุณ; อัญเชิญพิเศษมัน จากนั้น ถ้า Level เดิมของมันคือ 4 หรือต่ำกว่า คุณสามารถอัญเชิญพิเศษ \"Dual Avatar Spirit Token\" 1 ตัว (Warrior/LIGHT/Level 2/ATK 0/DEF 0).\nคุณสามารถเปิดใช้ \"Dual Avatar Return\" ได้เพียง 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "76d2455ec1cea5fe7dd94ae67abd8a1cddd6e9ccd681cbd194aba1ad9a93af4d",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "90135989",
+  "name": "Cloudian Squall",
+  "th": "ระหว่าง Standby Phase ของคุณในแต่ละครั้ง, วาง Fog Counter 1 อันบนมอนสเตอร์ทุกตัวที่หงายอยู่.",
+  "status": "ai",
+  "en_sha256": "dae99d74663c9e383abc221a3191878e87a884f4258aa25a9a35284952e1f822",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

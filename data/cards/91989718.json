@@ -1,0 +1,9 @@
+{
+  "id": "91989718",
+  "name": "Attack Reflector Unit",
+  "th": "สังเวย \"Cyber Dragon\" 1 ตัว\nอัญเชิญพิเศษ \"Cyber Barrier Dragon\" 1 ตัวจากมือหรือเด็คของคุณ",
+  "status": "ai",
+  "en_sha256": "87aab87fbde119b49086964209a84e028d0ae011fbe9c33df539f1f21962ece8",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

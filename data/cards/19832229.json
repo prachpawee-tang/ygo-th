@@ -1,0 +1,9 @@
+{
+  "id": "19832229",
+  "name": "Salamangreat Shrine",
+  "th": "(การ์ดใบนี้ถือว่าเป็น \"Salamangreat Sanctuary\" เสมอ)\nมอนสเตอร์ \"Salamangreat\" ที่คุณควบคุมจะไม่ได้รับผลของเอฟเฟกต์มอนสเตอร์ FIRE ที่เปิดใช้อยู่ของคู่ต่อสู้\nคุณสามารถใช้เอฟเฟกต์ต่อไปนี้ของ \"Salamangreat Shrine\" ได้แต่ละเอฟเฟกต์ 1 ครั้งต่อเทิร์น\nเมื่อคุณทำการ Link Summon มอนสเตอร์ Link \"Salamangreat\" คุณสามารถใช้มอนสเตอร์ Link \"Salamangreat\" ที่คุณควบคุมที่มีชื่อเดียวกันเป็น Material ทั้งหมดได้\nในช่วง Main Phase ของคุณ: คุณสามารถสับการ์ด \"Salamangreat\" จำนวนใดก็ได้จากมือของคุณลงในเด็ค จากนั้นจั่วการ์ดจำนวนเดียวกัน",
+  "status": "ai",
+  "en_sha256": "6bd8faa72d1fbefaf417296e9cc987a3e6962dac7748113cb0b7032aa2c958bc",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "88724332",
+  "name": "Night Dragolich",
+  "th": "เปลี่ยนมอนสเตอร์ที่อยู่ในท่าโจมตีซึ่งไม่ใช่ประเภท Wyrm ที่ถูกอัญเชิญพิเศษจาก Main Monster Zone หรือ Extra Monster Zone เป็นท่าป้องกัน\nมอนสเตอร์ที่ไม่ได้เป็นประเภท Wyrm ที่ถูกอัญเชิญพิเศษจาก Main Monster Zone หรือ Extra Monster Zone จะสูญเสีย DEF เท่ากับ DEF เดิม",
+  "status": "ai",
+  "en_sha256": "83aad8f5e3170b2180972e40bf0594592b0aa333c96be6b9c0b38c51c5fe8c0f",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

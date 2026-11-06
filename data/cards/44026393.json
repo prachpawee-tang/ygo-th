@@ -1,0 +1,9 @@
+{
+  "id": "44026393",
+  "name": "Mecha Phantom Beast Raiten",
+  "th": "คุณสามารถทิ้งการ์ด 1 ใบ; อัญเชิญพิเศษ \"Mecha Phantom Beast Token\" (Machine/WIND/Level 3/ATK 0/DEF 0) 1 ตัว, นอกจากนี้ คุณสามารถใช้มอนสเตอร์ \"Mecha Phantom Beast\" เป็น Material สำหรับการอัญเชิญ Fusion, Synchro, Xyz หรือ Link ได้เฉพาะมอนสเตอร์เหล่านี้เท่านั้น, ตลอดเทิร์นนี้\nLevel ของการ์ดใบนี้จะเพิ่มขึ้นตามผลรวมของ Level ของ \"Mecha Phantom Beast Tokens\" ทั้งหมดที่คุณควบคุม\nตราบใดที่คุณควบคุม Token, การ์ดใบนี้จะไม่ถูกทำลายจากการต่อสู้หรือเอฟเฟกต์ของการ์ด",
+  "status": "ai",
+  "en_sha256": "961f46c0550f0ec1304586ad73ab4cfc32de2a5027053bd4cf22c70464a00028",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

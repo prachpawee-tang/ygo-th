@@ -1,0 +1,9 @@
+{
+  "id": "23965037",
+  "name": "Doriado's Blessing",
+  "th": "การ์ดใบนี้ใช้สำหรับ อัญเชิญแบบสังเวย \"Elemental Mistress Doriado\"\nคุณต้อง สังเวย มอนสเตอร์ที่มี Level รวมกันเท่ากับ 3 หรือมากกว่า จาก สนาม หรือ มือ",
+  "status": "ai",
+  "en_sha256": "22a995e4d2c0deb967d11c40fc2a5f324189feb111ad0f3b1313e483dacfe238",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

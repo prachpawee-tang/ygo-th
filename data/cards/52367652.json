@@ -1,0 +1,9 @@
+{
+  "id": "52367652",
+  "name": "That Which Feeds on Life",
+  "th": "มอนสเตอร์ที่กินพลังงานของสิ่งมีชีวิตอื่นๆ.",
+  "status": "ai",
+  "en_sha256": "27e619a0db9e55cd846fa07e2eb79df8104db57266e81a6730d6a7a136e0b717",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

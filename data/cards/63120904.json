@@ -1,0 +1,9 @@
+{
+  "id": "63120904",
+  "name": "Orca Mega-Fortress of Darkness",
+  "th": "โดยการสังเวย \"Torpedo Fish\" 1 ตัวในฝั่งของคุณ ทำลายมอนสเตอร์ 1 ตัวบนสนาม\nโดยการสังเวย \"Cannonball Spear Shellfish\" 1 ตัวในฝั่งของคุณ ทำลายการ์ดเวทมนตร์หรือกับดัก 1 ใบบนสนาม",
+  "status": "ai",
+  "en_sha256": "781eeb39bcf482ca924bb5a2a4c6114dc25e2ef0ee2250f6589fabf547102fdd",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

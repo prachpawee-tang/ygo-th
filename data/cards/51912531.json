@@ -1,0 +1,9 @@
+{
+  "id": "51912531",
+  "name": "Mystic Macrocarpa Seed",
+  "th": "ไม่สามารถใช้เป็นมอนสเตอร์ Material สำหรับการ Synchro Summon ได้ ยกเว้นสำหรับการ Synchro Summon มอนสเตอร์ EARTH\nคุณสามารถเลือกเป้าหมายมอนสเตอร์ EARTH 1 ตัวในสนาม; ลด Level ของมันลง 1\nคุณสามารถใช้เอฟเฟกต์ของ \"Mystic Macrocarpa Seed\" ได้สูงสุด 2 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "0cdb9ebf49eb56a5ba5b274e5d7b32d60fbd70bf133f01fda80f231ab92f950d",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "21323861",
+  "name": "Acid Rain",
+  "th": "ทำลายมอนสเตอร์ Machine-Type ที่หงายอยู่ทั้งหมดบนสนาม.",
+  "status": "ai",
+  "en_sha256": "da6b18ef93880e473895e801c211fdf6f354754ab4270fc800c60b66d1d0ff44",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

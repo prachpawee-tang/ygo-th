@@ -1,0 +1,9 @@
+{
+  "id": "10804018",
+  "name": "Saffira, Divine Dragon of the Voiceless Voice",
+  "th": "คุณสามารถ อัญเชิญแบบสังเวย การ์ดใบนี้ด้วย \"Blessing of the Voiceless Voice\"\nถ้าการ์ดใบนี้ถูก อัญเชิญแบบสังเวย ในขณะที่คุณมี \"Lo, the Prayers of the Voiceless Voice\" อยู่บนสนามหรือในสุสานของคุณ: คุณสามารถ จั่วการ์ด 2 ใบ จากนั้น ทิ้งการ์ด 1 ใบ\nเมื่อมีการประกาศโจมตีที่เกี่ยวข้องกับ มอนสเตอร์ Ritual ประเภท LIGHT (Warrior หรือ Dragon): คุณสามารถ ทิ้งการ์ด 1 ใบแบบสุ่มจากมือของคู่ต่อสู้\nในช่วง End Phase ของคู่ต่อสู้ของคุณ: คุณสามารถ เพิ่ม มอนสเตอร์ LIGHT 1 ตัวจากสุสานของคุณขึ้นมือ\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Saffira, Divine Dragon of the Voiceless Voice\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "696441634a3d31c46cccbffe3ae40d2367fb057ec203edccf2f4a42c1a9daccb",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

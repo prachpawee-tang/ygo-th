@@ -1,0 +1,9 @@
+{
+  "id": "64681263",
+  "name": "Localized Tornado",
+  "th": "สับการ์ดทั้งหมดจากมือและสุสานของคุณกลับเข้าเด็ค.",
+  "status": "ai",
+  "en_sha256": "87ca7fcc2bdc0cc0fcc5e9b331c8db9132bcc57fcbc9cc5148f0a8475a2c6f36",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

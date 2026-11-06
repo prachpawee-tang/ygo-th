@@ -1,0 +1,9 @@
+{
+  "id": "50893987",
+  "name": "Gladiator Beast Tygerius",
+  "th": "การ์ดใบนี้ไม่สามารถใช้เป็นมอนสเตอร์ Material ในการรวมร่างได้\nเมื่อการ์ดใบนี้ถูกอัญเชิญพิเศษด้วยเอฟเฟกต์ของมอนสเตอร์ \"Gladiator Beast\" คุณสามารถทิ้งการ์ด \"Gladiator Beast\" 1 ใบเพื่อเพิ่มมอนสเตอร์ \"Gladiator Beast\" 1 ตัวจากเด็คของคุณขึ้นมือ",
+  "status": "ai",
+  "en_sha256": "145a31e506a9a8a31b0f7cb94fc906f43b7207b64d6f1ad08df9256b4aed7951",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

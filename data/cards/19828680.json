@@ -1,0 +1,10 @@
+{
+  "id": "19828680",
+  "name": "Contract with the Void",
+  "th": "ถ้าคุณมีการ์ดอื่น ๆ ในมือ 3 ใบขึ้นไป: ทิ้งการ์ดทั้งหมดในมือของคุณ, จากนั้นคุณสามารถอัญเชิญพิเศษมอนสเตอร์ \"Infernity\" 1 ตัว หรือมอนสเตอร์ Synchro Dragon มืด Level 8 จากสุสานของคุณ.",
+  "status": "ai",
+  "en_sha256": "611fe26f8bafc8c67bbbeea9c18bafca175dfa7bbf9156b91b82e467d445e5d8",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

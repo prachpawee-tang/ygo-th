@@ -1,0 +1,9 @@
+{
+  "id": "95401059",
+  "name": "Shaddoll Zefracore",
+  "th": "[ Pendulum Effect ]\nคุณจะไม่สามารถทำการอัญเชิญแบบ Pendulum มอนสเตอร์ได้ ยกเว้นมอนสเตอร์ \"Shaddoll\" และ \"Zefra\"\nเอฟเฟกต์นี้ไม่สามารถถูกลบล้างได้\n[ Monster Effect ]\nถ้าการ์ดใบนี้ถูกอัญเชิญแบบ Pendulum หรือส่งลงสุสาน: คุณสามารถเลือกเป้าหมายการ์ด \"Zefra\" 1 ใบใน Pendulum Zone ของคุณ ยกเว้น \"Shaddoll Zefracore\"; อัญเชิญพิเศษมัน\nคุณสามารถใช้เอฟเฟกต์นี้ของ \"Shaddoll Zefracore\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "68febc020b0be56c32833cfb0a709b5984c61109351ebf69855c8c5b607732ec",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

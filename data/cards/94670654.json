@@ -1,0 +1,10 @@
+{
+  "id": "94670654",
+  "name": "Baku the Beast Ninja",
+  "th": "ถ้าการ์ดใบนี้ถูกเพิ่มขึ้นมือของคุณ, ยกเว้นจากการจั่ว: คุณสามารถอัญเชิญพิเศษมันได้\nถ้าการ์ดใบนี้ถูกอัญเชิญพิเศษหรือพลิกคว่ำ: คุณสามารถเลือกเป้าหมายการ์ด \"Ninja\" หรือ \"Ninjitsu Art\" 1 ใบจากสุสานของคุณหรือโซน Spell & Trap ที่หงาย, ยกเว้น \"Baku the Beast Ninja\"; ส่งมันกลับขึ้นมือ\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Baku the Beast Ninja\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "eb57acc68196f157cee8564d58c83a2e99dd9bff529e344ace9ab0be6df3ebd8",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: \"face-up\" ×2 in English but \"หงาย\" ×1 in Thai — meaning may be wrong"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "51043243",
+  "name": "Worm Cartaros",
+  "th": "พลิก: จั่วมอนสเตอร์ \"Worm\" ที่เป็นชนิด Reptile-Type ระดับ 4 หรือต่ำกว่า 1 ตัวจากเด็คของคุณขึ้นมือ.",
+  "status": "ai",
+  "en_sha256": "da7dfd3b67f880eff8a2fe199b41cc9a60b53318facd6301b553b02921527950",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

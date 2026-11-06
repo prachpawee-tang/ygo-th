@@ -1,0 +1,10 @@
+{
+  "id": "81696879",
+  "name": "Centur-Ion Chimerea",
+  "th": "เมื่อคู่ต่อสู้เปิดใช้งานเอฟเฟกต์มอนสเตอร์เป็นเชน ลิงก์ 2 หรือสูงกว่า (Quick Effect): คุณสามารถทำให้เอฟเฟกต์ที่เปิดใช้นั้นกลายเป็น “คู่ต่อสู้ของคุณวางมอนสเตอร์ \"Centur-Ion\" 1 ตัวจากสนามที่หงายอยู่หรือสุสานของพวกเขาในโซน Spell & Trap เป็นการ์ดกับดักต่อเนื่องหงาย”, นอกจากนี้คุณจะไม่สามารถอัญเชิญพิเศษ \"Centur-Ion Chimerea\" ได้อีกจนกว่าจะจบเทิร์นนี้\nในช่วง Main Phase, ถ้าการ์ดใบนี้เป็นกับการ์ดกับดักต่อเนื่อง: คุณสามารถอัญเชิญพิเศษการ์ดใบนี้\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Centur-Ion Chimerea\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "6ed7dbf9b5442f603e74838f84cdcb42ca830fe3e4eba47746d29afcc3de5eb1",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: card names in quotes changed/missing: \" monster from their face-up field or GY in their Spell & Trap Zone as a face-up Continuous Trap\", \"Your opponent places 1 \""
+}

@@ -1,0 +1,9 @@
+{
+  "id": "3381441",
+  "name": "Gravekeeper's Priestess",
+  "th": "ตราบใดที่ไม่มีการ์ดเวทมนตร์สนามหงายอยู่ สนามจะถูกมองว่าเป็น \"Necrovalley\"\nมอนสเตอร์ \"Gravekeeper's\" ทั้งหมดในสนามได้รับ ATK/DEF +200",
+  "status": "ai",
+  "en_sha256": "0ae2c7755859fe036195e62d1ca3f6f31ad4b3e8e7aae519b3df72aebbd6e951",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

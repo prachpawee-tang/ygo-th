@@ -1,0 +1,9 @@
+{
+  "id": "25373678",
+  "name": "Vortex the Whirlwind",
+  "th": "1 Tuner + 1 หรือมากกว่ามอนสเตอร์ Winged Beast-Type ที่ไม่ใช่ Tuner\nเมื่อการ์ดใบนี้ถูกทำลายด้วยการต่อสู้และส่งลงสุสาน คุณสามารถอัญเชิญพิเศษมอนสเตอร์ Winged Beast-Type เลเวล 4 หรือต่ำกว่า 1 ตัวจากเด็คของคุณได้",
+  "status": "ai",
+  "en_sha256": "aee246c16da3be43f22c476edfd92ef66161b36350777b593d7c2a27d566f6d6",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

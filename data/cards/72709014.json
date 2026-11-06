@@ -1,0 +1,9 @@
+{
+  "id": "72709014",
+  "name": "Trial of the Princesses",
+  "th": "ติดกับ \"White Magician Pikeru\" หรือ \"Ebon Magician Curran\" เท่านั้น; มันได้รับ ATK 800\nเมื่อมีเทิร์นที่มอนสเตอร์ที่ถูกติดทำลายมอนสเตอร์ Level 5 หรือสูงกว่าด้วยการต่อสู้ คุณสามารถสังเวยมอนสเตอร์ที่ถูกติดและการ์ดใบนี้ เพื่ออัญเชิญพิเศษจากมือหรือเด็ค: 1 \"Princess Pikeru\" ถ้าคุณสังเวย \"White Magician Pikeru\" หรือ 1 \"Princess Curran\" ถ้าคุณสังเวย \"Ebon Magician Curran\".",
+  "status": "ai",
+  "en_sha256": "14d695778a63d88bd547724d09ee62ec08a915bbb9cfc6b785ce749cc83ca496",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "59900655",
+  "name": "Gold Pride - Nytro Head",
+  "th": "ถ้า LP ของคุณต่ำกว่า LP ของคู่ต่อสู้: คุณสามารถ อัญเชิญพิเศษ การ์ดใบนี้จากมือของคุณได้\nในช่วง Standby Phase ของคู่ต่อสู้: คุณสามารถ อัญเชิญพิเศษ \"Nytro Token\" (Pyro/FIRE/Level 8/ATK 0/DEF 0) 1 ตัวลงในสนามของคู่ต่อสู้, แต่ไม่สามารถใช้เป็น Material Link ได้\nในช่วง Main Phase ของคู่ต่อสู้ (Quick Effect): คุณสามารถ เลือกเป้าหมาย \"Nytro Token\" 1 ตัวในสนาม; ทำลาย Token นั้น, และทำลายการ์ดทั้งหมดใน Main Monster Zones และ Spell & Trap Zones ที่อยู่ติดกัน\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Gold Pride - Nytro Head\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "40a3ae6a3e0ad31e506893d385cc4523b0875d27a563522ae10dbe5786d5336f",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

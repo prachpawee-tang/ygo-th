@@ -1,0 +1,9 @@
+{
+  "id": "75457624",
+  "name": "Ritual Beast's Bond",
+  "th": "เอามอนสเตอร์ \"Ritual Beast\" ที่คุณควบคุม 2 ตัวออกจากเกม; อัญเชิญพิเศษมอนสเตอร์ \"Ritual Beast\" 1 ตัวจากเอ็กซ์ตร้าเด็คของคุณ โดยไม่สนใจเงื่อนไขการอัญเชิญ.",
+  "status": "ai",
+  "en_sha256": "d9c1dcf97420fe4dbbbcbf2275ae7e804dc641f8ed754df5300487fb0ffdf7be",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

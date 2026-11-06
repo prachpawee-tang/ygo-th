@@ -1,0 +1,10 @@
+{
+  "id": "82579942",
+  "name": "Lightray Madoor",
+  "th": "ถ้า LIGHT มอนสเตอร์ของคุณถูกส่งลงสุสาน 3 ตัวขึ้นไป คุณสามารถอัญเชิญพิเศษการ์ดใบนี้ (จากมือของคุณ) ได้\n1 ครั้งต่อเทิร์น การ์ดใบนี้จะไม่ถูกทำลายจากการต่อสู้",
+  "status": "ai",
+  "en_sha256": "bae6fe66e2dd18c77718be094aca75075412a4d9d3958a38663c6e88685860fd",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: \"banish\" ×1 in English but \"ออกจากเกม\" ×0 in Thai — meaning may be wrong"
+}

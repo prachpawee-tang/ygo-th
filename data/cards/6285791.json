@@ -1,0 +1,9 @@
+{
+  "id": "6285791",
+  "name": "The Wicked Worm Beast",
+  "th": "การ์ดที่หงายอยู่บนสนามนี้จะถูกส่งกลับมือเจ้าของในช่วง End Phase ของเทิร์นของคุณ.",
+  "status": "ai",
+  "en_sha256": "3776c6779de6d9940028af1efe44d0fcce6a5c3a86a8d013f2d1d2b517e17c16",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

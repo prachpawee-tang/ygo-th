@@ -1,0 +1,9 @@
+{
+  "id": "58074572",
+  "name": "Mooyan Curry",
+  "th": "เลือกผู้เล่น 1 คน; ผู้เล่นคนนั้นได้รับ LP 200.",
+  "status": "ai",
+  "en_sha256": "eee6f8a021962aeef864bb4062015bc5eb4da8cc14eb36542e50c5841a07e3a7",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

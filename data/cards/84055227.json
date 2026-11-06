@@ -1,0 +1,9 @@
+{
+  "id": "84055227",
+  "name": "Maiden of Macabre",
+  "th": "ทุกครั้งที่การ์ดใบนี้ทำลายมอนสเตอร์ของคู่ต่อสู้ด้วยการต่อสู้, วาง Spell Counter 1 อันบนมัน\nการ์ดใบนี้ได้รับ ATK 200 สำหรับแต่ละ Spell Counter ที่อยู่บนมัน",
+  "status": "ai",
+  "en_sha256": "d20d3b5951b39008beaf8887f8698a2cb5b8600fb7cee84cdef2534823d1cf72",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

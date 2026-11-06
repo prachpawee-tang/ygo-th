@@ -1,0 +1,9 @@
+{
+  "id": "53724621",
+  "name": "Performapal Guitartle",
+  "th": "[ เอฟเฟกต์ Pendulum ]\nถ้ามีการ์ด \"Performapal\" ถูกเปิดใช้ใน Pendulum Zone อื่นของคุณ: คุณสามารถจั่วการ์ด 1 ใบได้\nคุณสามารถใช้เอฟเฟกต์ของ \"Performapal Guitartle\" ได้ 1 ครั้งต่อเทิร์น\n[ เอฟเฟกต์มอนสเตอร์ ]\n1 ครั้งต่อเทิร์น: คุณสามารถเลือกเป้าหมายการ์ด 1 ใบใน Pendulum Zone ของคุณ; เพิ่ม Pendulum Scale ของมันขึ้น 2 จนจบเทิร์นนี้",
+  "status": "ai",
+  "en_sha256": "5f69609f30c14c54a11d5946681f224771c4ae636f840799aa98b12ebbf6caf8",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "74711057",
+  "name": "Elemental HERO Terra Firma",
+  "th": "\"Elemental HERO Ocean\" + \"Elemental HERO Woodsman\"\nต้องทำการ Fusion Summon และไม่สามารถอัญเชิญพิเศษด้วยวิธีอื่นได้\nคุณสามารถสังเวยมอนสเตอร์ \"Elemental HERO\" ที่หงายอยู่ 1 ตัว; การ์ดใบนี้ได้รับ ATK เท่ากับ ATK ของมอนสเตอร์ที่ถูกสังเวย จนถึง End Phase",
+  "status": "ai",
+  "en_sha256": "caf921109ef3272d14b620a16f4124a1534ee2d34df389fdeb2e77db65ac9c11",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

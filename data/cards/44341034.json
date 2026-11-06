@@ -1,0 +1,10 @@
+{
+  "id": "44341034",
+  "name": "Dark Bug",
+  "th": "เมื่อการ์ดใบนี้ถูกอัญเชิญปกติ, เลือกและอัญเชิญพิเศษมอนสเตอร์ Tuner ระดับ 3 จากสุสานของคุณ\nเอฟเฟกต์(s) ของมอนสเตอร์นั้นถูกลบล้าง",
+  "status": "ai",
+  "en_sha256": "77b7d94e658d92efa092c641184c6a0daffca40350a5d91ee0caa94420743f6b",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

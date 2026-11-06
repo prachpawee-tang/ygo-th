@@ -1,0 +1,9 @@
+{
+  "id": "50032342",
+  "name": "Strategist of the Ice Barrier",
+  "th": "1 ครั้งต่อเทิร์น คุณสามารถส่งมอนสเตอร์ \"Ice Barrier\" 1 ตัวจากมือของคุณไปยังสุสานเพื่อจั่วการ์ด 1 ใบ.",
+  "status": "ai",
+  "en_sha256": "52f72b132cca3623c63f23685c5a053e89033b8e99941c63b30aca8046dceb31",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

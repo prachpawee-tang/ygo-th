@@ -1,0 +1,9 @@
+{
+  "id": "25578802",
+  "name": "Two-Man Cell Battle",
+  "th": "ระหว่าง End Phase ของผู้เล่นแต่ละคน ผู้เล่นที่ได้เทิร์นสามารถ อัญเชิญพิเศษ มอนสเตอร์ Normal เลเวล 4 1 ตัวจาก มือ.",
+  "status": "ai",
+  "en_sha256": "0a342f3bb3bc7de0dc14af1d39ca7a67d0c045526187be908cc5324f5613cb7d",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

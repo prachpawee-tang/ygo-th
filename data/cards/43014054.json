@@ -1,0 +1,9 @@
+{
+  "id": "43014054",
+  "name": "Vice Berserker",
+  "th": "ถ้าการ์ดใบนี้ถูกส่งลงสุสานเป็นมอนสเตอร์ Material ในการอัญเชิญ Synchro, ให้สร้างความเสียหาย 2000 ให้กับผู้เล่นที่ทำการอัญเชิญ Synchro, และมอนสเตอร์ Synchro ที่ใช้การ์ดใบนี้เป็นมอนสเตอร์ Material Synchro จะได้รับ ATK 2000 จนถึง End Phase.",
+  "status": "ai",
+  "en_sha256": "6e701ac1ffd9d8c1649549bebdde4525d7a999607c3c4597369fd89087e8dce6",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

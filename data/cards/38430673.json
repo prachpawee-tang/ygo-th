@@ -1,0 +1,9 @@
+{
+  "id": "38430673",
+  "name": "Grand Convergence",
+  "th": "ถ้าคุณควบคุม \"Macro Cosmos\": สร้างความเสียหาย 300 ให้กับคู่ต่อสู้และทำลายมอนสเตอร์ทั้งหมดบนสนาม.",
+  "status": "ai",
+  "en_sha256": "450b5c58d783e6e6dfbc0d8434b1f4ef074a0aa6b3acaa8f425ae87a697682f7",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

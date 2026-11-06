@@ -1,0 +1,9 @@
+{
+  "id": "84816244",
+  "name": "Datacorn",
+  "th": "ถ้าการ์ดใบนี้ถูกอัญเชิญพิเศษ: คุณสามารถอัญเชิญพิเศษ \"Data Acorn Token\" (Cyberse/DARK/Level 1/ATK 0/DEF 0) ได้\nคุณสามารถใช้เอฟเฟกต์ของ \"Datacorn\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "f2252433c6081124bb26239d5774862e46de87398970caafb899f70c183112b3",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

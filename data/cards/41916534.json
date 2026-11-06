@@ -1,0 +1,9 @@
+{
+  "id": "41916534",
+  "name": "Iron Hans",
+  "th": "ถ้าการ์ดใบนี้ถูกอัญเชิญ: คุณสามารถอัญเชิญพิเศษ \"Iron Knight\" 1 ตัวจากเด็คของคุณ, นอกจากนี้ถ้า \"Golden Castle of Stromberg\" ไม่อยู่ใน Main Monster Zone หรือ Extra Monster Zone เมื่อเอฟเฟกต์นี้ทำงาน, คุณจะไม่สามารถอัญเชิญพิเศษมอนสเตอร์จากเอ็กซ์ตร้าเด็คได้จนจบเทิร์นนี้\nคุณสามารถใช้เอฟเฟกต์ของ \"Iron Hans\" ได้ 1 ครั้งต่อเทิร์น\nได้รับ ATK 1000 สำหรับ \"Iron Knight\" แต่ละตัวที่คุณควบคุม, ในขณะที่ \"Golden Castle of Stromberg\" อยู่ใน Field Spell",
+  "status": "ai",
+  "en_sha256": "b99e10c09be993a37839f69a828410bfc88a966696fad763838033807b090ef3",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

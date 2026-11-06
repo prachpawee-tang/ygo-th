@@ -1,0 +1,9 @@
+{
+  "id": "45974017",
+  "name": "Dark Contract with the Yamimakai",
+  "th": "1 ครั้งต่อเทิร์น, ในช่วง Standby Phase ของคุณ: รับความเสียหาย 1000\nคุณสามารถใช้เอฟเฟกต์ต่อไปนี้ของ \"Dark Contract with the Yamimakai\" ได้เพียง 1 เอฟเฟกต์ต่อเทิร์น และเพียงครั้งเดียวในเทิร์นนั้น\n● ในช่วง Main Phase ของคุณ: คุณสามารถเลือกเป้าหมายมอนสเตอร์ Pendulum \"D/D\" 1 ตัวในสุสานของคุณ; วางมันใน Pendulum Zone ของคุณ\n● ในช่วง Main Phase ของคุณ: คุณสามารถวางมอนสเตอร์ Pendulum \"D/D\" ที่หงายอยู่ 1 ตัวจาก เอ็กซ์ตร้าเด็ค ของคุณใน Pendulum Zone ของคุณ",
+  "status": "ai",
+  "en_sha256": "ab4185bc1d90914e46b219c277ce17827d7600255875a06ebabd1183410b380b",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

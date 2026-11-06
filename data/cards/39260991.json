@@ -1,0 +1,9 @@
+{
+  "id": "39260991",
+  "name": "Aquaactress Tetra",
+  "th": "1 ครั้งต่อเทิร์น: คุณสามารถเพิ่มการ์ด \"Aquarium\" 1 ใบจากเด็คของคุณขึ้นมือ.",
+  "status": "ai",
+  "en_sha256": "ab5bafc34dd3afe1c4ec0e61adbff3fa1b0687b2f54a8f4ca604a674548902b8",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

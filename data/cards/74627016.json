@@ -1,0 +1,9 @@
+{
+  "id": "74627016",
+  "name": "T.G. Tank Grub",
+  "th": "ถ้าการ์ดใบนี้ที่คุณควบคุมถูกใช้เป็น Material Synchro สำหรับมอนสเตอร์ \"T.G.\" คุณสามารถมองว่ามันเป็น non-Tuner ได้\nถ้าการ์ดใบนี้ถูกส่งลงสุสานเป็น Material Synchro สำหรับมอนสเตอร์ \"T.G.\": คุณสามารถ อัญเชิญพิเศษ \"T.G. Token\" (Machine/EARTH/Level 1/ATK 0/DEF 0) 1 ตัวในท่าโจมตีได้\nคุณสามารถใช้เอฟเฟกต์ของ \"T.G. Tank Grub\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "7add69cc4844ba60d5ba40d1325b58bef0270cdae9b363eca797ba6d8677a15f",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "75917088",
+  "name": "Princess Pikeru",
+  "th": "การ์ดใบนี้ไม่สามารถอัญเชิญปกติหรือเซ็ตได้\nการ์ดใบนี้ไม่สามารถอัญเชิญพิเศษได้ ยกเว้นด้วย \"Trial of the Princesses\"\nในช่วง Standby Phase ของคุณ จ่าย Life Points 800 แต้มสำหรับมอนสเตอร์แต่ละตัวที่คุณควบคุม",
+  "status": "ai",
+  "en_sha256": "b6a01fcfdfa97ab7824fb53bda0aca748039af58da0191fc8f22c3c0197906fc",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

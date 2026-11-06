@@ -1,0 +1,9 @@
+{
+  "id": "45215453",
+  "name": "Vylon Delta",
+  "th": "1 Tuner + 1 หรือ มอนสเตอร์ non-Tuner LIGHT ตัวหรือมากกว่า\nถ้าการ์ดใบนี้อยู่ในท่าป้องกันหงายระหว่าง End Phase ของคุณ คุณสามารถเพิ่มการ์ด Equip Spell 1 ใบจากเด็คของคุณขึ้นมือ",
+  "status": "ai",
+  "en_sha256": "4961496c48186faf3db9bf57f540cbf96b3878a4aa594b906fa1e38ef2dbf143",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

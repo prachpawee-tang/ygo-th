@@ -1,0 +1,10 @@
+{
+  "id": "84754430",
+  "name": "Mekk-Knight Avram",
+  "th": "\"ลองดูสิ่งนี้สิ!\"",
+  "status": "ai",
+  "en_sha256": "dd9d614496c3c565db85c42672941b33200422e83dba6846628d456b526bb4ba",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: card names in quotes changed/missing: \"Check THIS out!\""
+}

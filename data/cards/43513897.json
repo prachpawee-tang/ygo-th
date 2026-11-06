@@ -1,0 +1,9 @@
+{
+  "id": "43513897",
+  "name": "Constellar Acubens",
+  "th": "เมื่อการ์ดใบนี้ถูกอัญเชิญปกติหรืออัญเชิญพิเศษ: มอนสเตอร์ \"Constellar\" ทั้งหมดที่คุณกำลังควบคุมอยู่ได้รับ ATK 500.",
+  "status": "ai",
+  "en_sha256": "319cd90f88fa4d1df9d7c4861765af55e9ec5fece8d403ffee630d97b43d7f97",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

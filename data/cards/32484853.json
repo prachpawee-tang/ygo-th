@@ -1,0 +1,10 @@
+{
+  "id": "32484853",
+  "name": "Singularity Fiend",
+  "th": "เมื่อคู่ต่อสู้ของคุณทำการอัญเชิญพิเศษมอนสเตอร์ (ยกเว้นระหว่าง Damage Step): คุณสามารถทิ้งการ์ดใบนี้และการ์ดเวทมนตร์ 1 ใบเพื่อทำลายมอนสเตอร์นั้น\nคุณสามารถใช้เอฟเฟกต์ของ \"Singularity Fiend\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "9304b8909dc32bfbdefdb9e1b18c7c34bb3c09493aef7bf54ef0612e203dac84",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: fewer \";\" than English (0 < 1) — cost/resolution split may be lost"
+}

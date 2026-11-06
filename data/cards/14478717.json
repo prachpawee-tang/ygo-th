@@ -1,0 +1,9 @@
+{
+  "id": "14478717",
+  "name": "Libromancer Prevented",
+  "th": "ถ้าคุณควบคุมมอนสเตอร์ \"Libromancer\": คุณสามารถเลือกเป้าหมายมอนสเตอร์หงาย 1 ตัวที่คู่ต่อสู้ควบคุม; เทิร์นนี้ มอนสเตอร์หงายที่ถูกเลือกเป้าหมายนั้นไม่สามารถถูกใช้เป็น Material สำหรับการ อัญเชิญแบบ Fusion, Synchro, Xyz หรือ Link ได้\nคุณสามารถใช้เอฟเฟกต์ของ \"Libromancer Prevented\" ได้ 1 ครั้งต่อเทิร์น\n1 ครั้งต่อเทิร์น, ระหว่าง End Phase, ถ้าคุณไม่ได้ควบคุม \"Libromancer\" Ritual Monsters: ส่งการ์ดใบนี้ลงสุสาน",
+  "status": "ai",
+  "en_sha256": "dca52e03373af9decdc87487dc356291e36b90a469f2b6fee7eecd5e4218caa2",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

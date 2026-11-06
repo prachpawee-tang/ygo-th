@@ -1,0 +1,9 @@
+{
+  "id": "56532632",
+  "name": "Chivalry",
+  "th": "เปิดใช้ได้เฉพาะในช่วง Battle Phase, เมื่อเอฟเฟกต์ของ Effect Monster ของคู่ต่อสู้ถูกเปิดใช้งาน\nลบล้างการเปิดใช้งานและทำลายการ์ดใบนั้น",
+  "status": "ai",
+  "en_sha256": "eeacc528a1ab7c92f22de4e7a8194cd5a7bf0c2d2274f483cdd5a52926e2c9cc",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

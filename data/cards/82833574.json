@@ -1,0 +1,9 @@
+{
+  "id": "82833574",
+  "name": "Ars Magna Academic Arcane Apparition Acropolis",
+  "th": "(การ์ดใบนี้ถือว่าเป็นการ์ด \"Artmage\" เสมอ)\nเอฟเฟกต์ของมอนสเตอร์ \"Medius\" ที่คุณเปิดใช้งานไว้ ไม่สามารถถูกลบล้างได้\nถ้าคุณมีมอนสเตอร์ \"Power Patron\" ในสุสานของคุณ: คุณสามารถเอามอนสเตอร์ Fusion, Synchro หรือ Xyz 1 ตัวออกจากเกมจากสุสานของคุณ และประกาศชื่อมอนสเตอร์ Link \"Ars Magna\" 1 ชื่อ ที่ยังไม่ได้ถูกประกาศสำหรับการ์ด \"Ars Magna Academic Arcane Apparition Acropolis\" ในเทิร์นนี้; อัญเชิญพิเศษมอนสเตอร์นั้นจากเอ็กซ์ตร้าเด็คของคุณ แต่จะไม่สามารถใช้เป็น Material Link ได้",
+  "status": "ai",
+  "en_sha256": "802ec83db691557262129f3ab1742253a0b0d19e899c1acfb77540c99aea7a7a",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

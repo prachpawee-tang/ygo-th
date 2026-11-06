@@ -1,0 +1,9 @@
+{
+  "id": "94681654",
+  "name": "Raptor Wing Strike",
+  "th": "สับมอนสเตอร์ \"Blackwing\" 1 ตัวที่คุณควบคุมกลับเข้าเด็ค; เพิ่มมอนสเตอร์ \"Blackwing\" 1 ตัวจากเด็คของคุณขึ้นมือ.",
+  "status": "ai",
+  "en_sha256": "7bd7609494cdfdf6ab53b618d9641ffd79218efb4fcde30917637fe22a9cda1a",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

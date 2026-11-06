@@ -1,0 +1,9 @@
+{
+  "id": "31467372",
+  "name": "Everliving Underworld Cannon",
+  "th": "1 ครั้งต่อเทิร์น, เมื่อมอนสเตอร์ Type Zombie ถูกอัญเชิญพิเศษไปยังสนามของคุณ: สร้างความเสียหาย 800 ให้กับคู่ต่อสู้.",
+  "status": "ai",
+  "en_sha256": "2a9ed57ebe6b09215649679d76cdec6da3f76092517e5b7b13b31ec3f747c5b4",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

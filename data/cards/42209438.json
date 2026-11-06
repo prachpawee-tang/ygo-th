@@ -1,0 +1,9 @@
+{
+  "id": "42209438",
+  "name": "Legendary Lord Six Samurai - Kizan",
+  "th": "1 Tuner + 1+ non-Tuner monsters\nมอนสเตอร์ \"Six Samurai\" ที่คุณควบคุม ได้รับ ATK/DEF 600 เฉพาะระหว่าง Battle Phase เท่านั้น\nคุณสามารถใช้เอฟเฟกต์ต่อไปนี้ของ \"Legendary Lord Six Samurai - Kizan\" ได้แต่ละเอฟเฟกต์ 1 ครั้งต่อเทิร์น\nระหว่าง Main Phase ของคู่ต่อสู้ (Quick Effect): คุณสามารถเอการ์ด \"Six Strike\" 1 ใบออกจากเกมจากสุสานของคุณ จากนั้นเลือกเป้าหมายการ์ด 1 ใบในสนาม; ทำลายมัน\nถ้าคุณควบคุมมอนสเตอร์ \"Six Samurai\" 2 ตัวขึ้นไป: คุณสามารถ อัญเชิญพิเศษ การ์ดใบนี้จากสุสาน",
+  "status": "ai",
+  "en_sha256": "b0a6fca23d9def5ad63264d67d3e518e320394dc2d0d8d7b38678b6eabd360bb",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

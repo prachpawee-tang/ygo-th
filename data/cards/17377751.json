@@ -1,0 +1,9 @@
+{
+  "id": "17377751",
+  "name": "Blackwing - Gram the Shining Star",
+  "th": "1 Tuner + มอนสเตอร์ non-Tuner 1 ตัวขึ้นไป\nต้องทำการ Synchro Summon ก่อน\nเมื่อการ์ดใบนี้ถูก Synchro Summon: คุณสามารถ อัญเชิญพิเศษ มอนสเตอร์ \"Blackwing\" ระดับ 4 หรือต่ำกว่า 1 ตัวจาก มือของคุณ, แต่เอฟเฟกต์ของมันจะถูกลบล้าง",
+  "status": "ai",
+  "en_sha256": "62de3728237670392c741663268a7328436f6acbb4fd2e1c34b25f2f039e6355",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

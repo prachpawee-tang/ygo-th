@@ -1,0 +1,9 @@
+{
+  "id": "36586443",
+  "name": "Elemental Recharge",
+  "th": "ได้รับ LP 1000 สำหรับ \"Elemental HERO\" มอนสเตอร์แต่ละตัวที่คุณควบคุมแบบหงาย.",
+  "status": "ai",
+  "en_sha256": "51d25435300714ef8b841545aaee7a9878dcef9664340357e8bffc582e6aaeba",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

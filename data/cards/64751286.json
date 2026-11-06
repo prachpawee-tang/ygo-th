@@ -1,0 +1,9 @@
+{
+  "id": "64751286",
+  "name": "Penumbral Soldier Lady",
+  "th": "ถ้าการ์ดใบนี้ทำการต่อสู้กับมอนสเตอร์ LIGHT, การ์ดใบนี้จะได้รับ ATK 1000 ระหว่าง Damage Step เท่านั้น.",
+  "status": "ai",
+  "en_sha256": "b4a3cf9a280800fed11cea5658b1437fce3cb4eaf5c0d4dab3cb208ad1649f55",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

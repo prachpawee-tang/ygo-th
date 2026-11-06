@@ -1,0 +1,9 @@
+{
+  "id": "59332125",
+  "name": "A.I. Love Fusion",
+  "th": "อัญเชิญแบบ Fusion มอนสเตอร์ Cyberse Fusion 1 ตัวจากเอ็กซ์ตร้าเด็คของคุณ โดยใช้มอนสเตอร์จากมือหรือสนามของคุณเป็น Material\nถ้าคุณใช้มอนสเตอร์ \"@Ignister\" ของคุณเป็น Material คุณสามารถใช้ Link Monster 1 ตัวที่คู่ต่อสู้ควบคุมเป็น Material ได้ด้วย\nคุณสามารถเปิดใช้ \"A.I. Love Fusion\" ได้เพียง 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "a5074de128d09362d9a600145661fcde57b3405cdecbc720239b22da219000ff",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

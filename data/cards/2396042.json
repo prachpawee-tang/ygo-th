@@ -1,0 +1,9 @@
+{
+  "id": "2396042",
+  "name": "Steel Cavalry of Dinon",
+  "th": "เมื่อเริ่ม Damage Step, ถ้าการ์ดใบนี้ทำการต่อสู้กับ \"Pendulum Monster\": ATK และ DEF ของการ์ดใบนี้จะกลายเป็นครึ่งหนึ่งของ ATK และ DEF ปัจจุบัน จนจบ Damage Step.",
+  "status": "ai",
+  "en_sha256": "4184c910eba0089a301c593eade9cf55afc0d05303c0fd60be2c344b9e5e02dc",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

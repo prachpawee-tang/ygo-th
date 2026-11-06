@@ -1,0 +1,9 @@
+{
+  "id": "84177693",
+  "name": "Radiant Jeral",
+  "th": "เมื่อการ์ดใบนี้ถูกส่งลงสุสาน (ยกเว้นถูกทำลายจากการต่อสู้), ได้รับ Life Points 1000 หาก \"The Sanctuary in the Sky\" อยู่บนสนาม.",
+  "status": "ai",
+  "en_sha256": "ccd859ef185b6fe057877f7a68faba1a57f1aa0cb13ff58794c9799d35816dfc",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

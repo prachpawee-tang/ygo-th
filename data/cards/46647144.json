@@ -1,0 +1,10 @@
+{
+  "id": "46647144",
+  "name": "World Legacy - \"World Lance\"",
+  "th": "มอนสเตอร์ที่คู่ต่อสู้ควบคุมไม่สามารถโจมตีมอนสเตอร์ \"World Legacy\" ที่คุณควบคุมได้ ยกเว้นตัวนี้\nคุณสามารถใช้เอฟเฟกต์ต่อไปนี้ของ \"World Legacy - \"World Lance\"\" ได้แต่ละเอฟเฟกต์ 1 ครั้งต่อเทิร์น\n● ระหว่างการคำนวณความเสียหาย ถ้ามอนสเตอร์ Link ต่อสู้กับมอนสเตอร์ (Quick Effect): คุณสามารถทิ้งการ์ดใบนี้; มอนสเตอร์ที่คู่ต่อสู้กำลังต่อสู้จะสูญเสีย ATK 3000\n● ถ้ามีการอัญเชิญพิเศษมอนสเตอร์จาก เอ็กซ์ตร้าเด็ค: อัญเชิญพิเศษ \"World Legacy Token\" (Machine/DARK/Level 1/ATK 0/DEF 0) 1 ตัวให้กับทั้งผู้เล่นในสนาม ในท่าป้องกัน",
+  "status": "ai",
+  "en_sha256": "e41eabff8b83ec3f75b20b8ebf7fc37bbdc385d9508c22a7a96ed89c2e85ec05",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: card names in quotes changed/missing: \" once per turn.\r\n● During damage calculation, if a Link Monster battles a monster (Quick Effect): You can discard this card; the opponent's battling monster loses 3000 ATK.\r\n● If a monster(s) is Special Summoned from the Extra Deck: Special Summon 1 \""
+}

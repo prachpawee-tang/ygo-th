@@ -1,0 +1,9 @@
+{
+  "id": "43236494",
+  "name": "Fairy Tale Prologue: Journey's Dawn",
+  "th": "ความเสียหายจากการต่อสู้ที่ผู้เล่นแต่ละคนได้รับจะลดลงครึ่งหนึ่ง\nถ้าคุณควบคุมมอนสเตอร์ LIGHT ประเภท Beast หรือ มอนสเตอร์ Link Dragon ระดับ 7 หรือ 8: คุณสามารถจั่วการ์ด 1 ใบได้\nคุณสามารถใช้เอฟเฟกต์ของ \"Fairy Tale Prologue: Journey's Dawn\" ได้ 1 ครั้งต่อเทิร์น\nในช่วง Standby Phase ของคุณ: คุณสามารถส่งการ์ดใบนี้จาก Main Monster Zone ไปยังสุสาน; วางการ์ด Field Spell 1 ใบจากมือหรือเด็คของคุณแบบหงายใน Main Monster Zone ของคุณ ยกเว้น \"Fairy Tale Prologue: Journey's Dawn\"",
+  "status": "ai",
+  "en_sha256": "acd46872aeda4fd842f1b508524a00374fe692e4f3c848d9004dc80625ee85a2",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

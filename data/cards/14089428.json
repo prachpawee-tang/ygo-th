@@ -1,0 +1,9 @@
+{
+  "id": "14089428",
+  "name": "Blue Thunder T-45",
+  "th": "ถ้าการ์ดใบนี้ทำลายมอนสเตอร์ของคู่ต่อสู้ด้วยการต่อสู้: อัญเชิญพิเศษ “Thunder Option Token” (Machine-Type/LIGHT/Level 4/ATK 1500/DEF 1500) 1 ตัว\nToken นี้ไม่สามารถใช้สังเวยเพื่อทำการอัญเชิญแบบสังเวยได้",
+  "status": "ai",
+  "en_sha256": "1a1a19c559e3d839ac331d24b0059346a47c2df3ff12a6cf4e81178b9de8f298",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

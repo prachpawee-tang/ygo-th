@@ -1,0 +1,9 @@
+{
+  "id": "56921677",
+  "name": "Heraldic Beast Basilisk",
+  "th": "หลังจากการคำนวณความเสียหาย: ทำลายมอนสเตอร์ของคู่ต่อสู้ที่ทำการต่อสู้กับการ์ดใบนี้.",
+  "status": "ai",
+  "en_sha256": "0a15ba58aa08b5128aaeda2816db38c9efbad7fd31d28672af68a01af8efd806",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

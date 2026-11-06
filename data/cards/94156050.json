@@ -1,0 +1,9 @@
+{
+  "id": "94156050",
+  "name": "Reverse Glasses",
+  "th": "ลดครึ่ง ATK ของมอนสเตอร์ที่หงายอยู่ทั้งหมดบนสนาม จนถึง End Phase.",
+  "status": "ai",
+  "en_sha256": "a85f928a4d5af44fe2293f7c635ec8fce5122f87e40cdcb1dd36c61e2a94b980",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

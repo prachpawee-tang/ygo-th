@@ -1,0 +1,10 @@
+{
+  "id": "15574615",
+  "name": "D.D. Jet Iron",
+  "th": "ไม่สามารถอัญเชิญปกติ/เซ็ตได้\nต้องอัญเชิญพิเศษก่อน (จากมือของคุณ) โดยการส่ง \"D.D. Esper Star Sparrow\", \"Beast-Warrior Puma\", \"Phoenix Beast Gairuda\" และ \"Ironhammer the Giant\" จากมือและ/หรือจากสนามฝั่งของคุณที่หงายอยู่ไปยังสุสาน\nคุณสามารถสังเวยการ์ดใบนี้เพื่อเลือกเป้าหมาย \"D.D. Esper Star Sparrow\", \"Beast-Warrior Puma\", \"Phoenix Beast Gairuda\" และ \"Ironhammer the Giant\" ในสุสานของคุณ; อัญเชิญพิเศษเป้าหมายเหล่านั้น",
+  "status": "ai",
+  "en_sha256": "f950cc61173764ed2b5ca40fab9bb703d53b18139e07a4ba5c7f0b50fc05433c",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "93877990",
+  "name": "Brotherhood of the Fire Fist - Swan",
+  "th": "มอนสเตอร์ Beast-Warrior 2 ตัว\nเมื่อการ์ดใบนี้ถูกอัญเชิญพิเศษ: คุณสามารถสร้างความเสียหาย 200 ให้กับคู่ต่อสู้สำหรับแต่ละการ์ด Spell/Trap \"Fire Formation\" ที่คุณควบคุม\nระหว่าง Battle Phase (Quick Effect): คุณสามารถส่งการ์ด Spell/Trap \"Fire Formation\" ที่หงายอยู่ 1 ใบที่คุณควบคุมลงสุสาน, จากนั้นเลือกเป้าหมายการ์ด 1 ใบที่คู่ต่อสู้ควบคุม; ทำลายมัน\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Brotherhood of the Fire Fist - Swan\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "8151614ab8861b723e0d19dde19a88a07151920a87038d5231a40587fe3e73b5",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

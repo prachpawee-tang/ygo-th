@@ -1,0 +1,9 @@
+{
+  "id": "84847656",
+  "name": "Telekinetic Shocker",
+  "th": "ถ้ามอนสเตอร์ Psychic-Type บนสนามจะถูกทำลาย คุณสามารถจ่าย LP 500 และทำลายการ์ดใบนี้แทนได้.",
+  "status": "ai",
+  "en_sha256": "c16ae23eaec52ee975effe51800d8698698ae66a0326451b601172a880629f40",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

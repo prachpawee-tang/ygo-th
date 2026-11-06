@@ -1,0 +1,9 @@
+{
+  "id": "15635751",
+  "name": "Camelot, Realm of Noble Knights and Noble Arms",
+  "th": "1 ครั้งต่อเทิร์น, ถ้าการ์ด \"Noble Knight\" ที่คุณควบคุมจะถูกทำลายจากการต่อสู้หรือเอฟเฟกต์ของการ์ด, คุณสามารถทำลายการ์ด Equip 1 ใบที่คุณควบคุมแทนได้\nระหว่าง Main Phase ของคุณ: คุณสามารถเอาการ์ดใบนี้ออกจากเกม (จนกว่าจะถึง Standby Phase ถัดไป), และถ้าทำ, วาง \"Noble Knights of the Round Table\" 1 ใบจากมือ, เด็ค หรือ สุสานของคุณ, หงายใน Field Zone ของคุณ, จากนั้นคุณสามารถ อัญเชิญพิเศษ มอนสเตอร์ \"Artorigus\" 1 ตัว, หรือ เพิ่มขึ้นมือ การ์ด \"Noble Arms\" 1 ใบ, จากเด็คหรือสุสานของคุณ\nคุณสามารถใช้เอฟเฟกต์นี้ของ \"Camelot, Realm of Noble Knights and Noble Arms\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "cacd35f049d6a1a628bfc9a00d48eab823a82caf3c9ce5813e52fdca7608047b",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

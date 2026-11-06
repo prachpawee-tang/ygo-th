@@ -1,0 +1,9 @@
+{
+  "id": "58601383",
+  "name": "Gaia Drake, the Universal Force",
+  "th": "\"Gaia Knight, the Force of Earth\" 1 ตัว + มอนสเตอร์ Synchro ที่ไม่ใช่ Effect 1 ตัว\nการ์ดใบนี้ไม่สามารถถูกเลือกเป้าหมายหรือถูกทำลายได้ด้วยเอฟเฟกต์ของมอนสเตอร์เอฟเฟกต์",
+  "status": "ai",
+  "en_sha256": "f4b8b429148f0d3331690d159a6015a50ca13bd2f72df0238ffbd2cf8ba8ed79",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

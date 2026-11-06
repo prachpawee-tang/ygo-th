@@ -1,0 +1,9 @@
+{
+  "id": "98167225",
+  "name": "Vaalmonica Creation",
+  "th": "ตราบใดที่คุณมี Resonance Counter 6 หรือมากกว่าบนสนามของคุณ มอนสเตอร์ Link \"Vaalmonica\" ที่คุณควบคุมจะได้รับ ATK 1200\nคุณสามารถใช้เอฟเฟกต์ต่อไปนี้ของ \"Vaalmonica Creation\" ได้ 1 ครั้งต่อเทิร์นเท่านั้น\nเมื่อคู่ต่อสู้ของคุณ อัญเชิญพิเศษ มอนสเตอร์(s) คุณสามารถ (ยกเว้นระหว่าง Damage Step): หลังจากเอฟเฟกต์นี้แก้ไขทันที ให้ทำการ Link Summon มอนสเตอร์ Link \"Vaalmonica\" 1 ตัว\nหากการ์ดใบนี้ถูกส่งจากมือหรือสนามไปยังสุสาน: คุณสามารถวาง Resonance Counters บนการ์ด 1 ใบใน Pendulum Zone ของคุณที่คุณสามารถวาง Resonance Counter ได้ เพื่อให้มันมี Resonance Counters 3",
+  "status": "ai",
+  "en_sha256": "9c6c233560ce85b6fb6eca2e22d47b04e056ba26b0c4f32f07b4919ff7b8f4a1",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

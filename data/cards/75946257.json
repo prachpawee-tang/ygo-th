@@ -1,0 +1,9 @@
+{
+  "id": "75946257",
+  "name": "Witch Doctor of Chaos",
+  "th": "FLIP: เลือกการ์ดมอนสเตอร์ 1 ใบจากสุสานของคุณหรือสุสานของคู่ต่อสู้\nเอาการ์ดใบนั้นออกจากเกม",
+  "status": "ai",
+  "en_sha256": "213744d3daf345fca23d6a2fcb4f3b73c36bed42c52caf60e0ca62dc0b260980",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

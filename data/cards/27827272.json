@@ -1,0 +1,9 @@
+{
+  "id": "27827272",
+  "name": "Makiu, the Magical Mist",
+  "th": "เลือก \"Summoned Skull\" 1 ตัว หรือมอนสเตอร์ Thunder 1 ตัวใน Main Monster Zone ของคุณ; ทำลายมอนสเตอร์ทั้งหมดที่คู่ต่อสู้ควบคุมที่มี DEF น้อยกว่าหรือเท่ากับ ATK ของมอนสเตอร์นั้น\nคุณไม่สามารถทำ Battle Phase ในเทิร์นที่คุณเปิดใช้การ์ดใบนี้ได้",
+  "status": "ai",
+  "en_sha256": "fe1966362e50bc37dd3643fdfd45913aeb601a7f9ffcad7345da34df4f96a5f2",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

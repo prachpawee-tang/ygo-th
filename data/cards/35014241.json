@@ -1,0 +1,9 @@
+{
+  "id": "35014241",
+  "name": "Limit Overdrive",
+  "th": "นำมอนสเตอร์ Synchro Tuner 1 ตัวและมอนสเตอร์ Synchro non-Tuner 1 ตัวที่คุณควบคุมกลับไปยังเอ็กซ์ตร้าเด็ค; อัญเชิญพิเศษมอนสเตอร์ Synchro 1 ตัวจากเอ็กซ์ตร้าเด็คของคุณที่มี Level เท่ากับ Level รวมของมอนสเตอร์ทั้ง 2 ตัวที่มีในสนาม โดยไม่สนใจเงื่อนไขการอัญเชิญ\nคุณสามารถเปิดใช้ \"Limit Overdrive\" ได้เพียง 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "44bc9bf2dec07ddfffcfb9ffcb35e79b0ae6f8b3d8a10cdb45d52b34c5cedec3",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

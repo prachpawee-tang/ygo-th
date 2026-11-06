@@ -1,0 +1,9 @@
+{
+  "id": "52584282",
+  "name": "Hercules Beetle",
+  "th": "แมลงปีกแข็งขนาดใหญ่ที่มีเกราะแข็งแรงและเขาที่อันตราย.",
+  "status": "ai",
+  "en_sha256": "3c1a69d449ed7ba080e3f2f07e82f29cbaa4767ed93db0ff94f5e1e89fc3676f",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

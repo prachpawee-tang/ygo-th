@@ -1,0 +1,10 @@
+{
+  "id": "51566770",
+  "name": "Infernity Guardian",
+  "th": "ตราบใดที่คุณไม่มีการ์ดในมือ, การ์ดที่คว่ำหน้าใบนี้จะไม่ถูกทำลายจากการต่อสู้หรือจากเอฟเฟกต์ของการ์ด.",
+  "status": "ai",
+  "en_sha256": "bd9be8e5217ed678e258fcd49c0250d816f1149495dd246cc7db9d3d0450b853",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: \"face-up\" ×1 in English but \"หงาย\" ×0 in Thai — meaning may be wrong"
+}

@@ -1,10 +1,10 @@
 {
   "id": "4796100",
   "name": "Chimera the Flying Mythical Beast",
-  "th": "\"Gazelle the King of Mythical Beasts\" + \"Berfomet\"\n(การ์ดใบนี้จะถูกมองว่าเป็นการ์ด \"Phantom Beast\" เสมอ)\nเมื่อการ์ดใบนี้ถูกทำลาย: คุณสามารถเลือกเป้าหมาย \"Berfomet\" หรือ \"Gazelle the King of Mythical Beasts\" 1 ใบในสุสานของคุณ; อัญเชิญพิเศษเป้าหมายนั้น",
+  "th": "\"Gazelle the King of Mythical Beasts\" + \"Berfomet\"\n(การ์ดใบนี้ถือว่าเป็นการ์ด \"Phantom Beast\" เสมอ)\nเมื่อการ์ดใบนี้ถูกทำลาย: คุณสามารถเลือกเป้าหมาย \"Berfomet\" หรือ \"Gazelle the King of Mythical Beasts\" 1 ใบในสุสานของคุณ; อัญเชิญพิเศษเป้าหมายนั้น",
   "status": "ai",
   "en_sha256": "9ff3d01cc4ae3bcae492a236569dc329c370418f8252f4f5d30fef4fc2e5a03f",
   "model": "gemma3:12b",
-  "updated": "2026-11-05",
+  "updated": "2026-11-06",
   "note": "rule-check: numbers missing in Thai: 1"
 }

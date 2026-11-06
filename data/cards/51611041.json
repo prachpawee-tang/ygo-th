@@ -1,0 +1,9 @@
+{
+  "id": "51611041",
+  "name": "Epigonen, the Impersonation Invader",
+  "th": "คุณสามารถสังเวย มอนสเตอร์เอฟเฟกต์ 1 ตัว: อัญเชิญพิเศษการ์ดใบนี้จากมือของคุณ, จากนั้น อัญเชิญพิเศษ \"Epigonos Token\" (Level 1/ATK 0/ DEF 0) ที่มี Type และ Attribute เดียวกันกับ Type และ Attribute เดิมของมอนสเตอร์ที่ถูกสังเวย\nคุณสามารถใช้เอฟเฟกต์นี้ของ \"Epigonen, the Impersonation Invader\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "0c5d27811f52531cac7b8ef9bf60f9155047195860698b2095e0f3de36dfb43f",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

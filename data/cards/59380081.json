@@ -1,0 +1,9 @@
+{
+  "id": "59380081",
+  "name": "Big-Tusked Mammoth",
+  "th": "มอนสเตอร์ที่คู่ต่อสู้ควบคุมไม่สามารถโจมตีได้ในเทิร์นที่ถูกอัญเชิญ.",
+  "status": "ai",
+  "en_sha256": "e1e974ccfd1f89c734ab1f21911536e86ff65948aeb29a67e4d956acc8dbeacf",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

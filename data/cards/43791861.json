@@ -1,0 +1,9 @@
+{
+  "id": "43791861",
+  "name": "Phoenix Beast Gairuda",
+  "th": "ถ้าการ์ดใบนี้โจมตีมอนสเตอร์ของคู่ต่อสู้ การ์ดใบนี้จะได้รับ ATK 300 ระหว่าง Damage Step เท่านั้น.",
+  "status": "ai",
+  "en_sha256": "fb2015aa861689b310b1a85fef87dff40ad1f3d005c2f96a847cca924fecfb7b",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

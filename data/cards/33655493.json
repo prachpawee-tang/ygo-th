@@ -1,0 +1,9 @@
+{
+  "id": "33655493",
+  "name": "Belial - Marquis of Darkness",
+  "th": "คู่ต่อสู้ของคุณไม่สามารถเลือกเป้าหมายมอนสเตอร์ที่หงายที่คุณควบคุม ยกเว้น \"Belial - Marquis of Darkness\" เพื่อทำการโจมตี หรือด้วยเอฟเฟกต์เวทมนตร์ (Spell)/กับดัก (Trap).",
+  "status": "ai",
+  "en_sha256": "a8ddf42faa95840181289f08fad1c536c7d196d83460b17daa54023b228a8da8",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

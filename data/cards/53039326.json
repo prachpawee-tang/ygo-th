@@ -1,0 +1,9 @@
+{
+  "id": "53039326",
+  "name": "Iron Core Specimen Lab",
+  "th": "ในช่วง End Phase ของคุณในแต่ละครั้ง ทำลายการ์ดใบนี้ เว้นแต่คุณจะเปิดเผย \"Iron Core of Koa'ki Meiru\" 1 ใบในมือของคุณ\nทุกครั้งที่มอนสเตอร์ \"Koa'ki Meiru\" บนสนามถูกทำลายในช่วง End Phase เจ้าของสามารถเพิ่มมอนสเตอร์ \"Koa'ki Meiru\" 1 ตัวจากเด็คของพวกเขาขึ้นมือ",
+  "status": "ai",
+  "en_sha256": "5cb783b4743da42b7edfc4a30d6fb0526523dceea696e664234e3c0b99010a2b",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

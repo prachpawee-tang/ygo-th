@@ -1,0 +1,9 @@
+{
+  "id": "79383919",
+  "name": "Evil Eye Retribution",
+  "th": "เมื่อมีการเปิดใช้การ์ด Spell/Trap ขณะที่คุณควบคุมมอนสเตอร์ \"Evil Eye\": ลบล้างการเปิดใช้งาน และถ้าทำได้ ให้ทำลายมัน\nถ้า \"Evil Eye of Selene\" อยู่ใน Spell & Trap Zone ของคุณ การเปิดใช้งานและการ์ดเอฟเฟกต์นี้จะไม่ถูกลบล้าง\nคุณสามารถเปิดใช้ \"Evil Eye Retribution\" ได้เพียง 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "33708e3a5e8a8d975585f45cec14f27ee7be24e7df5560e75ca7b9b43544d4dc",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

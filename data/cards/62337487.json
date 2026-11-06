@@ -1,0 +1,9 @@
+{
+  "id": "62337487",
+  "name": "Fortress Whale",
+  "th": "คุณสามารถ อัญเชิญแบบพิธีกรรม การ์ดใบนี้ด้วย \"Fortress Whale's Oath\".",
+  "status": "ai",
+  "en_sha256": "87236719e4a7b4873377e9e5d7e82d70fba296f5e14f06780fed996987ec19d9",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

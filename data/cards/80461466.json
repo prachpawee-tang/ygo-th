@@ -1,0 +1,9 @@
+{
+  "id": "80461466",
+  "name": "Great Mammoth of the Netherworld",
+  "th": "ถ้าการ์ดใบนี้ถูกอัญเชิญพิเศษ และคุณควบคุม \"Call of the Haunted\" หรือมอนสเตอร์ Zombie ยกเว้น \"Great Mammoth of the Netherworld\": คุณสามารถเลือกเป้าหมายการ์ด 1 ใบในสนาม; ทำลายมัน\nคุณสามารถใช้เอฟเฟกต์ของ \"Great Mammoth of the Netherworld\" ได้ 1 ครั้งต่อเทิร์น\nมอนสเตอร์ Xyz Zombie ที่มีการ์ดใบนี้เป็น Material ได้รับเอฟเฟกต์นี้\n● ได้รับ ATK 1000",
+  "status": "ai",
+  "en_sha256": "858a9b049f713eecab648abc34790d08e7e8de2340c6b3b3a8214378b9f9e722",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

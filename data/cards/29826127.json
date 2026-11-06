@@ -1,0 +1,9 @@
+{
+  "id": "29826127",
+  "name": "The Forces of Darkness",
+  "th": "เลือก \"Dark World\" มอนสเตอร์ 2 ตัวในสุสานของคุณ; เพิ่มการ์ดเป้าหมายเหล่านั้นขึ้นมือ.",
+  "status": "ai",
+  "en_sha256": "95e2480ea53f702adcfce33ad515f907c42833ab64e5d3175a89be53beda6f7e",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

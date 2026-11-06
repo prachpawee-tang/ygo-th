@@ -1,0 +1,9 @@
+{
+  "id": "32202803",
+  "name": "Bujingi Wolf",
+  "th": "มอนสเตอร์ประเภท Beast, Beast-Warrior และ Winged Beast ที่คุณควบคุมอยู่นี้จะไม่ถูกทำลายโดยการต่อสู้.",
+  "status": "ai",
+  "en_sha256": "43ad320e0bc7bdf5342acb50fab110892ab881dd45a4763902fd5247fe2b792c",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

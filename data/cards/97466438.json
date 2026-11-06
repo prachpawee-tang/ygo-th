@@ -1,0 +1,9 @@
+{
+  "id": "97466438",
+  "name": "Zany Zebra",
+  "th": "[ เอฟเฟกต์ Pendulum ]\n1 ครั้งต่อเทิร์น, ระหว่าง Main Phase ของคุณ, ถ้าการ์ดใบนี้ถูกเปิดใช้นี้เทิร์น: คุณสามารถเลือก Main Monster Zone หรือ Spell & Trap Zone ที่ไม่ได้ใช้งาน 1 โซน; ตราบใดที่การ์ดใบนี้อยู่ใน Pendulum Zone โซนที่เลือกนั้นไม่สามารถใช้งานได้\n[ เอฟเฟกต์มอนสเตอร์ ]\nถ้าการ์ดใบนี้ถูก Normal Summon หรือ Special Summoned: คุณสามารถเลือก Main Monster Zone หรือ Spell & Trap Zone ที่ไม่ได้ใช้งาน 1 โซน; ตราบใดที่การ์ดใบนี้หงายอยู่ใน Monster Zone โซนที่เลือกนั้นไม่สามารถใช้งานได้",
+  "status": "ai",
+  "en_sha256": "5cbd85b3ccfb54575474d7d161d7858252e18e797222413d95e0e5e6baadf44a",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

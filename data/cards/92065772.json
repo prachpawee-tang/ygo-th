@@ -1,0 +1,9 @@
+{
+  "id": "92065772",
+  "name": "Numbing Grub in the Ice Barrier",
+  "th": "เมื่อการ์ดใบนี้ถูกอัญเชิญปกติ, เลือก Main Monster Zone ที่ไม่ได้ใช้งาน 1 โซน\nตราบใดที่การ์ดใบนี้หงายอยู่บนสนาม, Main Monster Zone ที่ถูกเลือกนั้นไม่สามารถใช้งานได้",
+  "status": "ai",
+  "en_sha256": "c217b0641c310a8bf8445a0f23dd58602ec577bcc08f35616d5f5c83122169c8",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

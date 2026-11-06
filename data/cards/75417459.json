@@ -1,0 +1,9 @@
+{
+  "id": "75417459",
+  "name": "Release Restraint",
+  "th": "สังเวย \"Gearfried the Iron Knight\" 1 ตัว; อัญเชิญพิเศษ \"Gearfried the Swordmaster\" 1 ตัวจากมือหรือเด็คของคุณ.",
+  "status": "ai",
+  "en_sha256": "a8fe6e700b42d0095ac5aefd2b5965631277752c7f02077c4a95bf5526cba018",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

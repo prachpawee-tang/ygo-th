@@ -1,0 +1,9 @@
+{
+  "id": "60365591",
+  "name": "Shinato's Ark",
+  "th": "การ์ดใบนี้ใช้สำหรับ อัญเชิญแบบสังเวย \"Shinato, King of a Higher Plane\"\nคุณต้อง สังเวย มอนสเตอร์ที่มี Level รวมกันเท่ากับ 8 หรือมากกว่า จาก สนาม หรือ มือ",
+  "status": "ai",
+  "en_sha256": "86e9f1ff55e0acf94359db0ecad026c65d694a8b745f913ba99382e930d2dda5",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

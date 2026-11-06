@@ -1,0 +1,9 @@
+{
+  "id": "25377819",
+  "name": "Hieratic Seal of Convocation",
+  "th": "เพิ่มมอนสเตอร์ \"Hieratic\" 1 ตัวจากเด็คของคุณขึ้นมือ.",
+  "status": "ai",
+  "en_sha256": "30cada6322d39d89230eb65df707aedea47068c268f851a2df662d5dce62e0e0",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

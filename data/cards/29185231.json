@@ -1,0 +1,9 @@
+{
+  "id": "29185231",
+  "name": "Parthian Shot",
+  "th": "เมื่อสิ้นสุด Battle Phase: มันกลายเป็น End Phase ของเทิร์นนี้.",
+  "status": "ai",
+  "en_sha256": "19f33a3925c92e204e4ffa919c8172ba481040c8ada098b26b32a1be3b0ecb75",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "84990171",
+  "name": "Bean Soldier",
+  "th": "พืชนักรบที่โจมตีด้วยเมล็ดพันธุ์และดาบ.",
+  "status": "ai",
+  "en_sha256": "fb361173477e9314f43fbcfbea50159e823029a9e0eed3ef696db5d29db22f58",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

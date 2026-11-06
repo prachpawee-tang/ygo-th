@@ -1,0 +1,9 @@
+{
+  "id": "46864967",
+  "name": "Minomushi Warrior",
+  "th": "\"นักรบหินที่ใช้ดาบหนักแกะสลักจากหิน.\"",
+  "status": "ai",
+  "en_sha256": "3311c80678a450db1561b8f1347152cb9f4900cc9df049a16ea64e94fcda2ecc",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

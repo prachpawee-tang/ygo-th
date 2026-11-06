@@ -1,0 +1,9 @@
+{
+  "id": "29062925",
+  "name": "Face Card Fusion",
+  "th": "อัญเชิญแบบ Fusion มอนสเตอร์ Warrior Fusion ประเภท LIGHT 1 ตัวจากเอ็กซ์ตร้าเด็คของคุณ โดยใช้มอนสเตอร์จากมือหรือสนามของคุณเป็น Material\nถ้าคุณควบคุม \"Queen's Knight\", \"King's Knight\" หรือ \"Jack's Knight\" คุณสามารถใช้มอนสเตอร์ 1 ตัวจากเด็คของคุณเป็น Material ได้\nคุณสามารถเปิดใช้ \"Face Card Fusion\" ได้เพียง 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "4ecd20eb935b38221cb65b1d6a6e7775603743bbd881ec2bc641482918fc1481",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

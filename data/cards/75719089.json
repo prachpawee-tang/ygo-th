@@ -1,0 +1,9 @@
+{
+  "id": "75719089",
+  "name": "Glory of the Noble Knights",
+  "th": "เลือกมอนสเตอร์ \"Noble Knight\" 1 ตัวที่ที่คุณควบคุม; ติดการ์ด Spell ประเภท Equip 1 ใบจากเด็คของคุณที่สามารถติดกับเป้าหมายนั้นได้\nคุณสามารถเปิดใช้ \"Glory of the Noble Knights\" ได้เพียง 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "d0232520180a52ee590f4bc14f24cd7e91b1f5f29942c71c78edcd05f0801a50",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

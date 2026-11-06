@@ -1,0 +1,9 @@
+{
+  "id": "97227123",
+  "name": "Return of the Duelist",
+  "th": "ถ้ามีมอนสเตอร์ Xyz อยู่ในสนามหรือในสุสานใดสุสานหนึ่ง: เพิ่มการ์ด Equip Spell 1 ใบจากเด็คหรือสุสานของคุณขึ้นมือ\nคุณสามารถเปิดใช้ \"Return of the Duelist\" ได้เพียง 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "fa31934bd86db1111119edd8f5052c93b7ac17aec52fef020ad44c5ef63eb8a7",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

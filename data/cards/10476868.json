@@ -1,0 +1,9 @@
+{
+  "id": "10476868",
+  "name": "Barrel Rock",
+  "th": "\"แบกปืนกลคู่, มอนสเตอร์ตัวนี้หยุดไม่ได้.\"",
+  "status": "ai",
+  "en_sha256": "8508b3e34ed7a19fd9f6eca6ec5a243bf862085bc6aea9c09004fa722be5b658",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

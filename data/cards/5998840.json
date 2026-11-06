@@ -1,0 +1,9 @@
+{
+  "id": "5998840",
+  "name": "XX-Saber Boggart Knight",
+  "th": "เมื่อการ์ดใบนี้ถูกอัญเชิญปกติ: คุณสามารถอัญเชิญพิเศษมอนสเตอร์ \"X-Saber\" เลเวล 4 หรือต่ำกว่า 1 ตัวจากมือของคุณได้\nไม่สามารถใช้เป็น Material สำหรับการ Synchro Summon ได้ ยกเว้นสำหรับการ Synchro Summon มอนสเตอร์ Synchro \"X-Saber\"",
+  "status": "ai",
+  "en_sha256": "5c47ad7d00405ffbaf5a90da10537025a24ab0066221d684fb68668b601088b7",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

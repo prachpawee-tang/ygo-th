@@ -1,0 +1,9 @@
+{
+  "id": "54880296",
+  "name": "Yosenju Wind Worship",
+  "th": "ถ้าคุณควบคุม “Yosenju” Monster Cards 3 ใบขึ้นไปที่มีชื่อต่างกัน: คืน “Yosenju” Monster Cards ที่คุณควบคุมกลับมือได้มากที่สุดเท่าที่จะเป็นไปได้, จากนั้นคุณสามารถจั่วจนกว่าคุณจะมี 5 ใบในมือ\nคุณสามารถเปิดใช้ “Yosenju Wind Worship” ได้ 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "bd22b47f3a3ea0918b7f291f1bd92b5905642745fbd2dee046b114b3c500f833",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

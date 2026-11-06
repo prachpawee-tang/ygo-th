@@ -1,0 +1,9 @@
+{
+  "id": "66194206",
+  "name": "Lightsworn Judgment",
+  "th": "วางการ์ดใบนี้ไว้บนเด็ค\nถ้าการ์ดใบนี้ถูกส่งจากเด็คไปยังสุสานโดยเอฟเฟกต์ของมอนสเตอร์ \"Lightsworn\": คุณสามารถเพิ่ม \"Judgment Dragon\" 1 ใบจากเด็คของคุณขึ้นมือ",
+  "status": "ai",
+  "en_sha256": "3fe5e2f519d1cae0cab9d9d3168feefbcd19ea650a2b85f4f6e05dffd59b7c0a",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

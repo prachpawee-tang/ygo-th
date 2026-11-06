@@ -1,0 +1,9 @@
+{
+  "id": "31242786",
+  "name": "Souleater",
+  "th": "สิ่งมีชีวิตที่น่าอัศจรรย์ลึกลับ.",
+  "status": "ai",
+  "en_sha256": "79c47813da8d32af41157f6510cf8bea6d8b88a10d7b241b25db58e3867bf1c2",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

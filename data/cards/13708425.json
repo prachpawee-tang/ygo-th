@@ -1,0 +1,9 @@
+{
+  "id": "13708425",
+  "name": "Flare Resonator",
+  "th": "มอนสเตอร์ Link ที่ใช้การ์ดใบนี้เป็น Material ในการ Synchro ได้รับ ATK 300.",
+  "status": "ai",
+  "en_sha256": "af03e854e9a0cb05675f227844bcb3b3d523f82ccd9eefb77f32a199371ccf4a",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

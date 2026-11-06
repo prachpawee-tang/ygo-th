@@ -1,0 +1,9 @@
+{
+  "id": "63018036",
+  "name": "Iron Core Immediate Disposal",
+  "th": "เลือกและส่ง \"Iron Core of Koa'ki Meiru\" 1 ใบจากเด็คของคุณไปยังสุสานของคุณ.",
+  "status": "ai",
+  "en_sha256": "8f15870e36733c8977e73bd141793ec90c087a999b65c86916ce1d2592a5b136",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

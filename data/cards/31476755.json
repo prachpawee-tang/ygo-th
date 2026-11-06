@@ -1,0 +1,9 @@
+{
+  "id": "31476755",
+  "name": "Dust Barrier",
+  "th": "มอนสเตอร์ Normal ที่หงายอยู่บนสนามนั้นไม่ได้รับผลจาก Spell Cards ของคู่ต่อสู้\nการ์ดใบนี้จะถูกทำลายในช่วง Standby Phase ที่สองของคุณหลังจากการเปิดใช้งาน",
+  "status": "ai",
+  "en_sha256": "d71c6c5b832180e1ea64209dbc77dafdbfa164635bd7e222348acc6dca3023ba",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

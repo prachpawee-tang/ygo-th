@@ -1,0 +1,9 @@
+{
+  "id": "69632396",
+  "name": "Goblin Out of the Frying Pan",
+  "th": "จ่าย Life Points 500.\nลบล้างการเปิดใช้งานการ์ดเวทมนตร์และส่งกลับไปยังมือของเจ้าของ",
+  "status": "ai",
+  "en_sha256": "e9a39ced372bc76b9bf5e990e2ab34a03fc99bf5f09b1a860a4ba62c6c1e343c",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

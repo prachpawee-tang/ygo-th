@@ -1,0 +1,10 @@
+{
+  "id": "10026986",
+  "name": "Worm King",
+  "th": "การ์ดใบนี้สามารถอัญเชิญแบบสังเวยในท่าโจมตีโดยการสังเวยมอนสเตอร์ \"Worm\" ที่เป็นชนิด Reptile 1 ตัว\nคุณสามารถสังเวยมอนสเตอร์ที่เป็นชนิด Reptile \"Worm\" 1 ตัวเพื่อเลือกการ์ด 1 ใบที่คู่ต่อสู้ควบคุม และทำลายมัน",
+  "status": "ai",
+  "en_sha256": "0ada0609565e21af66c2c3c98a3b4e8abb4442eef9ed8e0d1990279ee35ec205",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: \"face-up\" ×1 in English but \"หงาย\" ×0 in Thai — meaning may be wrong"
+}

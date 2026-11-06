@@ -1,0 +1,10 @@
+{
+  "id": "6320631",
+  "name": "Koa'ki Meiru Boulder",
+  "th": "เมื่อการ์ดใบนี้ถูกทำลายด้วยการต่อสู้และส่งลงสุสาน คุณสามารถเพิ่ม \"Iron Core of Koa'ki Meiru\" หรือมอนสเตอร์ \"Koa'ki Meiru\" ระดับ 4 หรือต่ำกว่า 1 ใบจากเด็คของคุณขึ้นมือ.",
+  "status": "ai",
+  "en_sha256": "90f8780a43d80f25c9ae9b579a2e46ed965b8c588419af236dc1ecb22fceaa43",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

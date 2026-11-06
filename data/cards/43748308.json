@@ -1,0 +1,9 @@
+{
+  "id": "43748308",
+  "name": "Brotherhood of the Fire Fist - Dragon",
+  "th": "1 ครั้งต่อเทิร์น, ถ้าคุณเปิดใช้การ์ด Spell/Trap \"Fire Formation\" (ยกเว้นในช่วง Damage Step): คุณสามารถเซ็ตการ์ดกับดัก \"Fire Formation\" 1 ใบจากเด็คของคุณได้โดยตรง\n1 ครั้งต่อเทิร์น: คุณสามารถส่งการ์ด Spell/Trap \"Fire Formation\" ที่หงายอยู่ 2 ใบที่คุณควบคุมลงสุสาน, จากนั้นเลือกเป้าหมายมอนสเตอร์ \"Fire Fist\" 1 ตัวในสุสานของคุณ, ยกเว้น \"Brotherhood of the Fire Fist - Dragon\"; อัญเชิญพิเศษมอนสเตอร์เป้าหมายนั้น",
+  "status": "ai",
+  "en_sha256": "6567f3baabfd588566732b70ad9c012c5b97cff861c84c2caed78650ee48e083",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

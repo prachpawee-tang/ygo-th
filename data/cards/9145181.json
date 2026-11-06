@@ -1,0 +1,9 @@
+{
+  "id": "9145181",
+  "name": "Ritual Sealing",
+  "th": "ทำลาย Ritual Monster ที่หงายอยู่ 1 ตัวบนสนาม.",
+  "status": "ai",
+  "en_sha256": "d00d9672ce6a1636ea2c7535d7a937a44838973bf8a94b94ac9584ca84fffa20",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

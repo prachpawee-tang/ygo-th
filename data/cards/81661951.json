@@ -1,0 +1,9 @@
+{
+  "id": "81661951",
+  "name": "Dragunity Militum",
+  "th": "1 ครั้งต่อเทิร์น คุณสามารถเลือกการ์ด \"Dragunity\" 1 ใบใน Spell & Trap Card Zone ของคุณ และ อัญเชิญพิเศษมัน.",
+  "status": "ai",
+  "en_sha256": "6f41c824fc648b42ed6cc6c790af28322b7492d47bb2f4905041c3b2cde8f044",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

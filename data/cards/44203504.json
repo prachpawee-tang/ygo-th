@@ -1,0 +1,9 @@
+{
+  "id": "44203504",
+  "name": "Robotic Knight",
+  "th": "ผู้บัญชาการแห่งมอนสเตอร์ Machine-Type, เขาปรนนิบัติ Machine King\nเขาเป็นที่เลื่องลือในวิธีการควบคุมกองทหารของเขา",
+  "status": "ai",
+  "en_sha256": "081509df2e0285ed9a873e468fabe1cd3bd2a7e6b11c2be41bf6cb909cf32e7a",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "82065276",
+  "name": "Oscillo Hero",
+  "th": "นักรบที่แปลกประหลาดจากอีกมิติหนึ่ง.",
+  "status": "ai",
+  "en_sha256": "bead6acc21acc48151fdd71ed54ed8c5072c8860aa3d0b9c78f52600ead225bc",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

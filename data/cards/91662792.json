@@ -1,0 +1,10 @@
+{
+  "id": "91662792",
+  "name": "Gusto Egul",
+  "th": "เมื่อการ์ดใบนี้ถูกทำลายด้วยการต่อสู้และส่งลงสุสาน: คุณสามารถอัญเชิญพิเศษมอนสเตอร์ \"Gusto\" ที่มี Level 4 หรือต่ำกว่า และเป็น non-Tuner จากเด็คของคุณได้.",
+  "status": "ai",
+  "en_sha256": "f5953970f52f29b32c2866a710e788fe69bfd76343596da81c301437cf48a5bd",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

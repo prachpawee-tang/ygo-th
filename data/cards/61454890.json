@@ -1,0 +1,9 @@
+{
+  "id": "61454890",
+  "name": "Necrolancer the Time-lord",
+  "th": "“The One-Eyed Necrolancer” เริ่มต้นการโจมตีจากวงแหวนมิติที่สามารถปรากฏขึ้นจากอากาศบางๆ.",
+  "status": "ai",
+  "en_sha256": "05cbc7babc4c42d01f51544ad728a967fdcc8ff65f4d75243645ef7b9337af62",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

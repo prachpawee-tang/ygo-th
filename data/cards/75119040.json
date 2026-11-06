@@ -1,0 +1,9 @@
+{
+  "id": "75119040",
+  "name": "Tindangle Acute Cerberus",
+  "th": "มอนสเตอร์ \"Tindangle\" 3 ตัว\nได้รับ ATK 3000 ถ้าคุณมีมอนสเตอร์ \"Tindangle\" 3 ตัวขึ้นไปที่มีชื่อต่างกันในสุสานของคุณ รวมถึง \"Tindangle Base Gardna\"\nได้รับ ATK 500 สำหรับแต่ละมอนสเตอร์ \"Tindangle\" ที่มันชี้\nเมื่อสิ้นสุด Battle Phase, ถ้าการ์ดใบนี้ประกาศโจมตี: คุณสามารถ อัญเชิญพิเศษ \"Tindangle Token\" (Fiend/DARK/Level 1/ATK 0/DEF 0) 1 ตัวได้",
+  "status": "ai",
+  "en_sha256": "f61c72f1f54e3a977cdaf2da62949aded6aaf3ebcad51ccf0ea00050a27d7d73",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

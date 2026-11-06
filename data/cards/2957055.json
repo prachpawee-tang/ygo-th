@@ -1,0 +1,9 @@
+{
+  "id": "2957055",
+  "name": "Wicked Dragon with the Ersatz Head",
+  "th": "\"มังกรสองหัวที่มีกรามสองข้างที่สามารถฉีกศัตรูให้เป็นชิ้นๆ ได้.\"",
+  "status": "ai",
+  "en_sha256": "71434c45b22867e9308afed8a4c272f767115191dafa3b56f9e914ccac8c098d",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

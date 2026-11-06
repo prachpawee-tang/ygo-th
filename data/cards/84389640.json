@@ -1,0 +1,9 @@
+{
+  "id": "84389640",
+  "name": "Attack of the Cornered Rat",
+  "th": "ถ้ามอนสเตอร์ Normal ที่มี Level 3 หรือต่ำกว่าที่คุณควบคุมทำการต่อสู้, ในระหว่าง Damage Step คุณสามารถจ่าย Life Points เป็นจำนวนคูณ 100 ได้\nATK ของมอนสเตอร์ของคู่ต่อสู้จะลดลงตามจำนวน Life Points ที่คุณจ่าย, จนถึง End Phase\n(คุณไม่สามารถจ่าย Life Points มากกว่า ATK ของมอนสเตอร์ของคู่ต่อสู้ได้)",
+  "status": "ai",
+  "en_sha256": "75d0539758a89d572622a24afc820a56b3bdc9c4d2c3a6c5a17e6de72620d018",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

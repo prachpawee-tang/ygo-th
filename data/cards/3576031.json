@@ -1,0 +1,9 @@
+{
+  "id": "3576031",
+  "name": "Crystolic Potential",
+  "th": "มอนสเตอร์ \"Crystron\" ทั้งหมดที่คุณควบคุมได้รับ ATK และ DEF 300\n1 ครั้งต่อเทิร์น, ในช่วง End Phase: คุณสามารถจั่วการ์ดจำนวนเท่ากับจำนวนมอนสเตอร์ Synchro \"Crystron\" ที่คุณทำการ Synchro Summon ในเทิร์นนี้",
+  "status": "ai",
+  "en_sha256": "2bb2da0c009766194499f3022b31fdfaae6b8bf924764119a258480a12ec77c3",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

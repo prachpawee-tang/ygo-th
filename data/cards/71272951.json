@@ -1,0 +1,9 @@
+{
+  "id": "71272951",
+  "name": "Overworked",
+  "th": "ทำลายมอนสเตอร์แต่ละตัวที่ ATK สูงกว่า ATK เดิมของมัน.",
+  "status": "ai",
+  "en_sha256": "0d3d8c4b5c452cfeb1f738306e6ce4fa4ecdc2c162da6858c23626326c0dc6d8",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

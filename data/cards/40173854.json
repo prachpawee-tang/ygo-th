@@ -1,0 +1,9 @@
+{
+  "id": "40173854",
+  "name": "Amphibious Bugroth",
+  "th": "\"Ground Attacker Bugroth\" + \"Defender of the Sea\"",
+  "status": "ai",
+  "en_sha256": "63493dfdf9c949494fce1ddcd316375eeb802f6aef2edd54eaa47693ab27fc2a",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

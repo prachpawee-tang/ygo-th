@@ -1,0 +1,9 @@
+{
+  "id": "19763315",
+  "name": "An Unfortunate Report",
+  "th": "คู่ต่อสู้ของคุณทำการ Battle Phase ในครั้งต่อไป 2 ครั้ง.",
+  "status": "ai",
+  "en_sha256": "87b0f69dc3c2e194aa23208065a06d020bb4d1b6d93c6cf872e924dc4c49df8b",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

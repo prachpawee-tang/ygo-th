@@ -1,0 +1,9 @@
+{
+  "id": "79161790",
+  "name": "Inverse Universe",
+  "th": "สลับค่า ATK และ DEF ของมอนสเตอร์เอฟเฟกต์ทั้งหมดที่หงายอยู่บนสนาม.",
+  "status": "ai",
+  "en_sha256": "d6c5db573c1503df5646f9adc1af8936acaab65868a6f11a75b9f84111ca22a5",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

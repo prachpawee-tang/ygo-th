@@ -1,0 +1,10 @@
+{
+  "id": "54359696",
+  "name": "Stoic of Prophecy",
+  "th": "เมื่อการ์ดใบนี้ถูกส่งลงสุสาน: เพิ่มมอนสเตอร์ \"Prophecy\" ระดับ 3 จากเด็คของคุณขึ้นมือ.",
+  "status": "ai",
+  "en_sha256": "0b0123a7357e745d277c2f5a5d1cec99f7f706498bed5e758197288adcd25253",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

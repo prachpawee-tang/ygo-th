@@ -1,0 +1,9 @@
+{
+  "id": "67310848",
+  "name": "Dwarf Star Dragon Planeter",
+  "th": "1 ครั้งต่อเทิร์น, ในช่วง End Phase, ถ้าการ์ดใบนี้ถูกอัญเชิญปกติในเทิร์นนี้: คุณสามารถเพิ่มมอนสเตอร์ Level 7 แอตทริบิวต์ LIGHT หรือ DARK 1 ตัวจากเด็คของคุณขึ้นมือ.",
+  "status": "ai",
+  "en_sha256": "15349c0a23bac9d50499c5b352f9ad7b973aaef701b91e46e600c0aace1b0ca9",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

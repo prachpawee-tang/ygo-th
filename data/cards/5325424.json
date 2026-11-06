@@ -1,0 +1,9 @@
+{
+  "id": "5325424",
+  "name": "Dragoncarnation",
+  "th": "เลือกมอนสเตอร์ Dragon-Type ที่ถูกเอาออกจากเกมของคุณ 1 ตัว; เพิ่มมันขึ้นมือ.",
+  "status": "ai",
+  "en_sha256": "ec8bbbcefeb59523aa3f98d2ff1aaf5d4c94be6986dcbaae30ad29b591d65e0e",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "32995007",
+  "name": "Celestial Wolf Lord, Blue Sirius",
+  "th": "1 Tuner + มอนสเตอร์ non-Tuner 1 ตัวขึ้นไป\nเมื่อการ์ดใบนี้ในสนามถูกทำลายและส่งลงสุสาน: เลือกเป้าหมายมอนสเตอร์หงาย 1 ตัวที่คู่ต่อสู้ควบคุม; มันเสีย ATK 2400",
+  "status": "ai",
+  "en_sha256": "1bfa736d3ce7185c17de787a96efc0e4c77aad38f2c8aea56f93a5bba14b6223",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

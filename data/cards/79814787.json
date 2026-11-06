@@ -1,9 +1,9 @@
 {
   "id": "79814787",
   "name": "The White Stone of Legend",
-  "th": "ถ้าการ์ดใบนี้ถูกส่งลงสุสาน: จั่ว \"Blue-Eyes White Dragon\" 1 ใบจากเด็คของคุณขึ้นมือ",
+  "th": "ถ้าการ์ดใบนี้ถูกส่งลงสุสาน: เพิ่ม \"Blue-Eyes White Dragon\" 1 ใบจากเด็คของคุณขึ้นมือ.",
   "status": "ai",
   "en_sha256": "8f2b5e54e07924f88b0c630f16733dbcaf822be68c96cb2791f88259b9ae52b6",
   "model": "gemma3:12b",
-  "updated": "2026-11-04"
+  "updated": "2026-11-06"
 }

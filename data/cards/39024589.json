@@ -1,0 +1,10 @@
+{
+  "id": "39024589",
+  "name": "Abyss Actor - Trendy Understudy",
+  "th": "[ Pendulum Effect ]\nเมื่อคุณทำการ Pendulum Summon มอนสเตอร์: คุณสามารถเพิ่มการ์ด \"Abyss Actor\" Pendulum Monster ที่หงายอยู่ Level 1 หรือ 8 จาก เอ็กซ์ตร้าเด็คของคุณขึ้นมือได้\n[ Monster Effect ]\nถ้าคุณมี \"Abyss Actor\" 2 ใบใน Pendulum Zones ของคุณ: คุณสามารถ สังเวย การ์ดใบนี้; อัญเชิญพิเศษ มอนสเตอร์ \"Abyss Actor\" Pendulum Monster Level 1 หรือ 8 จาก มือของคุณ หรือ จาก เอ็กซ์ตร้าเด็คที่หงายอยู่\nคุณสามารถใช้เอฟเฟกต์ของ \"Abyss Actor - Trendy Understudy\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "649a66964d9a001b99449f776b8c7c27b5c4d48dbe523a19c9aa85bdec7f6103",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "51254277",
+  "name": "Big Jaws",
+  "th": "เมื่อสิ้นสุด Battle Phase, ถ้าการ์ดใบนี้ทำการโจมตี: เอาการ์ดใบนี้ออกจากเกม.",
+  "status": "ai",
+  "en_sha256": "ee6fbbb711e74975ade2c476a84b2c9d2af01aa5e0dbe3f9876457320cb9e60d",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

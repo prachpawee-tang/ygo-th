@@ -1,0 +1,9 @@
+{
+  "id": "70668285",
+  "name": "Star Seraph Sword",
+  "th": "1 ครั้งต่อเทิร์น: คุณสามารถส่งมอนสเตอร์ \"Star Seraph\" 1 ตัวจากมือของคุณลงสุสาน; การ์ดใบนี้ได้รับ ATK เท่ากับ ATK เดิมของมอนสเตอร์ที่ถูกส่ง, จนถึง End Phase.",
+  "status": "ai",
+  "en_sha256": "0cd8b6e9e3f4d0ebf5a527e52fe9d6b648206b06c5676f271748df8ad7ec6fca",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

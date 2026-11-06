@@ -1,0 +1,9 @@
+{
+  "id": "34100324",
+  "name": "Harpie Girl",
+  "th": "\"Harpie chick\" เป็นมอนสเตอร์ Harpie ที่ปรารถนาจะบินไปมาอย่างสวยงามและสง่างาม แต่ก็โจมตีอย่างรวดเร็ว.",
+  "status": "ai",
+  "en_sha256": "3b00b1691fcd92858bd8d3fd45d5c04449526a05e5163acfdc7a5486565fbcff",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

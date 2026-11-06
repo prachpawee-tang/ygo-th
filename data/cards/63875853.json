@@ -1,0 +1,9 @@
+{
+  "id": "63875853",
+  "name": "Trading Places",
+  "th": "ถ้า LP ของคุณสูงกว่า LP ของคู่ต่อสู้ ให้สลับ LP กับคู่ต่อสู้.",
+  "status": "ai",
+  "en_sha256": "9f7f4525e3ba097e1fc1907106bab03ccf2df3944491cc17a4b64b3ab29119f4",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

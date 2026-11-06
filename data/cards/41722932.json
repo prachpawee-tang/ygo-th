@@ -1,0 +1,10 @@
+{
+  "id": "41722932",
+  "name": "Dark Mambele",
+  "th": "ถ้าคุณควบคุมมอนสเตอร์ DARK 3 ตัวขึ้นไป: เลือกเป้าหมายการ์ดที่หงายอยู่บนสนาม; เอามันออกจากเกม.",
+  "status": "ai",
+  "en_sha256": "d0d1196f9044178d0a6764e3152ac8e044669e28502089b28e68ccb6af3e9afa",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

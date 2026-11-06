@@ -1,0 +1,9 @@
+{
+  "id": "734741",
+  "name": "Rubic, Malebranche of the Burning Abyss",
+  "th": "ถ้าคุณไม่ได้ควบคุมมอนสเตอร์ที่ไม่ได้เป็นมอนสเตอร์ \"Burning Abyss\": ทำลายการ์ดใบนี้\nไม่สามารถใช้เป็น Material สำหรับการ Synchro Summon ได้ ยกเว้นสำหรับการ Synchro Summon ของมอนสเตอร์ Link \"Burning Abyss\"\nถ้าคุณไม่ได้ควบคุมการ์ด Spell/Trap: คุณสามารถ อัญเชิญพิเศษ การ์ดใบนี้จากมือของคุณได้\nคุณสามารถใช้เอฟเฟกต์ของ \"Rubic, Malebranche of the Burning Abyss\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "a3821272e627d385036f31ed5bb23d883ac08789be4783ecec20d8d809fa150a",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

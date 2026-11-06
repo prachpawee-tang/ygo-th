@@ -1,0 +1,9 @@
+{
+  "id": "18752938",
+  "name": "Seed of Deception",
+  "th": "อัญเชิญพิเศษมอนสเตอร์ Plant-Type ที่มี Level 2 หรือต่ำกว่า 1 ตัวจากมือของคุณ.",
+  "status": "ai",
+  "en_sha256": "e225b8342c30e450442db83c7623902e781b08450d9f2794900fc5c717fc061e",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

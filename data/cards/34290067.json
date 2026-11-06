@@ -1,0 +1,9 @@
+{
+  "id": "34290067",
+  "name": "Corroding Shark",
+  "th": "ปลาฉลามซอมบี้ที่สามารถส่งคำสาปมรณะของมันผ่านเวทมนตร์ได้.",
+  "status": "ai",
+  "en_sha256": "dc5a1cf0c433ac440333c8e597ec6ab1e5e00460815a32bc4df3f1ddb75c14f9",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

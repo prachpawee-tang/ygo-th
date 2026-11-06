@@ -1,0 +1,9 @@
+{
+  "id": "47658964",
+  "name": "Searing Fire Wall",
+  "th": "เอามอนสเตอร์ \"Laval\" จำนวนใดก็ได้จากสุสานของคุณออกจากเกม; อัญเชิญพิเศษจำนวนเท่ากันของ \"Laval Tokens\" (ประเภท Pyro/FIRE/Level 1/ATK 0/DEF 0) ในท่าป้องกัน.",
+  "status": "ai",
+  "en_sha256": "1b1cadac0c5a742feb7c0dfc3e4a4f9e8151ea328ce3813bcbdb6c83aabfdabe",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

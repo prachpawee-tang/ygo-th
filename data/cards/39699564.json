@@ -1,0 +1,9 @@
+{
+  "id": "39699564",
+  "name": "Brotherhood of the Fire Fist - Leopard",
+  "th": "ในช่วง Main Phase ของคุณ, ถ้าการ์ดใบนี้ถูกอัญเชิญปกติหรืออัญเชิญพิเศษในเทิร์นนี้: คุณสามารถสังเวยมอนสเตอร์ \"Fire Fist\" 1 ตัว; เซ็ตการ์ด Spell/Trap \"Fire Formation\" 1 ใบจากเด็คของคุณโดยตรง\nคุณสามารถใช้เอฟเฟกต์ของ \"Brotherhood of the Fire Fist - Leopard\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "eed9f5258779e936b36003e92a00ff7f7be0eeb36c1e49830309e91a5c45cb07",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

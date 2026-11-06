@@ -1,0 +1,9 @@
+{
+  "id": "71411377",
+  "name": "Queen's Bodyguard",
+  "th": "มอนสเตอร์ \"Allure Queen\" ที่สนามของคุณไม่สามารถถูกเลือกเป็นเป้าหมายการโจมตีได้.",
+  "status": "ai",
+  "en_sha256": "0673b1f7fea6a15d3495c72f4b5e1ced4a871c9827f4493d76e5cd2e4e35c7d1",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

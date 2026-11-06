@@ -1,0 +1,9 @@
+{
+  "id": "84133008",
+  "name": "Monster Eye",
+  "th": "คุณสามารถจ่าย LP 1000; เพิ่ม \"Polymerization\" 1 ใบจากสุสานของคุณขึ้นมือ.",
+  "status": "ai",
+  "en_sha256": "f13da9f4c5636051a496f213adeaa03b06883dd6749ad70fe4e84aea6c8cb646",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

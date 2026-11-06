@@ -1,0 +1,9 @@
+{
+  "id": "23168060",
+  "name": "Key Man the Key Warrior",
+  "th": "1 ครั้งต่อเทิร์น, ในช่วง Main Phase ของคุณ: คุณสามารถเปลี่ยนเลเวลของการ์ดใบนี้เป็น 3 จนถึง End Phase.",
+  "status": "ai",
+  "en_sha256": "a29dc11f10dc160482891327eeb13628aea7af6440c865504979b1510013b130",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

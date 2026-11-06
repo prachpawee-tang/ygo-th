@@ -1,0 +1,10 @@
+{
+  "id": "83203672",
+  "name": "Springans Branga",
+  "th": "ถ้าการ์ดใบนี้อยู่ในมือ, สนาม, หรือสุสานของคุณ: คุณสามารถเลือกเป้าหมายมอนสเตอร์ Xyz \"Springans\" ที่คุณควบคุม; ติดการ์ดใบนี้เป็น Material ให้กับมัน\nคุณสามารถเอาการ์ดใบนี้และมอนสเตอร์ \"Springans\" อีก 1 ตัวที่มีชื่อต่างกันออกจากสุสานของคุณ; เพิ่มการ์ด \"Springans\" 1 ใบจากเด็คของคุณขึ้นมือ\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Springans Branga\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "42e83fc842704875ffdbf596effe30668b87e16bcf15d0af57fda879bf6fecd0",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: \"banish\" ×1 in English but \"ออกจากเกม\" ×0 in Thai — meaning may be wrong"
+}

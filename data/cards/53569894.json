@@ -1,0 +1,10 @@
+{
+  "id": "53569894",
+  "name": "Pyramid of Light",
+  "th": "ถ้าการ์ดที่คว่ำนี้ถูกนำออกจากสนามของคุณ, ทำลาย \"Andro Sphinx\" และ \"Sphinx Teleia\" ที่อยู่บนสนามของคุณ และนำพวกมันออกจากเกม.",
+  "status": "ai",
+  "en_sha256": "1a01740919da7805293d026b7fa7ffc5ed476750e9f77847b7be145f22ff96a6",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: \"face-up\" ×1 in English but \"หงาย\" ×0 in Thai — meaning may be wrong"
+}

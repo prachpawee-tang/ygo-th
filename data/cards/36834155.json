@@ -1,0 +1,10 @@
+{
+  "id": "36834155",
+  "name": "Photon Pirate",
+  "th": "คุณสามารถเอา \"Photon\" มอนสเตอร์ 1 ตัวออกจากสุสานของคุณ; การ์ดใบนี้ได้รับ ATK 1000 จนถึง End Phase\nคุณสามารถใช้เอฟเฟกต์ของ \"Photon Pirate\" ได้สูงสุด 2 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "6c41f7c8ef480dd667293d13552f1a97041afd1433547e3f3aea870c416471c0",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: \"banish\" ×1 in English but \"ออกจากเกม\" ×0 in Thai — meaning may be wrong"
+}

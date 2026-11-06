@@ -1,0 +1,9 @@
+{
+  "id": "9540040",
+  "name": "Boulder Tortoise",
+  "th": "\"เต่าหินที่แทบจะทำลายไม่ได้.\"",
+  "status": "ai",
+  "en_sha256": "d14b81e448832552d902d4ec409ef7a16029a4950000e0853d6618c4f7babb91",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "79324191",
+  "name": "Ninjitsu Art Notebook",
+  "th": "1 ครั้งต่อเทิร์น: คุณสามารถส่งมอนสเตอร์ \"Ninja\" 1 ตัวจากมือของคุณลงสุสาน; เซ็ตการ์ด Spell/Trap \"Ninjitsu Art\" 1 ใบจากเด็คของคุณโดยตรง ยกเว้น \"Ninjitsu Art Notebook\".",
+  "status": "ai",
+  "en_sha256": "5a0fddab3f7528d549f443bde08757d17a8c52d99af587191a52d07b6d58dbf1",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "60912752",
+  "name": "D.D. Borderline",
+  "th": "เมื่อไม่มีการ์ดเวทมนตร์ในสุสานของคุณ ผู้เล่นทั้งสองไม่สามารถทำ Battle Phase ได้.",
+  "status": "ai",
+  "en_sha256": "9780fb76b2d4131f6c63f487ceafece40efcd08f8aaf41de82021e91f8a55871",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

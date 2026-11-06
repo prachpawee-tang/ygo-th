@@ -1,9 +1,9 @@
 {
   "id": "5318639",
   "name": "Mystical Space Typhoon",
-  "th": "เลือกเป้าหมาย Spell/Trap 1 ใบในสนาม; ทำลายเป้าหมายนั้น",
+  "th": "เลือกเป้าหมาย Spell/Trap 1 ใบในสนาม; ทำลายเป้าหมายนั้น.",
   "status": "ai",
   "en_sha256": "a4a0864cd0093cd0e3e0be993f1f84a2225ee4900901d534ab6208e17ac7e443",
   "model": "gemma3:12b",
-  "updated": "2026-11-04"
+  "updated": "2026-11-06"
 }

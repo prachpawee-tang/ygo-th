@@ -1,0 +1,10 @@
+{
+  "id": "62368221",
+  "name": "Ars Magna the Corruption and the Purification",
+  "th": "คุณสามารถเอาการ์ดใบนี้ออกจากมือของคุณ; เพิ่มการ์ด Spell/Trap \"Ars Magna\" 1 ใบจากเด็คของคุณขึ้นมือ, นอกจากนี้จนกว่าจะถึงจุดจบของเทิร์นถัดไป, สามครั้งแรกที่มอนสเตอร์ Link \"Power Patron\" ที่คุณควบคุมจะถูกทำลายจากการต่อสู้, มันจะไม่ถูกทำลาย\nถ้ามีการอัญเชิญพิเศษมอนสเตอร์ Xyz หรือ Link (หรือหลายตัว) ในขณะที่การ์ดใบนี้ถูกเอาออกจากเกม (ยกเว้นระหว่าง Damage Step): คุณสามารถอัญเชิญพิเศษการ์ดใบนี้\nคุณสามารถเลือกเป้าหมาย Spell/Trap ที่อยู่ในสนาม, จำนวนเท่ากับมอนสเตอร์ Link \"Power Patron\" ที่คุณควบคุม; เอาพวกมันออกจากเกม\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Ars Magna the Corruption and the Purification\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "ae1f885a96e62bca35ac93d6b3c5ed473b5d4c590f85171ff9db3847f511644c",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: \"banish\" ×3 in English but \"ออกจากเกม\" ×2 in Thai — meaning may be wrong"
+}

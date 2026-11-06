@@ -1,0 +1,10 @@
+{
+  "id": "15555120",
+  "name": "Hi-Speed Re-Level",
+  "th": "เอามอนสเตอร์ \"Speedroid\" 1 ตัวออกจากสุสานของคุณ, จากนั้นเลือกเป้าหมายมอนสเตอร์ Synchro ที่คุณควบคุม; จนจบเทิร์นนี้, เปลี่ยน Level ของมันเป็น Level ของมอนสเตอร์ที่ถูกเอาออกจากเกม, และมันได้รับ ATK เท่ากับ Level ของมอนสเตอร์นั้นคูณ 500.",
+  "status": "ai",
+  "en_sha256": "75b13ef610f70a5b5afd030acea8bca3ff49517995f3b0b17bd692284601d672",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: numbers missing in Thai: 1; \"banish\" ×2 in English but \"ออกจากเกม\" ×1 in Thai — meaning may be wrong"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "2370081",
+  "name": "Steel Shell",
+  "th": "มอนสเตอร์ WATER ที่ติดตั้งการ์ดใบนี้ เพิ่ม ATK 400 และลด DEF 200.",
+  "status": "ai",
+  "en_sha256": "a93d80ad327eb2aff3f1fadf9c3c0d473564aeeeac812f1985c8ab6920a9a77b",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "82035781",
+  "name": "Twinheaded Beast",
+  "th": "การ์ดใบนี้สามารถโจมตีได้ 2 ครั้งในช่วง Battle Phase เดียวกัน.",
+  "status": "ai",
+  "en_sha256": "25007f5711a26ba56b5ac89119be58a3cbb69bdfd695eaaa774195017d7ea594",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "17238333",
+  "name": "Wretched Ghost of the Attic",
+  "th": "มอนสเตอร์ที่ไร้พิษภัยที่มักพบซ่อนตัวอยู่ในห้องใต้หลังคาแทบทุกแห่ง.",
+  "status": "ai",
+  "en_sha256": "978c8e8c9c90862d8a6941d5cb1fa5daf54d8856c8b0246d1c3fd72ff525418b",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

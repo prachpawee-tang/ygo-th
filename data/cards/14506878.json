@@ -1,0 +1,9 @@
+{
+  "id": "14506878",
+  "name": "DUCKER Mobile Cannon",
+  "th": "พลิก: เลือกเป้าหมายมอนสเตอร์ Level 4 1 ตัวในสุสานของคุณ; เพิ่มมันขึ้นมือ.",
+  "status": "ai",
+  "en_sha256": "6f6797eae39fa2a03ad2fe08adf32977e96f085051fb9dddada5b05995d896ff",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

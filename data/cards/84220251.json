@@ -1,0 +1,9 @@
+{
+  "id": "84220251",
+  "name": "Heraldry Reborn",
+  "th": "เลือกเป้าหมายมอนสเตอร์ \"Heraldic Beast\" 1 ตัวในสุสานของคุณ; อัญเชิญพิเศษมัน.",
+  "status": "ai",
+  "en_sha256": "bb5902cfa4647c55d67eeaf52c150ca643db20d075719f3a44520bba51a1768f",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

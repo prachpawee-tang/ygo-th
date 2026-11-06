@@ -1,0 +1,9 @@
+{
+  "id": "41859700",
+  "name": "Burning Algae",
+  "th": "เมื่อการ์ดใบนี้ถูกส่งลงสุสาน เพิ่ม Life Points ของคู่ต่อสู้ 1000 points.",
+  "status": "ai",
+  "en_sha256": "2062bea11c9b915b5c069f20859dea14459c296f2a3375a16e181d827d46cdaf",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

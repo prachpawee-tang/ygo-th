@@ -1,0 +1,9 @@
+{
+  "id": "20210570",
+  "name": "Regulus",
+  "th": "1 ครั้งต่อเทิร์น คุณสามารถเลือกการ์ด Field Spell 1 ใบในสุสานของคุณ\nนำกลับเข้าเด็ค",
+  "status": "ai",
+  "en_sha256": "b74b47b14b006d83fe3160bdbdffdc1669b7ffe45d45899c1d2b6d0a90ef9789",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

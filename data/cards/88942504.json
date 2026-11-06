@@ -1,0 +1,9 @@
+{
+  "id": "88942504",
+  "name": "Melomelody the Brass Djinn",
+  "th": "มอนสเตอร์ Level 3 จำนวน 2 ตัว\n1 ครั้งต่อเทิร์น: คุณสามารถถอด Material Xyz 1 ตัวจากการ์ดใบนี้, จากนั้นเลือกเป้าหมายมอนสเตอร์ Xyz \"Djinn\" ที่คุณควบคุม; มันสามารถทำการโจมตีครั้งที่สองในช่วง Battle Phase ในเทิร์นนี้",
+  "status": "ai",
+  "en_sha256": "d1303d46778ac739b3e6bfb2b24da00dc083ec36e18790ebcad3331a7fe9add7",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

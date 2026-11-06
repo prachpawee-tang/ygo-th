@@ -1,0 +1,9 @@
+{
+  "id": "43596329",
+  "name": "Purifire of the Winter Raven's Forest",
+  "th": "ถ้าคุณควบคุมการ์ด \"Winter Raven\" คุณสามารถอัญเชิญพิเศษการ์ดใบนี้ (จากมือของคุณ)\nคุณสามารถอัญเชิญพิเศษ \"Purifire of the Winter Raven's Forest\" ได้เพียงครั้งเดียวต่อเทิร์นด้วยวิธีนี้\nคุณสามารถใช้แต่ละเอฟเฟกต์ต่อไปนี้ของ \"Purifire of the Winter Raven's Forest\" ได้ 1 ครั้งต่อเทิร์น\nถ้าการ์ดใบนี้ถูกอัญเชิญปกติหรืออัญเชิญพิเศษ: คุณสามารถเพิ่มการ์ด Spell/Trap \"Winter Raven\" 1 ใบ หรือการ์ด \"Sinful Spoils\" 1 ใบ จากเด็คของคุณขึ้นมือ\nคุณสามารถเลือกเป้าหมายมอนสเตอร์ \"Winter Raven\" การ์ด 1 ใบ หรือมอนสเตอร์ Level 7 หรือ 8 ใน Spell & Trap Zone; อัญเชิญพิเศษมันลงสนามของคุณ",
+  "status": "ai",
+  "en_sha256": "3c2351bf573fe159a9197f90ff2f0f4751ad112914181262aa586ba5a55fcaa4",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "19280589",
+  "name": "Tellus the Little Angel",
+  "th": "ถ้าการ์ดใบนี้ถูกส่งจาก Main Monster Zone หรือ Extra Monster Zone ไปยังสุสาน: คุณสามารถอัญเชิญพิเศษ “Tellus Wing Token” (Fairy/LIGHT/Level 1/ATK 0/DEF 0) ได้\nตราบใดที่คุณควบคุม “Tellus Wing Token”: คุณสามารถเอาการ์ดใบนี้ออกจากเกมจากสุสานของคุณและทิ้งการ์ดเวทมนตร์ 1 ใบจากมือของคุณ; อัญเชิญพิเศษ “Tellus Wing Tokens” 2 ใบ, นอกจากนี้คุณไม่สามารถอัญเชิญพิเศษได้สำหรับการเทิร์นที่เหลือนี้ ยกเว้นจากมือของคุณ\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ “Tellus the Little Angel” ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "cdd65712d0f798f2d098bb5031b6a1ccdf9972586013adc0bb3237c1d96d4aa6",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

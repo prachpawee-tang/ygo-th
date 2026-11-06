@@ -1,0 +1,9 @@
+{
+  "id": "33784505",
+  "name": "Jar Robber",
+  "th": "คุณสามารถเปิดใช้การ์ดนี้ได้เมื่อ \"Pot of Greed\" ถูกเปิดใช้งาน\nลบล้างเอฟเฟกต์ของ \"Pot of Greed\" และจั่วการ์ด 1 ใบจากเด็คของคุณ",
+  "status": "ai",
+  "en_sha256": "c8a87fd29a5f0a43cdfcd7210b58e3c3fa4168c42cea4063392306bade5a5ff9",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

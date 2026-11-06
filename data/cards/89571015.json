@@ -1,0 +1,9 @@
+{
+  "id": "89571015",
+  "name": "Storm Cipher",
+  "th": "ไม่สามารถโจมตีโดยตรง หรือโจมตีมอนสเตอร์ใน Extra Monster Zone ได้\nไม่ได้รับผลจากเอฟเฟกต์มอนสเตอร์ที่เปิดใช้งานใน Extra Monster Zone\nไม่สามารถถูกทำลายจากการต่อสู้กับมอนสเตอร์ใน Extra Monster Zone ได้",
+  "status": "ai",
+  "en_sha256": "24034a079e1d2f22d385b010953d4c6e404af8b77ff2f6ea729262d5250007fd",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "19980975",
+  "name": "Diamond-Dust Cyclone",
+  "th": "เลือกมอนสเตอร์ 1 ตัวที่มี Fog Counters อย่างน้อย 4 ตัว\nทำลายมัน จากนั้นจั่วการ์ด 1 ใบสำหรับทุกๆ 4 Fog Counters ที่อยู่บนมัน",
+  "status": "ai",
+  "en_sha256": "afbc5e2b8639f4c223c8b1c3050b08cc4b3809858375d88d5951a806cfa519fa",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

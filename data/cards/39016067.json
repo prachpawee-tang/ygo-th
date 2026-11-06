@@ -1,0 +1,9 @@
+{
+  "id": "39016067",
+  "name": "Wind Unicorn Parallel, the Dracoslayer",
+  "th": "[ Pendulum Effect ]\nถ้าคุณมีการ์ดใน Pendulum Zone อื่น: คุณสามารถเปิดใช้เอฟเฟกต์เหล่านี้ 1 เอฟเฟกต์;\n● อัญเชิญพิเศษการ์ดใบนี้\n● ทำลายการ์ดใบนี้, และถ้าทำได้, อัญเชิญพิเศษมอนสเตอร์ Pendulum การ์ด Level 5 หรือต่ำกว่า 1 ใบจาก Pendulum Zone ของคุณ\nคุณสามารถใช้เอฟเฟกต์นี้ของ \"Wind Unicorn Parallel, the Dracoslayer\" ได้ 1 ครั้งต่อเทิร์น\n[ Monster Effect ]\nตราบใดที่การ์ดที่ถูก Pendulum Summoned นี้อยู่ใน Main Monster Zone หรือ Extra Monster Zone ของคุณ, คู่ต่อสู้ของคุณไม่สามารถเลือกเป้าหมายมันด้วยเอฟเฟกต์ของการ์ดได้, และมันไม่สามารถถูกทำลายด้วยเอฟเฟกต์ของการ์ดของคู่ต่อสู้ของคุณได้\n(Quick Effect): คุณสามารถเลือกเป้าหมายมอนสเตอร์ Pendulum การ์ด 1 ใบที่คุณควบคุม และการ์ด 1 ใบที่คู่ต่อสู้ของคุณควบคุม; ส่งพวกมันกลับขึ้นมือ\nคุณสามารถใช้เอฟเฟกต์นี้ของ \"Wind Unicorn Parallel, the Dracoslayer\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "b0cb35f749c6609838473878a65a47f9332fefbdf8eb6d3cd09a57f557ae2520",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

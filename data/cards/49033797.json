@@ -1,0 +1,9 @@
+{
+  "id": "49033797",
+  "name": "Forbidden Trapezohedron",
+  "th": "ถ้าคุณควบคุมการ์ดมอนสเตอร์ประเภทเดียวกับ 2 ประเภท (ในบรรดา Fusion, Synchro และ/หรือ Xyz): ใช้เอฟเฟกต์ต่อไปนี้ตามประเภทเหล่านั้น\n● Fusion และ Synchro: อัญเชิญพิเศษมอนสเตอร์ Xyz \"Outer Entity\" 1 ตัวจากเอ็กซ์ตร้าเด็คของคุณ และถ้าทำได้ ให้ติดการ์ดใบนี้กับมันเป็น Material\n● Synchro และ Xyz: อัญเชิญพิเศษมอนสเตอร์ Fusion \"Elder Entity\" 1 ตัวจากเอ็กซ์ตร้าเด็คของคุณ\n● Xyz และ Fusion: อัญเชิญพิเศษมอนสเตอร์ Synchro \"Old Entity\" 1 ตัวจากเอ็กซ์ตร้าเด็คของคุณ\nคุณสามารถเปิดใช้ \"Forbidden Trapezohedron\" ได้เพียง 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "c9e6fb0fed949813426f8f4d547693ad1e6fa9aef4b4c69d1a3aa1656b14a27f",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

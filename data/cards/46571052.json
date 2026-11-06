@@ -1,0 +1,9 @@
+{
+  "id": "46571052",
+  "name": "Vampiric Orchis",
+  "th": "เมื่อการ์ดใบนี้ถูกอัญเชิญปกติ: คุณสามารถอัญเชิญพิเศษ \"Des Dendle\" 1 ตัวจากมือของคุณได้.",
+  "status": "ai",
+  "en_sha256": "673d82fbd7ee6eb0cd38c0fa67ebf310652eef4ea4a1481d1fcf4a75c5b32bd3",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

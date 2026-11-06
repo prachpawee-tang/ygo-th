@@ -1,0 +1,9 @@
+{
+  "id": "69112325",
+  "name": "Spiritual Forest",
+  "th": "ทุกเทิร์น, มอนสเตอร์ประเภท Beast, Beast-Warrior หรือ Plant-Type ใบแรกที่คุณควบคุมที่หงายอยู่ซึ่งจะถูกทำลายจากการต่อสู้, จะไม่ถูกทำลาย.",
+  "status": "ai",
+  "en_sha256": "f64ea688ed44953b7da2a98ca363c1ed519df421c29e92a61bcdd0923d1d035d",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

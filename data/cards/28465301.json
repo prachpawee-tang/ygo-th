@@ -1,0 +1,9 @@
+{
+  "id": "28465301",
+  "name": "Worm Opera",
+  "th": "พลิก: มอนสเตอร์หงายอยู่บนสนามทั้งหมดสูญเสีย ATK 500, ยกเว้นมอนสเตอร์ Type Reptile \"Worm\".",
+  "status": "ai",
+  "en_sha256": "d95d471193b7446b151d91ac5df8b3ee81ce6ec61361ca88c78a2cd4a07a58f5",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

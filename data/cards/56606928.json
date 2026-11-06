@@ -1,0 +1,9 @@
+{
+  "id": "56606928",
+  "name": "Eternal Drought",
+  "th": "ทำลายมอนสเตอร์ Fish-Type ที่หงายอยู่ทั้งหมดบนสนาม.",
+  "status": "ai",
+  "en_sha256": "02e57bf1cb72dac905c1413a82be81ffcd376665713ecb1d8a904ad6c78ac5e1",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

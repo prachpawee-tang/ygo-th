@@ -1,0 +1,9 @@
+{
+  "id": "90908427",
+  "name": "Steel Ogre Grotto #2",
+  "th": "หุ่นยนต์เหล็กตัวน้อยที่มีพละกำลังมหาศาล.",
+  "status": "ai",
+  "en_sha256": "87b7ab9e44eb0a25689ab67a85a2cc4b8c098f2ba251eb629c6e832d4411b47b",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

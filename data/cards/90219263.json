@@ -1,9 +1,9 @@
 {
   "id": "90219263",
   "name": "Elegant Egotist",
-  "th": "ถ้า \"Harpie Lady\" อยู่บนสนาม: อัญเชิญพิเศษ มอนสเตอร์ \"Harpie Lady\" หรือ \"Harpie Lady Sisters\" 1 ตัวจากมือของคุณหรือเด็ค",
+  "th": "ถ้า \"Harpie Lady\" อยู่บนสนาม: อัญเชิญพิเศษ \"Harpie Lady\" หรือ \"Harpie Lady Sisters\" 1 ตัวจากมือหรือเด็คของคุณ.",
   "status": "ai",
   "en_sha256": "98e97092169893bdd544bd4db76eeb653d2d4b8be1876271765f158188a0d607",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-06"
 }

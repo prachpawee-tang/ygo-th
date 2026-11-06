@@ -1,0 +1,9 @@
+{
+  "id": "29354228",
+  "name": "Dogmatika Encounter",
+  "th": "เปิดใช้เอฟเฟกต์ 1 ข้อต่อไปนี้;\n● อัญเชิญพิเศษมอนสเตอร์ \"Dogmatika\" 1 ตัวหรือ \"Fallen of Albaz\" จากมือของคุณ\n● เพิ่มขึ้นมือหรืออัญเชิญพิเศษมอนสเตอร์ \"Dogmatika\" 1 ตัวหรือ \"Fallen of Albaz\" จากสุสานของคุณ\nคุณสามารถเปิดใช้ \"Dogmatika Encounter\" ได้เพียง 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "98caf6648e7e93b461e68373a3e2dac04b4e1818dc13c859c11a08b0dd20be34",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

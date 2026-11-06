@@ -1,0 +1,9 @@
+{
+  "id": "66865880",
+  "name": "Marshmallon Glasses",
+  "th": "ตราบใดที่ \"Marshmallon\" อยู่ใน Main Monster Zone ของคุณ คู่ต่อสู้จะไม่สามารถเลือกมอนสเตอร์อื่นนอกเหนือจาก \"Marshmallon\" เป็นเป้าหมายในการโจมตีได้.",
+  "status": "ai",
+  "en_sha256": "fbcf465dbc313ec050a8822cfce2057df4fb026c158de4632401b2c0f9dcc693",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

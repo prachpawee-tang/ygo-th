@@ -1,0 +1,9 @@
+{
+  "id": "72575145",
+  "name": "Demotion",
+  "th": "ลด Level ของมอนสเตอร์ที่ถูกติดตั้งการ์ดใบนี้ลง 2 Level.",
+  "status": "ai",
+  "en_sha256": "58da3c0eef81dff1bb1d91cf60fc955070fe2878a4edfe90a46f6bb286fefac0",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

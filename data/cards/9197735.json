@@ -1,0 +1,9 @@
+{
+  "id": "9197735",
+  "name": "Dragon Statue",
+  "th": "\"นักรบหินที่มีจิตใจของมังกร.\"",
+  "status": "ai",
+  "en_sha256": "69a0c6f26bb77399bd03ec87496dbcefbb2f81ab38c5e145bc28756b1d0aeefd",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "22623509",
+  "name": "Verre, the Maid of Endymion",
+  "th": "(การ์ดใบนี้ถือว่าเป็น “Witchcrafter” เสมอ)\nได้รับ ATK 2300 ขณะที่คุณมี “Regulus, the Prince of Endymion” ในสนามหรือสุสานของคุณ\nคุณสามารถใช้เอฟเฟกต์ต่อไปนี้ของ “Verre, the Maid of Endymion” ได้ 1 ครั้งต่อเทิร์น\nในช่วง Main Phase ของคุณ ถ้ามีการ์ด Spell หรือเอฟเฟกต์ถูกเปิดใช้ในเทิร์นนี้: คุณสามารถ อัญเชิญพิเศษการ์ดใบนี้จากมือของคุณได้\nถ้าการ์ดใบนี้ถูก อัญเชิญพิเศษ: คุณสามารถเพิ่มการ์ด “Witchcrafter” Spell/Trap 1 ใบ หรือ “Magical Dimension” 1 ใบ จากเด็คของคุณขึ้นมือได้",
+  "status": "ai",
+  "en_sha256": "e068462c617e7093a119ac356276395a22f213b7ca5ad95c272ab36e4467eff2",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

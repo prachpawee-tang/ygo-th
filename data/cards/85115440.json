@@ -1,0 +1,10 @@
+{
+  "id": "85115440",
+  "name": "Zoodiac Broadbull",
+  "th": "มอนสเตอร์ Level 4 จำนวน 2 ตัว\n1 ครั้งต่อเทิร์น: คุณสามารถอัญเชิญ Link โดยใช้มอนสเตอร์ \"Zoodiac\" ที่คุณควบคุมที่มีชื่อต่างกัน 1 ตัวเป็น Material Xyz ได้\n(ถ้าคุณใช้มอนสเตอร์ Xyz, Material Xyz ที่ติดอยู่กับมันจะกลายเป็น Material บนการ์ดใบนี้ด้วย) การ์ดใบนี้ได้รับ ATK และ DEF เท่ากับ ATK และ DEF ของมอนสเตอร์ \"Zoodiac\" ทั้งหมดที่ติดอยู่กับมันเป็น Material\n1 ครั้งต่อเทิร์น: คุณสามารถถอด Material Xyz 1 ตัวจากการ์ดใบนี้; เพิ่มมอนสเตอร์ประเภท Beast-Warrior ที่สามารถอัญเชิญปกติ/เซ็ตได้ จากเด็คของคุณขึ้นมือ",
+  "status": "ai",
+  "en_sha256": "07b6de7f089d113a7dd9e21e554a38c808fef4d6b73c15d8d4efd1ac5ccab9a8",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: card names in quotes changed/missing: \"Zoodiac Broadbull\""
+}

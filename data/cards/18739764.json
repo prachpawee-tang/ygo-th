@@ -1,0 +1,9 @@
+{
+  "id": "18739764",
+  "name": "Destruct Potion",
+  "th": "เลือกมอนสเตอร์ 1 ตัวที่คุณควบคุม\nทำลายมัน และได้รับ Life Points เท่ากับ ATK ของมัน",
+  "status": "ai",
+  "en_sha256": "caa8fa99987873d3a0cb34db457a6936ca9e707f5ae7f29936600b27bcd3a053",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

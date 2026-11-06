@@ -1,0 +1,9 @@
+{
+  "id": "59070329",
+  "name": "Utopian Aura",
+  "th": "ถอด Material จากมอนสเตอร์ Link ที่คุณควบคุม 1 Material; มอนสเตอร์ Link ที่หงายอยู่ซึ่งคุณควบคุมอยู่ในขณะนี้จะไม่ถูกทำลายโดยเอฟเฟกต์ของการ์ดจนกว่าจะถึง End Phase.",
+  "status": "ai",
+  "en_sha256": "94e667932060dac5746e1ccedf201adce9a7fec67d55bc9921905afa0020005d",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

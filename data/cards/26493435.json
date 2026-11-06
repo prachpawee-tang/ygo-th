@@ -1,0 +1,9 @@
+{
+  "id": "26493435",
+  "name": "Onomatopia",
+  "th": "ทุกครั้งที่มอนสเตอร์ \"Utopia\" ถูกอัญเชิญพิเศษไปยังสนามของคุณ, วาง Hi-Five the Sky Counter 1 ตัวบนการ์ดใบนี้\nมอนสเตอร์ทั้งหมดที่คุณควบคุมได้รับ ATK และ DEF +200 สำหรับ Hi-Five the Sky Counter แต่ละตัวที่อยู่บนการ์ดใบนี้\n1 ครั้งต่อเทิร์น: คุณสามารถนำ Hi-Five the Sky Counter ออก 2 ตัวจากบนการ์ดใบนี้; อัญเชิญพิเศษมอนสเตอร์ \"Zubaba\", \"Gagaga\", \"Gogogo\" หรือ \"Dododo\" 1 ตัวจากเด็คของคุณ",
+  "status": "ai",
+  "en_sha256": "22b8e2e67e189efd2cb39e65086bedb52d538e7719f1ca700990ca86b5da2f30",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

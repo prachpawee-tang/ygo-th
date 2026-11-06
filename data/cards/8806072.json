@@ -1,0 +1,9 @@
+{
+  "id": "8806072",
+  "name": "Combo Fighter",
+  "th": "ถ้ามีการสร้างเชน (ที่มี Link 2 หรือมากกว่า) เกิดขึ้นใน Main Phase 1 ของคุณ การ์ดใบนี้สามารถโจมตีได้ 2 ครั้งใน Battle Phase ในเทิร์นนี้.",
+  "status": "ai",
+  "en_sha256": "4aedd8ff5edb20ce37fc6ef90f6eb6c6bb11dd86aafd4473f8494a1c0bf36e71",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

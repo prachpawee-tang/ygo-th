@@ -1,0 +1,10 @@
+{
+  "id": "49417509",
+  "name": "Wolf",
+  "th": "Dis alpha wolf yoozes his sense a smell ta find da enemy.\n'ey, quit sniffin at my socks!",
+  "status": "ai",
+  "en_sha256": "71a36e00fe99584459620c710775a4e3db785754b62344d7e02760a03dd97039",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: no Thai text"
+}

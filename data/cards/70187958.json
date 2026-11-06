@@ -1,0 +1,10 @@
+{
+  "id": "70187958",
+  "name": "Dark Desertapir",
+  "th": "เมื่อการ์ดใบนี้ถูกนำออกจากสนาม, คุณสามารถเลือกมอนสเตอร์ประเภท Beast ที่มี Level 4 หรือต่ำกว่าในสุสานของคุณ และทำการอัญเชิญพิเศษมันได้.",
+  "status": "ai",
+  "en_sha256": "9f5bbecc0e09c6a22ba369f7e3ec1299db91d9ed2f0289e07789070f137ff3ac",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "33691040",
+  "name": "Pragtical",
+  "th": "\"Trakodon\" + \"Flame Viper\"",
+  "status": "ai",
+  "en_sha256": "763cf6808a2d69ecae5688d86a36ed3c57bfe78878a5eb7676eadab10fe04ffa",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

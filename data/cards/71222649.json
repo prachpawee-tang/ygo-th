@@ -1,0 +1,9 @@
+{
+  "id": "71222649",
+  "name": "Twilight Specter Rayrage",
+  "th": "[ Pendulum Effect ]\nถ้า Pendulum Monster ที่คุณควบคุมจะถูกทำลายโดยเอฟเฟกต์ของการ์ดของคู่ต่อสู้ คุณสามารถทำลายการ์ดใบนี้แทน 1 ใน Pendulum Monster เหล่านั้นได้\nคุณสามารถใช้เอฟเฟกต์ของ \"Twilight Specter Rayrage\" ได้เพียง 1 ครั้งต่อเทิร์น\n[ Monster Effect ]\nถ้าการ์ดใบนี้อยู่ในมือของคุณ: คุณสามารถเลือกเป้าหมาย Pendulum Monster 1 ตัวที่คุณควบคุม; วาง Pendulum Monster นั้นใน Pendulum Zone ของคุณ (ผู้เล่นทั้งสองไม่สามารถเปิดใช้ Pendulum Effects ของมันได้ในเทิร์นนี้) และถ้าทำได้ อัญเชิญพิเศษการ์ดใบนี้\n(Quick Effect): คุณสามารถสังเวยการ์ดใบนี้ จากนั้นเลือกเป้าหมายการ์ด 1 ใบใน Pendulum Zone ของคุณ; มันไม่สามารถถูกทำลายโดยเอฟเฟกต์ของการ์ดของคู่ต่อสู้ได้ในเทิร์นนี้\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Twilight Specter Rayrage\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "f7fe0d1f65a1750748fcdc3c35211998778b1d91ef2c1cd0dd91c71931faf5d2",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

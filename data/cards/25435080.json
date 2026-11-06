@@ -1,0 +1,9 @@
+{
+  "id": "25435080",
+  "name": "Blackwing - Bombardment",
+  "th": "สังเวยมอนสเตอร์ \"Blackwing\" 1 ตัวเพื่อเลือกมอนสเตอร์ Synchro ที่หงายอยู่ 1 ตัวที่คุณควบคุม\nมอนสเตอร์ Synchro นั้นได้รับ ATK เท่ากับ ATK ของมอนสเตอร์ที่ถูกสังเวย จนถึง End Phase",
+  "status": "ai",
+  "en_sha256": "4849e075a4a9430351a54534bdae6b0ac0f30ffef3d09bb3f9c6d1c83cfa2927",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "39210885",
+  "name": "Vaalmonica, the Agathokakological Voice",
+  "th": "เมื่อการ์ดใบนี้ถูกเปิดใช้: คุณสามารถเพิ่มมอนสเตอร์ \"Vaalmonica\" 1 ตัวจากเด็คของคุณขึ้นมือได้\nถ้ามีการ์ดใน Pendulum Zone ของคุณที่มี Resonance Counter ระดับ 3 วางอยู่: คุณสามารถเลือกเป้าหมายมอนสเตอร์ 1 ตัวที่คู่ต่อสู้ควบคุม; ควบคุมมันจนถึง End Phase แต่จะไม่สามารถประกาศโจมตีได้\nคุณสามารถใช้เอฟเฟกต์ของ \"Vaalmonica, the Agathokakological Voice\" ได้ 1 ครั้งต่อเทิร์น\nคุณสามารถเปิดใช้ \"Vaalmonica, the Agathokakological Voice\" ได้เพียง 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "e9663cfba27627619aae2849cce75a2431f68ad1b80640ebc820f3dbe592859d",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

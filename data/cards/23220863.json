@@ -1,0 +1,9 @@
+{
+  "id": "23220863",
+  "name": "Magical Cavalry of Cxulub",
+  "th": "การ์ดใบนี้ไม่ได้รับผลจากเอฟเฟกต์ที่เปิดใช้งานของมอนสเตอร์ ยกเว้นมอนสเตอร์ Pendulum.",
+  "status": "ai",
+  "en_sha256": "670bcc423bc0fe7e3c821c2325b72e791dd95584e61f05a72bb1fe68850c81c6",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

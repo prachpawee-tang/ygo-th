@@ -1,0 +1,9 @@
+{
+  "id": "45178472",
+  "name": "Full House",
+  "th": "เลือกการ์ด Spell/Trap ที่หงายอยู่ 2 ใบ และการ์ด Spell/Trap ที่เซ็ตอยู่ 3 ใบ บนสนาม; ทำลายพวกมัน.",
+  "status": "ai",
+  "en_sha256": "fbe445df86915c4f0bc0718d23f2ecad1cdd5b1993174621abbae420f6297279",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

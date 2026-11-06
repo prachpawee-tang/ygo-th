@@ -1,0 +1,10 @@
+{
+  "id": "7653207",
+  "name": "Aqua Jet",
+  "th": "เลือกมอนสเตอร์ “Fish”, “Sea Serpent”, หรือ “Aqua-Type” ที่หงายอยู่ที่คุณควบคุม; มันได้รับ ATK 1000.",
+  "status": "ai",
+  "en_sha256": "64a92d253b6966a414c8cb9001226c32789c3c6fbc9ed1b4ebd9dd05069c9ef6",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

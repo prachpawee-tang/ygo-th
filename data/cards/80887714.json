@@ -1,0 +1,10 @@
+{
+  "id": "80887714",
+  "name": "Galaxy Storm",
+  "th": "เลือกเป้าหมายมอนสเตอร์ Xyz ที่หงายอยู่บนสนามที่ไม่มี Material Xyz; ทำลายเป้าหมายนั้น.",
+  "status": "ai",
+  "en_sha256": "369a33e2b3d3eb301a5b39834c367f491316f601389e31d8ccf2b771dfa7da9b",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

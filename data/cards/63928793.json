@@ -1,0 +1,9 @@
+{
+  "id": "63928793",
+  "name": "Diabellze, Heiress of the Winter Raven's Forest",
+  "th": "มอนสเตอร์ Fusion หรือ Synchro 1 ตัว + มอนสเตอร์ Spellcaster หรือ Illusion 1 ตัว\nถ้าการ์ดใบนี้ถูกอัญเชิญพิเศษ: คุณสามารถวางมอนสเตอร์ที่คุณควบคุมในจำนวนใดก็ได้แบบหงายใน Spell & Trap Zones ของเจ้าของแต่ละคนเป็น Spells ต่อเนื่อง, จากนั้นคุณสามารถส่งการ์ดในสนามกลับขึ้นมือได้ตามจำนวน Spells/Traps ที่คุณควบคุม\nคุณสามารถใช้เอฟเฟกต์ของ \"Diabellze, Heiress of the Winter Raven's Forest\" ได้ 1 ครั้งต่อเทิร์นเท่านั้น\nได้รับ ATK/DEF 700 สำหรับแต่ละ Spell/Trap ที่อยู่ในสนาม\nการ์ด Fusion Summoned ที่หงายนี้ไม่สามารถใช้เป็น Material Fusion ได้",
+  "status": "ai",
+  "en_sha256": "4ed76d1915434803e66b767acf4a3362e1d44ba46ec021eeb48f39cbebba5e5d",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

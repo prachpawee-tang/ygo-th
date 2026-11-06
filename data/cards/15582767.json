@@ -1,0 +1,9 @@
+{
+  "id": "15582767",
+  "name": "Echo Oscillation",
+  "th": "คุณสามารถเลือกเป้าหมายการ์ด 1 ใบใน Pendulum Zone ของคุณ; ทำลายมัน จากนั้นจั่วการ์ด 1 ใบ\nคุณสามารถใช้เอฟเฟกต์ของ \"Echo Oscillation\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "061dc3176127d6fe282689c307faa85d5e5a1d67f6cbf424383b1ca81d5e7c7b",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

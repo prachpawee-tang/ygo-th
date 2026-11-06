@@ -1,0 +1,9 @@
+{
+  "id": "40706444",
+  "name": "Argostars - Adventurous Arion",
+  "th": "มอนสเตอร์ Level 4 จำนวน 2 ตัว\n1 ครั้งต่อเทิร์น คุณสามารถอัญเชิญ Link โดยใช้มอนสเตอร์ \"Argostars\" ที่คุณควบคุม 1 ตัว (ส่ง Material ของมันไปยังการ์ดใบนี้) ได้\nเมื่อการ์ดใบนี้ถูกอัญเชิญ Link: คุณสามารถเพิ่มการ์ด Spell \"Argostars\" 1 ใบจากเด็คของคุณขึ้นมือได้\nในช่วง Standby Phase: คุณสามารถถอด Material ออกจาก 2 ตัวจากใบนี้; วางกับดัก Continuous \"Argostars\" จากสุสานของคุณ หงายอยู่สูงสุด 3 ใบใน Spell & Trap Zone ของคุณ\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Argostars - Adventurous Arion\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "6cc1099fdaa9075824b8cb0c610f48c51a6411a32a0822559546822eb3956d72",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

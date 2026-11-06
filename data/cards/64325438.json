@@ -1,0 +1,10 @@
+{
+  "id": "64325438",
+  "name": "Generaider Boss Room",
+  "th": "เมื่อคู่ต่อสู้เปิดใช้การ์ดหรือเอฟเฟกต์เป็นการตอบสนองต่อการเปิดใช้การ์ดหรือเอฟเฟกต์ \"Generaider\" ของคุณ: คุณสามารถทิ้งการ์ด 1 ใบ; เอฟเฟกต์ที่เปิดใช้งานของคู่ต่อสู้กลายเป็น \"ผู้เล่นแต่ละคนจั่วการ์ด 1 ใบ\"\nคุณสามารถใช้เอฟเฟกต์นี้ของ \"Generaider Boss Room\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "73f1b8bbdc78b4e913a60e3fe852e50f924224bfd357084df9f371a5adf186ec",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: card names in quotes changed/missing: \"each player draws 1 card\""
+}

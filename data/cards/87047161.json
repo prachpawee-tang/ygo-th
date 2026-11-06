@@ -1,0 +1,10 @@
+{
+  "id": "87047161",
+  "name": "Mermaid Shark",
+  "th": "เมื่อการ์ดใบนี้ถูกอัญเชิญปกติ: คุณสามารถเพิ่มมอนสเตอร์ Fish-Type ระดับ 3, 4 หรือ 5 จากเด็คของคุณขึ้นมือได้.",
+  "status": "ai",
+  "en_sha256": "0f49c83d51ec0a9f68dd63815584431bb7265e1edfe492bf6fbb51d4707fab21",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

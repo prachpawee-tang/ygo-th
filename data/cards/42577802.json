@@ -1,0 +1,10 @@
+{
+  "id": "42577802",
+  "name": "Myutant Fusion",
+  "th": "อัญเชิญแบบ Fusion มอนสเตอร์ \"Myutant\" Fusion 1 ตัวจากเอ็กซ์ตร้าเด็คของคุณ โดยเอา Material Fusion ที่ระบุไว้บนการ์ดออกจากมือหรือสนามของคุณ\nถ้าคู่ต่อสู้ของคุณได้เปิดใช้การ์ดหรือเอฟเฟกต์ในเทิร์นนี้ คุณสามารถใช้มอนสเตอร์จากเด็คและสุสานของคุณได้สูงสุด 1 ตัวเป็น Material Fusion\nคุณสามารถเปิดใช้ \"Myutant Fusion\" ได้เพียง 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "94cb4d74cb8223a2d6a5854019e7b1e3705849aba71a3af4b16d51726a0c833b",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: \"banish\" ×1 in English but \"ออกจากเกม\" ×0 in Thai — meaning may be wrong"
+}

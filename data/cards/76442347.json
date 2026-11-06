@@ -1,0 +1,10 @@
+{
+  "id": "76442347",
+  "name": "Puny Penguin",
+  "th": "เมื่อการ์ดใบนี้ถูกส่งจากสนามลงสุสานหลังจากถูกพลิกคว่ำ: เลือกเป้าหมายมอนสเตอร์ \"Penguin\" 1 ตัวในสุสานของคุณ, ยกเว้น \"Puny Penguin\"; อัญเชิญพิเศษเป้าหมายนั้นในท่าโจมตีหงายหรือท่าป้องกันคว่ำ.",
+  "status": "ai",
+  "en_sha256": "54f0f1e9484a7932063197e81b99e7ff81cfe590f4f9c59a2d43efb2eaf33935",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: \"face-up\" ×2 in English but \"หงาย\" ×1 in Thai — meaning may be wrong"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "72150572",
+  "name": "Anti-Fusion Device",
+  "th": "ทำลายมอนสเตอร์ Fusion ที่หงายอยู่ 1 ตัวบนสนาม.",
+  "status": "ai",
+  "en_sha256": "41e9fa6b3c57df2f7cd8f4264ed3ed432971f2f1d8caeebf67c6eb45858c05cb",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

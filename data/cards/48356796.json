@@ -1,0 +1,9 @@
+{
+  "id": "48356796",
+  "name": "Mystical Cards of Light",
+  "th": "คุณไม่สามารถใช้โซน Spell & Trap Card ของคุณได้ 1 โซน\nในช่วง Draw Phase ของคุณ, ถ้าคุณควบคุม \"Mystical Cards of Light\" อีกใบ, คุณสามารถจั่วการ์ด 2 ใบแทนที่จะเป็น 1 ใบสำหรับการจั่วปกติ",
+  "status": "ai",
+  "en_sha256": "e8fc7455b48392a39949041a5415d54b691192a2389b121346195973cae8cb39",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

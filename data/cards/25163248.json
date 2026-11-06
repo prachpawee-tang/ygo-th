@@ -1,0 +1,9 @@
+{
+  "id": "25163248",
+  "name": "Chronomaly Mayan Machine",
+  "th": "การ์ดใบนี้สามารถนำมาคิดเป็น 2 สังเวยสำหรับการอัญเชิญแบบสังเวยมอนสเตอร์ Machine-Type.",
+  "status": "ai",
+  "en_sha256": "08134ab5914ce99d6ea3c8e49bbaba18537329edd1a397182ac6a32a7a4a27a8",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

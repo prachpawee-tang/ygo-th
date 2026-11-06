@@ -1,0 +1,9 @@
+{
+  "id": "17236839",
+  "name": "Flash Fusion",
+  "th": "อัญเชิญแบบ Fusion มอนสเตอร์ Fusion 1 ตัวจากเอ็กซ์ตร้าเด็คของคุณ โดยใช้มอนสเตอร์ที่คุณควบคุมเป็น Material สำหรับ Fusion\nทำลายมันในช่วง End Phase",
+  "status": "ai",
+  "en_sha256": "edaeac0856b847bb236a1c4cfa46cf00890516e4666a91e96b49592c0f5f66c0",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "97112505",
+  "name": "Chronomaly Magella Globe",
+  "th": "คุณสามารถสังเวยการ์ดใบนี้; อัญเชิญพิเศษมอนสเตอร์ \"Chronomaly\" 1 ตัวจากเด็คของคุณ, ยกเว้น \"Chronomaly Magella Globe\"\nถ้าการ์ดใบนี้อยู่ในสุสานของคุณ, ยกเว้นเทิร์นที่มันถูกส่งลงไป: คุณสามารถเอาการ์ด \"Chronomaly\" 1 ใบออกจากเกมจากสุสานของคุณ, ยกเว้น \"Chronomaly Magella Globe\"; เพิ่มการ์ดใบนี้ขึ้นมือ\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Chronomaly Magella Globe\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "b121cb7c7cfc6a18adabe8cdeceb4c1b82c5d0eac0ff47bbe7e05b58b104c59f",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

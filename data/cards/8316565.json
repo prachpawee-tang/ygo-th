@@ -1,0 +1,9 @@
+{
+  "id": "8316565",
+  "name": "Jolt Counter",
+  "th": "ระหว่าง Battle Phase, เมื่อเปิดใช้ Spell/Trap Card หรือเอฟเฟกต์มอนสเตอร์ ในขณะที่คุณควบคุมมอนสเตอร์ \"Battlin' Boxer\": ลบล้างการเปิดใช้งาน, และถ้าทำได้ ทำลายการ์ดใบนั้น.",
+  "status": "ai",
+  "en_sha256": "4fbfad8edadf3ef86c39250457a3deaf43f2a010047732a5b1939269e36b5b09",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

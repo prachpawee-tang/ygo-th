@@ -1,0 +1,9 @@
+{
+  "id": "3594985",
+  "name": "Majespecter Draco - Ryu",
+  "th": "[ Pendulum Effect ]\nถ้าคุณมีการ์ด \"Majespecter\" หรือ \"Dracoslayer\" ใน Pendulum Zone อื่นของคุณ: คุณสามารถเพิ่มการ์ด \"Majespecter\" 1 ใบจากเด็คของคุณขึ้นมือ, จากนั้นคุณสามารถทำลายการ์ด 1 ใบใน Pendulum Zone ของคุณ\nคุณสามารถใช้เอฟเฟกต์นี้ของ \"Majespecter Draco - Ryu\" ได้ 1 ครั้งต่อเทิร์น\n[ Monster Effect ]\nมอนสเตอร์ Level 4 จำนวน 2 ตัว\nถ้าคุณสามารถ Pendulum Summon Level 4 ได้, คุณสามารถ Pendulum Summon การ์ดใบนี้แบบหงายจาก Extra Deck ของคุณได้\nถ้ามอนสเตอร์ถูกสังเวยขณะที่การ์ดใบนี้อยู่ในสนาม (ยกเว้นระหว่าง Damage Step): คุณสามารถถอด Material 1 ชิ้นจากตัวการ์ดนี้; อัญเชิญพิเศษมอนสเตอร์ Spellcaster ลม Level 6 หรือต่ำกว่า 1 ตัวจากเด็คของคุณ\nคุณสามารถใช้เอฟเฟกต์นี้ของ \"Majespecter Draco - Ryu\" ได้สูงสุด 2 ครั้งต่อเทิร์น\nถ้าการ์ดใบนี้ใน Main Monster Zone ถูกทำลายโดยการต่อสู้หรือเอฟเฟกต์ของการ์ด, หรือถูกสังเวย: คุณสามารถวางการ์ดใบนี้ใน Pendulum Zone ของคุณได้",
+  "status": "ai",
+  "en_sha256": "c77f70e1275d80c0ef06dddf32d7cb63686e1b496f7b177cf5f6389fe520de22",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

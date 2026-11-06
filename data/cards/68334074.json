@@ -1,0 +1,9 @@
+{
+  "id": "68334074",
+  "name": "Miracle Restoring",
+  "th": "นำ Spell Counter ออก 2 ตัวจากฝั่งสนามของคุณ จากนั้น เลือกเป้าหมาย \"Dark Magician\" หรือ \"Buster Blader\" 1 ใบในสุสานของคุณ; อัญเชิญพิเศษเป้าหมายนั้น.",
+  "status": "ai",
+  "en_sha256": "5c4c07445471c304c94de6d6a27399093908077c5feeec42c61e080611d21842",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

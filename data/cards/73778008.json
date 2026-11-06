@@ -1,0 +1,9 @@
+{
+  "id": "73778008",
+  "name": "Rage of the Deep Sea",
+  "th": "การ์ดใบนี้ได้รับ ATK และ DEF 500 เพิ่มขึ้นสำหรับมอนสเตอร์แต่ละตัวที่เป็น Fish, Sea Serpent หรือ Aqua-Type ในสุสานของคุณ.",
+  "status": "ai",
+  "en_sha256": "39a32bfa600e69fc94811def06bd4860803877ee31830aa13a2ded4235bbe616",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

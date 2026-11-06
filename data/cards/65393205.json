@@ -1,0 +1,9 @@
+{
+  "id": "65393205",
+  "name": "Chakra",
+  "th": "คุณสามารถ อัญเชิญแบบริทึอัล การ์ดใบนี้ด้วย \"Resurrection of Chakra\".",
+  "status": "ai",
+  "en_sha256": "4b56918d519d5c0f543655904cb41cac71ab53577771582ade1c1094b0673e22",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

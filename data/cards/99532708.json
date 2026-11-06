@@ -1,0 +1,9 @@
+{
+  "id": "99532708",
+  "name": "Alien Mars",
+  "th": "เอฟเฟกต์ของมอนสเตอร์เอฟเฟกต์ที่มี A-Counters ถูกลบล้าง ยกเว้น \"Alien Mars\".",
+  "status": "ai",
+  "en_sha256": "b8c111598064ed3e8f53a1568a50a1ee85e727dca470b1aae81bc5b55747d10f",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

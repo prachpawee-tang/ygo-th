@@ -1,0 +1,9 @@
+{
+  "id": "61679541",
+  "name": "Battlin' Boxer Rabbit Puncher",
+  "th": "เมื่อเริ่ม Damage Step, ถ้าการ์ดใบนี้โจมตีมอนสเตอร์ที่อยู่ในท่าป้องกัน: ทำลายมอนสเตอร์นั้น.",
+  "status": "ai",
+  "en_sha256": "6b776b4fcf3c84e24e641f71947f8d8ccdfb47c790ac24ce6a3c2a39847a302c",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

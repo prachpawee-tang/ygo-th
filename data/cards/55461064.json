@@ -1,0 +1,9 @@
+{
+  "id": "55461064",
+  "name": "Destiny HERO - Blade Master",
+  "th": "ระหว่าง Battle Phase ของคู่ต่อสู้: คุณสามารถทิ้งการ์ดใบนี้; มอนสเตอร์ \"Destiny HERO\" ที่หงายอยู่ทั้งหมดที่คุณควบคุม เพิ่ม ATK 800 จนถึง End Phase.",
+  "status": "ai",
+  "en_sha256": "d5e52e8ed6c927337996f05603f503654f75c531e122a45dda983b99e0be2802",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

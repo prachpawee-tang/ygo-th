@@ -1,10 +1,9 @@
 {
   "id": "53582587",
   "name": "Torrential Tribute",
-  "th": "เมื่อมีการอัญเชิญมอนสเตอร์; ทำลายมอนสเตอร์ทั้งหมดบนสนาม",
+  "th": "เมื่อมีการอัญเชิญมอนสเตอร์: ทำลายมอนสเตอร์ทั้งหมดบนสนาม.",
   "status": "ai",
   "en_sha256": "1c932e7c79b1e6366d2673a4df14984d6b2ea5b83e0c4a4d350483f3d4ed3fcd",
   "model": "gemma3:12b",
-  "updated": "2026-11-04",
-  "note": "rule-check: fewer \":\" than English (0 < 1) — activation condition may be lost"
+  "updated": "2026-11-06"
 }

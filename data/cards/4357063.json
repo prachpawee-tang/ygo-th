@@ -1,0 +1,10 @@
+{
+  "id": "4357063",
+  "name": "Chronomaly City Babylon",
+  "th": "1 ครั้งต่อเทิร์น: คุณสามารถเอามอนสเตอร์ \"Chronomaly\" 1 ตัวออกจากสุสานของคุณ จากนั้นเลือกเป้าหมายมอนสเตอร์ \"Chronomaly\" 1 ตัวในสุสานของคุณที่มี Level เดียวกันกับมอนสเตอร์ที่ถูกเอาออกจากเกม; อัญเชิญพิเศษมัน.",
+  "status": "ai",
+  "en_sha256": "6f70784278fe9997a6423418062dd5170b46cca4ee900d6c59612dd2c16270a9",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: \"banish\" ×2 in English but \"ออกจากเกม\" ×1 in Thai — meaning may be wrong"
+}

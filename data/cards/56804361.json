@@ -1,0 +1,9 @@
+{
+  "id": "56804361",
+  "name": "Aether, the Empowering Dragon",
+  "th": "เมื่อการ์ดใบนี้ถูกอัญเชิญแบบ Pendulum: คุณสามารถเลือกเป้าหมายการ์ด 1 ใบในสนาม; ส่งมันกลับขึ้นมือ\nคุณสามารถใช้เอฟเฟกต์ของ \"Aether, the Empowering Dragon\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "5e6bca026bfe7d28fa9949448a377576e4d1e89063d72e42ca0721454d920389",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

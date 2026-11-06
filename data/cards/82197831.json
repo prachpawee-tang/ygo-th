@@ -1,0 +1,9 @@
+{
+  "id": "82197831",
+  "name": "Rampaging Smashtank Rhynosaber",
+  "th": "1 Tuner + 1+ non-Tuner monsters\nคุณสามารถทิ้งการ์ดจำนวนใดก็ได้; การ์ดใบนี้ได้รับ ATK 700 สำหรับการ์ดแต่ละใบที่ทิ้ง\nเมื่อสิ้นสุด Battle Phase, ถ้าการ์ดใบนี้ได้ต่อสู้: คุณสามารถส่งการ์ดใบนี้ลงสุสาน; อัญเชิญพิเศษมอนสเตอร์จากสุสานของคุณที่ Level รวมกันเท่ากับ 7, ยกเว้น \"Rampaging Smashtank Rhynosaber\", แต่เอฟเฟกต์ของพวกมันถูกลบล้าง\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Rampaging Smashtank Rhynosaber\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "5b2331aff4eb8e61c13f6a04f8e8157362c1184a2ad4884d9e77299ffd55931a",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

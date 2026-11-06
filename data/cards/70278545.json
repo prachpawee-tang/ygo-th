@@ -1,0 +1,9 @@
+{
+  "id": "70278545",
+  "name": "Pot of Generosity",
+  "th": "นำการ์ด 2 ใบจากมือของคุณกลับเข้าเด็คของคุณ\nจากนั้นสับเด็คของคุณ",
+  "status": "ai",
+  "en_sha256": "30c9dea9f778f719ef4eddc082ba62bdaf8596cc4933f7de21d80f530293ebdc",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "92609670",
+  "name": "Heroic Challenger - Ambush Soldier",
+  "th": "ระหว่าง Standby Phase ของคุณ: คุณสามารถสังเวยการ์ดใบนี้; อัญเชิญพิเศษมอนสเตอร์ \"Heroic Challenger\" ได้สูงสุด 2 ตัวจากมือและ/หรือ สุสานของคุณ ยกเว้น \"Heroic Challenger - Ambush Soldier\"\nคุณสามารถใช้เอฟเฟกต์ของ \"Heroic Challenger - Ambush Soldier\" ได้ 1 ครั้งต่อเทิร์น\nเมื่อคุณทำเช่นนั้น: คุณสามารถเอาการ์ดใบนี้ออกจากเกมจากสุสานของคุณ; ทำให้มอนสเตอร์ \"Heroic Challenger\" ทั้งหมดที่คุณควบคุมอยู่ในขณะนี้กลายเป็น Level 1",
+  "status": "ai",
+  "en_sha256": "767a8fb50db6d4928f24a1c1e88526fd0e0f80093ea5b0676d1f11bbe6976451",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

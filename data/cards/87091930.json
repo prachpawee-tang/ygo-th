@@ -1,0 +1,9 @@
+{
+  "id": "87091930",
+  "name": "Raider's Unbreakable Mind",
+  "th": "(การ์ดใบนี้ถือว่าเป็นการ์ด \"The Phantom Knights\" และ \"Raidraptor\" เสมอ)\nถ้าคุณทำการอัญเชิญ Link โดยใช้มอนสเตอร์ Link DARK เป็น Material: คุณสามารถเลือกเป้าหมายการ์ด 1 ใบในสนาม; ทำลายมัน\nถ้าการ์ดใบนี้ที่หงายอยู่ใน Spell & Trap Zone ถูกทำลายโดยเอฟเฟกต์ของการ์ด: คุณสามารถเซ็ต \"Rank-Up-Magic\" Spell จากเด็คหรือสุสานของคุณโดยตรง 1 ใบ\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Raider's Unbreakable Mind\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "ccc6e1d14029afffab41c69b5a61116995f52cb58b1abe544350e179af9a000e",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

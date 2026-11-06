@@ -1,0 +1,9 @@
+{
+  "id": "49980185",
+  "name": "Supernatural Regeneration",
+  "th": "เปิดใช้ได้เฉพาะในช่วง End Phase เท่านั้น\nได้รับ Life Points 1000 Points สำหรับมอนสเตอร์ Psychic-Type แต่ละตัวที่ถูกส่งลงสุสานในเทิร์นนี้",
+  "status": "ai",
+  "en_sha256": "0a5704c3de3262116fb27a5f19d7801b59bde8b50208aff1f8a2c897643fb2f7",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "27196937",
+  "name": "Stardust Flash",
+  "th": "เลือกมอนสเตอร์ \"Stardust\" 1 ตัวในสุสานของคุณ; อัญเชิญพิเศษมัน.",
+  "status": "ai",
+  "en_sha256": "e6f10af16425c4c2ae60cb008dadbbcbe8af9b0df2fc10282360696d52936c6a",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

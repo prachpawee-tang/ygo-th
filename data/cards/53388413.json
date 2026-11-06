@@ -1,0 +1,9 @@
+{
+  "id": "53388413",
+  "name": "Commander Gottoms, Swordmaster",
+  "th": "มอนสเตอร์ \"Saber\" ที่หงายอยู่ทั้งหมดที่คุณควบคุม ได้รับ ATK 400.",
+  "status": "ai",
+  "en_sha256": "a1129addf79c74d51cb946c4f1d18c70169fd04a51a75e985180a9282ed41e8a",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

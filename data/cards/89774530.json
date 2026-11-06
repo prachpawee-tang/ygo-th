@@ -1,0 +1,9 @@
+{
+  "id": "89774530",
+  "name": "Heroic Challenger - Double Lance",
+  "th": "เมื่อการ์ดใบนี้ถูกอัญเชิญปกติ: คุณสามารถอัญเชิญพิเศษมอนสเตอร์ \"Heroic Challenger - Double Lance\" 1 ตัวจากมือหรือสุสานของคุณในท่าป้องกันหงายได้\nการ์ดใบนี้ไม่สามารถใช้เป็นมอนสเตอร์ Material สำหรับการ Synchro ได้\nการ์ดใบนี้ไม่สามารถใช้เป็น Material สำหรับ Xyz ยกเว้นสำหรับการอัญเชิญ Xyz ของมอนสเตอร์ Warrior-Type",
+  "status": "ai",
+  "en_sha256": "15eb61bfc75af011a6ef37a0cf778af56ed2d5da796a038134938afa2361841d",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

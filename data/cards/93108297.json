@@ -1,0 +1,9 @@
+{
+  "id": "93108297",
+  "name": "Liquid Beast",
+  "th": "สิ่งมีชีวิตในรูปของเหลวที่เติบโตได้ดีในน้ำ.",
+  "status": "ai",
+  "en_sha256": "ec533280d582c0e645a6ae640951ae5005bb49c18c2f14edecfcc6608617abdd",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

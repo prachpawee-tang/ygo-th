@@ -1,0 +1,9 @@
+{
+  "id": "38834303",
+  "name": "Counter Cleaner",
+  "th": "จ่าย Life Points 500.\nเอาเคาน์เตอร์ทั้งหมดออกจากสนาม",
+  "status": "ai",
+  "en_sha256": "5a761cfcd6438c77c3e8560401adb23f75530b16c4668cb2a968edfd3fe1e85b",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

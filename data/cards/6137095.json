@@ -1,0 +1,9 @@
+{
+  "id": "6137095",
+  "name": "Malfunction",
+  "th": "จ่าย Life Points 500.\nลบล้างการเปิดใช้งานการ์ดกับดัก และส่งกลับไปยังตำแหน่งเดิมของมัน.",
+  "status": "ai",
+  "en_sha256": "449e438bf3efbcb4a40bd647c882ad9d8255ffb4ca10c5688f5ee3a5d7dc8f15",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

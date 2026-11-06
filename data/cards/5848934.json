@@ -1,0 +1,9 @@
+{
+  "id": "5848934",
+  "name": "Serene Psychic Sorceress",
+  "th": "1 Tuner + 1+ non-Tuner monsters\nถ้าการ์ดใบนี้ถูกอัญเชิญแบบ Synchro: คุณสามารถจ่าย LP 1000; เซ็ตการ์ด “Teleport” Normal หรือ Quick-Play Spell 1 ใบจากเด็ค, สุสาน, หรือที่ถูกเอาออกจากเกม\nถ้าการ์ด Synchro Summoned ใบนี้ถูกส่งลงสุสาน: คุณสามารถเลือกเป้าหมายการ์ด 1 ใบที่คู่ต่อสู้ควบคุม, หรือเลือกเป้าหมาย 2 ถ้าคุณควบคุมมอนสเตอร์ Psychic (Fusion หรือ Synchro); คืนการ์ดเหล่านั้นขึ้นมือ\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Serene Psychic Sorceress\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "a24cf7afd24c06f56649185aca05f79b75df2569dafc47704508e6d297e3c822",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

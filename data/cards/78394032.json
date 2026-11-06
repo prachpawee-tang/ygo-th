@@ -1,0 +1,9 @@
+{
+  "id": "78394032",
+  "name": "Motor Shell",
+  "th": "ถ้าการ์ดใบนี้ถูกส่งจากสนามไปยังสุสาน: คุณสามารถอัญเชิญพิเศษมอนสเตอร์ \"Engine Token\" (Machine/EARTH/Level 1/ATK 200/DEF 200) 1 ตัวในท่าโจมตี\nคุณสามารถใช้เอฟเฟกต์ของ \"Motor Shell\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "e95a6e6060a9b822570be102d9fcc594260de6cfad175a51d0f23fdcd5e864c7",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

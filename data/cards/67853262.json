@@ -1,0 +1,9 @@
+{
+  "id": "67853262",
+  "name": "Magician of Faithfulness",
+  "th": "FLIP: เลือกเป้าหมายการ์ดเวทมนตร์ 1 ใบในสุสานของคุณ; เพิ่มมันขึ้นมือ, จากนั้นคุณสามารถอัญเชิญพิเศษมอนสเตอร์ \"Magician of Faith\" หรือ \"Magician of Faithfulness\" 1 ตัวจากเด็คของคุณในท่าป้องกันคว่ำ\nคุณสามารถใช้เอฟเฟกต์ของ \"Magician of Faithfulness\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "52cfde46fc3098460f6350aae369cfed96b1f8a74f5ea24fc1f6c7f216da2313",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

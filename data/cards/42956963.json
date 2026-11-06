@@ -1,0 +1,9 @@
+{
+  "id": "42956963",
+  "name": "Nightmare Archfiends",
+  "th": "สังเวยมอนสเตอร์ 1 ตัว; อัญเชิญพิเศษ \"Nightmare Archfiend Tokens\" 3 ตัว (มอนสเตอร์เอฟเฟกต์/Fiend-Type/DARK/Level 6/ATK 2000/DEF 2000) ลงในสนามของคู่ต่อสู้ในท่าโจมตี\nทุกครั้งที่ 1 ตัวถูกทำลาย ผู้ควบคุมจะได้รับความเสียหาย 800",
+  "status": "ai",
+  "en_sha256": "c6c6d7073add67dc00359a25de230c3b8650785d35ee93ce0e2ce202ff17a2f2",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

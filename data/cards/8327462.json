@@ -1,0 +1,9 @@
+{
+  "id": "8327462",
+  "name": "Skullbird",
+  "th": "\"Takuhee\" + \"Temple of Skulls\"",
+  "status": "ai",
+  "en_sha256": "117f9c06445b7ca71472248858b3dff1ffbae384ae18fed29f3787810ea409f4",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

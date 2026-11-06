@@ -1,0 +1,9 @@
+{
+  "id": "99792080",
+  "name": "Phantasos, the Dream Mirror Foe",
+  "th": "ถ้าการ์ดใบนี้ถูกอัญเชิญพิเศษด้วยเอฟเฟกต์ของมอนสเตอร์ \"Dream Mirror\": การ์ดใบนี้สามารถโจมตีโดยตรงในเทิร์นนี้ได้\nระหว่าง Main Phase หรือ Battle Phase, ถ้า \"Dream Mirror of Joy\" อยู่ใน Field Zone (Quick Effect): คุณสามารถสังเวยการ์ดใบนี้; อัญเชิญพิเศษมอนสเตอร์ \"Phantasos, the Dream Mirror Friend\" 1 ตัวจากเด็คของคุณ\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Phantasos, the Dream Mirror Foe\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "340693cdff6215c84bd55958ef25ab6a066ed523dc07c0b0c0cc16948fec6185",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

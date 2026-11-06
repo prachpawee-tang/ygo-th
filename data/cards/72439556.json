@@ -1,0 +1,9 @@
+{
+  "id": "72439556",
+  "name": "Kamui, Hope of Gusto",
+  "th": "พลิก: อัญเชิญพิเศษมอนสเตอร์ Tuner \"Gusto\" 1 ตัวจากเด็คของคุณ.",
+  "status": "ai",
+  "en_sha256": "b04fba8c7e6f00bdb71891cd44d5c7cd5deb382e1116143fe236372cf5bd203b",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

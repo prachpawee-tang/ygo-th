@@ -1,0 +1,9 @@
+{
+  "id": "91123920",
+  "name": "The Agent of Force - Mars",
+  "th": "การ์ดใบนี้ไม่ได้รับผลจาก Spell Cards ใดๆ\nตราบใดที่คุณควบคุม \"The Sanctuary in the Sky\" ที่หงาย และ Life Points ของคุณสูงกว่าคู่ต่อสู้ ATK และ DEF ของการ์ดใบนี้จะเพิ่มขึ้นตามความแตกต่างระหว่าง Life Points ของคุณและคู่ต่อสู้",
+  "status": "ai",
+  "en_sha256": "977f44e35e008b442e54fd291d4e3950e6936aa83b05f8758311557d2bc6afab",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

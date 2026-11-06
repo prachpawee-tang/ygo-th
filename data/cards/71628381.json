@@ -1,0 +1,9 @@
+{
+  "id": "71628381",
+  "name": "Multiple Piece Golem",
+  "th": "\"Big Piece Golem\" + \"Medium Piece Golem\"\nตอนท้าย Battle Phase, ถ้าการ์ดใบนี้โจมตีหรือถูกโจมตี, คุณสามารถส่งมันกลับไปยังเอ็กซ์ตร้าเด็ค\nจากนั้น, ถ้ามอนสเตอร์ Material Fusion ทั้งหมดที่ใช้สำหรับการ Fusion Summon ของการ์ดใบนี้อยู่ในสุสานของคุณ, คุณสามารถ อัญเชิญพิเศษพวกมันได้",
+  "status": "ai",
+  "en_sha256": "c6c3912eee3a7cf94ff0138baf7e66f22ecbf5398170fb3c3e918e93eb23545c",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

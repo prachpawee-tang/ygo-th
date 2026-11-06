@@ -1,0 +1,9 @@
+{
+  "id": "44553392",
+  "name": "A Shattered, Colorless Realm",
+  "th": "ถ้า \"Vicious Astraloud\" อยู่ในสนาม: เลือกเป้าหมายการ์ด 1 ใบในสนาม; ทำลายมัน, จากนั้น ถ้าชื่อเดิมของการ์ดที่ถูกทำลายคือ \"Vicious Astraloud\", คุณสามารถอัญเชิญพิเศษ \"Visas Starfrost\" ที่ถูกเอาออกจากเกมของคุณ 1 ใบได้, หรือถ้าไม่ใช่, คุณสามารถทำให้ \"Vicious Astraloud\" 1 ใบที่คุณควบคุมได้รับ ATK 1500.",
+  "status": "ai",
+  "en_sha256": "1e0339b3a4e4e31660d8c8a197acd8ac17a90974a0deccc71978e3b942d8f37f",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

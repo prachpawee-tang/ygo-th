@@ -1,0 +1,9 @@
+{
+  "id": "20727787",
+  "name": "Disarmament",
+  "th": "ทำลายการ์ด Equip ทั้งหมดบนสนาม.",
+  "status": "ai",
+  "en_sha256": "4ef85137dd58b3d7acb17ee4e40ea35d2b8b5afc309b2fc6863bd63782054eed",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

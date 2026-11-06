@@ -1,0 +1,9 @@
+{
+  "id": "57482479",
+  "name": "Luminous Soldier",
+  "th": "ถ้าการ์ดใบนี้ทำการต่อสู้กับมอนสเตอร์ DARK, เพิ่ม ATK ของการ์ดใบนี้ 500 แต้มในช่วง Damage Step เท่านั้น.",
+  "status": "ai",
+  "en_sha256": "3d8c22074adb5acb2ac98e773e853ae6ddbe5ef4810cca124e3f42108b3deafa",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

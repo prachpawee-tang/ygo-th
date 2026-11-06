@@ -1,0 +1,9 @@
+{
+  "id": "98570539",
+  "name": "Dream Mirror of Chaos",
+  "th": "อัญเชิญแบบ Fusion มอนสเตอร์ \"Dream Mirror\" Fusion 1 ตัวจากเอ็กซ์ตร้าเด็คของคุณ โดยใช้มอนสเตอร์ที่คุณควบคุมเป็น Material\nถ้า \"Dream Mirror of Joy\" อยู่ใน Field Zone คุณสามารถใช้มอนสเตอร์ในมือของคุณเป็น Material ได้เช่นกัน\nถ้า \"Dream Mirror of Terror\" อยู่ใน Field Zone คุณสามารถเอามอนสเตอร์จากสุสานของคุณออกจากเกมเป็น Material ได้เช่นกัน\nคุณสามารถเปิดใช้ \"Dream Mirror of Chaos\" ได้เพียง 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "d3dd0c7761f033dff70d87a34262d75654f7d6b92bf528d7361604a4704d89e3",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

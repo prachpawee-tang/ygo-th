@@ -1,0 +1,9 @@
+{
+  "id": "59893882",
+  "name": "Evil HERO Inferno Wing - Backfire",
+  "th": "\"Elemental HERO Avian\" หรือ \"Elemental HERO Burstinatrix\" + มอนสเตอร์ \"HERO\" 1 ตัว\nต้องอัญเชิญพิเศษด้วย \"Dark Fusion\"\nถ้าการ์ดใบนี้ถูกอัญเชิญพิเศษ: คุณสามารถเพิ่มการ์ด \"Dark Fusion\" 1 ใบ หรือการ์ดที่กล่าวถึงมัน 1 ใบจากเด็คหรือสุสานของคุณขึ้นมือได้; ยกเว้น Fusion Monsters\nถ้ามอนสเตอร์ \"HERO\" ของคุณทำลายมอนสเตอร์ของคู่ต่อสู้ในการต่อสู้: สร้างความเสียหาย 2100 ให้กับคู่ต่อสู้\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Evil HERO Inferno Wing - Backfire\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "5012621290a09d6b809d08d5412450480ed416441aab00cc12d8e2784e7761ed",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

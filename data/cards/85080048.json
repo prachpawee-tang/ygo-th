@@ -1,0 +1,9 @@
+{
+  "id": "85080048",
+  "name": "Judgment of Thunder",
+  "th": "เปิดใช้ได้เมื่อคุณอัญเชิญมอนสเตอร์ประเภท Thunder\nทำลายการ์ด 1 ใบที่คู่ต่อสู้ควบคุม",
+  "status": "ai",
+  "en_sha256": "3fe8046e9de8ddc9e2f696ca3fea7a0a3cca7f3f69862cdb52505ea1c55b10ab",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "40672993",
+  "name": "Lightning Rod Lord",
+  "th": "ผู้เล่นทั้งสองไม่สามารถเปิดใช้การ์ดเวทมนตร์ในช่วง Main Phase 1 ได้.",
+  "status": "ai",
+  "en_sha256": "ef8fa52b9646aeeec46257aa0ea7f3f098547795bfda8a0954d257809984a86e",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

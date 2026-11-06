@@ -1,0 +1,9 @@
+{
+  "id": "93124273",
+  "name": "Samurai Cavalry of Reptier",
+  "th": "เมื่อเริ่ม Damage Step, ถ้าการ์ดใบนี้โจมตีมอนสเตอร์หงายของคู่ต่อสู้ที่ไม่ใช่ Pendulum Monster: คุณสามารถทำลายมอนสเตอร์นั้นได้.",
+  "status": "ai",
+  "en_sha256": "a07f0239867151821baefe78f290cbc7c2b7f55684ceabd048669e265e842d02",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

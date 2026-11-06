@@ -1,0 +1,10 @@
+{
+  "id": "57272170",
+  "name": "Evigishki Soul Ogre",
+  "th": "คุณสามารถ อัญเชิญแบบ Ritual การ์ดใบนี้ด้วยการ์ด Spell Ritual \"Gishki\" ใดๆ ก็ได้\n1 ครั้งต่อเทิร์น: คุณสามารถ ทิ้งการ์ดมอนสเตอร์ \"Gishki\" 1 ตัวเพื่อเลือกเป้าหมายการ์ดที่คว่ำอยู่ 1 ใบที่คู่ต่อสู้ควบคุม; สับการ์ดเป้าหมายนั้นกลับเข้าเด็ค",
+  "status": "ai",
+  "en_sha256": "f83ef8053f8174d04411aaa1d8c519bbb9bfe1d0aa2b0b303daed80f9514bffb",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: \"face-up\" ×1 in English but \"หงาย\" ×0 in Thai — meaning may be wrong"
+}

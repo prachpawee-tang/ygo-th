@@ -1,0 +1,9 @@
+{
+  "id": "28115467",
+  "name": "MiSolfachord Eliteia",
+  "th": "[ Pendulum Effect ]\nการอัญเชิญแบบ Pendulum ของมอนสเตอร์ \"Solfachord\" Pendulum ของคุณไม่สามารถถูกลบล้างได้\n[ Monster Effect ]\nตราบใดที่คุณมี Pendulum Scale ที่เป็นเลขคู่ใน Pendulum Zone ของคุณ คุณจะไม่ได้รับความเสียหายจากการต่อสู้ที่เกี่ยวข้องกับมอนสเตอร์ \"Solfachord\" Pendulum ของคุณ\nเมื่อการ์ดใบนี้ถูกอัญเชิญปกติหรืออัญเชิญพิเศษ: คุณสามารถเลือกเป้าหมาย Spell/Trap 1 ใบที่คู่ต่อสู้ควบคุม; คืนมันขึ้นมือ\nคุณสามารถใช้เอฟเฟกต์ของ \"MiSolfachord Eliteia\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "111f7479846f8e44486e5f21f2d44fc144743a1680cbfcbd2df48232f83a202d",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

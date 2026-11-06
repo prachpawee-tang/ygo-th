@@ -1,0 +1,9 @@
+{
+  "id": "66078354",
+  "name": "Magicore Warrior of the Relics",
+  "th": "ไม่สามารถโจมตีได้ เว้นแต่คุณจะควบคุม \"Adventurer Token\"\nคุณสามารถใช้เอฟเฟกต์ต่อไปนี้ของ \"Magicore Warrior of the Relics\" ได้แต่ละเอฟเฟกต์ 1 ครั้งต่อเทิร์น\nถ้าคุณควบคุม \"Adventurer Token\": คุณสามารถ อัญเชิญพิเศษ การ์ดใบนี้จากมือของคุณได้\nเมื่อสิ้นสุด Battle Phase, ถ้ามอนสเตอร์ของคุณที่กล่าวถึง \"Adventurer Token\" ได้ต่อสู้: คุณสามารถ เซ็ต กับดัก 1 ใบที่กล่าวถึง \"Adventurer Token\" จากเด็คของคุณโดยตรง",
+  "status": "ai",
+  "en_sha256": "7c9230553349c54e788904e65c10bf0eca74180c70379d091e5a19a2f0b10433",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "69091732",
+  "name": "Introduction to Gallantry",
+  "th": "เปิดใช้ได้เมื่อคู่ต่อสู้มีการ์ด 5 ใบขึ้นไปในมือเท่านั้น\nคู่ต่อสู้ทิ้งการ์ดแบบสุ่ม 1 ใบ",
+  "status": "ai",
+  "en_sha256": "d290fd3aa5e6e7b73b5f668072734d540ad91ce7fbfd79be1bde727f6ae380ca",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

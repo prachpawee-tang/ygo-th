@@ -1,0 +1,9 @@
+{
+  "id": "50215517",
+  "name": "Scarlet Security",
+  "th": "ถ้าคุณควบคุม \"Red Dragon Archfiend\": ทำลายการ์ดเวทมนตร์และกับดักทั้งหมดที่คู่ต่อสู้ควบคุม.",
+  "status": "ai",
+  "en_sha256": "67ba8d40b76110622c8ff7b9dfbc5f82c63daf8f535a8385bdeb64b3eebadf80",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

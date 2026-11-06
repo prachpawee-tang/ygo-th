@@ -1,0 +1,9 @@
+{
+  "id": "60369732",
+  "name": "Final Ritual of the Ancients",
+  "th": "การ์ดใบนี้ใช้สำหรับอัญเชิญแบบพิธีกรรม \"Reshef the Dark Being\"\nคุณต้องสังเวยมอนสเตอร์ที่มี Level รวมกันเท่ากับ 8 หรือมากกว่า จากสนามหรือมือของคุณด้วย",
+  "status": "ai",
+  "en_sha256": "3d3b534293038cee04dafc31be137c388e1411c67be28d8eceeedd574aebe8b8",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

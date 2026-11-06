@@ -1,9 +1,9 @@
 {
   "id": "84815190",
   "name": "Baronne de Fleur",
-  "th": "1 Tuner + 1+ non-Tuner monsters\n1 ครั้งต่อเทิร์น: คุณสามารถเลือกเป้าหมายการ์ด 1 ใบในสนาม; ทำลายมัน Once while face-up on the field, when a card or effect is activated (Quick Effect): You can negate the activation, and if you do, destroy that card. คุณสามารถใช้เอฟเฟกต์ก่อนหน้านี้ของ \"Baronne de Fleur\" ได้ 1 ครั้งต่อเทิร์น Once per turn, during the Standby Phase: You can target 1 Level 9 หรือต่ำกว่า monster ใน GY ของคุณ; คืนการ์ดใบนี้ไปยัง เอ็กซ์ตร้าเด็ค และถ้าทำได้, อัญเชิญพิเศษมอนสเตอร์นั้น",
+  "th": "1 Tuner + 1+ non-Tuner monsters\n1 ครั้งต่อเทิร์น: คุณสามารถเลือกเป้าหมายการ์ด 1 ใบในสนาม; ทำลายมัน\nเมื่ออยู่ในสนามแบบหงาย, เมื่อมีการ์ดหรือเอฟเฟกต์เปิดใช้ (Quick Effect): คุณสามารถลบล้างการเปิดใช้งานนั้นได้ และถ้าทำได้ ให้ทำลายการ์ดใบนั้น\nคุณสามารถใช้เอฟเฟกต์ก่อนหน้านี้ของ \"Baronne de Fleur\" ได้ 1 ครั้งต่อเทิร์น\n1 ครั้งต่อเทิร์น, ในช่วง Standby Phase: คุณสามารถเลือกเป้าหมายมอนสเตอร์ Level 9 หรือต่ำกว่า 1 ตัวในสุสานของคุณ; ส่งการ์ดใบนี้กลับไปยังเอ็กซ์ตร้าเด็ค และถ้าทำได้ ให้ อัญเชิญพิเศษมอนสเตอร์นั้น",
   "status": "ai",
   "en_sha256": "e727d0efcaedb867a6c692a3acb5050242cde2e2b02017daef55dcae9b6d9183",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-06"
 }

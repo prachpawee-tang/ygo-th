@@ -1,0 +1,9 @@
+{
+  "id": "45037489",
+  "name": "Chevalier de Fleur",
+  "th": "\"Fleur Synchron\" + มอนสเตอร์ non-Tuner 1 ตัวขึ้นไป\nระหว่างเทิร์นของคุณ เมื่อใดก็ตามที่คู่ต่อสู้เปิดใช้การ์ด Spell/Trap คุณสามารถลบล้างการเปิดใช้งานและทำลายการ์ดใบนั้นได้",
+  "status": "ai",
+  "en_sha256": "e1bf70d6a3dd5323db1226decb5f3748ba3d30652f983e5a762cf3adef60d61c",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

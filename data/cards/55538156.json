@@ -1,0 +1,9 @@
+{
+  "id": "55538156",
+  "name": "Ultimate Fire Formation - Sinto",
+  "th": "เมื่อมีการเปิดใช้การ์ด Spell/Trap ขณะที่คุณควบคุมมอนสเตอร์ \"Fire Fist\" และการ์ด Spell/Trap \"Fire Formation\": ลบล้างการเปิดใช้งาน และถ้าทำได้ ให้ทำลายการ์ดใบนั้น\nคุณสามารถเปิดใช้ \"Ultimate Fire Formation - Sinto\" ได้เพียง 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "deae0c8806f4a34c5acc5cb41e82bbda54800507bb5cb5a6752e6b1ed6036e5c",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

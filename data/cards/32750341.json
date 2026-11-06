@@ -1,0 +1,9 @@
+{
+  "id": "32750341",
+  "name": "Battlin' Boxer Sparrer",
+  "th": "ถ้าคุณควบคุมมอนสเตอร์ \"Battlin' Boxer\" คุณสามารถอัญเชิญพิเศษการ์ดใบนี้ (จากมือ) ได้\nถ้าทำเช่นนั้น คุณจะไม่สามารถทำ Battle Phase ของคุณได้ในเทิร์นนี้",
+  "status": "ai",
+  "en_sha256": "0afda1c575a3fa72de8beef40c13b7c87e6d24e44dfd8dc303746a041c0cdd92",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

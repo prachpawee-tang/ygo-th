@@ -1,0 +1,9 @@
+{
+  "id": "96907086",
+  "name": "Earthbound Whirlwind",
+  "th": "ถ้าคุณควบคุมมอนสเตอร์ \"Earthbound Immortal\": ทำลายการ์ดเวทมนตร์และกับดักทั้งหมดที่คู่ต่อสู้ควบคุม.",
+  "status": "ai",
+  "en_sha256": "72d44d0cab86e139ee68bed865cbf1669ecc7ae9ef55dfe1d058da6d458c67d9",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

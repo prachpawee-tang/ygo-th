@@ -1,0 +1,10 @@
+{
+  "id": "96433300",
+  "name": "Ogdoadic Hollow",
+  "th": "ระหว่าง Main Phase: คุณสามารถสังเวย มอนสเตอร์เอฟเฟกต์ Reptile 1 ตัว, จากนั้นเลือกเป้าหมายมอนสเตอร์ 1 ตัวในสุสานของคู่ต่อสู้; อัญเชิญพิเศษมันลงสนามของคุณ, แต่ส่งมันลงสุสานในช่วง End Phase\nคุณสามารถใช้เอฟเฟกต์ของ \"Ogdoadic Hollow\" ได้ 1 ครั้งต่อเทิร์น\nถ้าการ์ดที่หงายนี้ถูกส่งจาก Spell & Trap Zone ไปยังสุสาน: ส่งมอนสเตอร์ที่ไม่ใช่ Reptile ที่คุณควบคุมทั้งหมดลงสุสาน",
+  "status": "ai",
+  "en_sha256": "d1423d0517b69c6a2a17d3862faafe8a332cd6381eab09459d08047a81de220c",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: \"face-up\" ×2 in English but \"หงาย\" ×1 in Thai — meaning may be wrong"
+}

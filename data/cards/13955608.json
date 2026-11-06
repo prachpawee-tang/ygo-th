@@ -1,0 +1,9 @@
+{
+  "id": "13955608",
+  "name": "Stronghold the Moving Fortress",
+  "th": "อัญเชิญพิเศษการ์ดใบนี้ในท่าป้องกันแบบมอนสเตอร์เอฟเฟกต์ (Machine/EARTH/Level 4/ATK 0/DEF 2000)\n(การ์ดใบนี้ยังคงเป็นกับดัก) ตราบใดที่คุณควบคุม \"Green Gadget\", \"Red Gadget\" และ \"Yellow Gadget\", การ์ดใบนี้จะได้รับ ATK 3000",
+  "status": "ai",
+  "en_sha256": "a76de71c22c3cb71214f42442577aaa020a434ef7e434e2881a5367b0d552b92",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

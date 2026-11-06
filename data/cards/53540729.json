@@ -1,0 +1,10 @@
+{
+  "id": "53540729",
+  "name": "Wind-Up Warrior",
+  "th": "คุณสามารถเลือกเป้าหมายมอนสเตอร์ \"Wind-Up\" ที่หงายอยู่ที่คุณควบคุม; เพิ่ม Level ของมันขึ้น 1 และเพิ่ม ATK ของมัน 600 จนถึง End Phase\nเอฟเฟกต์นี้สามารถใช้ได้เพียงครั้งเดียวขณะที่การ์ดใบนี้หงายอยู่บนสนาม",
+  "status": "ai",
+  "en_sha256": "5c2a5e0a7ddc1a3bcca79d007a94d231bcb98a1ee56e6a9216ca61b8177edf11",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

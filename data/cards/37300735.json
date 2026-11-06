@@ -1,0 +1,9 @@
+{
+  "id": "37300735",
+  "name": "T.G. Jet Falcon",
+  "th": "ถ้าการ์ดใบนี้ถูกส่งลงสุสานเป็น Material Synchro: สร้างความเสียหาย 500 ให้กับคู่ต่อสู้.",
+  "status": "ai",
+  "en_sha256": "888d809e75fefad1665fb650512c8e599434eae58fd30b399484face12b3b4f7",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

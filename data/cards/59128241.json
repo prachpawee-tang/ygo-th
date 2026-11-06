@@ -1,0 +1,9 @@
+{
+  "id": "59128241",
+  "name": "King of Beasts, Risen from the Valley of Flames",
+  "th": "มอนสเตอร์เอฟเฟกต์ FIRE 3 ตัว\n(การ์ดใบนี้ถือว่าเป็น \"Salamangreat Heatleo\" เสมอ)\nมอนสเตอร์ที่หงายอยู่บนสนามกลายเป็น FIRE\nระหว่าง Main Phase, ถ้าการ์ดใบนี้ถูกอัญเชิญ Link โดยใช้ \"Salamangreat Heatleo\" (Quick Effect): คุณสามารถเลือกเป้าหมายการ์ด 1 ใบที่คู่ต่อสู้ควบคุม; สับมันกลับเข้าเด็ค จากนั้นคุณสามารถทำให้ ATK ของมอนสเตอร์ FIRE 1 ตัวที่คู่ต่อสู้ควบคุมกลายเป็น ATK ของมอนสเตอร์ 1 ตัวในสุสานของคุณ\nคุณสามารถใช้เอฟเฟกต์ของ \"King of Beasts, Risen from the Valley of Flames\" ได้เพียง 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "962d7f51a55a2f6d9ab753fef8fd5034ae29001f4c66cf0d4ba1fb524b8946a5",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

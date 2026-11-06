@@ -1,0 +1,9 @@
+{
+  "id": "89732524",
+  "name": "Tour Bus To Forbidden Realms",
+  "th": "พลิก: เพิ่มมอนสเตอร์ประเภท Fiend 1 ตัวจากเด็คของคุณขึ้นมือ, ยกเว้นมอนสเตอร์ DARK หรือ LIGHT.",
+  "status": "ai",
+  "en_sha256": "12b0a3ed253ebdd43cdbea7c382e3cbbb27111a3d4743f772ec87f369be227c6",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

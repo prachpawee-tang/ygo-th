@@ -1,0 +1,9 @@
+{
+  "id": "10789972",
+  "name": "Cu Chulainn the Awakened",
+  "th": "การ์ดใบนี้สามารถอัญเชิญแบบ Ritual ได้โดยใช้การ์ด Spell Ritual, Emblem of the Awakening เท่านั้น\n1 ครั้งต่อเทิร์น คุณสามารถนำมอนสเตอร์ Normal 1 ตัวจากสุสานของคุณออกจากสนามได้\nการ์ดใบนี้ได้รับ ATK เท่ากับ ATK ของมอนสเตอร์ Normal นั้น จนถึง Standby Phase ในเทิร์นถัดไปของคุณ",
+  "status": "ai",
+  "en_sha256": "a5bbf9063d13c1793fc66d23aef3aa409e01bba212e9e1a1b2ebcf7db2c8d510",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

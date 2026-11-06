@@ -1,0 +1,10 @@
+{
+  "id": "49858495",
+  "name": "Power Pro Lady Sisters",
+  "th": "''The three Power Pro girls are best friends! And their passion for baseball soars like a home run!''\nAoi Hayakawa was the first female player in the league.\nHer signature pitch is a submariner she calls The Marine Ball!\nMizuki Tachibana is more of a tomboy than her senpai, best known for her Crescent Moon Pitch and her love for the pudding sold down at Pawado!\nHijiri Rokudo is a catcher with a rare gift for baseball! She's been best friends with Mizuki since junior high and her favorite at Pawado is the Kintsuba!''",
+  "status": "ai",
+  "en_sha256": "5073d1b85860529d34239d835d3bdd5973b31ea351a2c4491042381bd1956cf4",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: no Thai text"
+}

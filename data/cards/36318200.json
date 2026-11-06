@@ -1,0 +1,9 @@
+{
+  "id": "36318200",
+  "name": "Uniflora, Mystical Beast of the Forest",
+  "th": "ถ้ามอนสเตอร์ทั้งหมดในสุสานของคุณเป็นมอนสเตอร์ประเภท Beast-Type: คุณสามารถสังเวยการ์ดใบนี้; อัญเชิญพิเศษมอนสเตอร์ประเภท Beast-Type 1 ตัวจากมือหรือสุสานของคุณ ยกเว้น \"Uniflora, Mystical Beast of the Forest\", แต่การ์ดใบนั้นจะไม่สามารถโจมตีได้ในเทิร์นนี้.",
+  "status": "ai",
+  "en_sha256": "ed3c4a8400a15f97a295b678e06a4c289238a9573f643523544ff7134b1a0fc0",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

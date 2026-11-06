@@ -1,0 +1,9 @@
+{
+  "id": "46999905",
+  "name": "Saambell the Star Bonder",
+  "th": "[ Pendulum Effect ]\nถ้าคุณมี Pendulum Monster Card ที่มี Level เดียวกันกับใบนี้ใน Pendulum Zone อีกฝั่ง: คุณสามารถทำลายการ์ดใน Pendulum Zone อีกฝั่งของคุณได้ และถ้าทำได้ ให้ อัญเชิญพิเศษใบนี้\nคุณสามารถใช้เอฟเฟกต์ของ \"Saambell the Star Bonder\" ได้ 1 ครั้งต่อเทิร์น\n[ Monster Effect ]\nถ้ามีการ์ดมอนสเตอร์ถูก อัญเชิญพิเศษมาที่สนามของคุณในขณะที่คุณควบคุมมอนสเตอร์ใบนี้ (ยกเว้นระหว่าง Damage Step): คุณสามารถ อัญเชิญพิเศษมอนสเตอร์ 1 ตัวจากมือของคุณที่มี Level เดียวกันกับใบนี้\nคุณสามารถใช้เอฟเฟกต์ของ \"Saambell the Star Bonder\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "27f5395640d7e4d6d092e0cd643ce8611a064d4e72ba9fe7464ad6a734548af6",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

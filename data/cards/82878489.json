@@ -1,0 +1,9 @@
+{
+  "id": "82878489",
+  "name": "Shine Palace",
+  "th": "ใส่ได้เฉพาะกับมอนสเตอร์ LIGHT เท่านั้น\nมันได้รับ ATK 700",
+  "status": "ai",
+  "en_sha256": "233df290f4f1efb6f02f69dea9c80f1c3804a6bf46b85a4dda133a527671704b",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

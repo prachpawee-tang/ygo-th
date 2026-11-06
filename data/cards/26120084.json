@@ -1,0 +1,9 @@
+{
+  "id": "26120084",
+  "name": "Super Double Summon",
+  "th": "เลือกมอนสเตอร์ Gemini 1 ตัวที่คุณควบคุม และทำการอัญเชิญปกติมัน\nในช่วง End Phase ของเทิร์นนี้ ให้ส่งมันกลับขึ้นมือ",
+  "status": "ai",
+  "en_sha256": "77c7ca0531a8be4eb1a1f6959ddcf30366f2128f803edb85af1c1d0a99afd920",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

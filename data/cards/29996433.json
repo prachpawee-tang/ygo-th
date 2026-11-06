@@ -1,0 +1,9 @@
+{
+  "id": "29996433",
+  "name": "Dinowrestler Capoeiraptor",
+  "th": "การ์ดท่าโจมตีนี้ไม่สามารถถูกทำลายด้วยการต่อสู้\nถ้าการ์ดใบนี้ถูกโจมตี ให้เปลี่ยนมันเป็นท่าป้องกันเมื่อจบเฟส Damage Step\nในช่วง Standby Phase, ถ้าการ์ดใบนี้อยู่ในท่าป้องกัน: คุณสามารถ อัญเชิญพิเศษ \"Dinowrestler Capoeiraptor\" 1 ตัวจากเด็คของคุณ\nคุณสามารถใช้เอฟเฟกต์ของ \"Dinowrestler Capoeiraptor\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "3a055379527d5db482993716b2b243c3dca93cbfe5a6d40d21095cd60ab02b00",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "29216967",
+  "name": "Gimmick Puppet Scissor Arms",
+  "th": "เมื่อการ์ดใบนี้ถูกอัญเชิญปกติ: คุณสามารถส่งมอนสเตอร์ \"Gimmick Puppet\" 1 ตัวจากเด็คของคุณลงสุสาน.",
+  "status": "ai",
+  "en_sha256": "46300771187598be08cbf847fde36c5c66d3cf12a939fedd004e54e597902901",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

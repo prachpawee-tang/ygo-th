@@ -1,0 +1,10 @@
+{
+  "id": "2843014",
+  "name": "Nimble Sunfish",
+  "th": "เมื่อการ์ดใบนี้ถูกทำลายด้วยการต่อสู้และส่งลงสุสาน ให้ส่งมอนสเตอร์ประเภท Fish จากเด็คของคุณลงสุสาน\nจากนั้น คุณสามารถอัญเชิญพิเศษ \"Nimble Sunfish\" 1 ตัวจากเด็คของคุณได้",
+  "status": "ai",
+  "en_sha256": "92db976b0501af9ec78dc9af9147c29e9f272666f27ebae0d5733793dce42b48",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

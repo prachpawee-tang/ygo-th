@@ -1,0 +1,9 @@
+{
+  "id": "47421985",
+  "name": "Hydro Genex",
+  "th": "\"Genex Controller\" + มอนสเตอร์ WATER non-Tuner 1 ตัวขึ้นไป\nเมื่อการ์ดใบนี้ทำลายมอนสเตอร์ของคู่ต่อสู้ด้วยการต่อสู้และส่งลงสุสาน, ได้รับ Life Points เท่ากับ ATK ของมอนสเตอร์ที่ถูกทำลาย",
+  "status": "ai",
+  "en_sha256": "8ba915b7b94bacc41361f3357758e08237a4ee24db212ad975a0af8cc04aa449",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

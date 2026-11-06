@@ -1,0 +1,9 @@
+{
+  "id": "8715625",
+  "name": "Bokoichi the Freightening Car",
+  "th": "ตู้สินค้าที่สำหรับ Dekoichi เท่านั้น\nมันสามารถขนส่งอะไรก็ได้ แต่สินค้าส่วนใหญ่มาถึงในสภาพเสียหาย",
+  "status": "ai",
+  "en_sha256": "55680a6e1dd41bb568d9df62dd76b30e08e40174e633cfd47d4ae1d5c424e7ad",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

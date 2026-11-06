@@ -1,0 +1,9 @@
+{
+  "id": "76232340",
+  "name": "Sengenjin",
+  "th": "สัตว์ป่าที่หยุดไม่ได้ซึ่งบรรทุกไอเทม Millennium.",
+  "status": "ai",
+  "en_sha256": "e294c81f5ac0c5f3b855b601d7c90ff5d27a60d5cb8f880d87441fb31f720005",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

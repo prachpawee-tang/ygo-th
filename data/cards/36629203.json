@@ -1,0 +1,9 @@
+{
+  "id": "36629203",
+  "name": "Ally of Justice Core Destroyer",
+  "th": "เมื่อเริ่ม Damage Step, ถ้าการ์ดใบนี้ทำการต่อสู้กับมอนสเตอร์ LIGHT: ทำลายมอนสเตอร์นั้น.",
+  "status": "ai",
+  "en_sha256": "09b33dfe57e9bbbad8b32ab13586e69df0b57a43d7c0c717d4f4c201a973a385",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

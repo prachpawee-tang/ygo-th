@@ -1,0 +1,9 @@
+{
+  "id": "81873903",
+  "name": "Evoltile Westlo",
+  "th": "พลิก: อัญเชิญพิเศษมอนสเตอร์ \"Evolsaur\" 1 ตัวจากเด็คของคุณ.",
+  "status": "ai",
+  "en_sha256": "fe22d709dd383d5bf49ed6f96a0c175eaaa5ba161e2c371a9e3867c8c9c8d11d",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

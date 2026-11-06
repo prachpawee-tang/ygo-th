@@ -1,0 +1,9 @@
+{
+  "id": "71620241",
+  "name": "Advanced Crystal Beast Sapphire Pegasus",
+  "th": "ถ้า \"Advanced Dark\" ไม่อยู่ใน Field Zone ให้ส่งมอนสเตอร์ตัวนี้ลงสุสาน\nเมื่อการ์ดใบนี้ถูกอัญเชิญ: คุณสามารถวางมอนสเตอร์ \"Advanced Crystal Beast\" ของคุณ 1 ตัวที่ถูกเอาออกจากเกม หรืออยู่ในมือ เด็ค หรือ สุสาน ใน Spell & Trap Zone ของคุณแบบหงาย เป็นการ์ดเวทมนตร์ต่อเนื่อง\nถ้าการ์ดหงายใบนี้ถูกทำลายใน Main Monster Zone คุณสามารถวางมันแบบหงายใน Spell & Trap Zone ของคุณเป็นการ์ดเวทมนตร์ต่อเนื่อง แทนที่จะส่งมันลงสุสาน",
+  "status": "ai",
+  "en_sha256": "2db3bd25fd104e944b9afb2fed9c873ddfcd1267796cbd5e9a2c28af19bfb00c",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

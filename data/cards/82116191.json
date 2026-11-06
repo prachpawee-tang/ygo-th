@@ -1,0 +1,9 @@
+{
+  "id": "82116191",
+  "name": "Gigantic Cephalotus",
+  "th": "การ์ดใบนี้ได้รับ ATK 200 ทุกครั้งที่มีมอนสเตอร์ Type พืชถูกส่งจากสนามไปยังสุสาน.",
+  "status": "ai",
+  "en_sha256": "c9c57e7230801f60bdff3e3ad8c12ebf22fc334395f381fa87cd619a797b91f1",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

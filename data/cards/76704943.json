@@ -1,0 +1,9 @@
+{
+  "id": "76704943",
+  "name": "Yamatano Dragon Scroll",
+  "th": "\"มังกรที่ถูกร่ายจากคัมภีร์ที่มันถูกวาดไว้.\"",
+  "status": "ai",
+  "en_sha256": "452b45ffbc7882a9ca57cf23dac8676d406d9d9c6b5a0683bd7c93eaeb477b10",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

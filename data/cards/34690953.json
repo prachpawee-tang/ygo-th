@@ -1,0 +1,9 @@
+{
+  "id": "34690953",
+  "name": "Curse of Aramatir",
+  "th": "ระหว่าง Main Phase ของคุณ: คุณสามารถ อัญเชิญพิเศษ \"Adventurer Token\" (Fairy/EARTH/Level 4/ATK 2000/DEF 2000) ไปยัง Main Monster Zone หรือ Extra Monster Zone ได้ 1 ตัว จากนั้นส่งการ์ด 1 ใบจากมือของคุณลงสุสาน\nคุณไม่สามารถ อัญเชิญพิเศษ มอนสเตอร์ได้ในเทิร์นที่คุณเปิดใช้งานเอฟเฟกต์นี้ ยกเว้น \"Adventurer Tokens\" และมอนสเตอร์ที่กล่าวถึงมัน\nถ้า มอนสเตอร์ที่คุณควบคุมถูกทำลายโดยการต่อสู้หรือเอฟเฟกต์ของการ์ด: คุณสามารถ อัญเชิญพิเศษ \"Adventurer Token\" 1 ตัวไปยัง Main Monster Zone หรือ Extra Monster Zone ได้\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Curse of Aramatir\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "eae328fda8662ddb1f7213db7df28398b303c387234ed2fcc1be4b0c93a41e3f",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

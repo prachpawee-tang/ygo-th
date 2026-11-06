@@ -1,0 +1,9 @@
+{
+  "id": "74095602",
+  "name": "Change of Hero - Reflector Ray",
+  "th": "เมื่อ \"Elemental HERO\" Fusion Monster ที่คุณควบคุมถูกทำลายด้วยการต่อสู้และส่งลงสุสาน: สร้างความเสียหายให้คู่ต่อสู้เท่ากับ Level เดิมของมัน x 300.",
+  "status": "ai",
+  "en_sha256": "8486463e38fcbd670dcc5a8c0fb9764fce5197f5bc086b9445dff7f31268eecf",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

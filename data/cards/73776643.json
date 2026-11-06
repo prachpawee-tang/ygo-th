@@ -1,0 +1,9 @@
+{
+  "id": "73776643",
+  "name": "Papa-Corn",
+  "th": "ตราบใดที่มีการ์ด Field Spell Card อยู่ในสภาพหงายบนสนาม, การ์ดใบนี้จะได้รับ ATK 1000.",
+  "status": "ai",
+  "en_sha256": "87bc2d6b2854b0abfff46eda277a23629ba82d239b4536098edb6dc0a71a77d3",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

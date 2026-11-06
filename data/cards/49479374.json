@@ -1,0 +1,9 @@
+{
+  "id": "49479374",
+  "name": "Quick Charger",
+  "th": "เพิ่มมอนสเตอร์ \"Batteryman\" ระดับ 4 หรือต่ำกว่า 2 ตัวจากสุสานของคุณขึ้นมือ.",
+  "status": "ai",
+  "en_sha256": "d751ad443628985dbbab129d9a19c8707b50413b5ea4c20c0b140bedc6b4fcee",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

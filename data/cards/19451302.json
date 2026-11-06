@@ -1,0 +1,9 @@
+{
+  "id": "19451302",
+  "name": "Serpent Suppression",
+  "th": "มอนสเตอร์ที่หงายอยู่และอยู่ในท่าโจมตีที่มี ATK 0 ที่คู่ต่อสู้ควบคุมไม่สามารถถูกทำลายด้วยการต่อสู้โดยมอนสเตอร์ \"Reptilianne\".",
+  "status": "ai",
+  "en_sha256": "6a14dccfcaea5d84b160b5001abf2e3e0870d0abcb607673c4c6aad9fe12b42f",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

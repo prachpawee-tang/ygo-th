@@ -1,0 +1,9 @@
+{
+  "id": "68860936",
+  "name": "Tindangle Angel",
+  "th": "FLIP: คุณสามารถอัญเชิญพิเศษมอนสเตอร์แบบพลิก 1 ตัวจากมือหรือสุสานของคุณในท่าป้องกันคว่ำ ยกเว้น \"Tindangle Angel\" จากนั้น ถ้าเป็น Battle Phase ของคู่ต่อสู้ ให้จบ Battle Phase\nคุณสามารถใช้เอฟเฟกต์ของ \"Tindangle Angel\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "a2e73b9f05084ef9ebfb6c181567b6aa8882992f17aa2035eb47ab9cbac11f7e",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "44710391",
+  "name": "Earthbound Geoglyph",
+  "th": "ตราบใดที่มอนสเตอร์ Level 10 อยู่ในสนาม การ์ดใบนี้จะไม่สามารถถูกเลือกเป้าหมายหรือทำลายโดยเอฟเฟกต์ของการ์ดได้\nคุณสามารถนับ Synchro Monster 1 ตัวเป็น Tribute 2 ตัวสำหรับการอัญเชิญแบบสังเวยมอนสเตอร์ \"Earthbound Immortal\"\nถ้ามีการอัญเชิญพิเศษ Synchro Monster(s) (ยกเว้นในช่วง Damage Step): คุณสามารถเพิ่มการ์ด Spell/Trap \"Earthbound Immortal\" 1 ใบจากเด็คของคุณขึ้นมือได้\nคุณสามารถใช้เอฟเฟกต์ของ \"Earthbound Geoglyph\" ได้เพียง 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "4249aa5310db942bc4a93e86b95309ecc5f3b5d9a835e6da18336796f04c9104",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

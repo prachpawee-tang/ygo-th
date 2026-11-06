@@ -1,0 +1,9 @@
+{
+  "id": "18597560",
+  "name": "Cybernetic Revolution",
+  "th": "สังเวย \"Cyber Dragon\" 1 ตัว; อัญเชิญพิเศษมอนสเตอร์ Fusion 1 ตัวจากเอ็กซ์ตร้าเด็คของคุณที่ระบุมอนสเตอร์ \"Cyber Dragon\" เป็น Material, แต่จะไม่สามารถโจมตีโดยตรงได้ และจะถูกทำลายในช่วง End Phase ของเทิร์นถัดไป\nคุณสามารถเปิดใช้ \"Cybernetic Revolution\" ได้เพียง 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "45e2fbfc223805e4177e7750b4ed92e256e25776c3fa3d396f5be1fbb5e653bc",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

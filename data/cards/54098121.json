@@ -1,0 +1,9 @@
+{
+  "id": "54098121",
+  "name": "Mysterious Puppeteer",
+  "th": "ทุกครั้งที่คุณหรือคู่ต่อสู้ทำการอัญเชิญปกติหรืออัญเชิญแบบพลิกมอนสเตอร์ เพิ่ม Life Points ของคุณ 500 points.",
+  "status": "ai",
+  "en_sha256": "e2aa5f017aa8ebee92ba1632c128057a067ffeda56b3e520f72f31f685c6240f",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

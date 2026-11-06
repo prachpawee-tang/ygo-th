@@ -1,0 +1,9 @@
+{
+  "id": "28121403",
+  "name": "Really Eternal Rest",
+  "th": "ทำลายมอนสเตอร์ทั้งหมดที่ถูกติดตั้งการ์ดติดตั้ง.",
+  "status": "ai",
+  "en_sha256": "d1748988a57bfe0f3d0f6ba54047f223743f7a837d0340cbb3dc8acc1d22d2e3",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

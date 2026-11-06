@@ -1,0 +1,9 @@
+{
+  "id": "7656689",
+  "name": "Genni, the Maid of Endymion",
+  "th": "(การ์ดใบนี้ถือว่าเป็นการ์ด \"Witchcrafter\" เสมอ)\nถ้าคุณควบคุมมอนสเตอร์ Spellcaster: คุณสามารถอัญเชิญพิเศษการ์ดใบนี้จากมือของคุณได้\nระหว่าง Main Phase (Quick Effect): คุณสามารถเลือกเป้าหมายมอนสเตอร์ Spellcaster 1 ตัวที่คุณควบคุม; เอามันออกจากเกม และถ้าทำได้ ให้ทำการอัญเชิญพิเศษมอนสเตอร์ \"Witchcrafter\" 1 ตัวจากเด็คของคุณ ยกเว้น \"Genni, the Maid of Endymion\"\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Genni, the Maid of Endymion\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "c73856548632809df2ba97e0702e1fdcdf5801c7eb681a38e65736a21ce2fb73",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

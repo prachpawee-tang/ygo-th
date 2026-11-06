@@ -1,0 +1,9 @@
+{
+  "id": "88923963",
+  "name": "Noble Knight Iyvanne",
+  "th": "ถ้าการ์ด “Noble Arms” Equip Spell กลายเป็น Equip กับการ์ดใบนี้: คุณสามารถ อัญเชิญพิเศษ “Noble Knight Token” (Warrior/LIGHT/Level 4/ATK 1000/DEF 1000) ได้, นอกจากนี้คุณจะไม่สามารถ อัญเชิญพิเศษมอนสเตอร์ได้สำหรับการเทิร์นที่เหลือนี้, ยกเว้นมอนสเตอร์ “Noble Knight”.\nคุณสามารถใช้เอฟเฟกต์ของ “Noble Knight Iyvanne” ได้เพียง 1 ครั้งต่อเทิร์น\nตราบใดที่การ์ดใบนี้ Equip ด้วย “Noble Arms” Equip Spell, มอนสเตอร์ “Noble Knight” อื่นๆ ทั้งหมดที่คุณควบคุมจะได้รับ ATK 500",
+  "status": "ai",
+  "en_sha256": "4c6d29c071f1bdb460f88efb9857e150a45cb83a5817c511b055aafdfa5005b5",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

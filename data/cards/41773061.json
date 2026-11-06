@@ -1,0 +1,9 @@
+{
+  "id": "41773061",
+  "name": "Voici la Carte (Today's Menu)",
+  "th": "เผยการ์ด \"Nouvelles\" มอนสเตอร์ 2 ใบที่มีชื่อต่างกันจากเด็คของคุณ, คู่ต่อสู้ของคุณเลือก 1 ใบให้คุณเพิ่มขึ้นมือ, และคุณสับการ์ดที่เหลือกลับเข้าเด็ค, จากนั้นคุณสามารถเพิ่มการ์ด 1 ใบจากเด็คหรือสุสานของคุณขึ้นมือ โดยอิงตามชนิดมอนสเตอร์ที่เพิ่มขึ้นมือด้วยเอฟเฟกต์นี้\n● Beast-Warrior: \"Recette de Poisson (Fish Recipe)\"\n● Warrior: \"Recette de Viande (Meat Recipe)\"\nคุณสามารถเปิดใช้ \"Voici la Carte (Today's Menu)\" ได้เพียง 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "d5f1e1a55202b70cc2ddd5bfe8db8cf9dd3eb13820da8e1ff93ecc3b5353929f",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

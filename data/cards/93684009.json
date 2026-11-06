@@ -1,0 +1,9 @@
+{
+  "id": "93684009",
+  "name": "Gladiator Rejection",
+  "th": "คู่ต่อสู้ของคุณไม่สามารถเลือกเป้าหมายมอนสเตอร์ \"Gladiator Beast\" ที่คุณควบคุมด้วยเอฟเฟกต์ของการ์ดได้ ยกเว้นในช่วง Battle Phase\nถ้ามีการ์ด \"Gladiator Beast\" ถูกอัญเชิญพิเศษจาก Main Deck ของคุณ (ยกเว้นในช่วง Damage Step): คุณสามารถอัญเชิญพิเศษมอนสเตอร์ \"Gladiator Beast\" 1 ตัวจากเด็คของคุณที่มี Type แตกต่างจากมอนสเตอร์ที่คุณควบคุม ในท่าป้องกัน\nคุณสามารถใช้เอฟเฟกต์นี้ของ \"Gladiator Rejection\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "fb5bd9a0c062a58ebfbbeb9737ac5d4f02b7fde5e44f703a48e9f5aaa46c93a7",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

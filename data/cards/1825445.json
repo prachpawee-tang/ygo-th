@@ -1,0 +1,9 @@
+{
+  "id": "1825445",
+  "name": "Super Quantal Union - Magnaformation",
+  "th": "คู่ต่อสู้ของคุณไม่สามารถเลือกเป้าหมายการ์ด \"Super Quant\" ที่อยู่ในสนามด้วยเอฟเฟกต์ของการ์ดในช่วง Main Phase 1 ของคุณได้\nคุณสามารถเลือกเป้าหมายมอนสเตอร์ Xyz \"Super Quant\" ที่คุณควบคุม 1 ตัว; ติดมอนสเตอร์หงายที่คุณควบคุมอีก 1 ตัวเป็น Material ให้กับมัน\nคุณสามารถใช้เอฟเฟกต์ของ \"Super Quantal Union - Magnaformation\" ได้เพียง 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "aeb991800a6c91e4e5cd20ee5cff1a922a7f88211c90501bffbcec303bf07bd0",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

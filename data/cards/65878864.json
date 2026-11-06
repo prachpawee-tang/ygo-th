@@ -1,0 +1,9 @@
+{
+  "id": "65878864",
+  "name": "Nobleman-Eater Bug",
+  "th": "พลิก: ทำลายมอนสเตอร์ 2 ตัวในสนาม.",
+  "status": "ai",
+  "en_sha256": "60d2e1f3ae5d679292e691cccf0704b6d2e40c9e665b8552cac8a9306301d25b",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

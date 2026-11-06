@@ -1,0 +1,9 @@
+{
+  "id": "22669793",
+  "name": "Eldlixir of the Glorious Golden Land",
+  "th": "คุณสามารถจ่าย LP 800 แล้วเปิดใช้งานเอฟเฟกต์ใดเอฟเฟกต์หนึ่งต่อไปนี้;\n● อัญเชิญพิเศษการ์ดใบนี้เป็นมอนสเตอร์ปกติ (Zombie/LIGHT/Level 10/ATK 1500/DEF 2800) (การ์ดใบนี้ยังคงเป็นกับดัก), จากนั้นถ้าคุณควบคุม \"Eldlich the Golden Lord\" คุณสามารถส่งมอนสเตอร์ 1 ตัวจากสนามกลับขึ้นมือ\n● เซ็ต การ์ด “Golden Land” หรือ “Eldlixir” ของคุณที่ถูกเอาออกจากเกม 1 ใบ\nคุณสามารถใช้เอฟเฟกต์ของ \"Eldlixir of the Glorious Golden Land\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "9baa2898e2d6f477df4d3c2fb1031edc586abbe4f8d6d0878055e6173fc02113",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

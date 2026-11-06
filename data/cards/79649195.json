@@ -1,0 +1,9 @@
+{
+  "id": "79649195",
+  "name": "Armor Break",
+  "th": "ลบล้างการเปิดใช้งานการ์ด Spell ประเภท Equip และทำลายมัน.",
+  "status": "ai",
+  "en_sha256": "9af395ba3821854e4e97363a4bf1f70553334ef6399c5f820377d397db14ed50",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

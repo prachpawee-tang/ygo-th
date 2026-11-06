@@ -1,0 +1,9 @@
+{
+  "id": "82190203",
+  "name": "Wings of Light",
+  "th": "ระหว่าง Main Phase: เพิ่มการ์ด Pendulum Monster \"Supreme King Dragon\" หรือ \"Supreme King Gate\" 1 ใบจากเด็คของคุณขึ้นมือ หรือ ถ้าคุณควบคุม \"Supreme King Z-ARC\" คุณสามารถอัญเชิญพิเศษมันแทนได้\nคุณสามารถเปิดใช้ \"Wings of Light\" ได้ 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "792ea98558f6884fa24325889404af3076ac4ba41522e9dde2e6f73644ad36b2",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

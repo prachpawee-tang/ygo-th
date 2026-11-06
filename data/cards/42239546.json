@@ -1,0 +1,9 @@
+{
+  "id": "42239546",
+  "name": "Chrysalis Mole",
+  "th": "คุณสามารถสังเวยการ์ดใบนี้ได้เมื่อ \"Neo Space\" อยู่บนสนาม เพื่ออัญเชิญพิเศษ \"Neo-Spacian Grand Mole\" 1 ตัวจากมือหรือเด็คของคุณ.",
+  "status": "ai",
+  "en_sha256": "11775b6bbd380de0cb941838f630dae2f854d411dd345fc3588f3470c5d95a84",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

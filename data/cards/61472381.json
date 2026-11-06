@@ -1,0 +1,9 @@
+{
+  "id": "61472381",
+  "name": "Brotherhood of the Fire Fist - Eland",
+  "th": "คุณสามารถ อัญเชิญแบบริทชวล การ์ดใบนี้ด้วย \"Fire Formation - Domei\"\nคุณสามารถ ทิ้งการ์ดมอนสเตอร์ 1 ตัว; เซ็ต การ์ด “Fire Formation” เวทมนตร์หรือกับดัก 1 ใบโดยตรงจากเด็คหรือสุสานของคุณ\nเมื่อคู่ต่อสู้เปิดใช้งานเอฟเฟกต์มอนสเตอร์ (Quick Effect): คุณสามารถ ส่ง การ์ด “Fire Fist” หรือ “Fire Formation” ที่หงายอยู่ 1 ใบที่คุณควบคุม ลงสุสาน, ยกเว้น \"Brotherhood of the Fire Fist - Eland\"; ลบล้างเอฟเฟกต์นั้น\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Brotherhood of the Fire Fist - Eland\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "38013176bc95f215d64cb8800d76e18cb9e0d0144a5b20c8f613f5ff9bd73fe0",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

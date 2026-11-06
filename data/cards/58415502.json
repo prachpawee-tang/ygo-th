@@ -1,0 +1,9 @@
+{
+  "id": "58415502",
+  "name": "Royal Straight",
+  "th": "ส่ง \"Queen's Knight\", \"King's Knight\" และ \"Jack's Knight\" 1 ใบจากมือและ/หรือ Main Monster Zone ที่หงายอยู่ไปยังสุสาน, จากนั้น อัญเชิญพิเศษ มอนสเตอร์ 1 ตัวจากมือ, เด็ค, เอ็กซ์ตร้าเด็ค หรือ สุสาน ที่กล่าวถึง \"Queen's Knight\", \"King's Knight\" และ \"Jack's Knight\" ทั้งหมด.",
+  "status": "ai",
+  "en_sha256": "ab5370f79760fc62b31c572896bb81fb03f12c12aab6094571e2432ff46944cc",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

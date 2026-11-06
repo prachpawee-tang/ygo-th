@@ -1,0 +1,9 @@
+{
+  "id": "81179446",
+  "name": "Kattapillar",
+  "th": "\"โจมตีศัตรูด้วยการพ่นใยบางเหนียว.\"",
+  "status": "ai",
+  "en_sha256": "6d32c14c3a2bf3e1209b94a91b742ca087db97db46e8cd6322b69b4f654a6cd1",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

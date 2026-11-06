@@ -1,0 +1,9 @@
+{
+  "id": "65541655",
+  "name": "Red Nova Dragon - Burning Soul",
+  "th": "2 Tuners + 1 non-Tuner\nต้องทำการ Synchro Summon หรือ อัญเชิญพิเศษ (จากเอ็กซ์ตร้าเด็ค) โดยการเอา Tuners 2 ตัวและ \"Red Dragon Archfiend\" 1 ใบออกจากเกมจากสุสานของคุณ\nไม่สามารถถูกทำลายโดยเอฟเฟกต์ของการ์ด\nถ้าการ์ดใบนี้ถูกอัญเชิญพิเศษ: คุณสามารถเพิ่มการ์ด 1 ใบจากสุสานของคุณขึ้นมือได้ และถ้าทำได้ การ์ดใบนี้จะได้รับ ATK 2000\nคุณสามารถใช้เอฟเฟกต์นี้ของ \"Red Nova Dragon - Burning Soul\" ได้ 1 ครั้งต่อการต่อสู้เท่านั้น และเฉพาะเมื่อคุณทำการ Synchro Summon \"Red Dragon Archfiend\"]",
+  "status": "ai",
+  "en_sha256": "217d91903eda51d99c207569e08e62106d70f29dfcde4546b6eadf1122ea095d",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

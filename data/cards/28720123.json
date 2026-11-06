@@ -1,0 +1,9 @@
+{
+  "id": "28720123",
+  "name": "Dinomight Powerload, the Dracoslayer",
+  "th": "[ Pendulum Effect ]\nคุณสามารถเลือกเป้าหมายการ์ด \"Dracoslayer\" หรือ \"Dinomist\" 1 ใบใน Pendulum Zone อื่นของคุณ; อัญเชิญพิเศษมัน\nคุณสามารถใช้เอฟเฟกต์ของ \"Dinomight Powerload, the Dracoslayer\" ได้ 1 ครั้งต่อเทิร์น\n[ Monster Effect ]\n(การ์ดใบนี้ถือว่าเป็นการ์ด \"Dinomist\" เสมอ)\nถ้าการ์ดใบนี้ถูกสังเวย: คุณสามารถเพิ่มการ์ด Pendulum Monster \"Dracoslayer\" หรือ \"Dinomist\" ที่หงายอยู่ 1 ใบจาก เอ็กซ์ตร้าเด็ค ของคุณขึ้นมือ, ยกเว้น \"Dinomight Powerload, the Dracoslayer\"\nคุณสามารถใช้เอฟเฟกต์ของ \"Dinomight Powerload, the Dracoslayer\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "dfec90e252128dba6277f34b324e437e2c15e3bc47f2b9439af80b01e24909e6",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

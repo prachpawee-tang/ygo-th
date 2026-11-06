@@ -1,0 +1,9 @@
+{
+  "id": "71181155",
+  "name": "Phantom Beast Cross-Wing",
+  "th": "ตราบใดที่การ์ดใบนี้อยู่ในสุสาน, \"Gazelle the King of Mythical Beasts\" และมอนสเตอร์ \"Phantom Beast\" ทั้งหมดบนสนาม ได้รับ ATK 300.",
+  "status": "ai",
+  "en_sha256": "53ba920179c93b19714170df87b0db0bf9de8446645f5306b02091254c76b43b",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

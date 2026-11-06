@@ -1,0 +1,10 @@
+{
+  "id": "84388461",
+  "name": "Zefrasaber, Swordmaster of the Nekroz",
+  "th": "[ เอฟเฟกต์ Pendulum ]\nคุณจะไม่สามารถอัญเชิญแบบ Pendulum มอนสเตอร์ได้ ยกเว้นมอนสเตอร์ \"Nekroz\" และ \"Zefra\"\nเอฟเฟกต์นี้ไม่สามารถถูกลบล้างได้\n[ เอฟเฟกต์มอนสเตอร์ ]\nคุณสามารถสังเวยการ์ดใบนี้จากมือของคุณ หรือจาก Main Monster Zone ที่คุณควบคุม; สังเวยมอนสเตอร์จากมือหรือสนามของคุณ จากนั้น อัญเชิญแบบ Ritual มอนสเตอร์ \"Nekroz\" Ritual 1 ตัวจากมือของคุณ ที่มี Level ตรงกับผลรวมของ Level ของมอนสเตอร์เหล่านั้น\nคุณสามารถใช้เอฟเฟกต์นี้ของ \"Zefrasaber, Swordmaster of the Nekroz\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "856b6003f63b9504ff9de6bea3414a21179d006c24a3837fc8eff5dc9458e2d8",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: \"face-up\" ×1 in English but \"หงาย\" ×0 in Thai — meaning may be wrong"
+}

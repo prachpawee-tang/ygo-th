@@ -1,0 +1,9 @@
+{
+  "id": "30936186",
+  "name": "Koa'ki Meiru Urnight",
+  "th": "ในช่วง End Phase ของคุณในแต่ละครั้ง ทำลายการ์ดใบนี้ เว้นแต่คุณจะส่ง \"Iron Core of Koa'ki Meiru\" 1 ใบจากมือของคุณลงสุสาน หรือเปิดเผยมอนสเตอร์ประเภท Beast-Warrior-Type 1 ตัวในมือของคุณ\n1 ครั้งต่อเทิร์น คุณสามารถเปิดเผย \"Iron Core of Koa'ki Meiru\" 1 ใบในมือของคุณเพื่อ อัญเชิญพิเศษ มอนสเตอร์ \"Koa'ki Meiru\" ระดับ 4 หรือต่ำกว่า 1 ตัวจากเด็คของคุณ ยกเว้น \"Koa'ki Meiru Urnight\"",
+  "status": "ai",
+  "en_sha256": "927fc7bfa272c4c42b3a9a0476b2f8a4eb8e70490fa645bdf3c0cc7a857b64c1",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

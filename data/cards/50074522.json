@@ -1,0 +1,9 @@
+{
+  "id": "50074522",
+  "name": "Magnetic Mosquito",
+  "th": "พลิก: ทำลายมอนสเตอร์ Machine-Type ที่หงายอยู่ทั้งหมดบนสนาม.",
+  "status": "ai",
+  "en_sha256": "707edbf82762dcdf3b32f96a8f005d82ac3c85efa72b3a2b8749e7cfdd1639ac",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

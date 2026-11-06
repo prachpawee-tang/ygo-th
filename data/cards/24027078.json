@@ -1,0 +1,9 @@
+{
+  "id": "24027078",
+  "name": "Morgan, the Enchantress of Avalon",
+  "th": "เมื่อคู่ต่อสู้เปิดใช้การ์ดหรือเอฟเฟกต์, ในขณะที่คุณควบคุมมอนสเตอร์ \"Noble Knight\" และการ์ด Spell อุปกรณ์ \"Noble Arms\" (Quick Effect): คุณสามารถส่งการ์ดใบนี้จากมือลงสุสาน; ทำลายการ์ด Spell อุปกรณ์ \"Noble Arms\" 1 ใบที่คุณควบคุม, และถ้าทำได้, ลบล้างการเปิดใช้งาน\nคุณสามารถใช้เอฟเฟกต์นี้ของ \"Morgan, the Enchantress of Avalon\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "e67140f9ab391facb9dce1e505846f37baff8f059fe65094e57a97d551095066",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

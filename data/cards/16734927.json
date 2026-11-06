@@ -1,0 +1,10 @@
+{
+  "id": "16734927",
+  "name": "Ectoplasmic Fortification",
+  "th": "เปิดใช้เอฟเฟกต์ 1 อย่างใดอย่างหนึ่งต่อไปนี้;\n● ถ้าคุณไม่ได้ควบคุมมอนสเตอร์: เพิ่มมอนสเตอร์ซอมบี้ Level 6 หรือ \"Call of the Forgotten\" 1 ใบจากเด็คของคุณขึ้นมือ\n● มอนสเตอร์ซอมบี้ที่คุณควบคุมได้รับ ATK 400 จากนั้นคุณสามารถจั่วการ์ดจำนวนเท่ากับจำนวน \"Call of the Haunted\" ที่คุณควบคุม\nคุณสามารถเปิดใช้ \"Ectoplasmic Fortification\" ได้เพียง 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "3061951a04d1bcfcfa901a267947a382086042848bccdbe3e4b9402fba412c64",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

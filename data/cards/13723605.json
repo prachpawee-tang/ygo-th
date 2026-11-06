@@ -1,0 +1,9 @@
+{
+  "id": "13723605",
+  "name": "Man-Eating Treasure Chest",
+  "th": "มอนสเตอร์ที่ปลอมตัวเป็นหีบสมบัติ ซึ่งขึ้นชื่อว่าโจมตีผู้ผจญภัยที่ประมาท.",
+  "status": "ai",
+  "en_sha256": "271ac01cab47e1c1036e0fdced9fc4d6fefe80c700995fdb681adf0c2be61572",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "9999961",
+  "name": "Beast Rage",
+  "th": "มอนสเตอร์ทั้งหมดที่คุณควบคุมได้รับ ATK 200 สำหรับมอนสเตอร์ประเภท Beast-Type และ Winged Beast-Type แต่ละตัวที่คุณนำออกจากเกม.",
+  "status": "ai",
+  "en_sha256": "edf58a6c2a90bd9c0387f08ddf2d0534766283aaa9586a69fedb57d6664392e7",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

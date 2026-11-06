@@ -1,0 +1,10 @@
+{
+  "id": "45133463",
+  "name": "Call of the Reaper",
+  "th": "เปิดใช้ได้เมื่อมีการอัญเชิญพิเศษมอนสเตอร์จากสุสานของคุณ\nเลือกและอัญเชิญพิเศษ \"Supay\" หรือ \"Fire Ant Ascator\" 1 ตัวจากสุสานของคุณ",
+  "status": "ai",
+  "en_sha256": "232f3f126ff46f954f4e24a7820511e14713ccbcffb96b1a47f4c85d24cb761c",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "13890468",
+  "name": "Spiritual Beast Pettlephin",
+  "th": "1 ครั้งต่อเทิร์น: คุณสามารถเอากล้อง \"Ritual Beast\" 1 ใบออกจากมือของคุณ, จากนั้นเลือกเป้าหมายการ์ด 1 ใบที่คู่ต่อสู้ควบคุม; ส่งมันกลับขึ้นมือ\nคุณสามารถอัญเชิญพิเศษ \"Spiritual Beast Pettlephin(s)\" ได้เพียง 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "26aede9e6276d0bd116790cca71fd44f85434e2ec37839e2c7248d985d716002",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: \"banish\" ×1 in English but \"ออกจากเกม\" ×0 in Thai — meaning may be wrong"
+}

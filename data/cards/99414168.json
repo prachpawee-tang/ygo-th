@@ -1,0 +1,9 @@
+{
+  "id": "99414168",
+  "name": "Elemental Mistress Doriado",
+  "th": "การ์ดใบนี้สามารถอัญเชิญแบบพิธีกรรมได้โดยใช้การ์ดเวทมนตร์พิธีกรรม \"Doriado's Blessing\" เท่านั้น\nแอตทริบิวต์ของการ์ดใบนี้จะถือว่าเป็น WIND, WATER, FIRE และ EARTH ในขณะที่มันหงายอยู่บนสนาม",
+  "status": "ai",
+  "en_sha256": "2df8cfc12672fd8e81db9e55c6a824422b56d00e0aa6f97ccae1b2b943fedf62",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

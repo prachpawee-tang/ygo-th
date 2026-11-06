@@ -1,0 +1,9 @@
+{
+  "id": "69750536",
+  "name": "Wow Warrior",
+  "th": "ปลาที่มีแขน, ขา, และฟันแหลมคมมาก.",
+  "status": "ai",
+  "en_sha256": "7994bca6669fc9273fa048e1029b14be852532ad2a44b8dcded8f26ceef4fa8f",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

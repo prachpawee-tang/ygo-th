@@ -1,0 +1,10 @@
+{
+  "id": "128454",
+  "name": "Performapal Springoose",
+  "th": "คุณสามารถเอาการ์ดใบนี้ออกจากสุสานของคุณ จากนั้นเลือกเป้าหมายการ์ด 2 ใบในบรรดามอนสเตอร์ Pendulum ที่คุณควบคุมและ/หรือ การ์ด \"Magician\" และ \"Performapal\" ใน Pendulum Zone ของคุณ; ส่งทั้งสองใบกลับขึ้นมือ\nคุณสามารถใช้เอฟเฟกต์ของ \"Performapal Springoose\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "280c346f024a9565c80648a4a2e4648e8876b172e0950b7238e35fb708d360fb",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: \"banish\" ×1 in English but \"ออกจากเกม\" ×0 in Thai — meaning may be wrong"
+}

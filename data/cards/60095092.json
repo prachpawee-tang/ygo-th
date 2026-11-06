@@ -1,0 +1,9 @@
+{
+  "id": "60095092",
+  "name": "Vaylantz Wakening - Solo Activation",
+  "th": "วาง \"Vaylantz\" มอนสเตอร์ Pendulum 1 ตัวจากเด็คของคุณใน Pendulum Zone ของคุณ\nถ้ามีการ์ดอยู่ใน Field Zone: คุณสามารถเอาการ์ดใบนี้ออกจากเกมจากสุสานของคุณ จากนั้นเลือกเป้าหมายมอนสเตอร์ \"Vaylantz\" 1 ตัวใน Main Monster Zone ของคุณ; ย้ายมอนสเตอร์ตัวนั้นที่คุณควบคุมไปยัง Monster Zone ที่อยู่ติดกัน (ในแนวนอน)\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Vaylantz Wakening - Solo Activation\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "2ac116d8f20e4b2bd21ef766ea4c30aafd58bf42831d0439f57bfa815500cce4",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

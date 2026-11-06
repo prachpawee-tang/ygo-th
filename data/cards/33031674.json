@@ -1,0 +1,9 @@
+{
+  "id": "33031674",
+  "name": "Incandescent Ordeal",
+  "th": "การ์ดใบนี้ใช้สำหรับ อัญเชิญแบบสังเวย \"Legendary Flame Lord\"\nคุณต้อง สังเวย มอนสเตอร์ที่มี Level รวมกันเท่ากับ 7 หรือมากกว่า จาก Main Monster Zone หรือ มือ",
+  "status": "ai",
+  "en_sha256": "89a4348edda3156adcaad0998bca4d520b93cfc25e6d4e7e3138dac4b423620b",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

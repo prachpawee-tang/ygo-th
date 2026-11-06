@@ -1,0 +1,9 @@
+{
+  "id": "67503139",
+  "name": "Prediction Princess Crystaldine",
+  "th": "พลิก: คุณสามารถเพิ่ม Ritual Monster 1 ตัวจากเด็คของคุณหรือสุสานของคุณขึ้นมือ.",
+  "status": "ai",
+  "en_sha256": "9093987d3f14d6ac32cc5a6935195da2627dcd1dddc1ad57c3eb15dac99614df",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

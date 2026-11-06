@@ -1,0 +1,9 @@
+{
+  "id": "73787254",
+  "name": "Saber Vault",
+  "th": "มอนสเตอร์ \"X-Saber\" ทุกตัวที่หงายอยู่บนสนาม ได้รับ ATK 100 x ระดับ และเสีย DEF 100 x ระดับ.",
+  "status": "ai",
+  "en_sha256": "600b66a2d9b581ac079e84d782a084c4c30d76ffd98600f6c7c894ed0aa8cc3b",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

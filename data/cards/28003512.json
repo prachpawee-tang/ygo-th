@@ -1,0 +1,9 @@
+{
+  "id": "28003512",
+  "name": "The Judgement Hand",
+  "th": "มือที่ทรงพลังซึ่งมอบการโจมตีที่โหดร้าย.",
+  "status": "ai",
+  "en_sha256": "fcd762f99207d6662c26017458c4c5a5a442279bcf7d4428df801ae1a83039f1",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "38777931",
+  "name": "Release, Reverse, Burst",
+  "th": "สังเวยมอนสเตอร์ \"Utopia\" 1 ตัว; ทำลายการ์ดเวทมนตร์และกับดักที่ถูกเซ็ตทั้งหมดที่คู่ต่อสู้ควบคุม.",
+  "status": "ai",
+  "en_sha256": "cb521b34045bf0ef85e89fca2a86a956bca60e4db261cf7f9df5ec5742efc9a3",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

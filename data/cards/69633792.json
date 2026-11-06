@@ -1,0 +1,9 @@
+{
+  "id": "69633792",
+  "name": "Evolsaur Terias",
+  "th": "เมื่อการ์ดใบนี้ถูกอัญเชิญพิเศษโดยเอฟเฟกต์ของมอนสเตอร์ \"Evoltile\": การ์ดใบนี้เสีย ATK 500.",
+  "status": "ai",
+  "en_sha256": "f87c0ff4cf3452c316df3431f249e35a122f8b1e1825b16edd6cc737a9b644fc",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

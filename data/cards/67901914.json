@@ -1,0 +1,9 @@
+{
+  "id": "67901914",
+  "name": "Magical Musket - Steady Hands",
+  "th": "เลือกมอนสเตอร์ \"Magical Musket\" 1 ตัวที่คุณควบคุม; ATK/DEF ของมันจะกลายเป็นสองเท่าของ ATK/DEF เดิมจนจบเทิร์นนี้\nมันไม่สามารถโจมตีโดยตรงในเทิร์นที่คุณเปิดใช้งานการ์ดใบนี้ได้\nคุณสามารถเปิดใช้ \"Magical Musket - Steady Hands\" ได้เพียง 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "716678a80e1d69699c8cdcf2b52a1fa58c149b78e2bb1e5eb8928eecc4173b7f",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

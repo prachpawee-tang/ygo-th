@@ -1,0 +1,10 @@
+{
+  "id": "66661678",
+  "name": "Royal Knight of the Ice Barrier",
+  "th": "เมื่อการ์ดใบนี้ทำการอัญเชิญแบบสังเวย, อัญเชิญพิเศษ \"Ice Coffin Token\" (มอนสเตอร์เอฟเฟกต์/WATER/เลเวล 1/ATK 1000/DEF 0) ในท่าโจมตีไปยังด้านสนามของคู่ต่อสู้\nToken นี้ไม่สามารถใช้เป็นสังเวยในการอัญเชิญแบบสังเวยได้",
+  "status": "ai",
+  "en_sha256": "5aeb7d55cdee4c25638616ec6b381878b9106d59c8d96592ec6dc150a182ab42",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

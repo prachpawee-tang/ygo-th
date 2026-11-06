@@ -1,0 +1,9 @@
+{
+  "id": "37349495",
+  "name": "Naturia Eggplant",
+  "th": "เมื่อการ์ดใบนี้ถูกส่งออกจากสนามไปยังสุสาน, คุณสามารถเลือกมอนสเตอร์ \"Naturia\" 1 ตัวในสุสานของคุณ, ยกเว้น \"Naturia Eggplant\", และเพิ่มมันขึ้นมือ.",
+  "status": "ai",
+  "en_sha256": "c55f6c36ec2a9ea9d1269beba222661a65fab928e68ebe5eec4b6e83c02e076f",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

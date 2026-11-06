@@ -1,0 +1,9 @@
+{
+  "id": "21239280",
+  "name": "Bone Mouse",
+  "th": "\"หนูที่คืนชีพเป็นซอมบี้เพื่อแก้แค้นแมว.\"",
+  "status": "ai",
+  "en_sha256": "89df5c0c4f44969813bc30edde4643ec6efe1f16f827b4fbf0a729604160f9fc",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

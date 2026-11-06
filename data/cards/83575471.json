@@ -1,0 +1,10 @@
+{
+  "id": "83575471",
+  "name": "Advanced Crystal Beast Ruby Carbuncle",
+  "th": "ถ้า \"Advanced Dark\" ไม่อยู่ใน Field Zone ให้ส่งมอนสเตอร์ตัวนี้ลงสุสาน\nถ้าการ์ดที่คว่ำอยู่ใบนี้ถูกทำลายใน Main Monster Zone คุณสามารถวางมันแบบหงายใน Spell & Trap Zone ของคุณในฐานะการ์ดเวทมนตร์ต่อเนื่อง แทนที่จะส่งมันลงสุสาน\nตราบใดที่การ์ดใบนี้ถูกมองว่าเป็น Continuous Spell: คุณสามารถอัญเชิญพิเศษมอนสเตอร์ใบนี้ จากนั้นคุณสามารถอัญเชิญพิเศษการ์ด \"Advanced Crystal Beast\" Monster Cards ได้มากที่สุดเท่าที่จะเป็นไปได้จาก Spell & Trap Zones ของคุณ\nคุณสามารถใช้เอฟเฟกต์นี้ของ \"Advanced Crystal Beast Ruby Carbuncle\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "d515200c6d37c858858067d6f742fe97564bfc36f06b3dee70875a1c93f9d02b",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: \"face-up\" ×2 in English but \"หงาย\" ×1 in Thai — meaning may be wrong"
+}

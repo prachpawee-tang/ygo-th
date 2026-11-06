@@ -1,0 +1,9 @@
+{
+  "id": "85969517",
+  "name": "Plunder Patrollship Jord",
+  "th": "[ Pendulum Effect ]\nคุณสามารถประกาศ Attribute 1 ชนิด; ส่งการ์ดใบนี้กลับไปยังเอ็กซ์ตร้าเด็ค และถ้าทำได้ ให้ อัญเชิญพิเศษ \"Plunder Patroll Token\" (Fiend/Level 4/ATK 0/DEF 0) ที่มี Attribute นั้นไปยัง Main Monster Zone ของทั้งผู้เล่นทั้งสองในท่าป้องกัน\nคุณสามารถใช้เอฟเฟกต์นี้ของ \"Plunder Patrollship Jord\" ได้ 1 ครั้งต่อเทิร์น\n[ Monster Effect ]\n1 Tuner + 1+ non-Tuner monsters\nถ้าคู่ต่อสู้ อัญเชิญพิเศษ มอนสเตอร์(s) (ยกเว้นระหว่าง Damage Step): คุณสามารถเพิ่มการ์ด \"Plunder Patroll\" 1 ใบจากเด็คของคุณขึ้นมือ จากนั้น ถ้าการ์ดใบนี้ถูกติดตั้งด้วยการ์ด \"Plunder Patroll\" คุณสามารถ อัญเชิญพิเศษ มอนสเตอร์ \"Plunder Patroll\" 1 ตัวจากเด็คของคุณ\nคุณสามารถเลือกเป้าหมายการ์ด \"Plunder Patroll\" 1 ใบในสุสานของคุณ; เพิ่มมันขึ้นมือ และถ้าทำได้ ให้ วางการ์ดใบนี้ใน Pendulum Zone ของคุณ\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Plunder Patrollship Jord\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "2520f06ee4f8e5e4e23774270e09a3d2b2ded0c67f92be62c3f17c5498e26672",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

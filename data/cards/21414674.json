@@ -1,0 +1,9 @@
+{
+  "id": "21414674",
+  "name": "Prominence Hand",
+  "th": "ถ้าคุณควบคุม \"Magic Hand\", \"Fire Hand\" หรือ \"Ice Hand\", คุณสามารถ อัญเชิญพิเศษ การ์ดใบนี้ (จากมือของคุณ).",
+  "status": "ai",
+  "en_sha256": "fa130d1946e51a90cd7f761d030880c111345ec91e309535d7b3cbc288f96352",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

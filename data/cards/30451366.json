@@ -1,0 +1,9 @@
+{
+  "id": "30451366",
+  "name": "Mystical Sheep #1",
+  "th": "คุณสามารถใช้การ์ดใบนี้แทนมอนสเตอร์ Material Fusion 1 ตัวได้\nเมื่อทำเช่นนั้น มอนสเตอร์ Material Fusion อื่นๆ จะต้องเป็นชนิดที่ถูกต้อง",
+  "status": "ai",
+  "en_sha256": "9a0337b3a6fd9430c5fb21e8cacb20895fd13f10a30edbb1caf26a148f522422",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "58374719",
+  "name": "World Legacy Struggle",
+  "th": "เลือก Spells/Traps ที่อยู่ในสนาม, สูงสุดตามจำนวนมอนสเตอร์ที่เชื่อมโยงร่วมกันในสนาม; ทำลายพวกมัน.",
+  "status": "ai",
+  "en_sha256": "858f15a59bc9208e39dadede3980d51fe87590673a2a4de3d478ae7dcb4c39e0",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

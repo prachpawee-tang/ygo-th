@@ -1,0 +1,9 @@
+{
+  "id": "57308711",
+  "name": "Unicycular",
+  "th": "คนที่สามของพี่น้อง, ตามหลัง Tricular และ Bicular.",
+  "status": "ai",
+  "en_sha256": "8c8acb1a333185078b8bbcd52feb13025bba838c0902f82ab1b31e3c6cd66f6c",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

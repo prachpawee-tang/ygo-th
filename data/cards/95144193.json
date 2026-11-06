@@ -1,0 +1,9 @@
+{
+  "id": "95144193",
+  "name": "Kwagar Hercules",
+  "th": "\"Kuwagata α\" + \"Hercules Beetle\"",
+  "status": "ai",
+  "en_sha256": "bc61b52d9ed69806417cf035651e15e480d1c7b3e418a37f73b37439c803df55",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

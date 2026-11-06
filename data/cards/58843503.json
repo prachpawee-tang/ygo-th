@@ -1,0 +1,9 @@
+{
+  "id": "58843503",
+  "name": "Medium Piece Golem",
+  "th": "เมื่อการ์ดใบนี้ถูกอัญเชิญ, ถ้าคุณควบคุม \"Big Piece Golem\", คุณสามารถอัญเชิญพิเศษ \"Small Piece Golem\" 1 ตัวจากเด็คของคุณได้\nเอฟเฟกต์ของมอนสเตอร์นั้นจะถูกลบล้างขณะที่มันหงายอยู่บนสนาม",
+  "status": "ai",
+  "en_sha256": "daff0abbc6e67acba04e9c1f8e35b68444c49bcc39b53da4ad8c13ef4ece24df",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "49522489",
+  "name": "Beelze Frog",
+  "th": "การ์ดใบนี้ได้รับ ATK 300 สำหรับ “T.A.D.P.O.L.E.” แต่ละใบในสุสานของคุณ.",
+  "status": "ai",
+  "en_sha256": "06dcd2eb74f3ac0dfd22fb6263a96fe5ef35c0c83b41e5af485eb18dffd2e1b7",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

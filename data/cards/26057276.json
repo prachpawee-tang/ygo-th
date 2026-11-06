@@ -1,0 +1,9 @@
+{
+  "id": "26057276",
+  "name": "Satellarknight Betelgeuse",
+  "th": "ถ้าการ์ดใบนี้ถูกอัญเชิญ: คุณสามารถเลือกเป้าหมายการ์ด \"tellarknight\" 1 ใบในสุสานของคุณ, ยกเว้น \"Satellarknight Betelgeuse\"; ส่งการ์ดใบนี้ลงสุสาน, และถ้าทำได้, เพิ่มการ์ดเป้าหมายนั้นขึ้นมือ\nคุณสามารถใช้เอฟเฟกต์ของ \"Satellarknight Betelgeuse\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "9edab1e995671a3a068b25506f399a7fe633b289d46a9a120669817686c7075d",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

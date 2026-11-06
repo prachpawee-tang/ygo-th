@@ -1,0 +1,9 @@
+{
+  "id": "3492538",
+  "name": "Insect Armor with Laser Cannon",
+  "th": "ใส่ได้เฉพาะกับมอนสเตอร์แมลงเท่านั้น\nมันได้รับ ATK 700",
+  "status": "ai",
+  "en_sha256": "c15c59c518b92be69e12c1a578f73f397682df68217a393d4875a217f2ae2657",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

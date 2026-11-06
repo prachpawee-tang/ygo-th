@@ -1,0 +1,9 @@
+{
+  "id": "94940436",
+  "name": "Magnet Circle LV2",
+  "th": "อัญเชิญพิเศษมอนสเตอร์ Machine-Type ระดับ 2 หรือต่ำกว่า 1 ตัวจากมือของคุณ.",
+  "status": "ai",
+  "en_sha256": "d1967b2c87172cbf5fb30ae6b25576467d099e201a536a87de9d0e5c37d18fc7",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

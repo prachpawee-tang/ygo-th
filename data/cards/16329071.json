@@ -1,0 +1,9 @@
+{
+  "id": "16329071",
+  "name": "World Legacy Trap Globe",
+  "th": "สับกลับเข้าเด็ค การ์ด \"World Legacy\" ของคุณ 5 ใบ ที่มีชื่อต่างกัน ซึ่งถูกเอาออกจากเกมจากมือหรือสุสานของคุณ และ/หรือ ที่หงายอยู่บนสนามของคุณ ยกเว้น \"World Legacy Trap Globe\" จากนั้นจั่วการ์ด 2 ใบ\nคุณสามารถเปิดใช้ \"World Legacy Trap Globe\" ได้ 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "fd77b8572fd1f19e6ee63d8803ab4548cdef2fdfe878e7eec0ab781737ed3aea",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

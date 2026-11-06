@@ -1,0 +1,9 @@
+{
+  "id": "54351224",
+  "name": "Ritual Weapon",
+  "th": "ใส่ได้เฉพาะกับมอนสเตอร์ Ritual เลเวล 6 หรือต่ำกว่า\nมันได้รับ ATK และ DEF 1500",
+  "status": "ai",
+  "en_sha256": "8379bbc0ae8630c018d83308878088916b7f6ac37fa9a04a1c4e60017b8e9da0",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "26864586",
+  "name": "Resonance Device",
+  "th": "เลือกมอนสเตอร์หงาย 2 ตัวที่คุณควบคุมที่มี Type และ Attribute เหมือนกัน; เปลี่ยน Level ของหนึ่งในนั้นให้เป็น Level ปัจจุบันของอีกตัว, จนถึง End Phase.",
+  "status": "ai",
+  "en_sha256": "2215c777d7b286cb00adeb33749cf173a80951e2af9eafbc69543c5de59ebde4",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

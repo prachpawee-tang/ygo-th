@@ -1,11 +1,11 @@
 {
   "id": "38033121",
   "name": "Dark Magician Girl",
-  "th": "ได้รับ ATK 300 สำหรับทุกการ์ด \"Dark Magician\" หรือ \"Magician of Black Chaos\" ใน สุสาน (GY).",
+  "th": "ได้รับ ATK 300 สำหรับทุกการ์ด \"Dark Magician\" หรือ \"Magician of Black Chaos\" ในสุสาน.",
   "status": "ai",
   "en_sha256": "d92aa5e93ab748ca62bce695df186806a36712c7fbfd16e37dd5e1684f4aa292",
   "model": "gemma3:12b",
-  "updated": "2026-11-04",
+  "updated": "2026-11-06",
   "alt": [
     "38033122",
     "38033123",

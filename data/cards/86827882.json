@@ -1,0 +1,10 @@
+{
+  "id": "86827882",
+  "name": "Nordic Relic Megingjord",
+  "th": "เลือกเป้าหมายมอนสเตอร์ \"Aesir\" หรือ \"Nordic\" ที่คุณควบคุม; ATK/DEF ของมันจะกลายเป็นสองเท่าของ ATK/DEF เดิม จนจบเทิร์นนี้, แต่ในช่วงเทิร์นนี้มันจะไม่สามารถโจมตีคู่ต่อสู้โดยตรงได้.",
+  "status": "ai",
+  "en_sha256": "349d7bc5643e18a24811c547408f461f65e6b076d1855ab70e352e0e9418fb59",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

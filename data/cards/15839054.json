@@ -1,0 +1,9 @@
+{
+  "id": "15839054",
+  "name": "Synchro Fusionist",
+  "th": "ถ้าการ์ดใบนี้ถูกส่งลงสุสานเป็นมอนสเตอร์ Material ในการอัญเชิญแบบ Synchro คุณสามารถเพิ่มการ์ด Spell 1 ใบจากเด็คของคุณขึ้นมือ โดยที่การ์ดใบนั้นต้องมีชื่อ \"Polymerization\" หรือ \"Fusion\" อยู่ในชื่อการ์ด ยกเว้น \"Diffusion Wave-Motion\".",
+  "status": "ai",
+  "en_sha256": "2acc446fc4a071bf469eee10805d42c88f8f11439479cd5563ead18b023e6b5e",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

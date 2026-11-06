@@ -1,0 +1,9 @@
+{
+  "id": "7030340",
+  "name": "Factory of 100 Machines",
+  "th": "เอามอนสเตอร์ \"Morphtronic\" ทั้งหมดออกจากสุสานของคุณ\nเลือกเป้าหมายมอนสเตอร์ Machine-Type ที่คุณควบคุมซึ่งอยู่ในท่าหงาย จะได้รับ ATK 200 สำหรับแต่ละการ์ดที่ถูกเอาออก จนถึง End Phase",
+  "status": "ai",
+  "en_sha256": "d770d1fbdfe85d0fa6f06c9c6d2ea155dedbcc5e24dabe3a661243fe89333999",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

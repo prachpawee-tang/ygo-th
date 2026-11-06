@@ -1,0 +1,9 @@
+{
+  "id": "75304793",
+  "name": "Symph Amplifire",
+  "th": "ทุกครั้งที่เปิดใช้งานเอฟเฟกต์ของการ์ด \"Symphonic Warrior\" ให้วาง Symphonic Counter 1 อันบนการ์ดใบนี้เมื่อเอฟเฟกต์นั้นแก้ไข\nมอนสเตอร์ \"Symphonic Warrior\" ทั้งหมดบนสนามได้รับ ATK 100 สำหรับแต่ละ Symphonic Counter บนการ์ดใบนี้\n1 ครั้งต่อเทิร์น: คุณสามารถนำ Symphonic Counter ออก 5 หรือ 7 อันจากสนามของคุณ; ใช้เอฟเฟกต์นี้ ขึ้นอยู่กับจำนวน Symphonic Counter ที่นำออก\n● 5 Counters: สร้างความเสียหาย 300 ให้กับคู่ต่อสู้สำหรับแต่ละการ์ด \"Symphonic Warrior\" บนสนาม\n● 7 Counters: เอาการ์ดที่คู่ต่อสู้ควบคุมและ/หรืออยู่ในสุสานของพวกเขาออกจากเกม สูงสุดตามจำนวนการ์ด \"Symphonic Warrior\" บนสนาม",
+  "status": "ai",
+  "en_sha256": "b6ae61c4d3412fbd6fb96d58d49f46daf71a4c76fa5a29a271fa997caa3755c6",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "27191436",
+  "name": "Burst Return",
+  "th": "ถ้าคุณควบคุม \"Elemental HERO Burstinatrix\" ที่หงายอยู่: นำมอนสเตอร์ \"Elemental HERO\" ทั้งหมดที่หงายอยู่บนสนามกลับขึ้นมือ, ยกเว้น \"Elemental HERO Burstinatrix\".",
+  "status": "ai",
+  "en_sha256": "b73849f7e0b18cefd2cd7e8141cca6d10f4c09286d1110f3486eb6c885f24887",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "72142276",
+  "name": "Molten Conduction Field",
+  "th": "ส่งมอนสเตอร์ \"Laval\" 2 ตัวจากเด็คของคุณลงสุสาน.",
+  "status": "ai",
+  "en_sha256": "e8faaaafd39f23a22661bfa98a5617f67263ae05a24b76a96694a865ec871cbb",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

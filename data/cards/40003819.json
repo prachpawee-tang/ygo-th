@@ -1,0 +1,9 @@
+{
+  "id": "40003819",
+  "name": "Guardragon Reincarnation",
+  "th": "อัญเชิญแบบ Fusion มอนสเตอร์ Fusion 1 ตัวจากเอ็กซ์ตร้าเด็คของคุณ โดยการเอา Material Fusion ที่ระบุไว้บนการ์ดออกจากเกม ซึ่งเป็นมอนสเตอร์ Link ทั้งหมด จาก Main Monster Zone หรือสุสานของคุณ\nคุณสามารถเปิดใช้ \"Guardragon Reincarnation\" ได้เพียง 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "36ee98891dc7bbca5e60be85520d676bf93dcc2a8c31fda3531643476bc454f9",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

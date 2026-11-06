@@ -1,0 +1,9 @@
+{
+  "id": "66150724",
+  "name": "PenduLuMoon",
+  "th": "[ Pendulum Effect ]\nระหว่าง Main Phase ของคุณ: คุณสามารถเพิ่ม Pendulum Monster “Pendulum” ที่หงายอยู่ 1 ตัวจาก Extra Deck ของคุณขึ้นมือ จากนั้นทำลายการ์ดใบนี้\nคุณสามารถใช้เอฟเฟกต์ของ \"PenduLuMoon\" ได้ 1 ครั้งต่อเทิร์น\n[ Monster Effect ]\nระหว่าง Main Phase ของคุณ: คุณสามารถเพิ่ม Pendulum Monsters ที่หงายอยู่สูงสุด 2 ตัวจาก Extra Deck ของคุณขึ้นมือ โดยมี Level ระหว่าง Pendulum Scales ของการ์ด 2 ใบใน Pendulum Zones ของคุณ นอกจากนี้ ตลอดช่วงที่เหลือของเทิร์น จนกว่าคุณจะ อัญเชิญแบบ Pendulum คุณจะไม่สามารถเปิดใช้งานเอฟเฟกต์มอนสเตอร์ได้ และเอฟเฟกต์ของการ์ดใดๆ ใน Pendulum Zones ของคุณจะถูกลบล้าง\nคุณสามารถใช้เอฟเฟกต์ของ \"PenduLuMoon\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "d2bb9f402f77ba6762bc84e20ba300dec5036d3cd221eaf50509c6dea07cef9c",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

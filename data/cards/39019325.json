@@ -1,0 +1,9 @@
+{
+  "id": "39019325",
+  "name": "Order to Smash",
+  "th": "เลือกมอนสเตอร์ Normal ที่ไม่ใช่ Token ระดับ 2 หรือต่ำกว่าที่คุณควบคุม 1 ตัว; สังเวยมอนสเตอร์ Normal นั้น และถ้าทำได้ ให้ทำลาย Spell/Trap ของคู่ต่อสู้สูงสุด 2 ใบ.",
+  "status": "ai",
+  "en_sha256": "cac3d348fd6cb1b26f941700c1265e70c2eece14bc4a63da3bb035cb8f5ac510",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

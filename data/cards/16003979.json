@@ -1,0 +1,9 @@
+{
+  "id": "16003979",
+  "name": "Gladiator Beast Sagittarii",
+  "th": "ถ้าการ์ดใบนี้ถูกอัญเชิญพิเศษโดยเอฟเฟกต์ของมอนสเตอร์ \"Gladiator Beast\": คุณสามารถทิ้งการ์ด \"Gladiator Beast\" 1 ใบ; จั่วการ์ด 2 ใบ\nตอนท้ายของ Battle Phase, ถ้าการ์ดใบนี้ได้ต่อสู้: คุณสามารถสับการ์ดใบนี้กลับเข้าเด็ค; อัญเชิญพิเศษมอนสเตอร์ \"Gladiator Beast\" 1 ตัวจากเด็คของคุณ, ยกเว้น \"Gladiator Beast Sagittarii\"",
+  "status": "ai",
+  "en_sha256": "94f712dc84651a218b644f9489d16b39ce6c98cbe6f5dddb476809f425e5e4fe",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

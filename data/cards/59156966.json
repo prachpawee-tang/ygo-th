@@ -1,0 +1,9 @@
+{
+  "id": "59156966",
+  "name": "Golden Gearbox",
+  "th": "เลือกมอนสเตอร์ \"Karakuri\" ที่หงายอยู่บนสนาม 1 ตัว\nมันได้รับ ATK 500 และ DEF 1500 จนถึง End Phase",
+  "status": "ai",
+  "en_sha256": "2a1ad790173147a91a80244cf49f030f8dc770efe14a326ee63e1efa94c88783",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

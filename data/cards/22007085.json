@@ -1,0 +1,10 @@
+{
+  "id": "22007085",
+  "name": "Starry Knight Balefire",
+  "th": "เพิ่มมอนสเตอร์ \"Starry Knight\" 1 ตัว หรือ มอนสเตอร์ Dragon แสง Level 7 จากเด็คของคุณขึ้นมือ จากนั้น ถ้าคุณไม่ได้ควบคุมมอนสเตอร์ และคู่ต่อสู้ควบคุมมอนสเตอร์ DARK คุณสามารถอัญเชิญพิเศษมอนสเตอร์ Dragon แสง Level 7 จากมือของคุณได้\nคุณสามารถเปิดใช้ \"Starry Knight Balefire\" ได้เพียง 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "c053d7897e798d7cecba2dc2f22ee40890b7c99e29167a16cdec1f151b709fa2",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

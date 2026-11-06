@@ -1,0 +1,9 @@
+{
+  "id": "73239437",
+  "name": "Double Hero Attack",
+  "th": "ถ้าคุณควบคุมมอนสเตอร์ Fusion ที่ระบุชื่อ \"Elemental HERO Neos\" เป็น Material: เลือกเป้าหมายมอนสเตอร์ \"HERO\" Fusion 1 ตัวในสุสานของคุณ; อัญเชิญพิเศษมัน โดยไม่สนใจเงื่อนไขการอัญเชิญ\nคุณสามารถเปิดใช้ \"Double Hero Attack\" ได้เพียง 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "5469126db3447c3c8aa31baee1114bfba3fb08bad37848e719902dbcd026aa26",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

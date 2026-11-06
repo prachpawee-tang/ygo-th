@@ -1,0 +1,10 @@
+{
+  "id": "42679662",
+  "name": "Evilswarm Azzathoth",
+  "th": "พลิก: เลือกเป้าหมายมอนสเตอร์ที่ถูกอัญเชิญพิเศษบนสนาม; สับเป้าหมายนั้นกลับเข้าเด็ค.",
+  "status": "ai",
+  "en_sha256": "75fbc6eb0d6014812db4314a15801aa054c640fb019571c8ba802a9a48a6673c",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

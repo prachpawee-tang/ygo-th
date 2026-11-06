@@ -1,0 +1,9 @@
+{
+  "id": "72064891",
+  "name": "Curse of Dragon, the Magical Knight Dragon",
+  "th": "มอนสเตอร์ Warrior 1 ตัว + มอนสเตอร์ Dragon เลเวล 5 หรือสูงกว่า 1 ตัว\nถ้าคุณทำการ Fusion Summon มอนสเตอร์ Fusion Dragon เลเวล 7 คุณสามารถเอามอนสเตอร์จากสุสานของคุณออกจากเกมเพื่อเป็น Material ได้\nถ้าการ์ดใบนี้ถูก Fusion Summon: คุณสามารถเลือกเป้าหมาย Spell/Trap 1 ใบในสุสานของคุณที่กล่าวถึง \"Gaia the Dragon Champion\"; เพิ่มมันขึ้นมือ\nคุณสามารถใช้เอฟเฟกต์ของ \"Curse of Dragon, the Magical Knight Dragon\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "f2dc0a984f2d9273f5d62612b6a33b6ba3c6799f1654274ae2bc0e5abbb796cc",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

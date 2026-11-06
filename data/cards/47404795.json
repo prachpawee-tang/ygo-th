@@ -1,0 +1,9 @@
+{
+  "id": "47404795",
+  "name": "Abyss Actor - Super Producer",
+  "th": "มอนสเตอร์ 2 ตัว โดยมีมอนสเตอร์ Fiend รวมอยู่ด้วย\nในช่วง Main Phase (Quick Effect): คุณสามารถเลือกเป้าหมายการ์ดที่หงายอยู่ 1 ใบที่คุณควบคุม; ทำลายมัน จากนั้นคุณสามารถใช้เอฟเฟกต์ต่อไปนี้ 1 ข้อได้\n● วาง \"Abyss Playhouse - Fantastic Theater\" 1 ใบจากเด็คของคุณ หงายอยู่ ใน Field Zone ของคุณ\n● วางมอนสเตอร์ Pendulum \"Abyss Actor\" 1 ใบจากเด็คของคุณ ใน Pendulum Zone ของคุณ\nคุณสามารถใช้เอฟเฟกต์นี้ของ \"Abyss Actor - Super Producer\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "0a9b40350a0f0922640d931ab7268f1e2985325e4708e44a73a49dd5386d4899",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "26509612",
+  "name": "Terra Firma Gravity",
+  "th": "ระหว่าง Battle Phase ของคู่ต่อสู้, ถ้าคุณควบคุม \"Elemental HERO Terra Firma\": เทิร์นนี้, มอนสเตอร์ Level 4 หรือต่ำกว่าที่คู่ต่อสู้ควบคุมซึ่งสามารถโจมตี \"Elemental HERO Terra Firma\" ที่หงายของคุณได้ ต้องโจมตีมัน, และไม่สามารถโจมตีอย่างอื่นได้.",
+  "status": "ai",
+  "en_sha256": "9f72c5ad4724b075279abee28edf061657e01202d418bbbf3d3e427f9ee8f87f",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

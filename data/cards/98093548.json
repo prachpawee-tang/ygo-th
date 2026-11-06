@@ -1,0 +1,10 @@
+{
+  "id": "98093548",
+  "name": "Brotherhood of the Fire Fist - Elephant",
+  "th": "ถ้าการ์ดใบนี้ถูกอัญเชิญปกติหรืออัญเชิญพิเศษ: คุณสามารถส่งการ์ดเวทมนตร์/กับดัก \"Fire Formation\" ที่หงายอยู่ซึ่งคุณควบคุมลงสุสาน; อัญเชิญพิเศษมอนสเตอร์ \"Fire Fist\" 1 ตัวจากมือของคุณ ยกเว้น \"Brotherhood of the Fire Fist - Elephant\"\nคุณสามารถเลือกเป้าหมายการ์ดเวทมนตร์/กับดัก \"Fire Formation\" 1 ใบในสุสานของคุณ; สับกลับเข้าเด็ค จากนั้น คุณสามารถเพิ่มมอนสเตอร์ \"Fire Fist\" ระดับ 5 หรือสูงกว่าจากเด็คของคุณขึ้นมือ\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Brotherhood of the Fire Fist - Elephant\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "a18ba8ccd40b7bf213872a994024926aca0068a6b357717c89bbb77e3ddfefa3",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

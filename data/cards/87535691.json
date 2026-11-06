@@ -1,0 +1,9 @@
+{
+  "id": "87535691",
+  "name": "Superheavy Samurai Drum",
+  "th": "ถ้าการ์ดใบนี้ในสนามถูกทำลายและส่งลงสุสาน: คุณสามารถเลือกเป้าหมายมอนสเตอร์ \"Superheavy Samurai\" 1 ตัวในสุสานของคุณ, ยกเว้น \"Superheavy Samurai Drum\"; อัญเชิญพิเศษมัน\nคุณสามารถใช้เอฟเฟกต์ของ \"Superheavy Samurai Drum\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "6e9d6235737c1d1a1ecbf062e87973a9debaa9409c14fcc70949abba30d5cfbb",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

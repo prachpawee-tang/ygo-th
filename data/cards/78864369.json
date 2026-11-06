@@ -1,0 +1,9 @@
+{
+  "id": "78864369",
+  "name": "Soul Reversal",
+  "th": "นำการ์ด “Flip Effect Monster” 1 ใบจากสุสานของคุณกลับไปวางด้านบนเด็คของคุณ.",
+  "status": "ai",
+  "en_sha256": "a3c373b396ad8554ad4ac3932422dfa0c513e4b8f7b894e54675e7bdfeeb94f9",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

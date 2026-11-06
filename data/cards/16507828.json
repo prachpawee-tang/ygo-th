@@ -1,0 +1,9 @@
+{
+  "id": "16507828",
+  "name": "Bracchio-raidus",
+  "th": "\"Two-Headed King Rex\" + \"Crawling Dragon #2\"",
+  "status": "ai",
+  "en_sha256": "ef93fbb4229d8a4d8d70045fdcbf16ab4ddb7937661f66467450c36c48801708",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

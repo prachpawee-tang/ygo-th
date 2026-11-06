@@ -1,0 +1,9 @@
+{
+  "id": "71395725",
+  "name": "Man Beast of Ares",
+  "th": "หลังจากที่เชน (ที่มี Link 2 หรือมากกว่า) สิ้นสุดลง การ์ดใบนี้จะได้รับ ATK 500.",
+  "status": "ai",
+  "en_sha256": "54b39ecf4a11dbeeca83bf1aff825b508cc37ce2b7d6208e554fbe6b67e6ceef",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

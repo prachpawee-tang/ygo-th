@@ -1,0 +1,9 @@
+{
+  "id": "9925982",
+  "name": "Black Wing Revenge",
+  "th": "เมื่อมอนสเตอร์ประเภท Winged Beast ที่คุณควบคุมถูกทำลายด้วยการต่อสู้และส่งลงสุสาน: อัญเชิญพิเศษ \"Blackwing - Black Crest Tokens\" 2 ตัว (ประเภท Winged Beast/DARK/เลเวล 2/ATK 0/DEF 800).",
+  "status": "ai",
+  "en_sha256": "708f84fb70090a8e3df8dc82828e3a82ba8b2f091c82c18dc5c856905f74e49f",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

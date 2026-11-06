@@ -1,0 +1,9 @@
+{
+  "id": "98336111",
+  "name": "Fusion Devourer",
+  "th": "เมื่อการ์ดใบนี้ทำการต่อสู้กับมอนสเตอร์ Fusion, ATK ของมอนสเตอร์ Fusion จะกลายเป็น 0 ในช่วง Damage Step เท่านั้น.",
+  "status": "ai",
+  "en_sha256": "6ceaa8aaa0f79ad5727ea6823ebef93945397a482f7b90e547a7cbcde6232dd3",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

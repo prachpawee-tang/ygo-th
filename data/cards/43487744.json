@@ -1,0 +1,10 @@
+{
+  "id": "43487744",
+  "name": "White Hole",
+  "th": "เมื่อคู่ต่อสู้เปิดใช้ \"Dark Hole\": มอนสเตอร์ที่คุณควบคุมจะไม่ถูกทำลายโดยเอฟเฟกต์ของ \"Dark Hole\" นั้น.",
+  "status": "ai",
+  "en_sha256": "cd4ead3416140c68537dec98b0f931990de10d0a1ab1924b6e522f3670012591",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: card names in quotes changed/missing: \"Dark Hole's\""
+}

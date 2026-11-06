@@ -1,0 +1,9 @@
+{
+  "id": "65396880",
+  "name": "Huge Revolution",
+  "th": "การ์ดใบนี้สามารถเปิดใช้ได้เฉพาะระหว่าง Main Phase ของคุณเท่านั้น เมื่อ \"People Running About\", \"Oppressed People\" และ \"United Resistance\" อยู่ในท่าหงายบนสนามฝั่งของคุณ\nส่งการ์ดทั้งหมดในมือของคู่ต่อสู้ไปยังสุสาน และทำลายการ์ดทั้งหมดที่คู่ต่อสู้ควบคุมในสนาม",
+  "status": "ai",
+  "en_sha256": "5fe4d68478f065890d7cf114f7d1f999d0cb680b819dcf8ad9feb7a37ca64cc0",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

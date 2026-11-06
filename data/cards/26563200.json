@@ -1,0 +1,9 @@
+{
+  "id": "26563200",
+  "name": "Muzurhythm the String Djinn",
+  "th": "มอนสเตอร์ Level 3 จำนวน 2 ตัว\nเมื่อมอนสเตอร์ Xyz \"Djinn\" ที่คุณควบคุมกำลังโจมตีมอนสเตอร์ของคู่ต่อสู้, ในระหว่าง Damage Step: คุณสามารถถอด Material Xyz 1 ตัวจากไพ่ใบนี้; ATK ของมอนสเตอร์ที่กำลังโจมตีจะเพิ่มเป็นสองเท่าจนถึง End Phase\nคุณสามารถใช้เอฟเฟกต์ของ \"Muzurhythm the String Djinn\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "3235794cdc3fbb37a643ad1801b3947681ab52c1c6c3ad5fa3c5f612119e751a",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

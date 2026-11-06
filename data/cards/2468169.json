@@ -1,0 +1,9 @@
+{
+  "id": "2468169",
+  "name": "Sealmaster Meisei",
+  "th": "หนึ่งในผู้คนที่สามารถควบคุม Talismans ได้อย่างเชี่ยวชาญ\nประวัติของเขาเป็นปริศนา",
+  "status": "ai",
+  "en_sha256": "7d6bd95ea556d962b3e612a39cd39ebdbf78c0a468e78d6fa89b318b7cbb8b1e",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

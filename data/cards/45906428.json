@@ -1,9 +1,9 @@
 {
   "id": "45906428",
   "name": "Miracle Fusion",
-  "th": "อัญเชิญ Fusion 1 \"Elemental HERO\" มอนสเตอร์ Fusion จาก เอ็กซ์ตร้าเด็ค ของคุณ โดยเอาออกจากเกม Material Fusion ที่ระบุไว้บนการ์ด จาก สนาม หรือ สุสาน ของคุณ",
+  "th": "อัญเชิญแบบ Fusion มอนสเตอร์ Fusion \"Elemental HERO\" 1 ตัวจากเอ็กซ์ตร้าเด็คของคุณ โดยเอา Material Fusion ที่ระบุไว้บนการ์ดออกจากเกมจากสนามของคุณหรือสุสานของคุณ.",
   "status": "ai",
   "en_sha256": "45a340dbf398054a0b3a2f4f4a6b9b9dcc082e8762c605138af86b086f7b7681",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-06"
 }

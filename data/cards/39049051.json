@@ -1,0 +1,9 @@
+{
+  "id": "39049051",
+  "name": "Kahyoreigetsu",
+  "th": "อัญเชิญพิเศษมอนสเตอร์ Fairy, Spellcaster, Winged Beast, หรือ Beast-Warrior ที่มี Level 4 หรือต่ำกว่า 1 ตัวจากมือของคุณ, และถ้าทำได้ ให้ติดตั้งการ์ดใบนี้กับมัน, จากนั้นคุณสามารถส่งมอนสเตอร์ Dragon ทั้งหมดบนสนามกลับมือได้\nในช่วง End Phase, ถ้าการ์ดใบนี้อยู่ในสุสานเนื่องจากถูกส่งลงที่นั่นจาก Spell & Trap Zone ในเทิร์นนี้ในลักษณะหงาย: คุณสามารถเพิ่มการ์ด Spell \"Polymerization\" การ์ด Spell \"Fusion\" หรือการ์ด \"Fusion Parasite\" 1 ใบจากเด็คของคุณขึ้นมือได้\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Kahyoreigetsu\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "3625cd4f22fae2ab935baa0afd327f6e6a2b8930ace73adac025dfea1b9efb15",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

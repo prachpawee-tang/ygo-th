@@ -1,0 +1,9 @@
+{
+  "id": "34244455",
+  "name": "Star Staring Starling",
+  "th": "การ์ดใบนี้ได้รับเอฟเฟกต์ตาม Main Monster Zone ที่มันอยู่\n● ซ้ายสุด: เพิ่ม Level ของมันขึ้น 4\n● ขวาสุด: เพิ่ม Level ของมันขึ้น 3\n● ตรงกลาง: เพิ่ม Level ของมันขึ้น 2\n● อื่นๆ: เพิ่ม Level ของมันขึ้น 1",
+  "status": "ai",
+  "en_sha256": "62875af917afe796cf6bb94f344f439854b52a2fec71c7991ff47bfc3ad23715",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

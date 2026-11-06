@@ -1,0 +1,9 @@
+{
+  "id": "15978426",
+  "name": "Performapal Secondonkey",
+  "th": "เมื่อการ์ดใบนี้ถูกอัญเชิญปกติหรืออัญเชิญพิเศษ: คุณสามารถส่งมอนสเตอร์ \"Performapal\" 1 ตัวจากเด็คของคุณลงสุสาน, ยกเว้น \"Performapal Secondonkey\"\nถ้าคุณมี 2 การ์ดใน Pendulum Zones ของคุณ, คุณสามารถเพิ่มมันขึ้นมือแทนได้",
+  "status": "ai",
+  "en_sha256": "e968b452185b10494aa43d33d3d4b97e13830fa6d46f2a634f6ff24c8e206b1d",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "44920699",
+  "name": "Fire Formation - Tensen",
+  "th": "เมื่อการ์ดใบนี้ถูกเปิดใช้: เลือกเป้าหมายมอนสเตอร์ประเภท Beast-Warrior ที่คุณควบคุม; มันได้รับ ATK 700 จนจบเทิร์นนี้\n(ATK ที่เพิ่มนี้ยังคงอยู่แม้ว่าการ์ดใบนี้จะออกจากสนาม) มอนสเตอร์ประเภท Beast-Warrior ทั้งหมดที่คุณควบคุมได้รับ ATK 300",
+  "status": "ai",
+  "en_sha256": "f539a9d1962c08a675f0f602a8db3ee4ec0fca116bfa6ccb02fe572f64cbac48",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

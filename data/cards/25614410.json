@@ -1,0 +1,9 @@
+{
+  "id": "25614410",
+  "name": "Legacy of a HERO",
+  "th": "นำ Fusion Monster 2 ตัวจากสุสานของคุณกลับไปยังเอ็กซ์ตร้าเด็ค ซึ่งระบุชื่อมอนสเตอร์ \"HERO\" เป็น Material; จั่วการ์ด 3 ใบ\nคุณสามารถเปิดใช้ \"Legacy of a HERO\" ได้เพียง 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "fc5be24da65dae841ae7cc6aff2cf39e2394d0c448f30f144032f6a9213ac651",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

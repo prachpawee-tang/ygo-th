@@ -1,0 +1,9 @@
+{
+  "id": "80516007",
+  "name": "Rare Fish",
+  "th": "\"Fusionist\" + \"Enchanting Mermaid\"",
+  "status": "ai",
+  "en_sha256": "f9249de935ce9d213fc3539ab9d506214d84b8fbe478b9b98f0565709fab51f3",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

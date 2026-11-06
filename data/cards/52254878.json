@@ -1,0 +1,9 @@
+{
+  "id": "52254878",
+  "name": "Dimensional Allotrope Varis",
+  "th": "ไม่สามารถถูกทำลายด้วยการต่อสู้กับมอนสเตอร์ที่มี Type หรือ Attribute เดียวกันกับตัวนี้\nคุณสามารถประกาศ Monster Type และ Attribute 1 อย่างละชนิด; การ์ดใบนี้จะกลายเป็น Type และ Attribute นั้นจนจบเทิร์นของคู่ต่อสู้\nคุณสามารถใช้เอฟเฟกต์ของ \"Dimensional Allotrope Varis\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "21c32722373883a2dd2316dceb7ddf123572aa2f263212c6d72266257999801b",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

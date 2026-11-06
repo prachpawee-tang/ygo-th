@@ -1,0 +1,9 @@
+{
+  "id": "66100045",
+  "name": "Transmigration Break",
+  "th": "การ์ดใดๆ ที่จะถูกส่งกลับไปยังเด็คจากสุสาน จะถูกนำออกจากสนามแทน.",
+  "status": "ai",
+  "en_sha256": "41526beaf07b21e5f63da4325b2d9e0dc99fa0454b58d39bc8b30539ba5a117d",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "4008212",
+  "name": "Break the Destiny",
+  "th": "เลือกมอนสเตอร์ \"Destiny HERO\" ระดับ 8 หรือสูงกว่า หรือ \"Destiny End Dragoon\" ที่คุณควบคุม; ทำลายมัน และถ้าทำได้ คู่ต่อสู้จะข้าม Main Phase 1 ครั้งต่อไป\nคุณสามารถเอาการ์ดใบนี้ออกจากเกมจากสุสานของคุณ; เพิ่มการ์ด Spell/Trap 1 ใบจากเด็คของคุณขึ้นมือ ซึ่งระบุชื่อการ์ดมอนสเตอร์ \"Destiny HERO\" หรือ \"Destiny End Dragoon\" ไว้ในข้อความของมัน โดยไม่รวม \"Break the Destiny\"\nคุณสามารถใช้เอฟเฟกต์ \"Break the Destiny\" ได้ 1 เอฟเฟกต์ต่อเทิร์น และใช้ได้เพียงครั้งเดียวในเทิร์นนั้น",
+  "status": "ai",
+  "en_sha256": "8fef63a8830994578510a8abb70b77ae113b89f8f91b931ede5ee0cac0b79a61",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

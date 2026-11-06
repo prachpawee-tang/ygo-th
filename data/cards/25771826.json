@@ -1,0 +1,9 @@
+{
+  "id": "25771826",
+  "name": "Ally of Justice Garadholg",
+  "th": "ถ้าการ์ดใบนี้ทำการต่อสู้กับมอนสเตอร์ธาตุแสง, มันจะได้รับ ATK 200 ระหว่าง Damage Step เท่านั้น.",
+  "status": "ai",
+  "en_sha256": "f43a8d79b53c45cc1489631d37a9ea43c14d79958400ef7f78f5c287a40db1fa",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

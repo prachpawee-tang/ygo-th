@@ -1,0 +1,9 @@
+{
+  "id": "45591967",
+  "name": "Performapal Extra Slinger",
+  "th": "[ Pendulum Effect ]\nระหว่าง Main Phase ของคุณ: คุณสามารถสร้างความเสียหาย 300 ให้กับคู่ต่อสู้สำหรับมอนสเตอร์ Pendulum แต่ละตัวที่หงายอยู่ใน Extra Deck ของคุณ\nคุณสามารถใช้เอฟเฟกต์ของ \"Performapal Extra Slinger\" ได้เพียง 1 ครั้งต่อเทิร์น\nคุณไม่สามารถ Pendulum Summon ได้ในเทิร์นที่คุณเปิดใช้เอฟเฟกต์นี้\n[ Monster Effect ]\n1 ครั้งต่อเทิร์น: คุณสามารถเอาการ์ด 1 ใบจาก Extra Deck ของคุณออกจากเกม จากนั้นเลือกเป้าหมายการ์ด 1 ใบใน Pendulum Zone; ทำลายมัน และถ้าทำได้ ให้สร้างความเสียหาย 300 ให้กับคู่ต่อสู้",
+  "status": "ai",
+  "en_sha256": "dfb232a24960dc3709d5fd5c8c3500a2ad3124047efceb63e73ea3bf973ffc3b",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

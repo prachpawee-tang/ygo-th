@@ -1,0 +1,9 @@
+{
+  "id": "97439806",
+  "name": "Fabled Kushano",
+  "th": "ถ้าการ์ดใบนี้อยู่ในสุสานของคุณ: คุณสามารถทิ้งมอนสเตอร์ \"Fabled\" 1 ตัวลงสุสาน, ยกเว้น \"Fabled Kushano\"; เพิ่มการ์ดใบนี้ขึ้นมือ.",
+  "status": "ai",
+  "en_sha256": "20ea097f0c55a4fa47c69221abe52e8c12a0d03eb116f76dacaca0e98a15a1ca",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

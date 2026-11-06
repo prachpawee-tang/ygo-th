@@ -1,0 +1,9 @@
+{
+  "id": "8692301",
+  "name": "Gem-Knight Zirconia",
+  "th": "มอนสเตอร์ \"Gem-Knight\" 1 ตัว + มอนสเตอร์ประเภทหิน 1 ตัว",
+  "status": "ai",
+  "en_sha256": "7f897b81c8ff2c33064f7b6db7fd65e25d39bde8b2218b096f6841ec10404b17",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

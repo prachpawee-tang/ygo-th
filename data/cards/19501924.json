@@ -1,0 +1,9 @@
+{
+  "id": "19501924",
+  "name": "Pendulum Transfer",
+  "th": "เลือกเป้าหมายมอนสเตอร์ Pendulum ที่คุณควบคุมได้สูงสุด 2 ตัว; วางเป้าหมายเหล่านั้นใน Pendulum Zones ของคุณ\nคุณสามารถเปิดใช้ \"Pendulum Transfer\" ได้เพียง 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "646f6d80b98d4bc4f7e4a27b612db99d8514f62f9602b8807bf39137fe5b1436",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

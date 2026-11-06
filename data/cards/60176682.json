@@ -1,0 +1,9 @@
+{
+  "id": "60176682",
+  "name": "Double Attack! Wind and Thunder!!",
+  "th": "ถ้าคุณควบคุมมอนสเตอร์ \"Gate Guardian\": เลือกเป้าหมายการ์ด 1 ใบในสนาม; ทำลายมัน\nระหว่าง Main Phase ของคุณ: คุณสามารถเอาการ์ดใบนี้ออกจากเกมจากสุสานของคุณ; เพิ่มการ์ด \"Sanga of the Thunder\", \"Kazejin\" หรือ \"Suijin\" ของคุณ 1 ใบที่ถูกเอาออกจากเกมหรืออยู่ในเด็คขึ้นมือ\nคุณสามารถใช้เอฟเฟกต์ของ \"Double Attack! Wind and Thunder!!\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "aa3a3abb83078a28eaf092f6d07c975a1ce42576f745776bc431c9a76addb8b1",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

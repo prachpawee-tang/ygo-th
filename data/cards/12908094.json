@@ -1,0 +1,10 @@
+{
+  "id": "12908094",
+  "name": "Gagaga Magician - Gagaga Magic",
+  "th": "ถ้าการ์ดใบนี้อยู่ในมือคุณ: คุณสามารถอัญเชิญพิเศษการ์ดใบนี้และมอนสเตอร์ \"Zubaba\", \"Gagaga\", \"Gogogo\" หรือ \"Dododo\" 1 ตัวจากมือหรือสุสานของคุณได้ โดยไม่รวม \"Gagaga Magician - Gagaga Magic\" จากนั้นหลังจากเอฟเฟกต์นี้จบลงทันที ให้ทำการอัญเชิญ Link โดยใช้มอนสเตอร์ 2 ตัวเหล่านั้นเพื่อสร้างมอนสเตอร์ Link \"Zubaba\", \"Gagaga\", \"Gogogo\", \"Dododo\", \"Djinn\", \"Heroic Champion\", \"Number\", \"ZW -\" หรือ \"ZS -\"\nเมื่อคุณทำเช่นนั้น ให้ถือว่า Level ของมอนสเตอร์ตัวใดตัวหนึ่งมีค่าเท่ากับ Level ของมอนสเตอร์อีกตัวหนึ่ง\nคุณสามารถใช้เอฟเฟกต์ของ \"Gagaga Magician - Gagaga Magic\" ได้เพียง 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "f43fa644c817dae04e115b7bca523f261c22cdf30bb7a2c34a1c42673161fd0f",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

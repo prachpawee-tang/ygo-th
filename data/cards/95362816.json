@@ -1,0 +1,9 @@
+{
+  "id": "95362816",
+  "name": "Elemental HERO Lady Heat",
+  "th": "ระหว่าง End Phase ของคุณในแต่ละครั้ง: สร้างความเสียหาย 200 ให้กับคู่ต่อสู้สำหรับมอนสเตอร์ \"Elemental HERO\" แต่ละตัวที่คุณควบคุมแบบหงาย.",
+  "status": "ai",
+  "en_sha256": "e69e9de845bb47fa71883d5bc75ae88b22fafebcf03e9062650b312721f8b93c",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

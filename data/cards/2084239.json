@@ -1,0 +1,9 @@
+{
+  "id": "2084239",
+  "name": "Wetlands",
+  "th": "มอนสเตอร์ประเภท Aqua/WATER/เลเวล 2 หรือต่ำกว่า ได้รับ ATK 1200.",
+  "status": "ai",
+  "en_sha256": "ea764451cae46adcffd172c471a23546d49d74ea2707093dac4e8119899ce04e",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

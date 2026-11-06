@@ -1,0 +1,9 @@
+{
+  "id": "66970385",
+  "name": "Last Chapter of the Noble Knights",
+  "th": "ถ้าคู่ต่อสู้ควบคุมมอนสเตอร์ และคุณไม่ได้ควบคุมมอนสเตอร์: คุณสามารถเลือกเป้าหมาย “Noble Arms” Equip Spell Card 1 ใบ และมอนสเตอร์ “Noble Knight” ที่เหมาะสม 1 ตัวในสุสานของคุณ; อัญเชิญพิเศษมอนสเตอร์นั้น, และถ้าทำได้, ติด Equip Spell Card นั้นกับมอนสเตอร์ที่เหมาะสมนั้น\nคุณสามารถเปิดใช้ \"Last Chapter of the Noble Knights\" ได้เพียง 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "65bc911d90ae71c26c6e842a1058d0d50ee03bd45f4d838e2fdc2f5d1df58e9d",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

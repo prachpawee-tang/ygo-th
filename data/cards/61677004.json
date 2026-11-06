@@ -1,9 +1,9 @@
 {
   "id": "61677004",
   "name": "Predaplant Darlingtonia Cobra",
-  "th": "ถ้าการ์ดใบนี้ถูกอัญเชิญพิเศษโดยเอฟเฟกต์ของมอนสเตอร์ \"Predaplant\": คุณสามารถเพิ่มการ์ด Spell \"Polymerization\" หรือการ์ด Spell \"Fusion\" 1 ใบจากเด็คของคุณขึ้นมือ คุณสามารถใช้เอฟเฟกต์ของ \"Predaplant Darlingtonia Cobra\" ได้ 1 ครั้งต่อการต่อสู้",
+  "th": "ถ้าการ์ดใบนี้ถูกอัญเชิญพิเศษด้วยเอฟเฟกต์ของมอนสเตอร์ \"Predaplant\": คุณสามารถเพิ่มการ์ด Spell \"Polymerization\" หรือการ์ด Spell \"Fusion\" 1 ใบจากเด็คของคุณขึ้นมือได้\nคุณสามารถใช้เอฟเฟกต์ของ \"Predaplant Darlingtonia Cobra\" ได้เพียง 1 ครั้งต่อการต่อสู้",
   "status": "ai",
   "en_sha256": "15551f15fc306a4985e7d0f5cc8b2a89474f7e813ec9bce1719c41a73f0d241c",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-06"
 }

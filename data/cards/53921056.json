@@ -1,0 +1,9 @@
+{
+  "id": "53921056",
+  "name": "General Gantala of the Ice Barrier",
+  "th": "1 ครั้งต่อเทิร์น, ระหว่าง End Phase ของคุณ, คุณสามารถเลือกมอนสเตอร์ \"Ice Barrier\" 1 ตัวในสุสานของคุณ, ยกเว้น \"General Gantala of the Ice Barrier\", และ อัญเชิญพิเศษมัน.",
+  "status": "ai",
+  "en_sha256": "953f63de66b95e6e139997837cc6d7c2e0efbab8660f4e0a5029f083c42353b6",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

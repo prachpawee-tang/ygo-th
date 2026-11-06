@@ -1,0 +1,9 @@
+{
+  "id": "98266377",
+  "name": "Elemental HERO Heat",
+  "th": "การ์ดใบนี้ได้รับ ATK 200 สำหรับมอนสเตอร์ \"Elemental HERO\" แต่ละตัวที่คุณควบคุม.",
+  "status": "ai",
+  "en_sha256": "fa0ceabc7deaf7369871158ee178fffa48f15ce18387105867bed44673d7fa24",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "12986778",
+  "name": "Boon of the Meklord Emperor",
+  "th": "ถ้ามอนสเตอร์หงายเพียงอย่างเดียวบนสนามเป็นมอนสเตอร์ \"Meklord\" 2 ตัว: จั่วการ์ด 2 ใบ\nคุณไม่สามารถทำ Battle Phase ในเทิร์นที่คุณเปิดใช้การ์ดใบนี้ได้",
+  "status": "ai",
+  "en_sha256": "bd08eb598da72eb6f28e7c2f2adffaacab4f55f9c5ee32dfbf169e8846302e05",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

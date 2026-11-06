@@ -1,0 +1,9 @@
+{
+  "id": "5519829",
+  "name": "Counselor Lily",
+  "th": "เมื่อการ์ดใบนี้ถูกส่งลงสุสานสำหรับการอัญเชิญ Synchro, คุณสามารถจ่าย LP 500 เพื่อให้มอนสเตอร์ Synchro นั้นได้รับ ATK 1000 จนถึง End Phase.",
+  "status": "ai",
+  "en_sha256": "5cfd9da570ea0e3939a7bbf20258e7f9117b4966e676ce5e1e7b5de5800656e2",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

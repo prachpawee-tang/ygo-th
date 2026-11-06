@@ -1,0 +1,9 @@
+{
+  "id": "84285623",
+  "name": "Haniwa",
+  "th": "หุ่นดินที่ปกป้องสุสานของผู้ปกครองโบราณ.",
+  "status": "ai",
+  "en_sha256": "abdcec5e735b940e9cb60f0ffe87e3de52b8fbe7ad4f972f73eea496c7bb6426",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

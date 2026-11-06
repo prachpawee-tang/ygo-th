@@ -1,0 +1,9 @@
+{
+  "id": "69724380",
+  "name": "Terrible Deal",
+  "th": "เปิดใช้ได้โดยการจ่าย Life Points 1000 เมื่อคู่ต่อสู้เปิดใช้การ์ดเวทมนตร์\nคู่ต่อสู้ทิ้งการ์ดแบบสุ่ม 1 ใบ",
+  "status": "ai",
+  "en_sha256": "b40d0de2e08d5ebbccb5ac057c74b316287a341cf6ddd3b19965cefbc7df73f1",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

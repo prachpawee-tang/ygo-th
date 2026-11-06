@@ -1,0 +1,9 @@
+{
+  "id": "56260110",
+  "name": "Raimei",
+  "th": "ลด Life Points ของคู่ต่อสู้ลง 300 points.",
+  "status": "ai",
+  "en_sha256": "3fc4b1a25b22d19b0d5a0409addcfa6d798f6684d99244e8c5934492768d5499",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

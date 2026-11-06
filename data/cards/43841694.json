@@ -1,0 +1,9 @@
+{
+  "id": "43841694",
+  "name": "Spellbook of Miracles",
+  "th": "เลือกมอนสเตอร์เอฟเฟกต์ประเภท Spellcaster 1 ตัวในสุสานของคุณ และการ์ด Spell \"Spellbook\" ที่ถูกเอาออกจากเกมของคุณได้สูงสุด 2 ใบ; อัญเชิญพิเศษมอนสเตอร์นั้น และถ้าทำได้ ให้ติดการ์ด Spell \"Spellbook\" ที่ถูกเลือกไว้เป็น Material Xyz\nคุณสามารถเปิดใช้ \"Spellbook of Miracles\" ได้เพียง 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "a14a07493f2310f74113b064b1459e8e15a87e21aaf6e8a25a96030e2b57cb16",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

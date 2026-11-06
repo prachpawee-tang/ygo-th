@@ -1,0 +1,9 @@
+{
+  "id": "16241441",
+  "name": "Chrysalis Larva",
+  "th": "คุณสามารถสังเวยการ์ดใบนี้ได้เมื่อ “Neo Space” อยู่บนสนาม เพื่ออัญเชิญพิเศษ “Neo-Spacian Flare Scarab” 1 ตัวจากมือหรือเด็คของคุณ.",
+  "status": "ai",
+  "en_sha256": "4229818f9bca2d210e86fc6ac2b911bc29c88bdb4b4406ce388d9fa202a6924b",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

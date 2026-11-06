@@ -1,0 +1,9 @@
+{
+  "id": "46241344",
+  "name": "Brotherhood of the Fire Fist - Eagle",
+  "th": "มอนสเตอร์ Beast-Warrior 2 ตัว\nคุณสามารถอัญเชิญพิเศษ \"Brotherhood of the Fire Fist - Eagle(s)\" ได้เพียง 1 ครั้งต่อเทิร์น\nคุณสามารถเปิดใช้งานเอฟเฟกต์ของมอนสเตอร์ \"Fire Fist\" ได้โดยไม่ต้องส่งการ์ด \"Fire Fist\" หรือ \"Fire Formation\" จากมือหรือสนามของคุณลงสุสาน\nคุณสามารถเลือกเป้าหมายการ์ด Spell/Trap \"Fire Formation\" 1 ใบที่ที่คุณควบคุมหรืออยู่ในสุสาน; คืนมันขึ้นมือ จากนั้นส่งมอนสเตอร์ \"Fire Fist\" 1 ตัวจากเด็คของคุณลงสุสาน\nคุณสามารถใช้เอฟเฟกต์นี้ของ \"Brotherhood of the Fire Fist - Eagle\" ได้เพียง 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "29e29d10e02a4a754f9c001143c3a4055f7abac44fbcf9d51536a145a03604b1",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

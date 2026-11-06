@@ -1,0 +1,9 @@
+{
+  "id": "64734090",
+  "name": "Gem-Turtle",
+  "th": "พลิก: คุณสามารถเพิ่ม \"Gem-Knight Fusion\" 1 ใบจากเด็คของคุณขึ้นมือ.",
+  "status": "ai",
+  "en_sha256": "373bf978c9d743ed97cee41f2b0bcdc2736ff2e149b4eeda67e743a81f95435e",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "32422602",
+  "name": "Ancient Warriors - Ingenious Zhuge Kong",
+  "th": "ถ้าการ์ดใบนี้ถูกเพิ่มจากเด็คขึ้นมือของคุณโดยเอฟเฟกต์ของการ์ด \"Ancient Warriors\": คุณสามารถอัญเชิญพิเศษมันได้\nเมื่อมีการเปิดใช้ Spell/Trap Card (Quick Effect): คุณสามารถส่งการ์ดเวทมนตร์/กับดัก \"Ancient Warriors\" แบบต่อเนื่องที่คุณควบคุมซึ่งหงายอยู่ลงสุสาน; ลบล้างการเปิดใช้งาน\nเมื่อเอฟเฟกต์มอนสเตอร์ถูกเปิดใช้ในขณะที่คุณควบคุม \"Ancient Warriors - Virtuous Liu Xuan\" (Quick Effect): คุณสามารถส่งการ์ดเวทมนตร์/กับดัก \"Ancient Warriors\" แบบต่อเนื่องที่คุณควบคุมซึ่งหงายอยู่ลงสุสาน; ลบล้างการเปิดใช้งาน\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Ancient Warriors - Ingenious Zhuge Kong\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "d636dd6ee32c40e2e1928b007c53cf3d6d03a09d0c0c6f08956bdc0395f406af",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

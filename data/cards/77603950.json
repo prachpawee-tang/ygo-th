@@ -1,0 +1,9 @@
+{
+  "id": "77603950",
+  "name": "Phantom Dewan",
+  "th": "\"นักเวทมนตร์ที่สามารถทำให้ศัตรูเป็นอัมพาตได้ด้วยคำสาปเพียงครั้งเดียว.\"",
+  "status": "ai",
+  "en_sha256": "0fa4b0a4f0bde11e0ba93ee6160d2cac1148b2da8cfcab98c06dae77728d6dee",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

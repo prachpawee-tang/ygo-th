@@ -1,0 +1,9 @@
+{
+  "id": "20065549",
+  "name": "Non-Spellcasting Area",
+  "th": "มอนสเตอร์หงายทั้งหมด ยกเว้น มอนสเตอร์เอฟเฟกต์ ไม่ได้รับผลจากเอฟเฟกต์ Spell อื่นๆ.",
+  "status": "ai",
+  "en_sha256": "a873b7f768813eaa928dae9eec6457d3ce18728b7018cea97afdfb7920c99a94",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

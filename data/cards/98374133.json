@@ -1,0 +1,9 @@
+{
+  "id": "98374133",
+  "name": "Invigoration",
+  "th": "มอนสเตอร์ EARTH ที่ถูกติดตั้งด้วยการ์ดใบนี้ ATK จะเพิ่มขึ้น 400 และ DEF จะลดลง 200.",
+  "status": "ai",
+  "en_sha256": "6a05fd8129cdfd6b55fb808dceca966227d9b317a51e4d9509f7d87aba8c15d9",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

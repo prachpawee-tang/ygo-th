@@ -1,0 +1,9 @@
+{
+  "id": "25882881",
+  "name": "Dokuroizo the Grim Reaper",
+  "th": "\"ฑูตแห่งความหายนะที่ขโมยวิญญาณด้วยการโจมตีเพียงครั้งเดียว.\"",
+  "status": "ai",
+  "en_sha256": "0bc02978c77084ec56429e34b1bcf426c385c7dffee5edae0b54cbcc9e2e3f6b",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

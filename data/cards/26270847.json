@@ -1,0 +1,9 @@
+{
+  "id": "26270847",
+  "name": "Performapal Silver Claw",
+  "th": "[ Pendulum Effect ]\nมอนสเตอร์ \"Performapal\" ทั้งหมดที่คุณควบคุม ได้รับ ATK 300\n[ Monster Effect ]\nเมื่อการ์ดใบนี้ประกาศโจมตี: มอนสเตอร์ \"Performapal\" ทั้งหมดที่คุณควบคุมในขณะนี้ ได้รับ ATK 300 จนกว่าจะจบเฟส Battle",
+  "status": "ai",
+  "en_sha256": "83ebf56b2e6ce716edfe811254c29459d46ade2a43a12171c530b4cf85dd6f65",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "46572756",
+  "name": "R-Genex Ultimum",
+  "th": "เมื่อการ์ดใบนี้ที่อยู่ในสนามถูกทำลายและส่งลงสุสาน คุณสามารถเลือกมอนสเตอร์ \"Genex\" จากสุสานของคุณ 2 ตัว และนำพวกมันกลับเข้าเด็ค.",
+  "status": "ai",
+  "en_sha256": "9101378daea3f0d2f417cf8efdb1ace4e059b2554c57e7a93536e50801dae850",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: \"face-up\" ×1 in English but \"หงาย\" ×0 in Thai — meaning may be wrong"
+}

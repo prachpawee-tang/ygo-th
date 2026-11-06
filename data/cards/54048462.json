@@ -1,0 +1,9 @@
+{
+  "id": "54048462",
+  "name": "Fabled Valkyrus",
+  "th": "\"Fabled\" Tuner 1 ตัว + มอนสเตอร์ non-Tuner 1 ตัวขึ้นไป\n1 ครั้งต่อเทิร์น: คุณสามารถทิ้งการ์ดมอนสเตอร์ Fiend 1 ใบ; จั่วการ์ด 1 ใบ",
+  "status": "ai",
+  "en_sha256": "529ebf291d0ea894f01a4676861948a240c9e9b5eca9c78a9384cfb36b84a781",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

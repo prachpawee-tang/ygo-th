@@ -1,0 +1,9 @@
+{
+  "id": "94622638",
+  "name": "Genex Ally Powercell",
+  "th": "มอนสเตอร์หงายอื่น ๆ ที่คุณควบคุมที่มี Attribute เดียวกันกับใบนี้ ได้รับ ATK 500.",
+  "status": "ai",
+  "en_sha256": "cf7f0f5ee43b5ca004a6c3dc2cbbba29bb9e48bf857c90622ae5fcda84b864f1",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

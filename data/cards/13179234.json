@@ -1,0 +1,9 @@
+{
+  "id": "13179234",
+  "name": "Vaylantz Wars - The Place of Beginning",
+  "th": "นำการ์ด “Vaylantz” Field Spell 1 ใบจากเด็คของคุณขึ้นมือ, จากนั้นคุณสามารถใช้เอฟเฟกต์ต่อไปนี้ได้\n● ทำลาย Pendulum Monster Card 1 ใบที่คุณควบคุม, และถ้าทำได้ ให้เพิ่ม “Senet Switch” 1 ใบจากเด็คของคุณขึ้นมือ\nถ้าการ์ดใบนี้อยู่ในสุสานของคุณ, ยกเว้นเทิร์นที่มันถูกส่งลงที่นั่น: คุณสามารถเอามันออกจากเกม; วางมอนสเตอร์ Link “Vaylantz” แบบหงาย 1 ตัวจากเอ็กซ์ตร้าเด็คของคุณใน Pendulum Zone ของคุณ\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ “Vaylantz Wars - The Place of Beginning” ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "58a0f10c2977dadfeba465cd4f775dda257ab7a0d3935c136b084919c1c85a09",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

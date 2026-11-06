@@ -1,0 +1,9 @@
+{
+  "id": "81816475",
+  "name": "Overlay Eater",
+  "th": "คุณสามารถเอาการ์ดใบนี้ออกจากเกมจากสุสานของคุณ; นำ Material จากมอนสเตอร์ที่คู่ต่อสู้ควบคุม 1 ชิ้น และติดมันเข้ากับมอนสเตอร์ Link ที่คุณควบคุมเป็น Material.",
+  "status": "ai",
+  "en_sha256": "4dddf3a5b15d8ae2bcb7621a7b5bcdbec9200ed1ccf3b4b31efa57ce28b24d8c",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

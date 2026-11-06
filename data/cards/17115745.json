@@ -1,0 +1,9 @@
+{
+  "id": "17115745",
+  "name": "Yormungarde",
+  "th": "\"งูยักษ์ที่อาศัยอยู่ในโลกแห่งตำนาน.\"",
+  "status": "ai",
+  "en_sha256": "c43da37ffbe9b7517eacbdee9870f7d662ecc0ab6621de1f9656a03958f3f005",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

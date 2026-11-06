@@ -1,0 +1,9 @@
+{
+  "id": "75390004",
+  "name": "Megazowler",
+  "th": "ไม่มีอะไรขวางทางไดโนเสาร์ที่มีหนามแหลมนี้ได้!",
+  "status": "ai",
+  "en_sha256": "dbd76d68b57cff364b7ad249048425eaa2a491a8ffa8b228a02a9fd544028e2d",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

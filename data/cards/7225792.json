@@ -1,0 +1,9 @@
+{
+  "id": "7225792",
+  "name": "Mon Larvas",
+  "th": "''เป็นขั้นตอนต่อไปในสายวิวัฒนาการ มันทรงพลังกว่า \"Larvas\" มาก.''",
+  "status": "ai",
+  "en_sha256": "bb4bef1e4f56db60a9faf27fa33400878ef7bb893fa0e358f8a1c9069d289c1e",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

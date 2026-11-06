@@ -1,0 +1,10 @@
+{
+  "id": "53989821",
+  "name": "SPYRAL GEAR - Utility Wire",
+  "th": "ถ้าคุณควบคุม \"SPYRAL Super Agent\": เลือกเป้าหมายการ์ดที่คว่ำอยู่ 1 ใบที่คู่ต่อสู้ควบคุม; วางมันไว้บนสุดของเด็ค\nคุณสามารถเปิดใช้ \"SPYRAL GEAR - Utility Wire\" ได้เพียง 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "9dc5d24bc5ae6bb303828fd0003669c5773155cd94ab1070d88f1b89f9d023fd",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: \"face-up\" ×1 in English but \"หงาย\" ×0 in Thai — meaning may be wrong"
+}

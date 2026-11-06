@@ -1,0 +1,9 @@
+{
+  "id": "27189308",
+  "name": "Cheepcheepcheep",
+  "th": "พลิก: คุณสามารถอัญเชิญพิเศษมอนสเตอร์ Tuner ระดับ 5 หรือสูงกว่า 1 ตัวจากเด็คของคุณ.",
+  "status": "ai",
+  "en_sha256": "ceb11a6c3ece8d76fd8cd2bbe1e133d2b0d71a19588428e9d1513cd926ea8abd",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

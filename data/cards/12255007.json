@@ -1,0 +1,9 @@
+{
+  "id": "12255007",
+  "name": "Performapal Fireflux",
+  "th": "[ Pendulum Effect ]\n1 ครั้งต่อเทิร์น, เมื่อมอนสเตอร์ของคู่ต่อสู้ประกาศโจมตี: คุณสามารถสังเวยมอนสเตอร์ \"Performapal\" 1 ตัว; ลบล้างการโจมตี, จากนั้นจบ Battle Phase\n[ Monster Effect ]\nถ้ามอนสเตอร์ \"Performapal\" หรือ \"Odd-Eyes\" ที่คุณควบคุมทำการโจมตี, คู่ต่อสู้ไม่สามารถเปิดใช้การ์ด Spell/Trap ใดๆ จนกว่าจะจบ Damage Step",
+  "status": "ai",
+  "en_sha256": "6a5f1163420bb06e679212b831ed9cece76f609ce9feb0f33883f318cb2bcef6",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "37301660",
+  "name": "WINDS OF VICTORY",
+  "th": "มอนสเตอร์ที่ถูกติดตั้งได้รับ ATK 300, และมันจะกลายเป็นธาตุลม.",
+  "status": "ai",
+  "en_sha256": "a29faaa5d94ec1eb92ebc0bc91b4eef749bfe6e02139d29ba9eec8831e0c0372",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "1474910",
+  "name": "Bee List Soldier",
+  "th": "คุณสามารถสังเวยการ์ดใบนี้และมอนสเตอร์ Insect ที่หงายอยู่ 1 ตัว ยกเว้น \"Bee List Soldier\"; จั่วการ์ด 2 ใบ.",
+  "status": "ai",
+  "en_sha256": "9ec1cc9cd351c6ed1d4bbdfdc8851e972ff16c8236ae6fccdf6924774a84ee83",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

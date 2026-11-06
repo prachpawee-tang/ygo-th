@@ -1,0 +1,9 @@
+{
+  "id": "47598941",
+  "name": "Amorphage Lysis",
+  "th": "มอนสเตอร์ทั้งหมดบนสนาม ยกเว้นมอนสเตอร์ \"Amorphage\" สูญเสีย ATK และ DEF 100 สำหรับแต่ละการ์ด \"Amorphage\" บนสนาม\nถ้าการ์ด(์) ใน Pendulum Zone ของคุณถูกทำลาย (ยกเว้นระหว่าง Damage Step): คุณสามารถวางมอนสเตอร์ Pendulum \"Amorphage\" 1 ตัวจากเด็คของคุณใน Pendulum Zone ของคุณได้\nคุณสามารถใช้เอฟเฟกต์ของ \"Amorphage Lysis\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "dc984cf36a873c640753cc1c65cc6fb9486e53ebf65cccabf91b85b69acf2e41",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

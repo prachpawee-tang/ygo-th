@@ -1,0 +1,9 @@
+{
+  "id": "34109611",
+  "name": "Daigusto Falcos",
+  "th": "1 Tuner + 1 หรือมากกว่ามอนสเตอร์ \"Gusto\" ที่ไม่ใช่ Tuner\nเมื่อการ์ดใบนี้ถูกอัญเชิญแบบ Synchro: มอนสเตอร์ \"Gusto\" ทั้งหมดที่อยู่ในสนามในขณะนี้ ได้รับ ATK 600",
+  "status": "ai",
+  "en_sha256": "f2f37b1fa184c82b0cf4bc7c7cef4f93060b785e4ecf197366e3635b3e415887",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

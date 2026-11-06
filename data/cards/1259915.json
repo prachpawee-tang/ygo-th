@@ -1,0 +1,9 @@
+{
+  "id": "1259915",
+  "name": "Sacred Beasts Thunderclap",
+  "th": "ระหว่าง Main Phase ของคุณ: คุณสามารถวาง \"Sacred Beasts Thunderclap\" 2 ใบจากมือ, เด็ค และ/หรือ สุสานของคุณ, หงายบนสนามของคุณ, จากนั้นคุณสามารถเปิดเผย มอนสเตอร์ \"Sacred Beast\" ระดับ 10 ในมือของคุณ, จากนั้นวาง \"Fallen Paradise of the Sacred Beasts\" 1 ใบจากเด็คของคุณ, หงายใน Field Zone ของคุณ\nระหว่าง End Phase ของคู่ต่อสู้, ถ้าการ์ดใบนี้อยู่ในสุสานของคุณ: คุณสามารถเพิ่มการ์ดใบนี้ขึ้นมือของคุณได้\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Sacred Beasts Thunderclap\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "da07f0b2b3480351ebdc4608b1d86d656bfe20ffa2425dba32be848d4d78cc70",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

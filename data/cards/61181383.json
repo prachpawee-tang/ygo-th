@@ -1,0 +1,9 @@
+{
+  "id": "61181383",
+  "name": "Battery Charger",
+  "th": "จ่าย Life Points 500.\nอัญเชิญพิเศษมอนสเตอร์ \"Batteryman\" 1 ตัวจากสุสานของคุณ",
+  "status": "ai",
+  "en_sha256": "d707ba1c73bbdb1083aaef407189e9f67dbab5142064c753481103adb29d2eac",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

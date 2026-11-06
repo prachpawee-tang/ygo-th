@@ -1,0 +1,9 @@
+{
+  "id": "10920352",
+  "name": "Masked HERO Vapor",
+  "th": "ต้องอัญเชิญพิเศษด้วย \"Mask Change\"\nไม่สามารถถูกทำลายด้วยเอฟเฟกต์ของการ์ด",
+  "status": "ai",
+  "en_sha256": "81fa5d166495140c5bcdba78404a2af991699a74c598f93b5ffb8b262285b923",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

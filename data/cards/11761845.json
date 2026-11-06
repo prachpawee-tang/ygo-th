@@ -1,0 +1,9 @@
+{
+  "id": "11761845",
+  "name": "Beast of Talwar",
+  "th": "เฉพาะปรมาจารย์แห่งดาบในบรรดามอนสเตอร์ประเภท Fiend เท่านั้นที่ได้รับอนุญาตให้ถือ Talwar\n(การ์ดใบนี้ถือเป็น “Archfiend” เสมอ)",
+  "status": "ai",
+  "en_sha256": "86fa2673f0a0428eca7d200f878a9aac4da98a8bcaf2a8dbd988d7d6ade1ccc8",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

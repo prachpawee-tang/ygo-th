@@ -1,0 +1,10 @@
+{
+  "id": "89771220",
+  "name": "Ursarctic Drytron",
+  "th": "อัญเชิญพิเศษ \"Ultimate Flagship Ursatron\" 1 ตัวจากเอ็กซ์ตร้าเด็คของคุณโดยเอา \"Ursarctic Big Dipper\" และ \"Drytron Fafnir\" 1 ตัวออกจากเกมจากมือและ/หรือสนามของคุณ; อย่างไรก็ตาม คุณสามารถเอา 1 ในพวกมันออกจากเด็คของคุณแทนได้ถ้า \"Ursarctic Polari\" หรือ \"Drytron Alpha Thuban\" อยู่ในสนาม\nถ้าคุณจะสังเวยมอนสเตอร์เพื่อเปิดใช้งานเอฟเฟกต์ของมอนสเตอร์ \"Ursarctic\" หรือ \"Drytron\" คุณสามารถเอาการ์ดใบนี้ออกจากสุสานของคุณแทนได้\nคุณสามารถใช้เอฟเฟกต์นี้ของ \"Ursarctic Drytron\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "bf3e92d777046e03ee240c55f16fb37f7247bb718357ebf1c3ba54810b3eb3aa",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: \"banish\" ×3 in English but \"ออกจากเกม\" ×1 in Thai — meaning may be wrong"
+}

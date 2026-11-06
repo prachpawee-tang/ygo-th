@@ -1,0 +1,9 @@
+{
+  "id": "23950192",
+  "name": "Cryomancer of the Ice Barrier",
+  "th": "ตราบใดที่คุณยังควบคุมมอนสเตอร์ \"Ice Barrier\" อยู่ มอนสเตอร์เลเวล 4 หรือสูงกว่าไม่สามารถประกาศโจมตีได้.",
+  "status": "ai",
+  "en_sha256": "39768f74295020fe4c6131e47ff5943084a26ecf5050b97ce5f3aaeb0e9f3b49",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "23782705",
+  "name": "Machina Sniper",
+  "th": "มอนสเตอร์ไม่สามารถโจมตีมอนสเตอร์ \"Machina\" ได้ ยกเว้น \"Machina Sniper\".",
+  "status": "ai",
+  "en_sha256": "d9728caf449356e6fa33199cdf58c75f30c9bcc206db2285721861095a5724ed",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

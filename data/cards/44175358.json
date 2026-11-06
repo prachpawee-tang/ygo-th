@@ -1,0 +1,10 @@
+{
+  "id": "44175358",
+  "name": "Splitting Planarian",
+  "th": "คุณสามารถเอาการ์ดใบนี้ที่ควบคุมออกจากเกม; อัญเชิญพิเศษมอนสเตอร์แมลง Level 3 จากเด็คของคุณ 2 ตัวที่มีชื่อเดียวกันจากกัน, แต่เอฟเฟกต์ของพวกมันจะถูกลบล้าง, และส่งพวกมันลงสุสานในช่วง End Phase\nคุณสามารถใช้เอฟเฟกต์ของ \"Splitting Planarian\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "2de5931cfe1a0bffde2a1536962915b87577a52a9ebb04bdd9210743fa14639b",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: \"banish\" ×2 in English but \"ออกจากเกม\" ×1 in Thai — meaning may be wrong"
+}

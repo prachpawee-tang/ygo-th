@@ -1,0 +1,9 @@
+{
+  "id": "36560997",
+  "name": "Core Overclock",
+  "th": "มอนสเตอร์ \"Koa'ki Meiru\" ที่หงายอยู่ทั้งหมดที่คุณควบคุม ได้รับ ATK 500\n1 ครั้งต่อเทิร์น, ในช่วง Main Phase ของคุณ, คุณสามารถทิ้ง \"Iron Core of Koa'ki Meiru\" 1 ใบ เพื่อให้มอนสเตอร์ \"Koa'ki Meiru\" ที่หงายอยู่ทั้งหมดที่คุณควบคุม ได้รับ ATK 1000, จนถึง End Phase",
+  "status": "ai",
+  "en_sha256": "d58e4a09f278bc83bbac8b9083ec12423ed0647b8a5f0e5f4052b8abe99b0f49",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

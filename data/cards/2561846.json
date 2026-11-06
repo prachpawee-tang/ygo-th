@@ -1,0 +1,9 @@
+{
+  "id": "2561846",
+  "name": "Corruption Cell \"A\"",
+  "th": "วาง A-Counter 1 อันบนมอนสเตอร์หงายอยู่ 1 ตัวบนสนามฝั่งของคู่ต่อสู้.",
+  "status": "ai",
+  "en_sha256": "5d2373dda42b21783aa5dcd77c02b03cad2bf3dddc1c5c17d19a3ae693a53aff",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

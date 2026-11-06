@@ -1,0 +1,9 @@
+{
+  "id": "69313735",
+  "name": "Checkmate",
+  "th": "สังเวยมอนสเตอร์ \"Archfiend\" 1 ตัวในสนามของคุณ\nในเทิร์นนี้ มอนสเตอร์ \"Terrorking Archfiend\" 1 ตัวในสนามของคุณสามารถโจมตี Life Points ของคู่ต่อสู้โดยตรงได้",
+  "status": "ai",
+  "en_sha256": "45b01a3a4fb40e5eabe25d01da4bc7582c7cefa7187192e7f6a02b18ae61cee4",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "81913510",
+  "name": "NEX",
+  "th": "ส่งมอนสเตอร์ \"Neo-Spacian\" ที่หงายอยู่ซึ่งคุณควบคุมไปยังสุสาน\nอัญเชิญพิเศษมอนสเตอร์ Level 4 ที่มีชื่อเดียวกัน 1 ตัวจากเอ็กซ์ตร้าเด็คของคุณ",
+  "status": "ai",
+  "en_sha256": "0a22148af2f3984a1cfdac875c7db4ac37b85406df56f4c23ebb4fcee00d015d",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

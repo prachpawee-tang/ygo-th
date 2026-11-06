@@ -1,0 +1,9 @@
+{
+  "id": "31986288",
+  "name": "Regenerating Rose",
+  "th": "เมื่อการ์ดใบนี้ถูกทำลายด้วยการต่อสู้และส่งลงสุสาน คุณสามารถอัญเชิญพิเศษ \"Regenerating Rose Tokens\" 2 ตัว (Plant-Type/DARK/Level 3/ATK 1200/DEF 1200).",
+  "status": "ai",
+  "en_sha256": "b7e0fbde9d64159d8422a977ef90ba2f7c99a4be06678547c085106f6a38cf2f",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

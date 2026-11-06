@@ -1,0 +1,10 @@
+{
+  "id": "43912676",
+  "name": "Celestia",
+  "th": "มอนสเตอร์ประเภท Wyrm ทุกตัวได้รับ ATK และ DEF เพิ่ม 300\n1 ครั้งต่อเทิร์น: คุณสามารถส่งมอนสเตอร์ประเภท Wyrm 3 ตัวจากสุสานของคุณลงสุสาน, จากนั้นเลือกเป้าหมายการ์ด 1 ใบในสนาม; ทำลายมัน",
+  "status": "ai",
+  "en_sha256": "a04443c47d07f8f019e478e74be1405698877bc03aceb436b5cf8d29600d5bef",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: \"banish\" ×1 in English but \"ออกจากเกม\" ×0 in Thai — meaning may be wrong"
+}

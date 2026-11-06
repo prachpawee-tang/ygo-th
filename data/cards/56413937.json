@@ -1,0 +1,9 @@
+{
+  "id": "56413937",
+  "name": "Warrior of Tradition",
+  "th": "\"Sonic Maid\" + \"Beautiful Headhuntress\"",
+  "status": "ai",
+  "en_sha256": "7602b5a67f571e917165ffc59ed94213f395b91d451738861efa28c5fa5e8910",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

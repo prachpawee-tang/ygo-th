@@ -1,0 +1,9 @@
+{
+  "id": "93751476",
+  "name": "Brotherhood of the Fire Fist - Caribou",
+  "th": "ในช่วง End Phase, ถ้าการ์ดใบนี้อยู่ในสุสาน (GY) เพราะถูกทำลายโดยเอฟเฟกต์ของการ์ดและถูกส่งลงสุสานในเทิร์นนี้: คุณสามารถ อัญเชิญพิเศษ มอนสเตอร์ \"Fire Fist\" ระดับ 4 จากเด็คของคุณได้ 1 ตัว, ยกเว้น \"Brotherhood of the Fire Fist - Caribou\"\nถ้าการ์ดใบนี้ถูกส่งลงสุสานเพื่อทำการ Synchro Summon มอนสเตอร์ \"Fire Fist\": คุณสามารถ เซ็ต การ์ด Spell \"Fire Formation\" จากเด็คของคุณได้โดยตรง 1 ใบ",
+  "status": "ai",
+  "en_sha256": "b972ea832e97a60a7283ce4c6a6c6aa35ae4a4de35cb3864f7b28889942255a4",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

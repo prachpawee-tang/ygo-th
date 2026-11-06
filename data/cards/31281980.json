@@ -1,0 +1,9 @@
+{
+  "id": "31281980",
+  "name": "Healing Wave Generator",
+  "th": "1 ครั้งต่อเทิร์น, คุณสามารถเลือกมอนสเตอร์หงายที่ควบคุมอยู่ 1 ตัว เพื่อรับ Life Points เท่ากับ Level คูณ 100 ของมอนสเตอร์นั้น.",
+  "status": "ai",
+  "en_sha256": "3601c9cf0e2419a9d46b89cf65fc99bccbb150ebc596dc7db53adfd659174fe3",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

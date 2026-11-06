@@ -1,0 +1,9 @@
+{
+  "id": "72044448",
+  "name": "Photon Stream of Destruction",
+  "th": "ถ้าคุณควบคุมมอนสเตอร์ \"Galaxy-Eyes\": เลือกเป้าหมายการ์ด 1 ใบในสนาม; เอามันออกจากเกม\nคุณสามารถเปิดใช้การ์ดนี้ได้เฉพาะในเทิร์นของคุณเท่านั้น เว้นแต่คุณควบคุม \"Galaxy-Eyes Photon Dragon\"",
+  "status": "ai",
+  "en_sha256": "d45d17bee742e9c478e3e0bbdb0925fa3c43f9dabf2672d038eed7025382e707",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

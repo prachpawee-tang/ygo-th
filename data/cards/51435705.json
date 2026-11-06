@@ -1,0 +1,9 @@
+{
+  "id": "51435705",
+  "name": "Chronomaly Crystal Skull",
+  "th": "ถ้าคุณควบคุมมอนสเตอร์ \"Chronomaly\" ที่หงายอยู่: คุณสามารถทิ้งการ์ดใบนี้ลงสุสาน; เพิ่มมอนสเตอร์ \"Chronomaly\" 1 ตัวจากเด็คหรือสุสานของคุณขึ้นมือ, ยกเว้น \"Chronomaly Crystal Skull\".\nเอฟเฟกต์ของ \"Chronomaly Crystal Skull\" สามารถใช้ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "56dcf43aa5ec02592e3efce447bf07ef794f2a202c9365c05603af0be9907806",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

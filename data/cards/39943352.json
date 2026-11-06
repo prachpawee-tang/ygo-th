@@ -1,0 +1,9 @@
+{
+  "id": "39943352",
+  "name": "Daidaratant the Ooze Giant",
+  "th": "[ Pendulum Effect ]\nคุณสามารถเลือกเป้าหมายมอนสเตอร์ Xyz 1 ตัวที่ที่คุณควบคุม; ติดการ์ดใบนี้เป็น Material ให้กับมัน\nคุณสามารถใช้เอฟเฟกต์ของ \"Daidaratant the Ooze Giant\" ได้ 1 ครั้งต่อเทิร์น\n[ Monster Effect ]\nมอนสเตอร์ Level 4 จำนวน 2 ตัว\nถ้าคุณสามารถ Pendulum Summon Level 4 ได้ คุณสามารถ Pendulum Summon การ์ดใบนี้จาก Extra Deck ในท่าหงายได้\nคุณสามารถถอด Material 1 ตัวจาก การ์ดใบนี้; วางการ์ดใบนี้ใน Pendulum Zone ของคุณ จากนั้นคุณสามารถเพิ่มมอนสเตอร์ Pendulum 1 ตัวจากสุสานของคุณไปยัง เอ็กซ์ตร้าเด็ค ในท่าหงายได้\nถ้าการ์ดใบนี้ใน Main Monster Zone ถูกทำลายโดยการต่อสู้หรือเอฟเฟกต์ของการ์ด: คุณสามารถวางการ์ดใบนี้ใน Pendulum Zone ของคุณได้\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Daidaratant the Ooze Giant\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "c6833e3e4c076a0efb4cd93554762d03f86626567938ab2d47a9fda056554ac0",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

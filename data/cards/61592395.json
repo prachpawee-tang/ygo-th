@@ -1,0 +1,9 @@
+{
+  "id": "61592395",
+  "name": "Spellbook of Eternity",
+  "th": "เลือกการ์ดเวทมนตร์ \"Spellbook\" ที่ถูกเอาออกจากเกมของคุณ 1 ใบ, ยกเว้น \"Spellbook of Eternity\"; เพิ่มการ์ดที่เลือกขึ้นมือ\nคุณสามารถเปิดใช้ \"Spellbook of Eternity\" ได้เพียง 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "cd2d295555d44b3e66fb7250f6c36de65e9ff57fc5f27fb682d0aafa348b0b31",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

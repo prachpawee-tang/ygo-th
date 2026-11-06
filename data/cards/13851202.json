@@ -1,0 +1,9 @@
+{
+  "id": "13851202",
+  "name": "Satellarknight Rigel",
+  "th": "ถ้าการ์ดใบนี้ถูกอัญเชิญ: คุณสามารถเลือกเป้าหมายมอนสเตอร์ \"tellarknight\" 1 ตัวในสนาม; มันได้รับ ATK 500 แต่มันจะถูกส่งลงสุสานในช่วง End Phase\nคุณสามารถใช้เอฟเฟกต์ของ \"Satellarknight Rigel\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "c8eafb9e1ee64e18939aaa90bdd91a624957193cc3dcf59e2931b8de9de05425",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "26022485",
+  "name": "Enervating Mist",
+  "th": "ขนาดมือสูงสุดของคู่ต่อสู้ของคุณจะถูกจำกัดที่ 5.",
+  "status": "ai",
+  "en_sha256": "05009aaa3dc5a14fe0cca3e4bec6f40d775c487dc432c4d46d1c4ff458c04a37",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

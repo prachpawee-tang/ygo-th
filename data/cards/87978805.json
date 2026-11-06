@@ -1,0 +1,9 @@
+{
+  "id": "87978805",
+  "name": "Parasitic Ticky",
+  "th": "ค่า ATK และ DEF ของการ์ดใบนี้เท่ากับจำนวนโทเค็นในสนามคูณด้วย 500.",
+  "status": "ai",
+  "en_sha256": "88ee0c4eada06d9af1768a1b74bf6be87a0acf2b8764e68c7346ce6e7c242883",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "91862578",
+  "name": "Enraged Muka Muka",
+  "th": "การ์ดใบนี้ได้รับ ATK และ DEF 400 เพิ่มขึ้นสำหรับแต่ละการ์ดในมือของคุณ.",
+  "status": "ai",
+  "en_sha256": "3fac5bcb69410ae1731816532c73638fe6d35bf4c9edc4a52d91fa65e8e04817",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "47985614",
+  "name": "Gadget Arms",
+  "th": "พลิก: เลือกการ์ด Spell หรือ Trap \"Morphtronic\" 1 ใบในสุสานของคุณ และเพิ่มขึ้นมือ.",
+  "status": "ai",
+  "en_sha256": "b75c2124c60049c53c1d0ad1c26f51d7b5274940cbb58ec5a1f591649e27d0ce",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

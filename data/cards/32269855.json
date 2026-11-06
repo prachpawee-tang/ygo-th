@@ -1,0 +1,9 @@
+{
+  "id": "32269855",
+  "name": "The All-Seeing White Tiger",
+  "th": "ผู้ปกครองที่ภาคภูมิใจแห่งป่าที่บางคนหวาดกลัวและบางคนเคารพ.",
+  "status": "ai",
+  "en_sha256": "4d7956c4f3e4d7d1ea189fec64492b36bceb0507ac3eaa0d11a6dc1ccea20745",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

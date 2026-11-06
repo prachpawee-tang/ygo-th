@@ -1,9 +1,9 @@
 {
   "id": "77313225",
   "name": "Rciela, Sinister Soul of the White Forest",
-  "th": "1 Tuner + 1+ non-Tuner monsters\nถ้าการ์ดใบนี้ถูกอัญเชิญพิเศษ: คุณสามารถส่งการ์ดเวทมนตร์/กับดัก 1 ใบจากมือหรือสนามลงสุสาน; เพิ่มการ์ด \"White Forest\" 1 ใบ หรือ มอนสเตอร์ LIGHT Spellcaster 1 ตัวจากเด็คขึ้นมือ คุณสามารถใช้เอฟเฟกต์ของ \"Rciela, Sinister Soul of the White Forest\" ได้ 1 ครั้งต่อเทิร์น มอนสเตอร์ Illusion และ Spellcaster Synchro ที่คุณควบคุมได้รับ ATK 500 และจะไม่ถูกทำลายโดยเอฟเฟกต์ของการ์ดของคู่ต่อสู้",
+  "th": "1 Tuner + 1+ non-Tuner monsters\nถ้าการ์ดใบนี้ถูกอัญเชิญพิเศษ: คุณสามารถส่งการ์ดเวทมนตร์/กับดัก 1 ใบจากมือหรือสนามของคุณลงสุสาน; เพิ่มการ์ด \"White Forest\" 1 ใบหรือมอนสเตอร์ Spellcaster ไฟท์ 1 ตัวจากเด็คของคุณขึ้นมือ\nคุณสามารถใช้เอฟเฟกต์ของ \"Rciela, Sinister Soul of the White Forest\" ได้ 1 ครั้งต่อเทิร์น\nมอนสเตอร์ Illusion และ Spellcaster ที่คุณควบคุมได้รับ ATK 500; นอกจากนี้ พวกมันจะไม่ถูกทำลายโดยเอฟเฟกต์ของการ์ดของคู่ต่อสู้",
   "status": "ai",
   "en_sha256": "84ed0da6dffe934228bee8d540f6bef63fa9aa7951fa91e8ea1d0ec48cae49bd",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-06"
 }

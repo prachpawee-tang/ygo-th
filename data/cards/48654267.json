@@ -1,0 +1,9 @@
+{
+  "id": "48654267",
+  "name": "Supreme King Z-ARC - Synchro Universe",
+  "th": "[ Pendulum Effect ]\nคุณสามารถสังเวย \"Supreme King Dragon\" หรือ \"Supreme King Gate\" มอนสเตอร์ Pendulum; อัญเชิญพิเศษการ์ดใบนี้\nคุณสามารถใช้เอฟเฟกต์นี้ของ \"Supreme King Z-ARC - Synchro Universe\" ได้ 1 ครั้งต่อเทิร์น\n[ Monster Effect ]\n1 Tuner + 1+ non-Tuner มอนสเตอร์ DARK Pendulum\nชื่อของการ์ดใบนี้จะเปลี่ยนเป็น \"Supreme King Z-ARC\" ตราบเท่าที่มันอยู่ในสนาม\nหลังจากการคำนวณความเสียหาย, ถ้าการ์ดใบนี้ทำลายมอนสเตอร์ของคู่ต่อสู้ด้วยการต่อสู้, หรือเมื่อการ์ดใบนี้สร้างความเสียหายจากการต่อสู้ให้แก่คู่ต่อสู้: คุณสามารถอัญเชิญพิเศษมอนสเตอร์ \"Supreme King Dragon\" ได้สูงสุด 2 ตัวจากเด็ค, เอ็กซ์ตร้าเด็ค, และ/หรือ สุสาน ในท่าป้องกัน\nถ้าการ์ดใบนี้ใน Main Monster Zone ถูกทำลายด้วยการต่อสู้หรือเอฟเฟกต์ของการ์ด: คุณสามารถวางการ์ดใบนี้ใน Pendulum Zone ของคุณ",
+  "status": "ai",
+  "en_sha256": "18b5de4ff88253aad4789e80f3b09549c72e158fae393f5bc84c17dc1a93492e",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

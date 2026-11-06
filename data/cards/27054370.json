@@ -1,0 +1,9 @@
+{
+  "id": "27054370",
+  "name": "Firewing Pegasus",
+  "th": "ม้าล่อฟ้าที่บินผ่านท้องฟ้าด้วยปีกสีแดงฉาน.",
+  "status": "ai",
+  "en_sha256": "b9ff2df62e59450ce55f91798e1257ed3b0f7a68a6f32692a5e9be1b9d3d82fd",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

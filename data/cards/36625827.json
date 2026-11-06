@@ -1,0 +1,9 @@
+{
+  "id": "36625827",
+  "name": "Destiny HERO - Dread Servant",
+  "th": "ถ้าการ์ดใบนี้ถูกอัญเชิญปกติ: วาง Clock Counter 1 อันบน \"Clock Tower Prison\" แต่ละใบ\nเมื่อการ์ดใบนี้ถูกทำลายด้วยการต่อสู้และส่งลงสุสาน: คุณสามารถเลือกเป้าหมาย Spell/Trap 1 ใบที่คุณควบคุม; ทำลายเป้าหมายนั้น",
+  "status": "ai",
+  "en_sha256": "8e5ad9d995ed2a5dc95e28378c4a385d90ee1ccd6eb0fb50dccbf80b9ce0b202",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

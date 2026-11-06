@@ -1,0 +1,9 @@
+{
+  "id": "82315772",
+  "name": "Heraldic Beast Eale",
+  "th": "ถ้าคุณควบคุมมอนสเตอร์ \"Heraldic Beast\" 2 ตัวขึ้นไป คุณสามารถอัญเชิญพิเศษการ์ดใบนี้ (จากมือ) ได้.",
+  "status": "ai",
+  "en_sha256": "2d425a823f2a766f7ca476235f61a97e467ab2c819aa7806fd7e0e5084feb55e",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

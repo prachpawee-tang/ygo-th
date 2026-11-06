@@ -1,0 +1,9 @@
+{
+  "id": "45871897",
+  "name": "Lost Guardian",
+  "th": "ค่า DEF เดิมของการ์ดใบนี้เท่ากับจำนวนมอนสเตอร์ Rock-Type ที่ถูกเอาออกจากเกมของคุณ × 700.",
+  "status": "ai",
+  "en_sha256": "b483b5efeca8a330626ce6981b708a2e2918bbd9c9bfe6f4067e2027d644b3be",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

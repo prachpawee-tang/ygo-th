@@ -1,0 +1,9 @@
+{
+  "id": "11760174",
+  "name": "Sasuke Samurai #2",
+  "th": "1 ครั้งต่อเทิร์น, ระหว่าง Main Phase ของคุณ, คุณสามารถจ่าย Life Points 800 ได้\nถ้าทำเช่นนั้น, จนกว่าจะถึง End Phase, การ์ด Spell และ Trap ไม่สามารถเปิดใช้งานได้",
+  "status": "ai",
+  "en_sha256": "fae70a290730fa221d63a1d29f867373fd00b9a6d608a4d20d5209eaa202fb28",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

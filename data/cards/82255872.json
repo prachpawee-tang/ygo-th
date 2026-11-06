@@ -1,0 +1,9 @@
+{
+  "id": "82255872",
+  "name": "Ancient Warriors Saga - Chivalrous Path",
+  "th": "ถ้า \"Ancient Warriors\" monster(s) จะถูกทำลายด้วยการต่อสู้ คุณสามารถส่งการ์ดใบนี้ลงสุสานแทนได้\nคุณสามารถใช้แต่ละเอฟเฟกต์ต่อไปนี้ของ \"Ancient Warriors Saga - Chivalrous Path\" ได้ 1 ครั้งต่อเทิร์น\nถ้าคู่ต่อสู้ของคุณทำการอัญเชิญพิเศษมอนสเตอร์(s) (ยกเว้นระหว่าง Damage Step): คุณสามารถทำการอัญเชิญพิเศษ \"Ancient Warriors Token\" (Beast-Warrior/WIND/Level 1/ATK 500/DEF 500) ได้\nเมื่อมีการ์ดหรือเอฟเฟกต์ถูกเปิดใช้ที่เลือกเป้าหมายมอนสเตอร์ \"Ancient Warriors\" monster(s) บนสนาม: คุณสามารถเอาการ์ดใบนี้ออกจากเกมจากสุสานของคุณ; ลบล้างการเปิดใช้งาน",
+  "status": "ai",
+  "en_sha256": "f320d02a98ed3306b6aec5d643fe61cdb3f644de08e0b67e85f9d2839e0bbdc4",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "2881864",
+  "name": "Naglfar, Generaider Boss of Fire",
+  "th": "คุณสามารถควบคุม \"Naglfar, Generaider Boss of Fire\" ได้เพียง 1 ตัว\nถ้าการ์ดที่คุณควบคุมจะถูกทำลายจากการต่อสู้หรือเอฟเฟกต์ของการ์ด คุณสามารถทำลายมอนสเตอร์ \"Generaider\" 1 ตัวหรือมอนสเตอร์ Beast-Warrior 1 ตัวที่คุณควบคุมแทนได้\nคุณสามารถใช้เอฟเฟกต์นี้ของ \"Naglfar, Generaider Boss of Fire\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "983deb8e141e6869ff0cf055efcac4cf836e23f9d2945f6343e0c8bfd519ca9a",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

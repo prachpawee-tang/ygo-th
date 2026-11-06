@@ -1,0 +1,9 @@
+{
+  "id": "90156158",
+  "name": "Constellar Star Cradle",
+  "th": "เลือก \"Constellar\" มอนสเตอร์ 2 ตัวในสุสานของคุณ; เพิ่มเป้าหมายเหล่านั้นขึ้นมือ\nคุณไม่สามารถทำ Battle Phase ในเทิร์นที่คุณเปิดใช้การ์ดใบนี้ได้",
+  "status": "ai",
+  "en_sha256": "601677cd7dac2bfacbd67d4e99fd192c4e3d51b85134836cd5cbd2046cd75333",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

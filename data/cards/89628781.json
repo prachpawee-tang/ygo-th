@@ -1,0 +1,10 @@
+{
+  "id": "89628781",
+  "name": "Ninjitsu Art of Decoy",
+  "th": "เลือกเป้าหมายมอนสเตอร์ \"Ninja\" ที่หงายอยู่ที่คุณควบคุม; มันจะไม่ถูกทำลายโดยการต่อสู้.",
+  "status": "ai",
+  "en_sha256": "a3c567736825ecc63f6c05c7cf763e6b9bcf4366d390b2ecc16945a24a401ecf",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

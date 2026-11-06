@@ -1,0 +1,9 @@
+{
+  "id": "89258906",
+  "name": "Blackwing - Breeze the Zephyr",
+  "th": "ถ้าการ์ดใบนี้ถูกเพิ่มจากเด็คของคุณขึ้นมือโดยเอฟเฟกต์ของการ์ด: คุณสามารถอัญเชิญพิเศษการ์ดใบนี้จากมือของคุณได้\nไม่สามารถใช้เป็น Material สำหรับการ Synchro Summon ได้ ยกเว้นสำหรับการ Synchro Summon ของมอนสเตอร์ \"Blackwing\"",
+  "status": "ai",
+  "en_sha256": "bda51f3a4859b51ae002e4f17107672f1d3a1695068c13edc14fbb250a709d1a",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

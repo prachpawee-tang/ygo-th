@@ -1,0 +1,10 @@
+{
+  "id": "64662453",
+  "name": "Iron Call",
+  "th": "ถ้าคุณควบคุมมอนสเตอร์ Machine: เลือกเป้าหมายมอนสเตอร์ Machine ระดับ 4 หรือต่ำกว่าในสุสานของคุณ; อัญเชิญพิเศษมอนสเตอร์เป้าหมายนั้น, แต่เอฟเฟกต์ของมันจะถูกลบล้าง, และทำลายมันในช่วง End Phase.",
+  "status": "ai",
+  "en_sha256": "5a755929e6ec65c745d1c351a84618ea8ae8fe4f9c70b214922e1c1bf2cece3b",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

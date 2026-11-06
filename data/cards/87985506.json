@@ -1,0 +1,9 @@
+{
+  "id": "87985506",
+  "name": "Archfiend Playtime",
+  "th": "อัญเชิญพิเศษมอนสเตอร์ \"Archfiend\" ระดับ 7 หรือต่ำกว่า 1 ตัวจากมือหรือเด็คของคุณ หรือ ถ้าคุณมีมอนสเตอร์พิธีกรรม \"Archfiend\" ในเอ็กซ์ตร้าเด็คที่หงายอยู่ คุณสามารถอัญเชิญพิเศษ \"Royal Archfiend\", \"Duke Archfiend\" และ \"Highness Archfiend\" จากมือและ/หรือเด็คของคุณแทนได้สูงสุด 1 ตัวต่อตัว\nคุณสามารถเปิดใช้ \"Archfiend Playtime\" ได้เพียง 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "a9cf4a4bae6a1b58947ccf5c445c17cd33c2c9371577ada7e334e0e11e0178ed",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

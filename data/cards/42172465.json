@@ -1,0 +1,9 @@
+{
+  "id": "42172465",
+  "name": "World Reassembly",
+  "th": "อัญเชิญพิเศษมอนสเตอร์ \"World Legacy\" 1 ตัวจากมือหรือเด็คของคุณ แต่ทำลายมันในช่วง End Phase ของเทิร์นถัดไป\nคุณสามารถเปิดใช้ \"World Reassembly\" ได้เพียง 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "51eb825ceb06ff9f4a68e0ff9ee0de64d9ee7cd2768c0ae269019f332b5ce744",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

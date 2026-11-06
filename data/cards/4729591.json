@@ -1,0 +1,9 @@
+{
+  "id": "4729591",
+  "name": "Appliancer Kappa Scale",
+  "th": "มอนสเตอร์ \"Appliancer\" 1 ตัว\nไม่สามารถใช้เป็น Material Link ในเทิร์นที่ทำการ Link Summon\nคุณสามารถสังเวยการ์ดที่ Link ร่วมกันนี้; อัญเชิญพิเศษมอนสเตอร์ Link \"Appliancer\" 1 ตัวจากสุสานของคุณ ยกเว้น \"Appliancer Kappa Scale\"\nคุณสามารถสังเวยการ์ดใบนี้ที่ไม่ได้ Link ร่วมกัน; อัญเชิญพิเศษมอนสเตอร์ \"Appliancer\" ระดับ 4 หรือต่ำกว่า 1 ตัวจากสุสานของคุณ\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Appliancer Kappa Scale\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "7ad5a9648c76ee8d1beedc064c2b71a16a328d08e8f2cc4026f6e1261690ed92",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

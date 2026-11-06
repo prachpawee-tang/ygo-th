@@ -1,0 +1,9 @@
+{
+  "id": "31826057",
+  "name": "Symphonic Warrior Piaano",
+  "th": "1 ครั้งต่อเทิร์น คุณสามารถประกาศ Monster Type 1 ชนิดและเลือกมอนสเตอร์ \"Symphonic Warrior\" ที่หงายอยู่บนสนาม 1 ตัว\nมอนสเตอร์ตัวนั้นจะกลายเป็น Monster Type นั้น\nคุณสามารถประกาศ Monster Type 1 ชนิดและนำการ์ดใบนี้ออกจากสุสานของคุณเพื่อเอาไปไว้นอกเกมเพื่อเลือกมอนสเตอร์ \"Symphonic Warrior\" ที่คุณควบคุมที่หงายอยู่ 1 ตัว และทำให้มันเป็น Monster Type นั้น",
+  "status": "ai",
+  "en_sha256": "0f505117f9843408c3d15e18c6ffb51a1c0e565d98c6173f59cfa5aebac501d5",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

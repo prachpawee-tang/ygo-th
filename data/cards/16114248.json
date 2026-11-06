@@ -1,0 +1,9 @@
+{
+  "id": "16114248",
+  "name": "Pair Cycroid",
+  "th": "มอนสเตอร์ Machine-Type 2 ตัวที่มีชื่อเดียวกัน\nการ์ดใบนี้สามารถโจมตีคู่ต่อสู้โดยตรงได้",
+  "status": "ai",
+  "en_sha256": "b0eec3d98e1fa71ad824480350a2fe2e678c613db29b0d551b1ffab5c360484f",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

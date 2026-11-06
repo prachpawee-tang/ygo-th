@@ -1,9 +1,9 @@
 {
   "id": "11969228",
   "name": "Dragunity Knight - Romulus",
-  "th": "มอนสเตอร์ Dragon และ/หรือ Winged Beast 2 ตัว ยกเว้น Tokens\nถ้าการ์ดใบนี้ถูก Link Summon: คุณสามารถเพิ่ม การ์ดเวทมนตร์/กับดัก \"Dragunity\" 1 ใบ หรือ \"Dragon Ravine\" 1 ใบ จากเด็คของคุณขึ้นมือได้ ถ้ามีการ์ดมอนสเตอร์ Dragon ถูก Special Summon จาก เอ็กซ์ตร้าเด็คไปยัง Main Monster Zone ที่การ์ดใบนี้ชี้ (ยกเว้นระหว่าง Damage Step): คุณสามารถ Special Summon มอนสเตอร์ Dragon หรือ Winged Beast 1 ตัวจากมือของคุณในท่าป้องกัน แต่สำหรับการเทิร์นนี้ เอฟเฟกต์ (ถ้ามี) ของมันจะถูกลบล้าง และมันไม่สามารถใช้เป็น Link Material ได้ คุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Dragunity Knight - Romulus\" ได้ 1 ครั้งต่อเทิร์น",
+  "th": "มอนสเตอร์ Dragon และ/หรือ Winged Beast 2 ตัว ยกเว้น Tokens\nถ้าการ์ดใบนี้ถูกอัญเชิญ Link: คุณสามารถเพิ่มการ์ด Spell/Trap \"Dragunity\" 1 ใบ หรือการ์ด \"Dragon Ravine\" 1 ใบ จากเด็คของคุณขึ้นมือ\nถ้ามีการ์ด Dragon ถูกอัญเชิญพิเศษจากเอ็กซ์ตร้าเด็คไปยัง Main Monster Zone ที่การ์ดใบนี้ชี้ (ยกเว้นระหว่าง Damage Step): คุณสามารถอัญเชิญพิเศษมอนสเตอร์ Dragon หรือ Winged Beast 1 ตัวจากมือของคุณในท่าป้องกัน แต่สำหรับการต่อสู้ที่เหลือของเทิร์นนี้ เอฟเฟกต์ (ถ้ามี) ของมันจะถูกลบล้าง และมันไม่สามารถใช้เป็น Material Link ได้\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Dragunity Knight - Romulus\" ได้ 1 ครั้งต่อเทิร์น",
   "status": "ai",
   "en_sha256": "02a2a6022fe71f427dd1f73ffbcbf0f3480bf17cd77f5f79cd1bd6af7f001419",
   "model": "gemma3:12b",
-  "updated": "2026-11-04"
+  "updated": "2026-11-06"
 }

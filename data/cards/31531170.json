@@ -1,0 +1,9 @@
+{
+  "id": "31531170",
+  "name": "Harmonic Oscillation",
+  "th": "ถ้าคู่ต่อสู้ของคุณมีการ์ด 2 ใบใน Pendulum Zones: เลือกเป้าหมายการ์ด 2 ใบนั้น; ตราบใดที่เป้าหมายทั้งสองยังอยู่ใน Pendulum Zones ของคู่ต่อสู้ คุณสามารถ Pendulum Summon โดยใช้ Pendulum Scales ของพวกเขาได้ในเทิร์นนี้ แต่จาก เอ็กซ์ตร้าเด็ค เท่านั้น.",
+  "status": "ai",
+  "en_sha256": "dfbb6ab94937e91a4ebe9e7d38f8513914763ac1c056b69bbdf25bbc4bea891b",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "93912845",
+  "name": "Revival Gift",
+  "th": "เลือกมอนสเตอร์ Tuner 1 ตัวจากสุสานของคุณ และอัญเชิญพิเศษมัน\nเอฟเฟกต์ของมันถูกลบล้าง\nอัญเชิญพิเศษ “Gift Fiend Tokens” 2 ตัว (มอนสเตอร์เอฟเฟกต์/DARK/Level 3/ATK 1500/DEF 1500) ไปยังสนามฝั่งของคู่ต่อสู้",
+  "status": "ai",
+  "en_sha256": "95d2eddb329b383ed1bce1eeebc53b7f4baa0c9fb014283ee6aa6e3f6662e673",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

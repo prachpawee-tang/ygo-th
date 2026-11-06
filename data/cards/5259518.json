@@ -1,0 +1,9 @@
+{
+  "id": "5259518",
+  "name": "Predaplant Heliamphorhynchus",
+  "th": "ถ้าคู่ต่อสู้ของคุณควบคุมมอนสเตอร์ที่มี Predator Counter: คุณสามารถอัญเชิญพิเศษการ์ดใบนี้จากมือของคุณได้\nถ้าการ์ดใบนี้ในครอบครองของผู้เล่นของคุณถูกทำลายโดยการ์ดของคู่ต่อสู้: คุณสามารถเลือกเป้าหมายมอนสเตอร์ DARK Dragon หรือ DARK Plant 1 ตัวในสุสานของคุณ, ยกเว้น \"Predaplant Heliamphorhynchus\"; อัญเชิญพิเศษมัน\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Predaplant Heliamphorhynchus\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "fe9cebcdd8ad3a2dd547b733f35d4b4ab3ae0fac4c4184d9263042d866c3ef6e",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

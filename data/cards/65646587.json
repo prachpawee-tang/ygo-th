@@ -1,0 +1,9 @@
+{
+  "id": "65646587",
+  "name": "Pendulum Fusion",
+  "th": "อัญเชิญแบบ Fusion มอนสเตอร์ Fusion 1 ตัวจากเอ็กซ์ตร้าเด็คของคุณ โดยใช้มอนสเตอร์ที่คุณควบคุมเป็น Material Fusion\nถ้าคุณมี 2 การ์ดใน Pendulum Zones ของคุณ คุณสามารถใช้วัสดุการ์ดใน Pendulum Zones ของคุณเป็น Material Fusion ได้เช่นกัน\nคุณสามารถเปิดใช้ \"Pendulum Fusion\" ได้เพียง 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "b12e884be4d91a2737d0ae2630cc5d095016e14c202265d7ce0883ac0622ed7f",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,9 +1,9 @@
 {
   "id": "23314220",
   "name": "Spellbook of Knowledge",
-  "th": "ส่งลงสุสาน มอนสเตอร์ประเภท Spellcaster 1 ตัวที่คุณควบคุม หรือ การ์ด \"Spellbook\" อื่นๆ 1 ใบจากมือหรือสนามที่คุณวางหงาย ยกเว้น \"Spellbook of Knowledge\" และถ้าทำได้ จั่วการ์ด 2 ใบ คุณสามารถเปิดใช้ \"Spellbook of Knowledge\" ได้ 1 ใบต่อเทิร์น",
+  "th": "ส่งการ์ดลงสุสาน การ์ดมอนสเตอร์ Spellcaster 1 ใบที่คุณควบคุม หรือการ์ด \"Spellbook\" อื่นๆ 1 ใบจากมือหรือสนามที่คุณวางหงาย ยกเว้น \"Spellbook of Knowledge\" และถ้าทำได้ ให้จั่วการ์ด 2 ใบ\nคุณสามารถเปิดใช้ \"Spellbook of Knowledge\" ได้ 1 ใบต่อเทิร์น",
   "status": "ai",
   "en_sha256": "14db9d491bb7e042d5ef0f80ff0027b8ae9ed79c2551b686b8cae6c9f5a7a136",
   "model": "gemma3:12b",
-  "updated": "2026-11-04"
+  "updated": "2026-11-06"
 }

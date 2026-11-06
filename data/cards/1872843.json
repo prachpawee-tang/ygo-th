@@ -1,0 +1,9 @@
+{
+  "id": "1872843",
+  "name": "Morpheus, the Dream Mirror White Knight",
+  "th": "ถ้าการ์ดใบนี้ถูกอัญเชิญพิเศษด้วยเอฟเฟกต์ของมอนสเตอร์ \"Dream Mirror\": คุณสามารถเปิดใช้เอฟเฟกต์นี้; การ์ดใบนี้จะไม่ถูกทำลายจากการต่อสู้หรือเอฟเฟกต์ของการ์ดในเทิร์นนี้\nในช่วง Main Phase หรือ Battle Phase, ถ้า \"Dream Mirror of Terror\" อยู่ใน Field Zone (Quick Effect): คุณสามารถสังเวยการ์ดใบนี้; อัญเชิญพิเศษมอนสเตอร์ \"Morpheus, the Dream Mirror Black Knight\" 1 ตัวจากเด็คของคุณ\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Morpheus, the Dream Mirror White Knight\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "3642893d4a8117b8bef9d6d1dfd0bc90de84b0dc84e8066c5858da5170579f8c",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

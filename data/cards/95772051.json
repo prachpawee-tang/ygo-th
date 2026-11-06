@@ -1,0 +1,9 @@
+{
+  "id": "95772051",
+  "name": "Ignoble Knight of Black Laundsallyn",
+  "th": "คุณสามารถส่งมอนสเตอร์ LIGHT แบบปกติที่หงายอยู่ที่คุณควบคุม 1 ตัวไปยังสุสาน; อัญเชิญพิเศษการ์ดใบนี้จากมือหรือสุสานของคุณ\nคุณสามารถสังเวยมอนสเตอร์ \"Noble Knight\" 1 ตัว; เพิ่มการ์ด \"Noble Arms\" 1 ใบจากเด็คของคุณขึ้นมือ\nคุณสามารถใช้เอฟเฟกต์ของ \"Ignoble Knight of Black Laundsallyn\" ได้ 1 ครั้งต่อเทิร์น\nคุณสามารถควบคุม \"Ignoble Knight of Black Laundsallyn\" ได้เพียง 1 ใบ",
+  "status": "ai",
+  "en_sha256": "31630ae53ecce7cfe0cdde5ab6832f569f428e1586191b3ac52870f30b928d00",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

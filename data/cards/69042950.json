@@ -1,0 +1,10 @@
+{
+  "id": "69042950",
+  "name": "Crashbug Road",
+  "th": "ผู้เล่นแต่ละคนสามารถอัญเชิญพิเศษมอนสเตอร์ 1 ตัวจากมือที่มี Level เดียวกันกับมอนสเตอร์ Level 4 หรือต่ำกว่าที่หงายอยู่ซึ่งพวกเขาควบคุม.",
+  "status": "ai",
+  "en_sha256": "079bdc1fa779802d53993bebdb90da479217394563746dd3183f716bf2ef1a3e",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

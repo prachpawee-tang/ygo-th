@@ -1,0 +1,10 @@
+{
+  "id": "90887783",
+  "name": "Draconnection",
+  "th": "เปิดเผยมอนสเตอร์ Dragon-Type 1 ตัวในมือของคุณ, เพิ่มมอนสเตอร์ Dragon-Type ที่มี Level เดียวกันจากเด็คของคุณขึ้นมือ, จากนั้นสับมอนสเตอร์ที่เปิดเผยนั้นกลับเข้าเด็ค.",
+  "status": "ai",
+  "en_sha256": "316b68de7b345c5a37bd500b39666d441437975cd833cf319974a33c6834a017",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

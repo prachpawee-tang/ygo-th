@@ -1,0 +1,9 @@
+{
+  "id": "30811116",
+  "name": "Mecha Phantom Beast Stealthray",
+  "th": "เมื่อการ์ดใบนี้สร้างความเสียหายจากการต่อสู้ให้กับคู่ต่อสู้: อัญเชิญพิเศษ \"Mecha Phantom Beast Token\" 1 ตัว (Machine-Type/WIND/Level 3/ATK 0/DEF 0).\nLevel ของการ์ดใบนี้จะเพิ่มขึ้นตามผลรวมของ Level ของ \"Mecha Phantom Beast Tokens\" ทั้งหมดที่คุณควบคุม\nตราบใดที่คุณควบคุม Token, การ์ดใบนี้จะไม่ถูกทำลายจากการต่อสู้หรือเอฟเฟกต์ของการ์ด\n1 ครั้งต่อเทิร์น: คุณสามารถสังเวย Token 1 ตัว, จากนั้นเลือกเป้าหมาย Spell/Trap Card 1 ใบในสนาม; ทำลายเป้าหมายนั้น",
+  "status": "ai",
+  "en_sha256": "5ce0c2cd2a62d96a5dcf815edbdb4a2b49cc17818957faf6592e6d28713c7ec3",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

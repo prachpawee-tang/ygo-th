@@ -1,0 +1,9 @@
+{
+  "id": "89222931",
+  "name": "Machine King Prototype",
+  "th": "การ์ดใบนี้ได้รับ ATK และ DEF 100 สำหรับมอนสเตอร์ Machine-Type แต่ละตัวในสนาม, ยกเว้นการ์ดใบนี้.",
+  "status": "ai",
+  "en_sha256": "2ed78c1133bf187f78afe9b0b1b54c23480e49e45f4a0b912d73bdabb09492c1",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

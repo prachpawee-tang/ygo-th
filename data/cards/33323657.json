@@ -1,0 +1,9 @@
+{
+  "id": "33323657",
+  "name": "Psychic Soul",
+  "th": "สังเวยมอนสเตอร์ Psychic-Type 1 ตัวที่คุณควบคุม\nได้รับ Life Points เท่ากับ Level ของมอนสเตอร์ที่ถูกสังเวย x 300",
+  "status": "ai",
+  "en_sha256": "a2adcb57b7a70a197d31d13155202af2b1850de12ba4e634d43fce35f9d2d732",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "89547299",
+  "name": "Power Injector",
+  "th": "1 ครั้งต่อเทิร์น คุณสามารถจ่าย Life Points 600 เพื่อให้มอนสเตอร์ Psychic-Type ที่หงายอยู่ทั้งหมดได้รับ ATK 500 ในเทิร์นนี้.",
+  "status": "ai",
+  "en_sha256": "90420696477fa3a62a1cd2b9e1b4a550fe64c4d8079a416707cba69d5aa85959",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "92595643",
+  "name": "Fine",
+  "th": "ทิ้งการ์ด 2 ใบจากมือ.",
+  "status": "ai",
+  "en_sha256": "0a90cb406188f5b38af4fdff146c28fb7d120ff1119fc9d10ed04b7c236c26ef",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "83446909",
+  "name": "Batteryman Charger",
+  "th": "เมื่อการ์ดใบนี้ถูกอัญเชิญปกติ คุณสามารถอัญเชิญพิเศษมอนสเตอร์ \"Batteryman\" 1 ตัว ยกเว้น \"Batteryman Charger\" จากมือหรือเด็คของคุณ\nการ์ดใบนี้ได้รับ ATK และ DEF 300 สำหรับมอนสเตอร์ Thunder-Type แต่ละตัวที่คุณควบคุม",
+  "status": "ai",
+  "en_sha256": "ced23a745b0594e4c9aeec4bf6fe4ecfe4eb3b694e4ad47ca27ffc61098f770c",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "95204084",
+  "name": "Koa'ki Meiru Tornado",
+  "th": "คุณสามารถส่ง \"Iron Core of Koa'ki Meiru\" 1 ใบจากมือของคุณกลับไปด้านบนเด็คเพื่อทำลายมอนสเตอร์ที่ถูกอัญเชิญพิเศษทั้งหมดที่คู่ต่อสู้ควบคุม.",
+  "status": "ai",
+  "en_sha256": "3b674e66c3e5b7b70809cdfdca8658dd034ae73af86dcd6afe546cf8163ba1a7",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

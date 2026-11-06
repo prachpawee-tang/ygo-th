@@ -1,9 +1,9 @@
 {
   "id": "67284107",
   "name": "Scapeghost",
-  "th": "พลิก: คุณสามารถ อัญเชิญพิเศษ “Black Sheep Tokens” จำนวนใดก็ได้ (Zombie/DARK/Level 1/ATK 0/DEF 0).",
+  "th": "พลิก: คุณสามารถอัญเชิญพิเศษ “Black Sheep Tokens” จำนวนใดก็ได้ (Zombie/DARK/Level 1/ATK 0/DEF 0).",
   "status": "ai",
   "en_sha256": "588fa84745883aab143821b586c6171187a5029b358b95bf179a7d6b2239b142",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-06"
 }

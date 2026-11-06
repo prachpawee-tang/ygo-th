@@ -1,0 +1,10 @@
+{
+  "id": "77783947",
+  "name": "Yang Zing Unleashed",
+  "th": "มอนสเตอร์ทั้งหมดที่คู่ต่อสู้ควบคุมต้องโจมตี หากทำได้\nระหว่าง Main Phase หรือ Battle Phase ของผู้เล่นคนใดคนหนึ่ง: คุณสามารถส่งการ์ดใบนี้จาก Spell & Trap Zone ของคุณลงสุสาน; หลังจากเอฟเฟกต์นี้จบลงทันที, อัญเชิญ Synchro มอนสเตอร์ 1 ตัว โดยใช้มอนสเตอร์ \"Yang Zing\" 1 ตัวหรือมากกว่าที่คุณควบคุมเป็น Material Synchro",
+  "status": "ai",
+  "en_sha256": "097c50623a4c4a80e8dc0d195c4760cec2e7bd7c606713ce4cf32657f560e917",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: \"face-up\" ×1 in English but \"หงาย\" ×0 in Thai — meaning may be wrong"
+}

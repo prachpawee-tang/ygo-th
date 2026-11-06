@@ -1,0 +1,9 @@
+{
+  "id": "23927567",
+  "name": "An Owl of Luck",
+  "th": "FLIP: เลือกการ์ด Field Spell 1 ใบจากเด็คของคุณ และวางไว้ด้านบนเด็คของคุณ\nถ้า \"Necrovalley\" อยู่ในสนาม คุณสามารถเพิ่มการ์ด Field Spell ที่เลือกไว้ขึ้นมือแทนได้",
+  "status": "ai",
+  "en_sha256": "e806bb7cf8065bda3685bc0f87789478edcd563472f20df4adf179b40c129121",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

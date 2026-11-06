@@ -1,0 +1,9 @@
+{
+  "id": "20154092",
+  "name": "Chronomaly Cabrera Trebuchet",
+  "th": "1 ครั้งต่อเทิร์น: คุณสามารถสังเวยมอนสเตอร์ \"Chronomaly\" ตัวอื่น 1 ตัว จากนั้นเลือกเป้าหมายมอนสเตอร์หงายที่คู่ต่อสู้ควบคุม; ATK ของมันจะกลายเป็น 0 จนถึงจบเฟส End Phase.",
+  "status": "ai",
+  "en_sha256": "58758ec1e7e59cb1a4ae877bf0e6c092ee82d3cf7595d606f278af70d97abae8",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

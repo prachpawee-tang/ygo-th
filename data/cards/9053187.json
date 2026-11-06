@@ -1,0 +1,9 @@
+{
+  "id": "9053187",
+  "name": "Gagagigo the Risen",
+  "th": "มอนสเตอร์ Level 4 จำนวน 3 ตัว",
+  "status": "ai",
+  "en_sha256": "dd7229720a884d1f40cb7414ebc9555720fd9dc87d780c69b35787d29efafd66",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

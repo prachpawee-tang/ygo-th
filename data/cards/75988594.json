@@ -1,0 +1,10 @@
+{
+  "id": "75988594",
+  "name": "Superheavy Samurai Swordmaster Musashi",
+  "th": "1 Tuner + 1+ non-Tuner monsters\nเมื่อการ์ดใบนี้ถูกอัญเชิญแบบ Synchro: คุณสามารถเลือกเป้าหมายมอนสเตอร์ Machine 1 ตัวในสุสานของคุณ; เพิ่มมันขึ้นมือ, นอกจากนี้ถ้าคุณมีการ์ด Spell/Trap ในสุสานของคุณ คุณจะไม่สามารถอัญเชิญปกติหรืออัญเชิญพิเศษมัน หรือมอนสเตอร์ที่มีชื่อเดียวกันได้ จนกว่าจะจบเทิร์นนี้\nการ์ดใบนี้สามารถโจมตีได้ในขณะที่อยู่ในท่าป้องกัน\nถ้าทำได้ ให้ใช้ DEF ของมันในการคำนวณความเสียหาย",
+  "status": "ai",
+  "en_sha256": "8ceabfbd4db530afdedff5b29f0d49a502eaf9d937122cad1db5da0f6beac29f",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: \"face-up\" ×1 in English but \"หงาย\" ×0 in Thai — meaning may be wrong"
+}

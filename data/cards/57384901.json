@@ -1,0 +1,9 @@
+{
+  "id": "57384901",
+  "name": "Interdimensional Warp",
+  "th": "เลือกมอนสเตอร์ที่คุณควบคุม และ มอนสเตอร์ที่มี A-Counter(s) ที่คู่ต่อสู้ควบคุม\nสลับการควบคุมมอนสเตอร์เหล่านั้น",
+  "status": "ai",
+  "en_sha256": "e4b94b99af1735cf967d3dfe0bbfb5067a0a1dddde7a03fbc97364bce21e0c08",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "92359409",
+  "name": "Superdreadnought Rail Cannon Gustav Rocket",
+  "th": "มอนสเตอร์ Level 10 จำนวน 3 ตัว\n1 ครั้งต่อเทิร์น, คุณสามารถทำการ Xyz Summon \"Superdreadnought Rail Cannon Gustav Rocket\" ได้โดยการทิ้งการ์ด 1 ใบและใช้ \"Superdreadnought Rail Cannon Gustav Max\" ที่คุณควบคุม (ถ่ายโอน Material ของมัน)\nเมื่อคู่ต่อสู้เปิดใช้งานเอฟเฟกต์มอนสเตอร์, ในขณะที่การ์ดนี้มี Material (Quick Effect): คุณสามารถลบล้างเอฟเฟกต์นั้นได้, และถ้าทำได้ ให้ทำลายการ์ดนั้น, จากนั้นสร้างความเสียหาย 1000 ให้กับคู่ต่อสู้\nคุณสามารถใช้เอฟเฟกต์นี้ของ \"Superdreadnought Rail Cannon Gustav Rocket\" ได้เพียง 1 ครั้งต่อเทิร์น\n1 ครั้งต่อเทิร์น, ในช่วง End Phase ของคุณ: ถอด Material 1 ชิ้นจากการ์ดนี้ หรือ ทำลายการ์ดนี้",
+  "status": "ai",
+  "en_sha256": "4db0be43e263361e73a5a215d53d75e2589d1b1e17d876b268aae3b50824cdc4",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

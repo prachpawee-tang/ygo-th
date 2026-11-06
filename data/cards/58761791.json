@@ -1,0 +1,10 @@
+{
+  "id": "58761791",
+  "name": "Shipping Error",
+  "th": "เมื่อมีการ์ดหรือเอฟเฟกต์ถูกเปิดใช้ซึ่งมีผลที่จะเพิ่มการ์ดจากเด็คขึ้นมือ: เอฟเฟกต์ที่เปิดใช้นั้นจะกลายเป็น \"คู่ต่อสู้ของคุณต้องเลือกการ์ด 1 ใบจากเด็คของพวกเขาให้คุณเพิ่มขึ้นมือ และคุณต้องเก็บการ์ดใบนั้นไว้เปิดเผยไว้ ในระหว่าง End Phase ของเทิร์นนี้ ให้สับกลับเข้าเด็ค และถ้าทำได้ คุณจั่วการ์ด 1 ใบ\".",
+  "status": "ai",
+  "en_sha256": "a1badb4d38379d4c197731db6625efea45add327bcdb5980bd9df9f3baf1e77d",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: card names in quotes changed/missing: \"Your opponent takes 1 card from their Deck for you to add to your hand, and you must keep that card revealed. During the End Phase of this turn, shuffle it into the Deck, and if you do, draw 1 card\""
+}

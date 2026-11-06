@@ -1,0 +1,10 @@
+{
+  "id": "66938505",
+  "name": "Crystron Rion",
+  "th": "ระหว่าง Main Phase หรือ Battle Phase ของคู่ต่อสู้: คุณสามารถเลือกเป้าหมายมอนสเตอร์ non-Tuner ที่ถูกส่งไปยังสุสานของคุณ 1 ตัว; อัญเชิญพิเศษมัน, แต่เอฟเฟกต์ของมันจะถูกลบล้าง (ถ้ามี), และถ้าทำเช่นนั้น, ทันทีหลังจากเอฟเฟกต์นี้จบลง, ให้ทำการ Synchro Summon มอนสเตอร์ Synchro ประเภท Machine โดยใช่มอนสเตอร์ตัวนั้นและการ์ดใบนี้เท่านั้น (นี่คือ Quick Effect).\nMaterials Synchro เหล่านี้จะถูกสับกลับเข้าเด็คแทนที่จะถูกส่งลงสุสาน\nคุณสามารถใช้เอฟเฟกต์ของ \"Crystron Rion\" ได้เพียง 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "b05c96265abcb2918cef816b15c8a4cc964a2ea3375d892d05b24cacc53a9a3d",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: \"banish\" ×1 in English but \"ออกจากเกม\" ×0 in Thai — meaning may be wrong"
+}

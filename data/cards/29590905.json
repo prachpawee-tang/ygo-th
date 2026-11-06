@@ -1,0 +1,10 @@
+{
+  "id": "29590905",
+  "name": "Super Junior Confrontation",
+  "th": "เปิดใช้ได้เมื่อมอนสเตอร์ของคู่ต่อสู้ประกาศโจมตี\nลบล้างการต่อสู้ และมอนสเตอร์ที่มี ATK ต่ำสุดในท่าโจมตีที่คู่ต่อสู้ควบคุมต่อสู้กับมอนสเตอร์ที่มี DEF ต่ำสุดในท่าป้องกันที่หงายที่คุณควบคุม\nหลังจากนั้น ให้จบเฟสต่อสู้",
+  "status": "ai",
+  "en_sha256": "ada4b08bdd548c7050f0af5a8cfcd29e4cf9574068f8d876cff88143c3584f34",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: numbers missing in Thai: 1; \"face-up\" ×2 in English but \"หงาย\" ×1 in Thai — meaning may be wrong"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "44227727",
+  "name": "Plunder Patroll Shipshape Ships Shipping",
+  "th": "อัญเชิญแบบ Fusion มอนสเตอร์ Fiend Fusion 1 ตัวจากเอ็กซ์ตร้าเด็คของคุณ โดยใช้มอนสเตอร์จากมือหรือสนามของคุณเป็น Material การ Fusion\nคุณสามารถส่งการ์ดใบนี้ลงสุสาน จากนั้นเลือกเป้าหมายมอนสเตอร์ \"Plunder Patroll\" 1 ตัวที่คุณควบคุม; นำการ์ด \"Emblem of the Plunder Patroll\" หรือการ์ด \"Plunder Patroll\" 1 ใบจากเด็คของคุณไปติดกับเป้าหมายนั้น\nคุณสามารถใช้เอฟเฟกต์ของ \"Plunder Patroll Shipshape Ships Shipping\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "6e1fceeec43a5274fef73ba23947bdd515a6ae26d21111a47208ac1beaa4ae96",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: \"banish\" ×1 in English but \"ออกจากเกม\" ×0 in Thai — meaning may be wrong"
+}

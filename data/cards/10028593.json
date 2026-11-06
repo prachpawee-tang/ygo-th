@@ -1,0 +1,9 @@
+{
+  "id": "10028593",
+  "name": "Reborn Tengu",
+  "th": "ถ้าการ์ดที่หงายนี้ออกจากสนาม: อัญเชิญพิเศษ \"Reborn Tengu\" 1 ตัวจากเด็คของคุณ.",
+  "status": "ai",
+  "en_sha256": "f3079460a3f12a7b0f45d7562b84b19e6b9ecaf47db0cadee1b1657bb4f8875d",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

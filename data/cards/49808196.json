@@ -1,0 +1,9 @@
+{
+  "id": "49808196",
+  "name": "Metabo Globster",
+  "th": "เมื่อคุณสังเวยการ์ดใบนี้เพื่ออัญเชิญแบบสังเวยมอนสเตอร์ DARK, อัญเชิญพิเศษ \"Metabo Tokens\" 3 ตัว (Fiend-Type/DARK/Level 1/ATK 0/DEF 0) ในท่าป้องกัน\nTokens เหล่านี้ไม่สามารถถูกสังเวยเพื่อทำการอัญเชิญแบบสังเวยได้",
+  "status": "ai",
+  "en_sha256": "d24b893092a231cb1b42db637fabbe750b11076cdcdd11f6c66a7c35de8389a6",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

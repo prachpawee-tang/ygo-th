@@ -1,0 +1,9 @@
+{
+  "id": "5291803",
+  "name": "Chronomaly Tula Guardian",
+  "th": "ถ้ามีการ์ด Field Spell ที่หงายอยู่บนสนาม, คุณสามารถอัญเชิญพิเศษการ์ดใบนี้ (จากมือ) ได้\nคุณสามารถควบคุม \"Chronomaly Tula Guardian\" ได้เพียง 1 ใบเท่านั้น",
+  "status": "ai",
+  "en_sha256": "2cda7dffcc8a3f4c046e59376f379deae060a0b5a7180a1f0e54cbcc76c9753d",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "23681456",
+  "name": "Madolchepalooza",
+  "th": "อัญเชิญพิเศษมอนสเตอร์ \"Madolche\" จำนวนใดก็ได้จากมือของคุณ, แต่สับกลับเข้าเด็คในช่วง End Phase.",
+  "status": "ai",
+  "en_sha256": "70e574817cb98fdaba29de5ab0c3c159ccf41eda61ab03ce0072c01f42bd59f9",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "99657399",
+  "name": "Asleep at the Switch",
+  "th": "เมื่อคู่ต่อสู้ของคุณได้รับ Life Points: เลือกเป้าหมายมอนสเตอร์ 1 ตัวที่คู่ต่อสู้ควบคุม; ทำลายเป้าหมายนั้น.",
+  "status": "ai",
+  "en_sha256": "d09e52bae0b2be60a95cccf0708084329b13238bbafa6b2c89f4eabb737cab92",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

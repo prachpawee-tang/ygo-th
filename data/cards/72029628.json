@@ -1,0 +1,10 @@
+{
+  "id": "72029628",
+  "name": "Fragment Fusion",
+  "th": "เอาการ์ด Fusion Material Monsters ที่ระบุไว้บนการ์ด \"Gem-Knight\" Fusion Monster ออกจากสุสานของคุณ; จากนั้น อัญเชิญพิเศษมอนสเตอร์ Fusion นั้นจากเอ็กซ์ตร้าเด็คของคุณ\n(การอัญเชิญพิเศษนี้ถือเป็นการ อัญเชิญแบบ Fusion) ทำลายมันในช่วง End Phase",
+  "status": "ai",
+  "en_sha256": "a3b2105b6b4a85ffe32dbe9cd29562b545004b8d6bafcb1989252b3669f91631",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: \"banish\" ×1 in English but \"ออกจากเกม\" ×0 in Thai — meaning may be wrong"
+}

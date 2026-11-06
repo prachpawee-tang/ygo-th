@@ -1,0 +1,9 @@
+{
+  "id": "17540705",
+  "name": "Performapal Dag Daggerman",
+  "th": "[ Pendulum Effect ]\nระหว่าง Main Phase ของคุณ, ถ้าการ์ดใบนี้ถูกเปิดใช้นี้เทิร์น: คุณสามารถเลือกเป้าหมายมอนสเตอร์ \"Performapal\" 1 ตัวในสุสานของคุณ; เพิ่มมันขึ้นมือ\nคุณสามารถใช้เอฟเฟกต์ของ \"Performapal Dag Daggerman\" ได้ 1 ครั้งต่อเทิร์น\n[ Monster Effect ]\nระหว่าง Main Phase ของคุณ, ถ้าการ์ดใบนี้ถูกอัญเชิญแบบ Pendulum นี้นี้เทิร์น: คุณสามารถส่งมอนสเตอร์ \"Performapal\" 1 ตัวจากมือของคุณลงสุสาน; จั่วการ์ด 1 ใบ\nคุณสามารถใช้เอฟเฟกต์ของ \"Performapal Dag Daggerman\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "4b4081bb0a58341c9916ebd5e9cab390c808c12937773350b719f660adfb83b3",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

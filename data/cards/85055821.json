@@ -1,0 +1,9 @@
+{
+  "id": "85055821",
+  "name": "Carpiponica, Mystical Beast of the Forest",
+  "th": "ถ้าการ์ดใบนี้ถูกส่งจากมือไปยังสุสาน: คุณสามารถเลือกเป้าหมายมอนสเตอร์ Beast, Beast-Warrior, Winged Beast, Insect และ/หรือ Plant ที่มี Type ต่างกัน 2 ตัวในสุสานของคุณ; สับพวกมันกลับเข้าเด็ค และถ้าทำได้ ให้ อัญเชิญพิเศษ การ์ดใบนี้\nถ้าการ์ดใบนี้ถูก อัญเชิญปกติ หรือ อัญเชิญพิเศษ: คุณสามารถเพิ่ม มอนสเตอร์ \"Mystical Beast of the Forest\" 1 ตัว หรือ มอนสเตอร์ \"Mystical Spirit of the Forest\" 1 ตัว จากเด็คของคุณขึ้นมือ ยกเว้น \"Carpiponica, Mystical Beast of the Forest\"\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Carpiponica, Mystical Beast of the Forest\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "512b37e9537658a95bb24ed652410d1261b22b129dcc12d0ff8280a7295bcc2c",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

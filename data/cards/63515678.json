@@ -1,0 +1,9 @@
+{
+  "id": "63515678",
+  "name": "Mystical Capture Chain",
+  "th": "\"โซ่ลึกลับที่ผูกมัดศัตรู ทำให้พวกมันอยู่นิ่งไม่ได้.\"",
+  "status": "ai",
+  "en_sha256": "12807b22a5dcf95a8e17a15648a102e74f3f4ef71c18621b8e3a094bbbab4221",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

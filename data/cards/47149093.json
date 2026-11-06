@@ -1,0 +1,10 @@
+{
+  "id": "47149093",
+  "name": "Crystal Brilliance",
+  "th": "คุณสามารถควบคุม \"Crystal Brilliance\" ได้เพียง 1 ใบ\nมอนสเตอร์ \"Crystal Beast\" แต่ละตัวที่คุณควบคุมได้รับ ATK เท่ากับ DEF เดิมของมัน\nถ้ามีการ์ด \"Crystal Beast\" ถูกวางใน Spell & Trap Zone ของคุณ แม้ในระหว่าง Damage Step: คุณสามารถส่งการ์ดใบนี้คว่ำหน้าลงสุสาน; อัญเชิญพิเศษมอนสเตอร์ \"Crystal Beast\" 1 ตัวจากมือหรือสุสานของคุณ และความเสียหายที่คุณได้รับในเทิร์นนี้จะถูกลดลงครึ่งหนึ่ง",
+  "status": "ai",
+  "en_sha256": "5aff309b362f3fa51b0ceb9f4381750dc5d4c8718c51681532b0218a2c61bc5a",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: \"face-up\" ×1 in English but \"หงาย\" ×0 in Thai — meaning may be wrong"
+}

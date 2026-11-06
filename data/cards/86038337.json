@@ -1,0 +1,9 @@
+{
+  "id": "86038337",
+  "name": "Faisan, Hunting Scout of the Deep Forest",
+  "th": "มอนสเตอร์ Warrior ประเภท EARTH 2 ตัว\nไม่ได้รับผลจากเอฟเฟกต์ที่เปิดใช้งานโดยคู่ต่อสู้, เฉพาะในช่วง Main Phase เท่านั้น\nระหว่าง Battle Phase (Quick Effect): คุณสามารถสังเวยการ์ด Fusion Summoned ใบนี้; อัญเชิญพิเศษมอนสเตอร์ Warrior ประเภท EARTH 2 ตัวจากสุสานของคุณ, ยกเว้น \"Faisan, Hunting Scout of the Deep Forest\", และถ้าทำได้, มอนสเตอร์ Warrior ประเภท EARTH ของคุณจะไม่ถูกทำลายจากการต่อสู้จนจบเทิร์นนี้\nคุณสามารถใช้เอฟเฟกต์ของ \"Faisan, Hunting Scout of the Deep Forest\" ได้เพียง 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "16da3a0ee82d4a069b3e7dba8bbd399092a5ed7d3a74bac6bd86b598cd0652d6",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

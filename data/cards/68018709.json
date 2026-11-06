@@ -1,0 +1,9 @@
+{
+  "id": "68018709",
+  "name": "Condemned Maiden",
+  "th": "ระหว่างเทิร์นของคู่ต่อสู้ คุณสามารถเปิดใช้การ์ด Quick-Play Spell 1 ใบจากมือของคุณได้\nคุณสามารถใช้เอฟเฟกต์ของ \"Condemned Maiden\" ได้เพียง 1 ครั้งต่อการต่อสู้",
+  "status": "ai",
+  "en_sha256": "498f4431b0666b67a2e7e8ede331c02a00ac3730624da7d066c29edcf7d6fbcf",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

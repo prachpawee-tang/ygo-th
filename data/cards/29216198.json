@@ -1,0 +1,9 @@
+{
+  "id": "29216198",
+  "name": "Gravitic Orb",
+  "th": "พลิก: เปลี่ยนท่าของมอนสเตอร์ที่หงายทั้งหมดที่คู่ต่อสู้ควบคุม.",
+  "status": "ai",
+  "en_sha256": "52bca5ff30589aeea0c1cc6f7426dabb40936ef097699cdbbef1f41feab9a017",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "79580323",
+  "name": "Gladiator Beast Spartacus",
+  "th": "การ์ดใบนี้ไม่สามารถอัญเชิญพิเศษได้ ยกเว้นด้วยเอฟเฟกต์ของ \"Gladiator Beast Hoplomus\"\nเมื่อการ์ดใบนี้ถูกอัญเชิญพิเศษ, เพิ่มการ์ด Equip Spell \"Gladiator Beast\" 1 ใบจากเด็คของคุณขึ้นมือ\nเมื่อสิ้นสุด Battle Phase, ถ้าการ์ดใบนี้โจมตีหรือถูกโจมตี, คุณสามารถส่งมันกลับเข้าเด็คเพื่ออัญเชิญพิเศษมอนสเตอร์ \"Gladiator Beast\" 1 ตัวจากเด็คของคุณ, ยกเว้น \"Gladiator Beast Spartacus\"",
+  "status": "ai",
+  "en_sha256": "84532b25407aa96a63bea39fd37e08bd089a733ff295f13da5322ea326a78d02",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

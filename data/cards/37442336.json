@@ -1,0 +1,9 @@
+{
+  "id": "37442336",
+  "name": "Cosmic Quasar Dragon",
+  "th": "มอนสเตอร์ Synchro Tuner 1 ตัว + มอนสเตอร์ Synchro non-Tuner 2+ ตัว\nต้องทำการ Synchro Summon ด้วย Material ข้างต้นก่อน\n1 ครั้งต่อเทิร์น: คุณสามารถเลือกเป้าหมายการ์ดที่หงายอยู่บนสนาม จำนวนสูงสุดเท่ากับจำนวนมอนสเตอร์ที่ใช้เป็น Material Synchro สำหรับการ์ดใบนี้ +1; ลบล้างเอฟเฟกต์ของพวกมัน\nการเปิดใช้งานเอฟเฟกต์นี้และเอฟเฟกต์นี้ไม่สามารถถูกลบล้างได้\n(Quick Effect): คุณสามารถเอามอนสเตอร์ Synchro ที่ทำการ Synchro Summon ใบนี้ออกจากเกม; อัญเชิญพิเศษมอนสเตอร์ Synchro Dragon 1 ตัวจากเอ็กซ์ตร้าเด็คของคุณที่ต้องการ Material มอนสเตอร์ Synchro non-Tuner 2+ ตัว\n(การ์ดใบนี้ถือเป็นการ Synchro Summon.)",
+  "status": "ai",
+  "en_sha256": "bdd0c07ef05bcfb2ca21417157893796dbff05f78e629c3bbc407af249827da1",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

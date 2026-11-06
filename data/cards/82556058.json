@@ -1,0 +1,9 @@
+{
+  "id": "82556058",
+  "name": "Fiendish Engine Omega",
+  "th": "ระหว่าง End Phase ของคุณ: อัญเชิญพิเศษ \"Engine Token\" (Machine-Type/EARTH/Level 1/ATK 200/DEF 200) ในท่าโจมตี\n1 ครั้งต่อเทิร์น: คุณสามารถให้การ์ดใบนี้ได้รับ ATK 1000 จนถึง End Phase\nระหว่าง End Phase, ถ้าเอฟเฟกต์ของการ์ดใบนี้ถูกใช้: ทำลายการ์ดใบนี้",
+  "status": "ai",
+  "en_sha256": "2721221465bf3df79e337f26ac96b2dbbcc8c1d45e755c969d6ab613f82ce7fa",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

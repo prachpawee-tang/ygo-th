@@ -1,0 +1,9 @@
+{
+  "id": "39643167",
+  "name": "Bunny Ear Enthusiast",
+  "th": "1 ครั้งต่อเชน, เมื่อมอนสเตอร์ในสนาม, ยกเว้น \"Bunny Ear Enthusiast\", เปิดใช้งานเอฟเฟกต์ของมัน (Quick Effect): คุณสามารถวาง Bunny Ear Counter 1 ตัวบนมันได้, และมันจะไม่ถูกทำลายจากการต่อสู้ตราบเท่าที่มันมี Counter นั้น\n1 ครั้งต่อเทิร์น (Quick Effect): คุณสามารถเลือกเป้าหมายมอนสเตอร์ 1 ตัวที่มี Bunny Ear Counter; เอาทั้งมันและการ์ดใบนี้ออกจากเกมจนกว่าจะถึง Standby Phase ของเทิร์นถัดไป",
+  "status": "ai",
+  "en_sha256": "638bf9ed91e7560f435e82d8d8c5a7018a662f417e15f3e4ff8a8d8e381de8fe",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "20417688",
+  "name": "Stars Align across the Milky Way",
+  "th": "เผยการ์ด Ritual Monster 1 ใบในมือของคุณ; เพิ่มการ์ด Ritual Monster ที่มี Level เดียวกันแต่ชื่อต่างกัน 1 ใบจากเด็คของคุณขึ้นมือ\nคุณสามารถส่งการ์ดใบนี้ลงสุสานและส่งการ์ด Ritual Spell 1 ใบจากมือของคุณลงสุสาน; เอฟเฟกต์นี้จะกลายเป็นเอฟเฟกต์ของการ์ดใบนั้นที่ทำการอัญเชิญ Ritual มอนสเตอร์เมื่อการ์ดใบนั้นถูกเปิดใช้\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Stars Align across the Milky Way\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "038c4b20ab266f78505e7764456159de170f9746edeca713ec5c0791d26c893b",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: \"banish\" ×1 in English but \"ออกจากเกม\" ×0 in Thai — meaning may be wrong"
+}

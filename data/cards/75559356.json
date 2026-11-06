@@ -1,0 +1,9 @@
+{
+  "id": "75559356",
+  "name": "Cyber Soldier of Darkworld",
+  "th": "ทหารกลที่จะไม่หยุดโจมตีจนกว่าจะตรวจจับค่าชีวิตเป็นศูนย์.",
+  "status": "ai",
+  "en_sha256": "ee2f85eeb68bdd81464ecb61914d49fb665ff45aa4f2e60a4be7f2ed0a407d27",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

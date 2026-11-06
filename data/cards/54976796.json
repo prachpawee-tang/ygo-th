@@ -1,0 +1,9 @@
+{
+  "id": "54976796",
+  "name": "Level Limit - Area A",
+  "th": "เปลี่ยนมอนสเตอร์ที่มีเลเวล 3 หรือต่ำกว่าที่หงายอยู่ทั้งหมดเป็นท่าโจมตี.",
+  "status": "ai",
+  "en_sha256": "73aa2d2b9d842bbeb853f5bd7875af276d2225e633d9a6bd60bdeebb21af5c0b",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

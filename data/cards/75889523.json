@@ -1,0 +1,9 @@
+{
+  "id": "75889523",
+  "name": "Archfiend Marmot of Nefariousness",
+  "th": "มาร์โมตแห่งอากาศที่มีเขาชั่วร้ายและปีก\nมันโจมตีโดยการขว้าง acorns",
+  "status": "ai",
+  "en_sha256": "ac907ff3585866c92615719a3038fc2eec8bfc4dd3f17900f3c49b028adc582d",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

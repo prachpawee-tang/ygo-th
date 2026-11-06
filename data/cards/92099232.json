@@ -1,0 +1,9 @@
+{
+  "id": "92099232",
+  "name": "Shapesister",
+  "th": "อัญเชิญพิเศษการ์ดใบนี้เป็นมอนสเตอร์ปกติ (Fiend-Type/Tuner/EARTH/Level 2/ATK 0/DEF 0)\n(การ์ดใบนี้ยังคงเป็นกับการ์ดกับดัก) คุณสามารถเปิดใช้ \"Shapesister\" ได้เพียง 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "08efb5de45033dc67ae5e1b2795a0c4afa5ccf908696e4d17ced2fa752165fda",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

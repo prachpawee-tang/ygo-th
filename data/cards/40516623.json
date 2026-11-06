@@ -1,0 +1,10 @@
+{
+  "id": "40516623",
+  "name": "Yoko-Zuna Sumo Spirit",
+  "th": "[ Pendulum Effect ]\nถ้ามีการอัญเชิญมอนสเตอร์โดยใช้การอัญเชิญแบบ Pendulum: คืนการ์ดใบนี้จาก Pendulum Zone ไปที่มือ\n[ Monster Effect ]\nเมื่อการ์ดใบนี้ถูกอัญเชิญปกติ: คุณสามารถส่งมอนสเตอร์ทั้งหมดที่คู่ต่อสู้ควบคุมในคอลัมน์เดียวกันกับการ์ดใน Pendulum Zones ของคุณลงสุสานได้\n1 ครั้งต่อเทิร์น, ในช่วง End Phase, ถ้าการ์ดใบนี้ถูกอัญเชิญปกติหรือพลิกคว่ำในเทิร์นนี้: คืนการ์ดใบนี้ไปที่มือ",
+  "status": "ai",
+  "en_sha256": "ff22bb3aab2f239a1847d72ff43a4a15ef279e8a4b2d9187a17f348fb3ca8058",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: \"face-up\" ×1 in English but \"หงาย\" ×0 in Thai — meaning may be wrong"
+}

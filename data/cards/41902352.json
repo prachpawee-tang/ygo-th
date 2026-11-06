@@ -1,0 +1,9 @@
+{
+  "id": "41902352",
+  "name": "Blackwing - Kochi the Daybreak",
+  "th": "ถ้าการ์ดใบนี้ถูกอัญเชิญพิเศษ, มันจะไม่สามารถใช้เป็น Material สำหรับการ Synchro ได้.",
+  "status": "ai",
+  "en_sha256": "f8603d04abdb87263bd5f8beea9de51528826dea4eefa437a0053f02a816a512",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

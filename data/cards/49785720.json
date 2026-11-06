@@ -1,0 +1,9 @@
+{
+  "id": "49785720",
+  "name": "Brotherhood of the Fire Fist - Coyote",
+  "th": "ถ้าคุณควบคุมการ์ด Spell/Trap \"Fire Formation\" และไม่มีมอนสเตอร์, คุณสามารถอัญเชิญพิเศษการ์ดใบนี้ (จากมือ) ได้.",
+  "status": "ai",
+  "en_sha256": "be8551de9b93d10915aee4508199f80aa08399aa0ab6467e5efe2d556b87e789",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

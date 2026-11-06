@@ -1,0 +1,10 @@
+{
+  "id": "29601381",
+  "name": "Springans Captain Sargas",
+  "th": "ถ้าการ์ดใบนี้อยู่ในมือ, สนาม, หรือสุสานของคุณ: คุณสามารถเลือกเป้าหมาย \"Springans\" มอนสเตอร์ Link ที่คุณควบคุม; ติดการ์ดใบนี้เป็น Material ให้กับมัน\nในเทิร์นของคู่ต่อสู้ (Quick Effect): คุณสามารถถอด Material 1 ชิ้นจากมอนสเตอร์ Link ที่คุณควบคุม, จากนั้นเลือกเป้าหมายการ์ดที่คว่ำอยู่บนสนาม; ทำลายมัน\nคุณสามารถใช้แต่ละเอฟเฟกต์ก่อนหน้านี้ของ \"Springans Captain Sargas\" ได้ 1 ครั้งต่อเทิร์น\nมอนสเตอร์ Link \"Springans\" ที่มีการ์ดใบนี้เป็น Material ได้รับเอฟเฟกต์นี้\n● การ์ดใบนี้ได้รับ ATK 500",
+  "status": "ai",
+  "en_sha256": "23f422289a6fdad28ec318c5efe430eb22c7daf11cbc6c1bf2562438d3f1f850",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: numbers missing in Thai: 1; \"face-up\" ×1 in English but \"หงาย\" ×0 in Thai — meaning may be wrong"
+}

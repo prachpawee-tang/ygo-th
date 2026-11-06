@@ -1,0 +1,9 @@
+{
+  "id": "21179143",
+  "name": "Reptilianne Spawn",
+  "th": "นำมอนสเตอร์ \"Reptilianne\" 1 ตัวจากสุสานของคุณออกจากสนาม\nอัญเชิญพิเศษ \"Reptilianne Tokens\" 2 ตัว (มอนสเตอร์ชนิด Reptile/EARTH/Level 1/ATK 0/DEF 0) มายังสนามฝั่งของคุณ",
+  "status": "ai",
+  "en_sha256": "480574697f292a8b38d43d0f8b8b23d8bc0696ef9aeb2a0cc24e74569c38ceaf",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

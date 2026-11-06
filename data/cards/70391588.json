@@ -1,0 +1,10 @@
+{
+  "id": "70391588",
+  "name": "Star Siphon",
+  "th": "เมื่อมีการอัญเชิญพิเศษมอนสเตอร์ Synchro: เลือกเป้าหมาย 1 ตัวในจำนวนนั้น; อัญเชิญพิเศษ \"Siphon Token\" (ประเภท Spellcaster/DARK/เลเวล 1/ATK 0/DEF 0)\nเลเวลของมันจะกลายเป็นเลเวลปัจจุบันของมอนสเตอร์ตัวนั้น และเลเวลของมอนสเตอร์ตัวนั้นจะกลายเป็น 1",
+  "status": "ai",
+  "en_sha256": "f214d340f25c1ffc753ad96a66bc3b331de0769215195bb1ad2c2f96596f57b9",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

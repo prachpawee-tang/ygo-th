@@ -1,0 +1,10 @@
+{
+  "id": "20419926",
+  "name": "Execute Protocols",
+  "th": "ระหว่าง Battle Phase แต่ละครั้ง: คุณสามารถเอามอนสเตอร์ Link DARK 1 ตัวออกจากสุสานของคุณ, จากนั้นเลือกเป้าหมายมอนสเตอร์ \"Borrel\" 1 ตัวที่คุณควบคุม; จนกว่าจะจบเทิร์นนี้, มันจะได้รับ ATK เท่ากับ ATK ของมอนสเตอร์ที่ถูกเอาออกจากเกมเพื่อเปิดใช้งานเอฟเฟกต์นี้\nคุณสามารถใช้เอฟเฟกต์ของ \"Execute Protocols\" ได้เพียง 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "101903a86d2c19dfeafaa1630153fc4d063f644f9cd9f34f1ac189c5991362cf",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: \"banish\" ×2 in English but \"ออกจากเกม\" ×1 in Thai — meaning may be wrong"
+}

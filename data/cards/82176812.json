@@ -1,0 +1,9 @@
+{
+  "id": "82176812",
+  "name": "Hydrotortoise, the Empowered Warrior",
+  "th": "พลิก: เลือกเป้าหมายการ์ดเวทมนตร์ (Spell) หรือกับดัก (Trap) 1 ใบที่คู่ต่อสู้ควบคุม; ทำลายมัน.",
+  "status": "ai",
+  "en_sha256": "eec30abd3ba634f5f87978ea3a5b416cba6d1902fe9bced2fccca377a099645b",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

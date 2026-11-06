@@ -1,0 +1,9 @@
+{
+  "id": "81665333",
+  "name": "Sound the Retreat!",
+  "th": "นำมอนสเตอร์ทั้งหมดที่คุณควบคุมกลับขึ้นมือ.",
+  "status": "ai",
+  "en_sha256": "9e0dfa674dff5e29411c2829259534f2f56f99f0371f864ac1bc18fbce934d59",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

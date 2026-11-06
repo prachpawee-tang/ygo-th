@@ -1,0 +1,9 @@
+{
+  "id": "87765315",
+  "name": "Forge of the True Dracos",
+  "th": "ถ้ามีมอนสเตอร์ \"Dracoslayer\" ที่ไม่ใช่ Pendulum Monster และมีมอนสเตอร์ \"Dracoverlord\" อยู่บนสนาม: สับการ์ดบนสนามให้ได้มากที่สุดกลับเข้าเด็ค จากนั้นคุณสามารถอัญเชิญพิเศษมอนสเตอร์ \"Dracoslayer\" หรือ \"Dracoverlord\" 1 ตัวจากเด็คของคุณ โดยไม่สนใจเงื่อนไขการอัญเชิญ.",
+  "status": "ai",
+  "en_sha256": "50af93f5f178ed52fc5edf50cc6f035eb64a76c3b118fbc44c87e4b61c7c28dd",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

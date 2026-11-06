@@ -1,0 +1,9 @@
+{
+  "id": "17814387",
+  "name": "Reinforcements",
+  "th": "เลือกมอนสเตอร์หงาย 1 ตัวในสนาม; มันได้รับ ATK 500 จนจบเทิร์นนี้.",
+  "status": "ai",
+  "en_sha256": "29c0c893c3a7f68be2e2c48ac39e836da5371fa77e041ca9293d4a2f7a608a27",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

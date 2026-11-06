@@ -1,0 +1,9 @@
+{
+  "id": "58147549",
+  "name": "Masked HERO Goka",
+  "th": "ต้องอัญเชิญพิเศษด้วย \"Mask Change\"\nได้รับ ATK 100 สำหรับมอนสเตอร์ \"HERO\" แต่ละตัวในสุสานของคุณ",
+  "status": "ai",
+  "en_sha256": "1c8743806097d71d7b7084aaab168aab8d6f35763fabd5d798977dd673d48308",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

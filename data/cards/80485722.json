@@ -1,0 +1,9 @@
+{
+  "id": "80485722",
+  "name": "Vampire Hunter",
+  "th": "เมื่อเริ่ม Damage Step, ถ้าการ์ดใบนี้ทำการต่อสู้กับมอนสเตอร์ DARK: ทำลายมอนสเตอร์นั้น.",
+  "status": "ai",
+  "en_sha256": "eed5e5ec0a65b21cccc38927e73f10614875405057ef03cc058d1e218e20394f",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

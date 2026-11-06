@@ -1,0 +1,9 @@
+{
+  "id": "92534075",
+  "name": "Magical Musket - Fiendish Deal",
+  "th": "มอนสเตอร์ \"Magical Musket\" ที่คุณควบคุมไม่สามารถถูกทำลายได้ด้วยเอฟเฟกต์ของการ์ด\nถ้าการ์ดใบนี้ในความครอบครองของคุณถูกส่งลงสุสานของคุณด้วยเอฟเฟกต์ของการ์ดของคู่ต่อสู้: คุณสามารถเพิ่มการ์ด \"Magical Musket\" 1 ใบจากเด็คหรือสุสานของคุณขึ้นมือ ยกเว้น \"Magical Musket - Fiendish Deal\"\nคุณสามารถเปิดใช้ \"Magical Musket - Fiendish Deal\" ได้เพียง 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "81eabb5c36fdc3f6d0bb87a0edd445bb689ed72e586beb968ff111395367faa9",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

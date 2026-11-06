@@ -1,0 +1,9 @@
+{
+  "id": "41089128",
+  "name": "Flame Ruler",
+  "th": "การ์ดใบนี้สามารถถือเป็น สังเวย 2 ใบสำหรับการ อัญเชิญแบบสังเวย มอนสเตอร์ FIRE.",
+  "status": "ai",
+  "en_sha256": "cab8133797fb70d2b10a10cccdac1c8c35de4b66c9ed364d7ec72de85fa64c77",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

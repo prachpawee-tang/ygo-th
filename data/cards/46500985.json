@@ -1,0 +1,9 @@
+{
+  "id": "46500985",
+  "name": "Metamorformation",
+  "th": "มอนสเตอร์ \"Metalfoes\" ทั้งหมดที่คุณควบคุม ได้รับ ATK และ DEF 300\nตราบใดที่การ์ด \"Metalfoes\" อยู่ใน Pendulum Zone ของคุณ มอนสเตอร์ \"Metalfoes\" ที่คุณควบคุม ยกเว้น Effect Monsters จะไม่ได้รับผลจากเอฟเฟกต์ของการ์ดของคู่ต่อสู้",
+  "status": "ai",
+  "en_sha256": "f7e011fe21c026c4c3a42d3fd1c3b0e174689c666850be8f76ce8feec605b379",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

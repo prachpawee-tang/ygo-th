@@ -1,0 +1,9 @@
+{
+  "id": "96915510",
+  "name": "Crealtar, the Impcantation Originator",
+  "th": "คุณสามารถ อัญเชิญแบบริทึอัล การ์ดใบนี้ด้วย \"Impcantation Inception\"\nระหว่าง Main Phase (Quick Effect): คุณสามารถเปิดเผยการ์ดใบนี้ในมือของคุณ; ทิ้งการ์ด 1 ใบ จากนั้น อัญเชิญพิเศษ มอนสเตอร์ \"Impcantation\" จาก สุสานของคุณ ที่มี Level รวมกันเท่ากับ 10 แต่ สับกลับเข้าเด็ค ในช่วง End Phase\nคุณสามารถใช้เอฟเฟกต์นี้ของ \"Crealtar, the Impcantation Originator\" ได้ 1 ครั้งต่อเทิร์น\nมอนสเตอร์ \"Impcantation\" ที่ไม่ใช่ Ritual ที่คุณควบคุม จะได้รับ ATK 2000 แต่เอฟเฟกต์ของพวกมันจะถูกลบล้าง",
+  "status": "ai",
+  "en_sha256": "fda554633c58ae37874220a3e55fc5edad5aa962c3b023dd6436c1047f41a030",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

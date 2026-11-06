@@ -1,0 +1,9 @@
+{
+  "id": "55610595",
+  "name": "Blackwing - Pinaki the Waxing Moon",
+  "th": "ไม่สามารถใช้เป็น Material สำหรับการ Synchro Summon ได้ ยกเว้นสำหรับการ Synchro Summon มอนสเตอร์ Synchro \"Blackwing\"\nในช่วง End Phase, ถ้าการ์ดใบนี้อยู่ในสุสาน (GY) เพราะถูกส่งลงสุสานจากสนามในเทิร์นนี้: คุณสามารถเพิ่มมอนสเตอร์ \"Blackwing\" 1 ตัวจากเด็คของคุณขึ้นมือ ยกเว้น \"Blackwing - Pinaki the Waxing Moon\"\nคุณสามารถใช้เอฟเฟกต์ของ \"Blackwing - Pinaki the Waxing Moon\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "36d0eaac7f77798ed6e52f91d9698201fbc9d0f8a84f9cfb4d8dbb9675d273ee",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

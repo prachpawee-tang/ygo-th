@@ -1,0 +1,9 @@
+{
+  "id": "3461403",
+  "name": "The Immortal Bushi Mourns the Mortal Body",
+  "th": "มอนสเตอร์ทั้งหมดในสุสานของคุณกลายเป็นมอนสเตอร์วอร์ริเออร์\n1 ครั้งต่อเทิร์น, ในช่วง End Phase: คุณสามารถทำลายมอนสเตอร์ทั้งหมดที่คุณควบคุมได้",
+  "status": "ai",
+  "en_sha256": "3d3ca43aba145eea644be1102a8b5bccbb3d1b713e9c1f74b7095731a05733a7",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

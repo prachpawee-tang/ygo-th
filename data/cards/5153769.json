@@ -1,0 +1,9 @@
+{
+  "id": "5153769",
+  "name": "Majespecter Gust",
+  "th": "เลือกการ์ด \"Majespecter\" 1 ใบใน Pendulum Zone ของคุณ; อัญเชิญพิเศษ.",
+  "status": "ai",
+  "en_sha256": "d1de48bcb552e7f58edfc2fee00b9cd346db45486c639e93aecf89b8077153ea",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

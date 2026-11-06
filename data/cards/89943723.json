@@ -1,11 +1,11 @@
 {
   "id": "89943723",
   "name": "Elemental HERO Neos",
-  "th": "“มี Elemental HERO ตัวใหม่มาถึงจาก Neo-Space! เมื่อเขาเริ่ม Contact Fusion กับ Neo-Spacian พลังที่ยังไม่เป็นที่รับรู้ของเขาจะถูกปลดปล่อยออกมา”",
+  "th": "\"Elemental HERO\" ตัวใหม่มาถึงจาก Neo-Space! เมื่อเขาเริ่มการ Fusion แบบ Contact กับ Neo-Spacian พลังที่ยังไม่เป็นที่รับรู้ของเขาจะถูกปลดปล่อยออกมา.",
   "status": "ai",
   "en_sha256": "008ae443f1e0aef69e2d38d661913d5ecb51afbe7650c2294d47b71f678bbefc",
   "model": "gemma3:12b",
-  "updated": "2026-11-04",
+  "updated": "2026-11-06",
   "alt": [
     "89943724"
   ]

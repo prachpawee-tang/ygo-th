@@ -1,0 +1,10 @@
+{
+  "id": "98918572",
+  "name": "Zoodiac Gathering",
+  "th": "ถ้ามอนสเตอร์ Xyz \"Zoodiac\" ที่คุณควบคุมจะต้องถอด Material Xyz เพื่อเปิดใช้งานเอฟเฟกต์ คุณสามารถถอด Material Xyz จากมอนสเตอร์ Xyz อื่นๆ ที่คุณควบคุมแทนได้\nคุณสามารถใช้เอฟเฟกต์ของ \"Zoodiac Gathering\" ได้ 1 ครั้งต่อเทิร์น\nคุณสามารถส่งการ์ดใบนี้ลงสุสาน จากนั้นเลือกเป้าหมายมอนสเตอร์ Xyz \"Zoodiac\" 2 ตัวที่คุณควบคุม; ติดมอนสเตอร์ 1 ตัวในจำนวนนั้นเข้ากับมอนสเตอร์อีกตัวหนึ่งเป็น Material Xyz",
+  "status": "ai",
+  "en_sha256": "eb901f1e1c332a5979e38c655da906dc3a9609213faf24ef29f5cd309630e571",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: \"banish\" ×1 in English but \"ออกจากเกม\" ×0 in Thai — meaning may be wrong"
+}

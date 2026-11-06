@@ -1,0 +1,10 @@
+{
+  "id": "75223115",
+  "name": "Malefic Territory",
+  "th": "เมื่อการ์ดใบนี้ถูกเปิดใช้: คุณสามารถเปิดใช้ \"Malefic World\" 1 ใบจากเด็คของคุณ\nตราบใดที่การ์ดใบนั้นอยู่ใน Field Zone ผู้เล่นทั้งสองไม่สามารถเลือกเป้าหมายการ์ดใดๆ ใน Field Zone ด้วยเอฟเฟกต์ของการ์ดได้\nเอฟเฟกต์มอนสเตอร์ \"Malefic\" \"ในสนามสามารถมี \"Malefic\" มอนสเตอร์หงายอยู่ได้เพียง 1 ตัว\" กลายเป็น \"ในสนามสามารถมี \"Malefic\" มอนสเตอร์หงายอยู่ได้เพียง 1 ตัวที่มีชื่อเดียวกัน\"\nในระหว่าง Battle Phase ลบล้างเอฟเฟกต์ของมอนสเตอร์ \"Malefic\" หงายในสนาม",
+  "status": "ai",
+  "en_sha256": "5c43f502706bf1c7115ee1785e0340eca22933c8f679b25e33e35336c48a653c",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: card names in quotes changed/missing: \" monster on the field with the same name\", \" monster on the field\", \"There can only be 1 face-up \""
+}

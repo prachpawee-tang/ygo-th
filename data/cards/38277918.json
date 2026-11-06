@@ -1,0 +1,9 @@
+{
+  "id": "38277918",
+  "name": "Mikazukinoyaiba",
+  "th": "นักรบมังกรแห่งดวงจันทร์ที่ติดอาวุธด้วยดาบเคียว.",
+  "status": "ai",
+  "en_sha256": "5adbcc1765c9f092f6e7b7316120cd5d5dd0df3979e2d9d0c11d6e4b4b25c554",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

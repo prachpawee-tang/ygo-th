@@ -1,0 +1,9 @@
+{
+  "id": "99013397",
+  "name": "Gladiator Beast's Battle Halberd",
+  "th": "ใส่ได้เฉพาะกับมอนสเตอร์ \"Gladiator Beast\" เท่านั้น\nเมื่อมันโจมตี ทำลายการ์ด Spell หรือ Trap 1 ใบตอนท้ายของ Damage Step\nเมื่อมอนสเตอร์ที่ถูกใส่กลับไปยังเด็คของคุณ และการ์ดใบนี้ถูกส่งลงสุสาน ให้การ์ดใบนี้กลับขึ้นมือ",
+  "status": "ai",
+  "en_sha256": "5c79b11e26cea9424432a04dd99704af814beb9dbcbc1c4aaf6d4a36ec93f399",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "25964547",
+  "name": "Dream Mirror Hypnagogia",
+  "th": "เลือก \"Dream Mirror of Joy\" 1 ใบ และ \"Dream Mirror of Terror\" 1 ใบ จากมือและ/หรือเด็คของคุณ และวาง 1 ใบใน Field Zone ของคุณ และอีกใบใน Field Zone ของคู่ต่อสู้, หงาย\nคุณสามารถเปิดใช้ \"Dream Mirror Hypnagogia\" ได้ 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "5afbca6970db101397c58a34490e330091e3468644fd176d102a3cd0d24221e9",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "19036557",
+  "name": "Elementsaber Makani",
+  "th": "1 ครั้งต่อเทิร์น: คุณสามารถส่งมอนสเตอร์ \"Elementsaber\" 1 ตัวจากมือลงสุสาน; เพิ่มมอนสเตอร์ \"Elementsaber\" หรือ \"Elemental Lord\" 1 ตัวจากเด็คขึ้นมือ, ยกเว้น \"Elementsaber Makani\"\n1 ครั้งต่อเทิร์น, ถ้าการ์ดใบนี้อยู่ในสุสาน: คุณสามารถประกาศ Attribute 1; การ์ดใบนี้ในสุสานจะกลายเป็น Attribute นั้นจนจบเทิร์นนี้",
+  "status": "ai",
+  "en_sha256": "0f734545fe616df17ef4ce0a4b6878009ee0500eba529d8619944d59b079ce15",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "49826746",
+  "name": "Night Wing Sorceress",
+  "th": "คุณสามารถเปิดใช้ \"Assault Mode Activate\" ในเทิร์นที่มันถูกเซ็ต.",
+  "status": "ai",
+  "en_sha256": "8c9ed0a2c5876837546f349cabde55eaf784791ff0eef1b99d424ba96d5d18ea",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "67987302",
+  "name": "Earthbound Linewalker",
+  "th": "มอนสเตอร์ \"Earthbound Immortal\" ไม่สามารถถูกทำลายได้ด้วยเอฟเฟกต์ของตัวเอง.",
+  "status": "ai",
+  "en_sha256": "c1803b67ba8a091532668c7ad31eaccd020ddadda591686fd7b0cd8c5e64dcf8",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

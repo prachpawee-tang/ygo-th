@@ -1,0 +1,9 @@
+{
+  "id": "92944626",
+  "name": "Wings of Wicked Flame",
+  "th": "ปีกสีแดงเพลิงแห่งไฟทำให้สิ่งมีชีวิตตัวนี้ร้ายแรงมาก.",
+  "status": "ai",
+  "en_sha256": "a6b4888f298589f9195652d8f82af55d97587f82fb1f9e16cb47df6eecde850b",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

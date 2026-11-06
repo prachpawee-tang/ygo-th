@@ -1,0 +1,9 @@
+{
+  "id": "20858318",
+  "name": "Dark Scorpion Combination",
+  "th": "คุณสามารถเปิดใช้การ์ดนี้ได้เมื่อมี \"Don Zaloog\", \"Cliff the Trap Remover\", \"Dark Scorpion - Chick the Yellow\", \"Dark Scorpion - Gorg the Strong\", และ \"Dark Scorpion - Meanae the Thorn\" ที่หงายอยู่บนสนามของคุณ\nในเทิร์นนี้ การ์ดทั้ง 5 ใบนี้สามารถโจมตี Life Points ของคู่ต่อสู้โดยตรงได้\nในกรณีนั้น ความเสียหายจากการต่อสู้ที่แต่ละใบของการ์ดเหล่านั้นสร้างให้กับคู่ต่อสู้จะกลายเป็น 400 แต้ม",
+  "status": "ai",
+  "en_sha256": "9b14ad7a29b3142c7282052903feb9f0d8201f3f5ac172aa9e48f70efb40b39f",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

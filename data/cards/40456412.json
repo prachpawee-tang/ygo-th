@@ -1,0 +1,9 @@
+{
+  "id": "40456412",
+  "name": "Miracle of the Supreme King",
+  "th": "ถ้าคุณควบคุม \"Supreme King Z-ARC\": เปิดใช้งานเอฟเฟกต์ใดเอฟเฟกต์หนึ่งต่อไปนี้ (แต่คุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Miracle of the Supreme King\" ได้ 1 ครั้งต่อเทิร์น);\n● ทำลาย \"Supreme King Z-ARC\" 1 ตัวที่คุณควบคุม, และถ้าทำได้, อัญเชิญพิเศษมอนสเตอร์ \"Odd-Eyes\" Pendulum 1 ตัวหรือ \"Supreme King Z-ARC\" LIGHT 1 ตัวจากเด็คหรือเอ็กซ์ตร้าเด็คของคุณ โดยไม่สนใจเงื่อนไขการอัญเชิญ\n● วางมอนสเตอร์ Pendulum ที่หงายอยู่ 1 ตัวจากเอ็กซ์ตร้าเด็คของคุณใน Pendulum Zone ของคุณ\n● เซ็ตการ์ด Quick-Play Spell 1 ใบโดยตรงจากเด็คของคุณ",
+  "status": "ai",
+  "en_sha256": "116f4045b253c1fbb6168c50bb86fd8f201a52407065c3fabb607d0d3ec86847",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

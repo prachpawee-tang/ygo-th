@@ -1,0 +1,10 @@
+{
+  "id": "42104806",
+  "name": "Revelation of Hope",
+  "th": "ส่งมอนสเตอร์ Dragon เลเวล 8 ที่หงายอยู่ที่คุณควบคุมลงสุสาน; อัญเชิญพิเศษมอนสเตอร์ Xyz Dragon ระดับ 8 จากเอ็กซ์ตร้าเด็คของคุณ (ถือเป็นการอัญเชิญแบบ Xyz)\nคุณสามารถเปิดใช้ \"Revelation of Hope\" ได้เพียง 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "bbf99e63870bc55cf56d715cbff58fc9c0b69a53b9027c339d2fd2ad52394269",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

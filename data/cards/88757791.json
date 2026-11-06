@@ -1,0 +1,9 @@
+{
+  "id": "88757791",
+  "name": "Dharma-Eye Magician",
+  "th": "[ Pendulum Effect ]\n1 ครั้งต่อเทิร์น: คุณสามารถเปิดเผย Pendulum Monster 1 ตัวในมือของคุณ จากนั้นเลือกเป้าหมายการ์ด \"Magician\" 1 ใบใน Pendulum Zone ของคุณ; ระดับ Pendulum ของเป้าหมายนั้นจะกลายเป็นระดับเดียวกับ Pendulum Monster ที่เปิดเผย จนกว่าจะจบเทิร์นนี้ (แม้ว่าการ์ดใบนี้จะออกจากสนาม)\n[ Monster Effect ]\nตราบใดที่การ์ด Pendulum Summoned นี้อยู่ในสนาม \"Magician\" Pendulum Monsters ที่คุณควบคุมจะไม่ถูกทำลายโดยเอฟเฟกต์ของการ์ดของคู่ต่อสู้ในเทิร์นที่การ์ดใบนี้ถูก Pendulum Summoned",
+  "status": "ai",
+  "en_sha256": "9007ca0ee894611a76716a611b0cb6fa31fadf88b4ee8192220d0101b722e01c",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

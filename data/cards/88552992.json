@@ -1,0 +1,9 @@
+{
+  "id": "88552992",
+  "name": "Chronomaly Golden Jet",
+  "th": "1 ครั้งต่อเทิร์น: คุณสามารถเพิ่ม Level ของมอนสเตอร์ \"Chronomaly\" ทั้งหมดที่คุณกำลังควบคุมอยู่ขึ้น 1.",
+  "status": "ai",
+  "en_sha256": "a30b786f0ee28045bd5d53bded02304728e85aa9c66efe2d4f18936db818baa5",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

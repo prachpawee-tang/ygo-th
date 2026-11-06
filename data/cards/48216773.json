@@ -1,0 +1,9 @@
+{
+  "id": "48216773",
+  "name": "Compulsory Escape Device",
+  "th": "ผู้เล่นแต่ละคนเลือกมอนสเตอร์ 1 ตัวที่ตนควบคุม, จากนั้นสับกลับเข้าเด็ค.",
+  "status": "ai",
+  "en_sha256": "dcaed36f79ba2d8df7cb34a92f21c7d5a3255df45b32c0e61f634af2c7b006cf",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

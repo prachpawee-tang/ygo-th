@@ -1,0 +1,9 @@
+{
+  "id": "54529134",
+  "name": "Salamangreat Transcendence",
+  "th": "เลือกเป้าหมาย \"Salamangreat\" มอนสเตอร์ Link 1 ตัวที่คุณควบคุม; อัญเชิญพิเศษ \"Salamangreat\" มอนสเตอร์ Link 1 ตัวที่มีชื่อเดียวกันจากเอ็กซ์ตร้าเด็คของคุณ โดยใช่มอนสเตอร์ที่คุณควบคุมเป็น Material ทั้งหมด\n(ถือว่าเป็นการ Link Summon) คุณสามารถเปิดใช้ \"Salamangreat Transcendence\" ได้ 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "a66abc7433341f16b301d3be2f9fa157f4118a3ad5643db645ffa9a0b5df7432",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

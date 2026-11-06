@@ -1,0 +1,10 @@
+{
+  "id": "66727115",
+  "name": "Bujinfidel",
+  "th": "สังเวยมอนสเตอร์ \"Bujin\" ที่เป็น Type \"Beast-Warrior\" จากนั้น เลือกเป้าหมายมอนสเตอร์ \"Bujin\" ที่มีชื่อต่างกันในสุสานของคุณ; อัญเชิญพิเศษเป้าหมายนั้น.",
+  "status": "ai",
+  "en_sha256": "6e62af8b420920fd0ead6f022a7175deaae10660ac9103dd5dfb31d8909a9de2",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

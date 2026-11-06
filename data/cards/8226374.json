@@ -1,0 +1,9 @@
+{
+  "id": "8226374",
+  "name": "Gimmick Puppet Humpty Dumpty",
+  "th": "เมื่อการ์ดใบนี้ถูกอัญเชิญปกติหรืออัญเชิญพิเศษ: คุณสามารถอัญเชิญพิเศษมอนสเตอร์ \"Gimmick Puppet\" 1 ตัวจากมือของคุณได้\nคุณสามารถใช้เอฟเฟกต์ของ \"Gimmick Puppet Humpty Dumpty\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "252fe4ed9651e025f02a0880b5db4d76afe0f96cb28c938c94bdb933e01e6124",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

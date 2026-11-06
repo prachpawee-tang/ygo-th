@@ -1,0 +1,10 @@
+{
+  "id": "89235196",
+  "name": "Big One Warrior",
+  "th": "ระหว่าง Main Phase ของคุณ คุณสามารถส่งมอนสเตอร์ Level 1 จากมือของคุณไปยังสุสาน (GY) ยกเว้นการ์ดใบนี้ เพื่ออัญเชิญพิเศษการ์ดใบนี้จากมือของคุณ.",
+  "status": "ai",
+  "en_sha256": "a97bdcb7eb98f9d76150ab2154b675cdcd2587fd448fb72f056ca58afd56a1d4",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

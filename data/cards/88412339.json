@@ -1,0 +1,9 @@
+{
+  "id": "88412339",
+  "name": "Abyss Actor - Extras",
+  "th": "[ Pendulum Effect ]\nถ้าคู่ต่อสู้ควบคุมมอนสเตอร์: คุณสามารถอัญเชิญพิเศษการ์ดใบนี้จาก Pendulum Zone ของคุณได้\nคุณสามารถใช้เอฟเฟกต์ของ \"Abyss Actor - Extras\" ได้ 1 ครั้งต่อเทิร์น\n[ Monster Effect ]\nคุณสามารถสังเวยการ์ดใบนี้; วางมอนสเตอร์ Pendulum \"Abyss Actor\" 1 ตัวจากเด็คของคุณใน Pendulum Zone ของคุณ, นอกจากนี้ ตลอดช่วงเทิร์นนี้ คุณไม่สามารถอัญเชิญพิเศษมอนสเตอร์ได้, ยกเว้นมอนสเตอร์ \"Abyss Actor\", หรือเปิดใช้เอฟเฟกต์ Pendulum ของ \"Abyss Actor - Extras\"\nคุณสามารถใช้เอฟเฟกต์ของ \"Abyss Actor - Extras\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "b3603ccbf054de1ffdf959fd41e73c3e0bac0a3d95cc96b96d66fd5caf200478",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

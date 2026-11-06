@@ -1,0 +1,10 @@
+{
+  "id": "47731128",
+  "name": "Mei-Kou, Master of Barriers",
+  "th": "คุณสามารถสังเวยการ์ดใบนี้ จากนั้นเลือกเป้าหมายการ์ดเวทมนตร์ต่อเนื่อง หรือ การ์ดกับดักต่อเนื่องที่คว่ำอยู่บนสนาม; ทำลายเป้าหมายนั้น.",
+  "status": "ai",
+  "en_sha256": "9b129c072f946183822126d65fa410691f8ff9f722fc072e1af62831c35ede74",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: numbers missing in Thai: 1; \"face-up\" ×1 in English but \"หงาย\" ×0 in Thai — meaning may be wrong"
+}

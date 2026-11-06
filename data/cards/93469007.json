@@ -1,0 +1,9 @@
+{
+  "id": "93469007",
+  "name": "Assault Overload",
+  "th": "สังเวยมอนสเตอร์ \"/Assault Mode\" 1 ตัว\nสร้างความเสียหายให้กับทั้งผู้เล่นเท่ากับ Level x 200",
+  "status": "ai",
+  "en_sha256": "d0f064e7c11766b8d7b9f3385c3b84ae9c2a056d3c7a4fe2062730b98d52f1a7",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

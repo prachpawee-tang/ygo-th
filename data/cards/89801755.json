@@ -1,0 +1,9 @@
+{
+  "id": "89801755",
+  "name": "Abyssal Designator",
+  "th": "จ่าย LP 1000\nประกาศ Type และ Attribute\nคู่ต่อสู้ของคุณต้องส่งมอนสเตอร์ 1 ตัวที่มีทั้ง Type และ Attribute ที่ประกาศจากมือหรือเด็คของพวกเขาไปยังสุสาน",
+  "status": "ai",
+  "en_sha256": "ce067fe6560c9a82f178e49f17a270a3c07475a3efcb8e8522d9635f804f172e",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

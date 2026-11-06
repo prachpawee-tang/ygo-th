@@ -1,0 +1,10 @@
+{
+  "id": "88305978",
+  "name": "Blackwing - Calima the Haze",
+  "th": "ระหว่าง Battle Phase ของคู่ต่อสู้, ถ้าคุณไม่ได้ควบคุมมอนสเตอร์: คุณสามารถเอาการ์ดใบนี้ออกจากสุสาน, จากนั้นเลือกเป้าหมายมอนสเตอร์ Synchro 1 ตัวในสุสานของคุณ; อัญเชิญพิเศษมอนสเตอร์เป้าหมายนั้น, แต่เอามันออกจากเกมเมื่อสิ้นสุด Battle Phase (นี่คือ Quick Effect).",
+  "status": "ai",
+  "en_sha256": "f048b6fff679d0b866ecf080f79bd5def23bbcd834c1d43bb7e69da7c5b0a90c",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: \"banish\" ×2 in English but \"ออกจากเกม\" ×1 in Thai — meaning may be wrong"
+}

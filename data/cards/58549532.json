@@ -1,0 +1,9 @@
+{
+  "id": "58549532",
+  "name": "Parametalfoes Fusion",
+  "th": "อัญเชิญแบบ Fusion มอนสเตอร์ \"Metalfoes\" Fusion 1 ตัวจากเอ็กซ์ตร้าเด็คของคุณ โดยใช้มอนสเตอร์สูงสุด 1 ตัวจากมือ สนาม และ/หรือ เอ็กซ์ตร้าเด็คที่หงายอยู่เป็น Material สำหรับการ Fusion\nคุณสามารถเปิดใช้ \"Parametalfoes Fusion\" ได้เพียง 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "489f9ad4e3befbffd66e5abea65520feda1b9fe810acd585650fc0920bc930e6",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

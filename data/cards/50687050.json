@@ -1,0 +1,9 @@
+{
+  "id": "50687050",
+  "name": "Arktos XII - Chronochasm Vaylantz",
+  "th": "[ Pendulum Effect ]\nคุณสามารถเปิดใช้เอฟเฟกต์เหล่านี้ 1 เอฟเฟกต์;\n● อัญเชิญพิเศษการ์ดใบนี้ไปยัง Main Monster Zone ในคอลัมน์เดียวกัน\n● ย้ายมอนสเตอร์ 1 ตัวใน Main Monster Zone ของคุณไปยัง Monster Zone ที่อยู่ติดกัน (ในแนวนอน)\nคุณสามารถใช้เอฟเฟกต์นี้ของ \"Arktos XII - Chronochasm Vaylantz\" ได้ 1 ครั้งต่อเทิร์น\n[ Monster Effect ]\nมอนสเตอร์ \"Vaylantz\" ระดับ 5 หรือสูงกว่า 2 ตัว\nต้องอัญเชิญพิเศษก่อน (จาก เอ็กซ์ตร้าเด็ค ที่คว่ำอยู่) โดยสังเวยการ์ดข้างต้น\n(Quick Effect): คุณสามารถสลับตำแหน่งของมอนสเตอร์ 2 ตัวใน Main Monster Zones ของคุณ หรือ มอนสเตอร์ 2 ตัวใน Main Monster Zones ของคู่ต่อสู้\nถ้าการ์ดใน Monster Zone ย้ายไปยัง Monster Zone อื่น (ยกเว้นระหว่าง Damage Step): คุณสามารถทำลายการ์ด 1 ใบในสนาม\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Arktos XII - Chronochasm Vaylantz\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "f5ef4dd2f093f85f929660a38c532115dd1e03300f2e9dc437691a900b0121be",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

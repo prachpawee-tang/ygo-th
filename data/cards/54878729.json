@@ -1,0 +1,10 @@
+{
+  "id": "54878729",
+  "name": "Chronicle Sorceress",
+  "th": "คุณสามารถเปิดใช้งานเอฟเฟกต์เหล่านี้ 1 เอฟเฟกต์ตาม Attribute ในสุสานของคุณ;\n● LIGHT: ส่ง \"Blue-Eyes White Dragon\" หรือการ์ดที่กล่าวถึงมัน 1 ใบจากเด็คของคุณลงสุสาน, ยกเว้น \"Chronicle Sorceress\"\n● DARK: ส่ง \"Dark Magician\" หรือการ์ดที่กล่าวถึงมัน 1 ใบจากเด็คของคุณลงสุสาน, ยกเว้น \"Chronicle Sorceress\"\nคุณสามารถใช้เอฟเฟกต์นี้ของ \"Chronicle Sorceress\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "7aff6ea6011a34d80e51ded940c3499f23f0d2bd4c31e903b4aa3593aa9181d0",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

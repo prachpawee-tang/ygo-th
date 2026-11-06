@@ -1,0 +1,9 @@
+{
+  "id": "12989604",
+  "name": "World Legacy Awakens",
+  "th": "ทันทีที่เอฟเฟกต์นี้จบลง ให้ทำการ Link Summon มอนสเตอร์ Link 1 ตัวโดยใช้มอนสเตอร์ที่คุณควบคุมเป็น Material\nคุณสามารถเปิดใช้ \"World Legacy Awakens\" ได้เพียง 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "c6e94958ae3e573cac7bf3ea5b02d45591e15e0c1b91032a1b5e414ab41a59b1",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

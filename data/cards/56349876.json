@@ -1,0 +1,9 @@
+{
+  "id": "56349876",
+  "name": "Power Patron Portal Plugging -Sword of Mutual Destruction-",
+  "th": "ทิ้งการ์ด \"Power Patron\" 1 ใบ; วางมอนสเตอร์ Pendulum \"Power Patron\" 1 ตัวจากเอ็กซ์ตร้าเด็คของคุณใน Pendulum Zone ของคุณ จากนั้น ถ้ามันเป็น Fusion Monster คุณสามารถวางมอนสเตอร์ Pendulum \"Power Patron\" 1 ตัวจากเด็คของคุณใน Pendulum Zone ของคุณได้\nถ้าคุณควบคุมมอนสเตอร์ \"Power Patron\": คุณสามารถเอาการ์ดใบนี้ออกจากเกมจากสุสานของคุณ จากนั้นเลือกเป้าหมายมอนสเตอร์หงาย 1 ตัวบนสนาม; มันได้รับ ATK 1500 และมันไม่สามารถโจมตีเทิร์นนี้ได้\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Power Patron Portal Plugging -Sword of Mutual Destruction-\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "23af1ae4815cccb7fff2a2f6aaac8eed926757415bb2b37ef62d6ba05531310b",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

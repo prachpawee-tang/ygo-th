@@ -1,0 +1,9 @@
+{
+  "id": "84046493",
+  "name": "Ghost Beef",
+  "th": "[ เอฟเฟกต์ Pendulum ]\n1 ครั้งต่อเทิร์น: คุณสามารถทอยลูกเต๋าหกหน้าได้\nจนจบเทิร์นนี้ เพิ่มค่า Pendulum Scale ของการ์ดใบนี้ตามจำนวนนั้น (สูงสุด 10)\n[ เอฟเฟกต์มอนสเตอร์ ]\n''The Ghost of Christmas Dinner.''",
+  "status": "ai",
+  "en_sha256": "b949d4a4423ac54cb65b32c95e9dfcbe97ebf082f90c8b17fd010d7dccf6b71a",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

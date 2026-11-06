@@ -1,0 +1,9 @@
+{
+  "id": "69319869",
+  "name": "Gravity Lash",
+  "th": "เลือกมอนสเตอร์หงาย 1 ตัวในสนาม; มันจะเสีย ATK เท่ากับ DEF จนจบเทิร์นนี้.",
+  "status": "ai",
+  "en_sha256": "c9e7e65bd2ac3993913d3ec1b538c44155b2fdc4ec908f90eed4d52c04db6fb2",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "63125616",
+  "name": "The Shadow Who Controls the Dark",
+  "th": "เงาที่อาศัยอยู่ในความมืด, ทำให้คู่ต่อสู้เป็นอัมพาตและทำให้พวกเขาสิ้นความสามารถ.",
+  "status": "ai",
+  "en_sha256": "39fbfda7fa84464203994a048118ce6e7b5b42b31480cfb55bf6cfbcbc98aafc",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

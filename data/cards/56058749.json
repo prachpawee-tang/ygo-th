@@ -1,0 +1,9 @@
+{
+  "id": "56058749",
+  "name": "Solfachord Musica",
+  "th": "เปิดใช้งาน 1 ในเอฟเฟกต์เหล่านี้ โดยอิงตาม Pendulum Scales ของ “Solfachord” Pendulum Monster Cards ที่คุณควบคุม;\n● Odd: อัญเชิญพิเศษ มอนสเตอร์ \"Solfachord\" Pendulum ที่หงายอยู่ 1 ตัวที่มี Pendulum Scale เป็นเลขคี่จาก เอ็กซ์ตร้าเด็คของคุณ\n● Even: อัญเชิญพิเศษ มอนสเตอร์ \"Solfachord\" Pendulum ที่หงายอยู่ 1 ตัวที่มี Pendulum Scale เป็นเลขคู่จาก เอ็กซ์ตร้าเด็คของคุณ\n● Even and Odd: เลือกเป้าหมายการ์ด 1 ใบที่คู่ต่อสู้ควบคุม; ทำลายมัน\nคุณสามารถเปิดใช้ \"Solfachord Musica\" ได้เพียง 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "c8b0c2a53808e7e4ef3e310698c684dc83651409a3746fffa9ae5bbaa5671a8a",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

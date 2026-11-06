@@ -1,0 +1,9 @@
+{
+  "id": "95676943",
+  "name": "Extinction on Schedule",
+  "th": "ระหว่าง Main Phase: จ่าย LP 2000; ให้ผู้เล่นทั้งสองส่งการ์ดทั้งหมดที่ตนควบคุมลงสุสานเมื่อจบ Battle Phase ที่ 3 หลังจากเปิดใช้งานการ์ดใบนี้.",
+  "status": "ai",
+  "en_sha256": "f28466e9a5e3c832c8cb60fe76c52209073f3315cba0b35a5df694bda34c6508",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

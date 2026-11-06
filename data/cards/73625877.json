@@ -1,0 +1,10 @@
+{
+  "id": "73625877",
+  "name": "Time Escaper",
+  "th": "ระหว่างเทิร์นของผู้เล่นทั้งสองฝ่าย: คุณสามารถทิ้งการ์ดใบนี้, จากนั้นเลือกเป้าหมายมอนสเตอร์ Psychic-Type ที่คุณควบคุม; เอามันออกจากเกม จนกว่าจะถึง Standby Phase ถัดไปของคุณ.",
+  "status": "ai",
+  "en_sha256": "dd0de97e178b1ffe0a2ba1a38178546345bb49ead375b731f31e18f9964e424c",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

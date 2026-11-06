@@ -1,0 +1,9 @@
+{
+  "id": "32752319",
+  "name": "UFOroid Fighter",
+  "th": "\"UFOroid\" + มอนสเตอร์ Warrior-Type 1 ตัว\nการอัญเชิญ Fusion ของการ์ดใบนี้สามารถทำได้โดยใช้ Fusion Material Monsters ที่ระบุไว้ข้างต้นเท่านั้น\nATK และ DEF เดิมของการ์ดใบนี้จะเท่ากับ ATK เดิมรวมของมอนสเตอร์ 2 ตัวที่คุณใช้สำหรับการอัญเชิญ Fusion ของการ์ดใบนี้",
+  "status": "ai",
+  "en_sha256": "ef08c32dfac17018eaf816448b587a8004511f1bcca4855a390055f8562f5ca8",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

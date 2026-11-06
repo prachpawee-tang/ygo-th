@@ -1,0 +1,9 @@
+{
+  "id": "87778106",
+  "name": "Recette de Poisson (Fish Recipe)",
+  "th": "การ์ดใบนี้สามารถใช้ในการอัญเชิญแบบพิธีกรรมมอนสเตอร์ Ritual \"Nouvelles\" ตัวใดก็ได้\nคุณต้องสังเวยมอนสเตอร์จากมือหรือสนามของคุณที่มี Level รวมเท่าหรือมากกว่า Level ของมอนสเตอร์ Ritual ที่คุณอัญเชิญแบบพิธีกรรม\nจากนั้น ถ้าคุณอัญเชิญ \"Buerillabaisse de Nouvelles\" แบบพิธีกรรม คุณสามารถใช้เอฟเฟกต์ต่อไปนี้ได้\n● เพิ่มการ์ด Spell Ritual \"Recipe\" 1 ใบจากเด็คหรือสุสานของคุณขึ้นมือ ยกเว้น \"Recette de Poisson (Fish Recipe)\"",
+  "status": "ai",
+  "en_sha256": "1433ef9515bbdf8c4577983d0ba0bd68e240c96cd8eb75051f6c0550b9be1f00",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

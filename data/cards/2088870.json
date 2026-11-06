@@ -1,0 +1,9 @@
+{
+  "id": "2088870",
+  "name": "Worm Victory",
+  "th": "FLIP: ทำลายมอนสเตอร์ที่หงายอยู่ทั้งหมดบนสนาม, ยกเว้นมอนสเตอร์ชนิด Reptile-Type \"Worm\"\nการ์ดใบนี้ได้รับ ATK 500 สำหรับมอนสเตอร์ชนิด Reptile-Type \"Worm\" แต่ละตัวในสุสานของคุณ",
+  "status": "ai",
+  "en_sha256": "e8c80c8d2f549d799b1c16942a163cd7e18faed36a42bf0f70969fba52ea6a11",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

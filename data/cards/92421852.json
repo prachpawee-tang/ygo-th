@@ -1,0 +1,9 @@
+{
+  "id": "92421852",
+  "name": "Robolady",
+  "th": "นักรบที่ถูกหุ้มด้วยโลหะอย่างสมบูรณ์\nมันได้รับการอัปเกรดโดยการรวมร่างกับ \"Roboyarou\"",
+  "status": "ai",
+  "en_sha256": "5ccf8d1ad800eb58986e8d96155de00e56f4bfe88bbfead81410def2e4fee646",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

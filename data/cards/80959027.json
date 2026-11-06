@@ -1,0 +1,9 @@
+{
+  "id": "80959027",
+  "name": "Mythical Beast Bashilisk",
+  "th": "[ Pendulum Effect ]\nถ้าคุณไม่มีการ์ดใน Pendulum Zone อื่น: คุณสามารถทำลายการ์ดใบนี้ได้ และถ้าทำลาย, สับการ์ด Spellcaster Pendulum Monster ที่หงายอยู่ 1 ใบจากเอ็กซ์ตร้าเด็คของคุณกลับเข้าเด็คหลักของคุณ, ยกเว้น \"Mythical Beast Bashilisk\", จากนั้นจั่วการ์ด 1 ใบ\nคุณสามารถใช้เอฟเฟกต์ของ \"Mythical Beast Bashilisk\" ได้ 1 ครั้งต่อเทิร์น\n[ Monster Effect ]\nทุกครั้งที่เปิดใช้ Spell Card, วาง Spell Counter 1 ตัวบนการ์ดใบนี้เมื่อเอฟเฟกต์ของ Spell นั้นแก้ไข\nคุณสามารถเอา Spell Counter ออก 3 ตัวจากสนามของคุณ; คืน \"Mythical Beast\" การ์ด 1 ใบจาก Pendulum Zone ของคุณหรือหงายจากเอ็กซ์ตร้าเด็คของคุณกลับขึ้นมือ\nคุณสามารถใช้เอฟเฟกต์ของ \"Mythical Beast Bashilisk\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "0b6c03b2e6903066534807fa578839b78dae4f5860fc7d747e686d9036c7f976",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

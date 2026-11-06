@@ -1,0 +1,9 @@
+{
+  "id": "11460577",
+  "name": "Etoile Cyber",
+  "th": "ถ้าการ์ดใบนี้โจมตีคู่ต่อสู้โดยตรง มันจะได้รับ ATK 500 ในช่วง Damage Step เท่านั้น.",
+  "status": "ai",
+  "en_sha256": "3d1bfdc559c2d46aa5dc9b2042b2c59a5ab8c773c4ba9a79746d96ef56141e85",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

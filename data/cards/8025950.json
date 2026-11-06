@@ -1,0 +1,9 @@
+{
+  "id": "8025950",
+  "name": "Gadget Box",
+  "th": "(การ์ดใบนี้ถือว่าเป็น “Morphtronic” เสมอ)\nเมื่อการ์ดใบนี้ถูกเปิดใช้: วาง Morph Counter 3 ตัวลงบนมัน\n1 ครั้งต่อเทิร์น, ระหว่าง Main Phase ของคุณ: คุณสามารถนำ Morph Counter 1 ตัวออกจากสนามของคุณได้ และถ้าทำได้ ให้ อัญเชิญพิเศษ \"Gadget Box Token\" (Machine/EARTH/Level 1/ATK 0/DEF 0) 1 ตัว\nตราบใดที่ Token นั้นอยู่ใน Monster Zone ผู้เล่นที่ Summoned มันจะไม่สามารถ อัญเชิญพิเศษ มอนสเตอร์จาก เอ็กซ์ตร้าเด็ค ได้ ยกเว้น Synchro Monsters\nคุณสามารถเปิดใช้ \"Gadget Box\" ได้เพียง 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "6281663e36b8aeddedeb835d768e28f844fdce8b888ecd8e24ff68599519388c",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

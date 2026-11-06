@@ -1,0 +1,10 @@
+{
+  "id": "18816758",
+  "name": "Infestation Wave",
+  "th": "ส่ง \"Steelswarm\" มอนสเตอร์เอฟเฟกต์ที่หงายซึ่งถูกอัญเชิญแบบสังเวยที่คุณควบคุม กลับขึ้นมือ เพื่อเลือกเป้าหมายการ์ด 1 ใบที่คู่ต่อสู้ควบคุม; ทำลายเป้าหมายนั้น.",
+  "status": "ai",
+  "en_sha256": "706bc0e5e621278ec0114aa5f16fed69f78d35ce3af966aab1a08c7d871bc10f",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "64187086",
+  "name": "Earthbound Immortal Revival",
+  "th": "ทิ้งการ์ด 1 ใบ จากนั้นเลือกว่าเป้าหมายมอนสเตอร์ \"Earthbound Immortal\" 1 ตัว และการ์ด Field Spell 1 ใบในสุสานของคุณ; เพิ่มเป้าหมายเหล่านั้นขึ้นมือ.",
+  "status": "ai",
+  "en_sha256": "2c1b059985ea59a031ece0859d7e128f27e18f5a735e246de33f11fb177c6c9e",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

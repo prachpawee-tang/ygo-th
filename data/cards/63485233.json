@@ -1,0 +1,10 @@
+{
+  "id": "63485233",
+  "name": "Star Changer",
+  "th": "เลือกมอนสเตอร์ที่หงายอยู่ 1 ตัวบนสนาม และเปิดใช้เอฟเฟกต์ใดเอฟเฟกต์หนึ่งต่อไปนี้;\n● เพิ่ม Level ของเป้าหมายนั้น 1\n● ลด Level ของเป้าหมายนั้น 1",
+  "status": "ai",
+  "en_sha256": "e473cf93dadc8b8651cc28a7274c0ed3d7a466380254cd156a340865681dfd37",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

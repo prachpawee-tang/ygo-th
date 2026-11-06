@@ -1,0 +1,9 @@
+{
+  "id": "93014827",
+  "name": "Zero-Day Blaster",
+  "th": "สังเวย มอนสเตอร์ Link ประเภท DARK 1 ตัว, จากนั้นเลือกเป้าหมายการ์ดบนสนามเท่ากับค่า Link Rating ของมัน; ทำลายการ์ดเหล่านั้น.",
+  "status": "ai",
+  "en_sha256": "f73f9c395c9c56f8e37f629ce1aeca2727fba74597e20b59e70c2add04eed6a7",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

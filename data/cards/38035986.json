@@ -1,0 +1,9 @@
+{
+  "id": "38035986",
+  "name": "Akakieisu",
+  "th": "\"นักเวทมนตร์ผู้ร่ายคาถาที่ทำให้มอนสเตอร์หมดสติ.\"",
+  "status": "ai",
+  "en_sha256": "968a3e2fc2c1e5a61e54c90ff4122c7bc48526b6e01deafc2f04e1cb8b994bf9",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

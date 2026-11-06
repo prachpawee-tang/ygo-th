@@ -1,9 +1,9 @@
 {
   "id": "34773082",
   "name": "Frightfur Patchwork",
-  "th": "เพิ่ม “Edge Imp” มอนสเตอร์ 1 ตัว และ “Polymerization” 1 ใบ จากเด็คของคุณขึ้นมือ คุณสามารถเปิดใช้ “Frightfur Patchwork” ได้ 1 ใบต่อเทิร์น",
+  "th": "เพิ่มมอนสเตอร์ \"Edge Imp\" 1 ตัว และ \"Polymerization\" 1 ใบ จากเด็คของคุณขึ้นมือ\nคุณสามารถเปิดใช้ \"Frightfur Patchwork\" ได้เพียง 1 ใบต่อเทิร์น",
   "status": "ai",
   "en_sha256": "19080413c79e6426615feaa5447924e2b6b2543edcc41b093af4fa36fe8f073b",
   "model": "gemma3:12b",
-  "updated": "2026-11-04"
+  "updated": "2026-11-06"
 }

@@ -1,0 +1,9 @@
+{
+  "id": "7802006",
+  "name": "Magical Plant Mandragola",
+  "th": "พลิก: วาง Spell Counter 1 ตัวลงบนการ์ดแต่ละใบที่หงายอยู่บนสนามที่คุณสามารถวาง Spell Counter ได้.",
+  "status": "ai",
+  "en_sha256": "133e43a639f3ec7117a583d01bce1024249d1c79de1deac79d659dc8df4ba51f",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

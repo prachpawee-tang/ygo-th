@@ -1,0 +1,9 @@
+{
+  "id": "57238939",
+  "name": "Genex Ally Remote",
+  "th": "1 ครั้งต่อเทิร์น คุณสามารถเลือกมอนสเตอร์ Tuner ที่หงายอยู่ 1 ตัวบนสนาม\nชื่อของมอนสเตอร์ที่ถูกเลือกจะถือว่าเป็น \"Genex Controller\" จนถึง End Phase",
+  "status": "ai",
+  "en_sha256": "df775630f4a248a18f31de7befcc574a5222e5da5e2041d99f226bc149def15d",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

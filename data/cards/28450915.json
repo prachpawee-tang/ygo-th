@@ -1,0 +1,9 @@
+{
+  "id": "28450915",
+  "name": "Invader from Another Dimension",
+  "th": "มอนสเตอร์จากต่างดาวที่มาจากกาแล็กซีอันไกลโพ้น.",
+  "status": "ai",
+  "en_sha256": "c83e2b710b36a3526ed7901084aac1cc1398535ee0ace0ff3b94286bd7fabfd1",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

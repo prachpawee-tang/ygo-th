@@ -1,10 +1,9 @@
 {
   "id": "40854197",
   "name": "Elemental HERO Absolute Zero",
-  "th": "1 มอนสเตอร์ \"HERO\" + 1 มอนสเตอร์ WATER\nต้องทำการ Fusion Summon คุณสมบัติพิเศษ หากการ์ดใบนี้ออกจากสนาม: ทำลายมอนสเตอร์ทั้งหมดที่คู่ต่อสู้ควบคุม",
+  "th": "\"HERO\" มอนสเตอร์ 1 ตัว + มอนสเตอร์ WATER 1 ตัว\nต้องทำการ Fusion Summon\nได้รับ ATK 500 สำหรับมอนสเตอร์ WATER แต่ละตัวในสนาม ยกเว้น \"Elemental HERO Absolute Zero\"\nเมื่อการ์ดใบนี้ออกจากสนาม: ทำลายมอนสเตอร์ทั้งหมดที่คู่ต่อสู้ควบคุม",
   "status": "ai",
   "en_sha256": "897f4d11b8ded27ec8cf470a105726bdfe71d9a6919b4dd8f7df89b829bea083",
   "model": "gemma3:12b",
-  "updated": "2026-11-04",
-  "note": "rule-check: numbers missing in Thai: 500; card names in quotes changed/missing: \"Elemental HERO Absolute Zero\""
+  "updated": "2026-11-06"
 }

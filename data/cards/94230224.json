@@ -1,0 +1,9 @@
+{
+  "id": "94230224",
+  "name": "Needle Ball",
+  "th": "พลิก: คุณสามารถจ่าย Life Points 2000 เพื่อสร้างความเสียหาย 1000 ให้กับคู่ต่อสู้.",
+  "status": "ai",
+  "en_sha256": "a37ffd59d9bb60191f6fce12717e2e47efb5459770bc62cdb58850a9ac2d1f75",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

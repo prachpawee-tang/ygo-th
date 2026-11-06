@@ -1,0 +1,9 @@
+{
+  "id": "88845345",
+  "name": "Elephun",
+  "th": "เมื่อการ์ดใบนี้ถูกทำลายจากการต่อสู้และส่งลงสุสาน คุณสามารถเลือกมอนสเตอร์ของคุณประเภท Beast-Type, Beast-Warrior-Type หรือ Winged Beast-Type ที่มี Level 3 หรือต่ำกว่า 1 ตัวที่ถูกเอาออกจากเกม และเพิ่มมันขึ้นมือ.",
+  "status": "ai",
+  "en_sha256": "493f501e53ef0fea3fd1fed3cead7efa2df62aef5fc2f3eeafff43cf2fb58348",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

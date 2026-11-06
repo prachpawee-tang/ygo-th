@@ -1,0 +1,9 @@
+{
+  "id": "63422098",
+  "name": "Giganticastle",
+  "th": "1 Tuner + 1 หรือมากกว่า มอนสเตอร์ non-Tuner\nการ์ดใบนี้ได้รับ ATK และ DEF เพิ่ม 200 สำหรับมอนสเตอร์ Material Synchro non-Tuner แต่ละตัวที่ใช้ในการ Synchro Summon การ์ดใบนี้",
+  "status": "ai",
+  "en_sha256": "cc4da1ba5c2b2b46b93aaa0280b9773fd96639848c124bb49b2b4d4d9228c5d6",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

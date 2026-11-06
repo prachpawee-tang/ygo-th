@@ -1,0 +1,9 @@
+{
+  "id": "64463828",
+  "name": "Superalloy Beast Raptinus",
+  "th": "มอนสเตอร์ Gemini 1 ตัว + มอนสเตอร์ Gemini 1 ตัว\nมอนสเตอร์ Gemini ทั้งหมดบนสนามได้รับการว่าด้วยว่าเป็นมอนสเตอร์เอฟเฟกต์ และได้รับเอฟเฟกต์ของมัน",
+  "status": "ai",
+  "en_sha256": "1ee7c1946aa367abc452db1929c1926deae82ad743250ef4f9d12e222a5ac340",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

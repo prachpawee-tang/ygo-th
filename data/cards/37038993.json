@@ -1,0 +1,9 @@
+{
+  "id": "37038993",
+  "name": "Puralis, the Purple Pyrotile",
+  "th": "1 Tuner + 1 non-Tuner monster\nเมื่อการ์ดใบนี้ถูกส่งออกจากสนามไปยังสุสาน: มอนสเตอร์ทั้งหมดที่คู่ต่อสู้กำลังควบคุมอยู่ สูญเสีย ATK 500",
+  "status": "ai",
+  "en_sha256": "df41466810d0576922299b54eb3ddb1c731ce5f16e70c4e71ce39438c920beb3",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

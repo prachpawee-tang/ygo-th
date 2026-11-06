@@ -1,0 +1,10 @@
+{
+  "id": "55415564",
+  "name": "D/D Evil",
+  "th": "[ Pendulum Effect ]\nเมื่อไพ่ใบนี้อยู่ใน Pendulum Zone ของคุณ 1 ครั้ง เมื่อคู่ต่อสู้ Pendulum Summon มอนสเตอร์ (ยกเว้นระหว่าง Damage Step): คุณสามารถเปิดใช้เอฟเฟกต์นี้; เทิร์นนี้ มอนสเตอร์ Pendulum Summoned นั้นจะไม่สามารถโจมตีได้ และเอฟเฟกต์ของมันจะถูกลบล้าง\n[ Monster Effect ]\nไม่สามารถโจมตีได้ เว้นแต่คุณจะควบคุมมอนสเตอร์ \"D/D\" อื่น\nในระหว่าง Main Phase ของคู่ต่อสู้ (Quick Effect): คุณสามารถเลือกเป้าหมายมอนสเตอร์ Pendulum Summoned ที่คว่ำอยู่ 1 ตัวที่คู่ต่อสู้ควบคุม; ลบล้างเอฟเฟกต์ของมอนสเตอร์ Pendulum Summoned ที่คว่ำอยู่นั้นจนจบเทิร์นนี้\nคุณสามารถใช้เอฟเฟกต์ของ \"D/D Evil\" ได้เพียง 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "44cfc7c22a6b009ead0d3cd1ccc4f66353c81593c3c051d01d467602598338cb",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: \"face-up\" ×2 in English but \"หงาย\" ×0 in Thai — meaning may be wrong"
+}

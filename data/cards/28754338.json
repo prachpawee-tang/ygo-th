@@ -1,0 +1,9 @@
+{
+  "id": "28754338",
+  "name": "Legendary Atlantean Tridon",
+  "th": "คุณสามารถสังเวยการ์ดใบนี้และมอนสเตอร์ชนิด Sea Serpent-Type 1 ตัว; อัญเชิญพิเศษ \"Poseidra, the Atlantean Dragon\" 1 ตัวจากมือหรือเด็คของคุณ จากนั้นมอนสเตอร์ทั้งหมดที่คู่ต่อสู้กำลังควบคุมอยู่จะเสีย ATK 300.",
+  "status": "ai",
+  "en_sha256": "8ffc93de01fd0a5022858b2449b707972452ff4ec70c3d64879b65ff027d33e1",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

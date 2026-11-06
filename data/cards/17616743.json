@@ -1,0 +1,9 @@
+{
+  "id": "17616743",
+  "name": "Evil Eye Awakening",
+  "th": "อัญเชิญพิเศษมอนสเตอร์ \"Evil Eye\" 1 ตัวจากมือหรือสุสานของคุณ หรือ ถ้า \"Evil Eye of Selene\" อยู่ใน Spell & Trap Zone ของคุณ คุณสามารถอัญเชิญพิเศษมอนสเตอร์ \"Evil Eye\" 1 ตัวจากเด็คของคุณแทนได้\nคุณสามารถเปิดใช้ \"Evil Eye Awakening\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "34d39aa55fa5d57d2f352b2f58d5136b5fac7cee94f7fe11c27f917823a25806",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

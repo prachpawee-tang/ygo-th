@@ -1,0 +1,9 @@
+{
+  "id": "65400671",
+  "name": "Crystron Halqifibrax Prism",
+  "th": "มอนสเตอร์ 2+ ตัว, รวมทั้ง Tuner\nถ้าการ์ดใบนี้ถูกอัญเชิญแบบ Link: คุณสามารถอัญเชิญพิเศษ Tuner 1 ตัวจากเอ็กซ์ตร้าเด็คในท่าป้องกัน, โดยมี Level น้อยกว่าหรือเท่ากับ Level เดิมรวมของมอนสเตอร์ที่ใช้เป็น Material\nในระหว่าง Main Phase หรือ Battle Phase ของคู่ต่อสู้ (Quick Effect): คุณสามารถเอาการ์ดใบนี้ที่ควบคุมออกจากเกม; อัญเชิญพิเศษ \"Crystron Tokens\" 3 ตัว (Machine/WATER/Level 1/ATK 0/DEF 0), แต่จะไม่สามารถใช้สังเวยได้\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Crystron Halqifibrax Prism\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "af23894443295237bbaa18e361407b6cd05ebda96bc428b30265efb0414d0ddc",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "21887179",
+  "name": "Getsu Fuhma",
+  "th": "ถ้าการ์ดใบนี้ทำการต่อสู้กับมอนสเตอร์ประเภท Fiend หรือ Zombie, ทำลายมอนสเตอร์นั้นในตอนท้ายของ Damage Step.",
+  "status": "ai",
+  "en_sha256": "f46358f599b4312587ffce4f7e05f6e510972ddc4d93c90a9ccb94393d7450f1",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

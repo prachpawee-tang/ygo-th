@@ -1,0 +1,9 @@
+{
+  "id": "57201737",
+  "name": "Leodrake's Mane",
+  "th": "เลือกมอนสเตอร์ \"Naturia\" ที่หงายอยู่ 1 ตัวที่คุณควบคุม\nATK ของมันจะกลายเป็น 3000 และลบล้างเอฟเฟกต์ของมัน จนถึง End Phase",
+  "status": "ai",
+  "en_sha256": "86adc2d9e239da4a0772907acddabcca68a7ddcc23cfe83e540e666faf7c3491",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "6859683",
+  "name": "Success Probability 0%",
+  "th": "ส่งมอนสเตอร์ Fusion แบบสุ่ม 2 ตัวจากเอ็กซ์ตร้าเด็คของคู่ต่อสู้ไปยังสุสาน.",
+  "status": "ai",
+  "en_sha256": "ad295a3792566164bfc183e604127dcfad648cb233ca02cc16d11c24c737a99c",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

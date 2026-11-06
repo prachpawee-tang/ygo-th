@@ -1,0 +1,9 @@
+{
+  "id": "41544074",
+  "name": "Kamionwizard",
+  "th": "\"Mystical Elf\" + \"Curtain of the Dark Ones\"",
+  "status": "ai",
+  "en_sha256": "7bf746fb4d907c9463289e64ab936f70f32891dfe314b264f1a6894ae16f2a52",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

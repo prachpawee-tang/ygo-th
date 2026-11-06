@@ -1,0 +1,10 @@
+{
+  "id": "52971944",
+  "name": "Sealing Ceremony of Katon",
+  "th": "1 ครั้งต่อเทิร์น: คุณสามารถเอามอนสเตอร์ FIRE 1 ตัวออกจากสุสานของคุณเพื่อเลือกเป้าหมายการ์ด 1 ใบในสุสานของคู่ต่อสู้; เอามันออกจากเกม.",
+  "status": "ai",
+  "en_sha256": "ea4d07415288ec422d214b9a2da1e2341eb49429429580f6292caed8a1d63b12",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: \"banish\" ×2 in English but \"ออกจากเกม\" ×1 in Thai — meaning may be wrong"
+}

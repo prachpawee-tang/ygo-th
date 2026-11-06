@@ -1,0 +1,9 @@
+{
+  "id": "49568943",
+  "name": "Vaylantz World - Shinra Bansho",
+  "th": "เมื่อการ์ดใบนี้ถูกเปิดใช้: วางการ์ด “Vaylantz” Field Spell 1 ใบจากเด็คของคุณแบบหงายใน Field Zone ของคู่ต่อสู้ ยกเว้น “Vaylantz World - Shinra Bansho”\nถ้ามี 2 การ์ดใน Field Zones: ผู้เล่นที่เปิดเทิร์นสามารถเลือกเป้าหมายการ์ดมอนสเตอร์ 1 ใบใน Spell & Trap Zone ของตนเอง; พวกเขาจะอัญเชิญพิเศษการ์ดใบนั้นไปยัง Main Monster Zone ของตนเองในคอลัมน์เดียวกัน\nผู้เล่นที่เปิดเทิร์นสามารถใช้เอฟเฟกต์ของ “Vaylantz World - Shinra Bansho” ได้เพียง 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "14a0daff1339870aa8b7b4c9aaf7b1402178f61ee8da78e45e5a2af55cd5dba9",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "96553688",
+  "name": "Phoenixian Seed",
+  "th": "คุณสามารถส่งการ์ดใบนี้ที่อยู่ในท่าหงายลงสุสานเพื่ออัญเชิญพิเศษ \"Phoenixian Cluster Amaryllis\" 1 ตัวจากมือของคุณ.",
+  "status": "ai",
+  "en_sha256": "6baffd8a42d7c4a5bb5ef72f9df085a07d5ff1b32dcd87199cdd7e4939200535",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "31328739",
+  "name": "Psi-Impulse",
+  "th": "สังเวยมอนสเตอร์ Psychic-Type 1 ตัว\nนำการ์ดทั้งหมดในมือของคู่ต่อสู้กลับเข้าเด็ค\nจากนั้น พวกเขาจั่วการ์ด 3 ใบ",
+  "status": "ai",
+  "en_sha256": "f96237b93e3dbfffdcf5f710a2ab150b75d6ce3b15e3b900cbfebce43895ff8e",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

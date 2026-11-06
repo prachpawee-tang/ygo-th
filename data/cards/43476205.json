@@ -1,0 +1,10 @@
+{
+  "id": "43476205",
+  "name": "Rank-Up-Magic Revolution Force",
+  "th": "● ระหว่างเทิร์นของคุณ: เลือกเป้าหมายมอนสเตอร์ Xyz \"Raidraptor\" ที่คุณควบคุม; อัญเชิญพิเศษจากเอ็กซ์ตร้าเด็ค มอนสเตอร์ \"Raidraptor\" 1 ตัวที่มี Rank สูงกว่าเป้าหมายนั้น 1 Rank โดยใช้เป้าหมายนั้นเป็น Material Xyz\n● ระหว่างเทิร์นของคู่ต่อสู้: เลือกเป้าหมายมอนสเตอร์ Xyz 1 ตัวที่คู่ต่อสู้ควบคุมที่ไม่มี Material Xyz; ควบคุมมอนสเตอร์ Xyz นั้น จากนั้นอัญเชิญพิเศษจากเอ็กซ์ตร้าเด็ค มอนสเตอร์ \"Raidraptor\" 1 ตัวที่มี Rank สูงกว่ามอนสเตอร์นั้น 1 Rank โดยใช้มันเป็น Material Xyz\n(การอัญเชิญพิเศษเหล่านี้ถือเป็น Xyz Summon. Material Xyz ที่แนบมาจะกลายเป็น Material บนมอนสเตอร์ที่ถูกอัญเชิญด้วย)",
+  "status": "ai",
+  "en_sha256": "28392ece644e4e6445a8c52e73de9d9ebe21b6f39598bf1e57ecf4e77bde1c4e",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

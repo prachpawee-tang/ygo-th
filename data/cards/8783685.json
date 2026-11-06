@@ -1,0 +1,9 @@
+{
+  "id": "8783685",
+  "name": "Hourglass of Life",
+  "th": "สิ่งมีชีวิตนี้มอบพลังแทนการลดพลังชีวิต.",
+  "status": "ai",
+  "en_sha256": "77454fbd7d1feb6994c428b26b689b2db89b3030597e4a8d8a0481fa509c399d",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

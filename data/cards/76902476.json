@@ -1,0 +1,9 @@
+{
+  "id": "76902476",
+  "name": "Mecha Phantom Beast Turtletracer",
+  "th": "ระดับของการ์ดใบนี้จะเพิ่มขึ้นตามผลรวมของระดับของ \"Mecha Phantom Beast Tokens\" ทั้งหมดที่คุณควบคุม\nตราบใดที่คุณควบคุม Token, การ์ดใบนี้จะไม่ถูกทำลายจากการต่อสู้หรือเอฟเฟกต์ของการ์ด\nทุกเทิร์น, \"Mecha Phantom Beast Token\" ตัวแรกที่คุณควบคุมที่จะถูกทำลายจากการต่อสู้, จะไม่ถูกทำลาย",
+  "status": "ai",
+  "en_sha256": "fa9e158bdce08f50048f1ad2169f52c97bfbb80d46bce0752b5e7905e0feea78",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

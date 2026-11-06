@@ -1,0 +1,9 @@
+{
+  "id": "4072687",
+  "name": "Unacceptable Result",
+  "th": "ถ้าคุณควบคุมมอนสเตอร์ Spellcaster: อัญเชิญพิเศษมอนสเตอร์ \"Fortune Fairy\" 1 ตัวจากมือ.",
+  "status": "ai",
+  "en_sha256": "7891ff61af5b5fc67ce564f586e6c36d7239ea265025f2c8101de6e4b439db0f",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "37057012",
+  "name": "Cyber Ogre 2",
+  "th": "\"ไซเบอร์โอเกอร์\" + \"ไซเบอร์โอเกอร์\"\nการอัญเชิญแบบฟิวชั่นมอนสเตอร์นี้สามารถทำได้โดยใช้ Fusion Material Monsters ที่ระบุไว้ข้างต้นเท่านั้น\nเมื่อการ์ดใบนี้โจมตี มันจะได้รับ ATK เท่ากับครึ่งหนึ่งของ ATK ของเป้าหมายการโจมตี ในระหว่างการคำนวณความเสียหายเท่านั้น",
+  "status": "ai",
+  "en_sha256": "d789ff7fe738fbae96bc7e112c50ee6c0fe1bf8cff606a04d450eb507b3730e1",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: card names in quotes changed/missing: \"Cyber Ogre\""
+}

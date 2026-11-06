@@ -1,0 +1,9 @@
+{
+  "id": "5267507",
+  "name": "Earthbound Immortal Red Nova",
+  "th": "สามารถมีมอนสเตอร์ \"Earthbound Immortal\" ได้สูงสุด 1 ตัวบนสนาม\nในช่วง Main Phase (Quick Effect): คุณสามารถเอาการ์ดใบนี้ออกจากเกมจากมือหรือสุสานของคุณ; ส่งมอนสเตอร์ \"Earthbound Immortal\" หรือ \"Red Dragon Archfiend\" 1 ตัวจากมือหรือ Main Monster Zone ที่หงายอยู่ของคุณลงสุสาน, จากนั้นคุณสามารถใช้เอฟเฟกต์ต่อไปนี้ 1 เอฟเฟกต์ได้\n● อัญเชิญพิเศษมอนสเตอร์ \"Earthbound\" 1 ตัวจากเด็คหรือเอ็กซ์ตร้าเด็คของคุณ\n● อัญเชิญพิเศษ \"Red Nova Dragon\" 1 ตัวจากเอ็กซ์ตร้าเด็คของคุณ\n(การอัญเชิญนี้ถือเป็นการ Synchro Summon.)\nคุณสามารถใช้เอฟเฟกต์นี้ของ \"Earthbound Immortal Red Nova\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "01bfea418e76f479069f8fd7bcae6d156bb61ffb68ad09006e76f748a4fbc961",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "37406863",
+  "name": "Fengsheng Mirror",
+  "th": "ดูมือของคู่ต่อสู้\nเลือกและทิ้งมอนสเตอร์ Spirit 1 ตัวลงสุสาน (GY) ถ้ามีมอนสเตอร์ Spirit ในมือของเขา/เธอ",
+  "status": "ai",
+  "en_sha256": "3ec4015d4afeb5c4834a8236dbeb151b76e38c2ae5db5d3c7a7e6f94006bd944",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

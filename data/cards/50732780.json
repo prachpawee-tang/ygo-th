@@ -1,0 +1,10 @@
+{
+  "id": "50732780",
+  "name": "Stygian Security",
+  "th": "ถ้าการ์ดใบนี้ถูกทำลายด้วยการต่อสู้และส่งลงสุสาน: อัญเชิญพิเศษมอนสเตอร์เอฟเฟกต์ประเภท Fiend ระดับ 1 จากเด็คของคุณ.",
+  "status": "ai",
+  "en_sha256": "167296343c56aaeb19ba07f34494f5f163cc3c650c953b0e8157f86afcfb78f1",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

@@ -1,9 +1,9 @@
 {
   "id": "23656668",
   "name": "Gravity Controller",
-  "th": "มอนสเตอร์ non-Link 1 ตัวใน Extra Monster Zone\nไม่สามารถใช้เป็น Link Material ในเทิร์นที่ทำการ Link Summon ได้ การ์ดใบนี้ใน Extra Monster Zone ไม่สามารถถูกทำลายจากการต่อสู้กับมอนสเตอร์ใน Main Monster Zone ได้ ณ จุดเริ่มต้นของ Damage Step, ถ้าการ์ดใบนี้ทำการต่อสู้กับมอนสเตอร์ของคู่ต่อสู้ใน Extra Monster Zone: คุณสามารถส่งทั้งมอนสเตอร์ของคู่ต่อสู้และตัวการ์ดนี้กลับไปยังเด็คได้",
+  "th": "มอนสเตอร์ non-Link 1 ตัวใน Extra Monster Zone\nไม่สามารถใช้เป็น Material Link ในเทิร์นที่ทำการ Link Summon\nการ์ดใบนี้ใน Extra Monster Zone ไม่สามารถถูกทำลายด้วยการต่อสู้กับมอนสเตอร์ใน Main Monster Zone\nเมื่อเริ่ม Damage Step, ถ้าการ์ดใบนี้ทำการต่อสู้กับมอนสเตอร์ของคู่ต่อสู้ใน Extra Monster Zone: คุณสามารถส่งมอนสเตอร์ของคู่ต่อสู้และตัวการ์ดใบนี้กลับไปยังเด็ค",
   "status": "ai",
   "en_sha256": "c7ef50c568d654eded9bfee25b9c4a4ca6e35606ec75316868e690a912c6b43f",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-06"
 }

@@ -1,0 +1,9 @@
+{
+  "id": "86223870",
+  "name": "Level Retuner",
+  "th": "ลด Level ของมอนสเตอร์หงาย 1 ตัวที่คุณควบคุมลงได้สูงสุด 2.",
+  "status": "ai",
+  "en_sha256": "5b767c49859d0ff5581e7bb375e767c383beabdc955c4941cf3cd9a2bb77586a",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

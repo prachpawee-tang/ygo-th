@@ -1,0 +1,9 @@
+{
+  "id": "92219931",
+  "name": "Simultaneous Loss",
+  "th": "ผู้เล่นแต่ละคนส่งการ์ดบนสุดของเด็คของตนเองลงสุสาน.",
+  "status": "ai",
+  "en_sha256": "a2d84fc895b3aaa16f50b471951569bfd3a75865aad9b9c4d892bc4c52aff3e7",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

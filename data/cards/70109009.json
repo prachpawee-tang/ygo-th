@@ -1,0 +1,9 @@
+{
+  "id": "70109009",
+  "name": "Ultimate Earthbound Immortal",
+  "th": "ถ้ามีการ์ดมอนสเตอร์ \"Earthbound Immortal\" ที่ทำการอัญเชิญปกติหรือเซ็ตอยู่บนสนาม: คุณสามารถเลือกเป้าหมายมอนสเตอร์หงายอยู่บนสนาม 1 ตัว; ทำลายมัน\nคุณสามารถใช้เอฟเฟกต์ของ \"Ultimate Earthbound Immortal\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "c7d5fe8e9dbb452f74dddd559071f9791ef8a74088b4dd50933581e490b09258",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

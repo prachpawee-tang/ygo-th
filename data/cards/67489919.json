@@ -1,0 +1,10 @@
+{
+  "id": "67489919",
+  "name": "Mecha Phantom Beast Blue Impala",
+  "th": "ไม่สามารถใช้เป็นมอนสเตอร์ Material ในการ Synchro ได้ ยกเว้นสำหรับการ Synchro Summon มอนสเตอร์ Machine-Type\nมอนสเตอร์ Material Synchro ตัวอื่นๆ เป็นมอนสเตอร์ \"Mecha Phantom Beast\" ในมือของคุณหรือบนสนามของคุณ\nตราบใดที่คุณควบคุม Token การ์ดใบนี้จะไม่ถูกทำลายจากการต่อสู้หรือเอฟเฟกต์ของการ์ด\nถ้าคู่ต่อสู้ควบคุมมอนสเตอร์ และคุณไม่ได้ควบคุมมอนสเตอร์: คุณสามารถเอาการ์ดใบนี้ออกจากเกมจากสุสาน; อัญเชิญพิเศษ Token \"Mecha Phantom Beast Token\" (Machine-Type/WIND/Level 3/ATK 0/DEF 0)",
+  "status": "ai",
+  "en_sha256": "fa10bbee0e7f6dbf054f2d7ccf2057b6b8725e77f6d252c18583ebcfd4bf7183",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

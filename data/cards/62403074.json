@@ -1,0 +1,9 @@
+{
+  "id": "62403074",
+  "name": "Rhaimundos of the Red Sword",
+  "th": "พร้อมดาบแห่งเปลวเพลิงสีแดง, นักรบคนนี้สามารถผูกมอนสเตอร์ด้วยโซ่ไฟได้.",
+  "status": "ai",
+  "en_sha256": "e553b93361fd12932c1ca3ff0a4b94fc74fb35df08f1642ef39b5415320ccd02",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "69982329",
+  "name": "Pendulum Shift",
+  "th": "เลือกการ์ด 1 ใบใน Pendulum Zone ของทั้งผู้เล่นและประกาศ Pendulum Scale ระหว่าง 1 ถึง 10; เทิร์นนี้ การ์ดใบนั้นจะกลายเป็น Pendulum Scale นั้น.",
+  "status": "ai",
+  "en_sha256": "dfe09e67c4fda398e1adbe503c25b470b1d32d8733aff2f42343b3db8c41adf0",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

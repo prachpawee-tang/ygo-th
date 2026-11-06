@@ -1,0 +1,9 @@
+{
+  "id": "17363041",
+  "name": "Chrysalis Chicky",
+  "th": "คุณสามารถสังเวยการ์ดใบนี้ได้เมื่อ \"Neo Space\" อยู่บนสนาม เพื่ออัญเชิญพิเศษ \"Neo-Spacian Air Hummingbird\" 1 ตัวจากมือหรือเด็คของคุณ.",
+  "status": "ai",
+  "en_sha256": "7f4d6b3b9c07d465d58931582419d12015bf89d233df1abc01e633c6a0a6ea5f",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

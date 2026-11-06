@@ -1,0 +1,10 @@
+{
+  "id": "58858807",
+  "name": "Tellarknight Constellar Caduceus",
+  "th": "มอนสเตอร์ Level 4 2+ ตัว\nถ้าการ์ดใบนี้ถูกอัญเชิญแบบ Xyz: คุณสามารถเลือกเป้าหมาย \"tellarknight\" และ/หรือ \"Constellar\" การ์ด 1 ใบในสุสานของคุณ; เพิ่มพวกมันขึ้นมือ\nคุณสามารถเอา \"tellarknight\" หรือ \"Constellar\" มอนสเตอร์ 1 ตัวออกจากเกมจากมือหรือเด็คของคุณ และถอด Material 1 ชิ้นจากตัวการ์ดนี้; เอฟเฟกต์นี้จะกลายเป็นเอฟเฟกต์ของมอนสเตอร์ที่ถูกเอาออกจากเกมนั้น ซึ่งเปิดใช้เมื่อมันถูกอัญเชิญปกติ\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Tellarknight Constellar Caduceus\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "44c9da8aff40af575e5656b280b410b6e897541efe37cbe9713d80c7da225484",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "81994591",
+  "name": "Diamond Core of Koa'ki Meiru",
+  "th": "เพิ่มการ์ด \"Koa'ki Meiru\" 1 ใบจากเด็คของคุณขึ้นมือ ยกเว้น \"Diamond Core of Koa'ki Meiru\"\nคุณสามารถเอาการ์ดใบนี้ออกจากเกมจากสุสานของคุณ; ตลอดช่วงเทิร์นนี้ มอนสเตอร์ \"Koa'ki Meiru\" ที่คุณควบคุมจะไม่ถูกทำลาย",
+  "status": "ai",
+  "en_sha256": "1292e883767db7ecc98de7d4e2e71eed43cf8278cd0b24bd90caf6a0f2c90f96",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

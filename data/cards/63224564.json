@@ -1,0 +1,9 @@
+{
+  "id": "63224564",
+  "name": "Cyber Shield",
+  "th": "ใส่ได้เฉพาะกับ \"Harpie Lady\" หรือ \"Harpie Lady Sisters\" เท่านั้น\nมันได้รับ ATK 500",
+  "status": "ai",
+  "en_sha256": "10acd6a4ebd08ffea793754e3ef3de67b224ef4b129072ffd6293ae3132f5209",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

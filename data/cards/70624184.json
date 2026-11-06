@@ -1,0 +1,9 @@
+{
+  "id": "70624184",
+  "name": "Constellar Rasalhague",
+  "th": "คุณสามารถสังเวยการ์ดใบนี้; อัญเชิญพิเศษมอนสเตอร์ \"Constellar\" 1 ตัวจากมือหรือสุสานของคุณในท่าป้องกันหงาย ยกเว้น \"Constellar Rasalhague\".",
+  "status": "ai",
+  "en_sha256": "8b0c02bbc6f1571207e7eee5411058246d22783b52bcfbaf280d0dc87f7692ea",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

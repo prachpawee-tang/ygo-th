@@ -1,0 +1,9 @@
+{
+  "id": "13289758",
+  "name": "Gaia Stream, the Graceful Force",
+  "th": "มอนสเตอร์ Level 6+ 2 ตัวขึ้นไป\n1 ครั้งต่อเทิร์น คุณสามารถอัญเชิญ Link โดยใช้มอนสเตอร์ Link Rank 5 หรือ 7 ที่คุณควบคุม 1 ตัวได้ (ส่ง Material ของมันลงสุสาน) เพื่ออัญเชิญ \"Gaia Stream, the Graceful Force\"\nไม่สามารถใช้เป็น Material สำหรับการอัญเชิญ Link ในเทิร์นที่มันถูกอัญเชิญ Link\nไม่สามารถโจมตีโดยตรงได้\nได้รับ ATK เท่ากับผลรวมของ Level/Rank ของ Material ที่ติดอยู่ x 200\nเมื่อสิ้นสุด Damage Step ถ้าการ์ดใบนี้ทำการต่อสู้: ถอด Material 1 ตัวออกจากการ์ดใบนี้",
+  "status": "ai",
+  "en_sha256": "75bd4e9f2f008d414b6be6e2313262357be5d29d673cf65bf20403f2b9a112ed",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

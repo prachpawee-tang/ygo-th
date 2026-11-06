@@ -1,0 +1,9 @@
+{
+  "id": "68124775",
+  "name": "Orient Dragon",
+  "th": "1 Tuner + 1 หรือมากกว่า มอนสเตอร์ non-Tuner\nถ้าการ์ดใบนี้ถูก อัญเชิญแบบ Synchro: เลือกเป้าหมายมอนสเตอร์ Synchro 1 ตัวที่คู่ต่อสู้ควบคุม; เอามันออกจากเกม",
+  "status": "ai",
+  "en_sha256": "f7cd6600c43dfc2b019e5afe1932219ec699c8fac193bc0ae4e5781f0d978597",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

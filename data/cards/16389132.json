@@ -1,0 +1,9 @@
+{
+  "id": "16389132",
+  "name": "Anu, Knight of the Winter Raven",
+  "th": "คุณสามารถเปิดเผยการ์ดใบนี้ในมือของคุณ; อัญเชิญพิเศษมอนสเตอร์ \"Winter Raven\" 1 ตัวจากมือของคุณ, ยกเว้น \"Anu, Knight of the Winter Raven\"\nในช่วง Main Phase (Quick Effect): คุณสามารถเลือกเป้าหมายมอนสเตอร์ \"Winter Raven\" 1 ตัวที่คุณควบคุม; วางมันแบบหงายใน Spell & Trap Zone ของเจ้าของมันในฐานะการ์ดเวทมนตร์ต่อเนื่อง, และถ้าทำได้, อัญเชิญพิเศษมอนสเตอร์ \"Winter Raven\" 1 ตัวจากมือของคุณหรือสุสาน, ยกเว้น \"Anu, Knight of the Winter Raven\"\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Anu, Knight of the Winter Raven\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "8597470d2312079ec0ccaaefa4e12aa6ae1ef7a39185d354b3cdcdc2b1441414",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

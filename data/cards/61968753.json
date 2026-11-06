@@ -1,0 +1,10 @@
+{
+  "id": "61968753",
+  "name": "Bubble Shuffle",
+  "th": "เลือกมอนสเตอร์ \"Elemental HERO Bubbleman\" ที่หงายอยู่และอยู่ในท่าโจมตีที่คุณควบคุม และมอนสเตอร์ที่หงายอยู่และอยู่ในท่าโจมตี 1 ตัวที่คู่ต่อสู้ควบคุม; เปลี่ยนทั้งสองเป้าหมายนั้นเป็นท่าป้องกัน, จากนั้นสังเวย \"Elemental HERO Bubbleman\" นั้น, จากนั้นอัญเชิญพิเศษมอนสเตอร์ \"Elemental HERO\" 1 ตัวจากมือของคุณ.",
+  "status": "ai",
+  "en_sha256": "5be8fa92254fcd4f4b87e4b30e4c1addbf054f30c78d52b11662d4418576cc28",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

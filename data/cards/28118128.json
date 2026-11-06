@@ -1,0 +1,10 @@
+{
+  "id": "28118128",
+  "name": "Baby Raccoon Tantan",
+  "th": "พลิก: อัญเชิญพิเศษมอนสเตอร์ประเภท Beast-Type ระดับ 2 จากเด็คของคุณ, ยกเว้น \"Baby Raccoon Tantan\".",
+  "status": "ai",
+  "en_sha256": "bd30b069341a448cccba20c1c62199b321c1470b4ef19c38ce9b4cb98af1484a",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

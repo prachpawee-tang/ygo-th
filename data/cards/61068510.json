@@ -1,0 +1,9 @@
+{
+  "id": "61068510",
+  "name": "Tornado",
+  "th": "เปิดใช้ได้เมื่อมี 3 ใบหรือมากกว่าใน Spell & Trap Card Zone ของคู่ต่อสู้\nทำลายการ์ด 1 ใบใน Spell & Trap Card Zone ของคู่ต่อสู้",
+  "status": "ai",
+  "en_sha256": "26dd8cd87114745bcaeb06b11c156bf66f27367221d07b585ddccc9d1147a948",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

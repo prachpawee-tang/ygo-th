@@ -1,9 +1,9 @@
 {
   "id": "21565445",
   "name": "Neptabyss, the Atlantean Prince",
-  "th": "คุณสามารถส่งมอนสเตอร์ \"Atlantean\" 1 ตัวจากเด็คของคุณลงสุสาน (GY), ยกเว้น \"Neptabyss, the Atlantean Prince\"; เพิ่มการ์ด \"Atlantean\" 1 ใบจากเด็คของคุณขึ้นมือ, ยกเว้น \"Neptabyss, the Atlantean Prince\". ถ้าการ์ดนี้ถูกส่งลงสุสานเพื่อเปิดใช้เอฟเฟกต์ของมอนสเตอร์ WATER: เลือกเป้าหมายมอนสเตอร์ \"Atlantean\" 1 ตัวในสุสานของคุณ, ยกเว้น \"Neptabyss, the Atlantean Prince\"; อัญเชิญพิเศษมัน คุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Neptabyss, the Atlantean Prince\" ได้ 1 ครั้งต่อเทิร์น",
+  "th": "คุณสามารถส่งมอนสเตอร์ \"Atlantean\" 1 ตัวจากเด็คของคุณไปยังสุสาน, ยกเว้น \"Neptabyss, the Atlantean Prince\"; เพิ่มการ์ด \"Atlantean\" 1 ใบจากเด็คของคุณขึ้นมือ, ยกเว้น \"Neptabyss, the Atlantean Prince\".\nถ้าการ์ดใบนี้ถูกส่งลงสุสานเพื่อเปิดใช้งานเอฟเฟกต์มอนสเตอร์ WATER: เลือกเป้าหมายมอนสเตอร์ \"Atlantean\" 1 ตัวในสุสานของคุณ, ยกเว้น \"Neptabyss, the Atlantean Prince\"; อัญเชิญพิเศษมัน\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Neptabyss, the Atlantean Prince\" ได้ 1 ครั้งต่อเทิร์น",
   "status": "ai",
   "en_sha256": "f8736e3dabd75060017820da037586107b6bebaa1a95b628a541f0748f52f481",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-06"
 }

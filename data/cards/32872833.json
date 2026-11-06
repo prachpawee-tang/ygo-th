@@ -1,0 +1,9 @@
+{
+  "id": "32872833",
+  "name": "Parsec, the Interstellar Dragon",
+  "th": "ถ้าคุณควบคุมมอนสเตอร์ Level 8 คุณสามารถอัญเชิญปกติการ์ดใบนี้โดยไม่ต้องสังเวย.",
+  "status": "ai",
+  "en_sha256": "2bbd8d2c68de7ae98d643bd4d18ebdc58d6bae813316f5160ac7a25f4aac7ed4",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

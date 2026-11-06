@@ -1,0 +1,10 @@
+{
+  "id": "18809562",
+  "name": "Magical Contract Door",
+  "th": "เพิ่มการ์ดเวทมนตร์ 1 ใบจากมือของคุณขึ้นมือคู่ต่อสู้, จากนั้นเพิ่มมอนสเตอร์ DARK ระดับ 7 หรือ 8 จากเด็คของคุณขึ้นมือของคุณ.",
+  "status": "ai",
+  "en_sha256": "b377e35cc6d2289d77a805d30ea697f0c6f50ee10e2a95f1b83175ac082d0595",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

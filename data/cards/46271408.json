@@ -1,0 +1,10 @@
+{
+  "id": "46271408",
+  "name": "Sky Striker Maneuver - Scissors Cross",
+  "th": "ถ้าคุณไม่ได้ควบคุมมอนสเตอร์ใน Main Monster Zone ของคุณ: เลือกเป้าหมายมอนสเตอร์ \"Sky Striker Ace\" ระดับ 4 ในสุสานของคุณ; เพิ่มมันขึ้นมือ หรือถ้าคุณมีเวทมนตร์ 3 ใบขึ้นไปในสุสานของคุณ คุณสามารถอัญเชิญพิเศษมันแทนได้.",
+  "status": "ai",
+  "en_sha256": "da4df0e9f52af975cb630284f8c14bdc62ef75da9a93ef04878c987b2471358a",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "55067058",
+  "name": "Number 19: Freezadon",
+  "th": "มอนสเตอร์ Level 5 จำนวน 2 ตัว\n1 ครั้งต่อเทิร์น, ถ้ามอนสเตอร์ Xyz ที่คุณควบคุมจะเปิดใช้งานเอฟเฟกต์โดยการถอด Material Xyz (s), คุณสามารถถอด Material Xyz 1 ชิ้นจากไพ่ใบนี้แทนที่จะถอด Material Xyz จากมอนสเตอร์เหล่านั้น",
+  "status": "ai",
+  "en_sha256": "ccbfc3c2dcad599dc4fdbba748e5111cbb6d0c8890c7362ea3ceb8a2b1c05797",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

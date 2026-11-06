@@ -1,0 +1,9 @@
+{
+  "id": "95561280",
+  "name": "Poisonous Winds",
+  "th": "มอนสเตอร์ WIND ไม่สามารถอัญเชิญพิเศษได้\nมอนสเตอร์ WIND ที่หงายอยู่บนสนามทั้งหมดจะเสีย ATK 500",
+  "status": "ai",
+  "en_sha256": "9ffbcaef896e28c3acb277250f5bebebf5367ef09ce528f8f4d1ffa3999baac9",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

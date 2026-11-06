@@ -1,0 +1,10 @@
+{
+  "id": "77297908",
+  "name": "Abyss Playhouse - Fantastic Theater",
+  "th": "คุณสามารถเปิดเผย \"Abyss Actor\" Pendulum Monster 1 ตัว และ \"Abyss Script\" Spell 1 ใบในมือของคุณ; เพิ่ม \"Abyss Script\" Spell 1 ใบจากเด็คของคุณขึ้นมือ โดยมีชื่อที่แตกต่างจาก Spell ที่เปิดเผย\nตราบใดที่คุณควบคุม \"Abyss Actor\" Pendulum Monster ที่ถูกอัญเชิญแบบ Pendulum, เอฟเฟกต์มอนสเตอร์ใดๆ ที่คู่ต่อสู้เปิดใช้งานจะกลายเป็น \"ทำลาย Spell/Trap ที่ถูกเซ็ต 1 ใบที่คู่ต่อสู้ควบคุม\"\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Abyss Playhouse - Fantastic Theater\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "534d9e22f44e208cfb68c7fe995da89fa855f773a8cfea5c5feee4e193998110",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: card names in quotes changed/missing: \"Destroy 1 Set Spell/Trap your opponent controls\""
+}

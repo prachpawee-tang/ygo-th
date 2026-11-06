@@ -1,0 +1,10 @@
+{
+  "id": "24019261",
+  "name": "Emergency Assistance",
+  "th": "เปิดใช้ในช่วง Main Phase 2 ของคุณ, เพื่อทำการ อัญเชิญพิเศษ มอนสเตอร์ Level 4 จาก สุสาน ของคุณ ที่ถูกทำลายโดยเอฟเฟกต์ของการ์ด และถูกส่งลง สุสาน ในเทิร์นนี้.",
+  "status": "ai",
+  "en_sha256": "003524e7fc61d9b5b9c99a7d7e96ca8ec3b47ca063b3709f79d54cbfa545c70c",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

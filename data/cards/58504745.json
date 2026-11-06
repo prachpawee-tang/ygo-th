@@ -1,0 +1,10 @@
+{
+  "id": "58504745",
+  "name": "Brotherhood of the Fire Fist - Cardinal",
+  "th": "มอนสเตอร์ \"Fire Fist\" ระดับ 4 จำนวน 2 ตัว\nคุณสามารถถอด Material 2 ชิ้นจากตัวการ์ดนี้ จากนั้นเลือกเป้าหมายการ์ด \"Fire Fist\" / \"Fire Formation\" ในสุสานของคุณและ/หรือในสนามที่หงาย และการ์ด 2 ใบในสุสานของคู่ต่อสู้และ/หรือในสนามที่หงาย; สับการ์ดเป้าหมายเหล่านั้นกลับเข้าเด็ค\nคุณสามารถใช้เอฟเฟกต์ของ \"Brotherhood of the Fire Fist - Cardinal\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "e77bd517ea80a6a2464cf10d338cf82c4c98e8f691fb2725543a7a144697e8ac",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: numbers missing in Thai: 2"
+}

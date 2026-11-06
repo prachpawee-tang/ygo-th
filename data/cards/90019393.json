@@ -1,0 +1,9 @@
+{
+  "id": "90019393",
+  "name": "Gem-Knight Alexandrite",
+  "th": "คุณสามารถสังเวยการ์ดใบนี้; อัญเชิญพิเศษมอนสเตอร์ \"Gem-Knight\" แบบปกติ 1 ตัวจากเด็คของคุณ.",
+  "status": "ai",
+  "en_sha256": "9d866546c519cfa60a68f85a76177feb9de75f909b5e1c286f8ded3974815ba2",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

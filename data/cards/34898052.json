@@ -1,0 +1,10 @@
+{
+  "id": "34898052",
+  "name": "Dragoroar",
+  "th": "เอามอนสเตอร์ธาตุ EARTH, WATER, FIRE และ WIND การ์ดละ 1 ใบออกจากสุสานของคุณ; สับการ์ด 1 ใบในสนามกลับเข้าเด็ค.",
+  "status": "ai",
+  "en_sha256": "71267724bed985ce6f48178fa3e97810451feeb0eb4e25d726b688a7fb229fd4",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: numbers missing in Thai: 1; \"banish\" ×1 in English but \"ออกจากเกม\" ×0 in Thai — meaning may be wrong"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "72446038",
+  "name": "Synthesis Spell",
+  "th": "การ์ดใบนี้ใช้สำหรับ อัญเชิญแบบสังเวย \"Lycanthrope\"\nคุณต้อง สังเวย มอนสเตอร์ที่มี Level รวมกันเท่ากับ 6 หรือมากกว่า จาก Main Monster Zone หรือ มือ",
+  "status": "ai",
+  "en_sha256": "082e19ae1dd211798d2e353dc25f9e68cbbb109b5d90a1119be9307025c556f6",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

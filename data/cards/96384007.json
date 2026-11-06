@@ -1,0 +1,9 @@
+{
+  "id": "96384007",
+  "name": "Machina Defender",
+  "th": "พลิก: เพิ่ม \"Commander Covington\" 1 ใบจากเด็คของคุณขึ้นมือ.",
+  "status": "ai",
+  "en_sha256": "fd5c19604fad05914de6d5adb769e3dd59bfd5722f07f9322fc6857795c5a7bc",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "22346472",
+  "name": "Blustering Winds",
+  "th": "เลือกมอนสเตอร์หงาย 1 ตัวที่คุณควบคุม; มันได้รับ ATK และ DEF 1000 จนกว่าจะถึง Standby Phase ถัดไปของคุณ.",
+  "status": "ai",
+  "en_sha256": "6061caef5e4b612b37cd45467d6fad23966d44cc23a328714259d7c2e8a32dfc",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

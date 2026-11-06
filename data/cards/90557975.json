@@ -1,0 +1,9 @@
+{
+  "id": "90557975",
+  "name": "Updraft",
+  "th": "เอา Fog Counter ทั้งหมดออกจากสนาม\nสร้างความเสียหาย 300 ให้กับคู่ต่อสู้สำหรับแต่ละ Fog Counter ที่คุณเอาออก",
+  "status": "ai",
+  "en_sha256": "35a37cb8ea4ad1793641c61abadf098198b38a68f5a50d6f6c5d666da82d5b2f",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

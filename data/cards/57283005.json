@@ -1,0 +1,10 @@
+{
+  "id": "57283005",
+  "name": "Harpie & Amazoness Rakshasa Formation",
+  "th": "เลือกมอนสเตอร์ \"Harpie\" หรือ \"Amazoness\" 1 ตัวในสุสานของคุณหรือที่ถูกเอาออกจากเกม; อัญเชิญพิเศษมัน, จากนั้นคุณสามารถใช้เอฟเฟกต์ต่อไปนี้ 1 เอฟเฟกต์ตามจำนวนมอนสเตอร์ \"Amazoness\" และ \"Harpie Lady\" ที่คุณควบคุม\n● 1+: วางการ์ด \"Eyelluring Mirror Wall\" 1 ใบจากเด็คของคุณแบบคว่ำใน Spell & Trap Zone ของคุณ\n● 2+: ควบคุมมอนสเตอร์ 1 ตัวที่คู่ต่อสู้ควบคุม\n● 3+: ทำลายมอนสเตอร์ทั้งหมดที่คู่ต่อสู้ควบคุม\nคุณสามารถเปิดใช้ \"Harpie & Amazoness Rakshasa Formation\" ได้เพียง 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "899b9b9bea59537e2a185b9e00a07ad4faff18f696bd45b964d67b78ec7244d9",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: \"face-up\" ×1 in English but \"หงาย\" ×0 in Thai — meaning may be wrong"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "43210483",
+  "name": "Symphonic Warrior Guitariss",
+  "th": "[ Pendulum Effect ]\nคุณสามารถเลือกเป้าหมายการ์ด \"Symphonic Warrior\" อื่นๆ ที่คุณควบคุม; นำการ์ดใบนั้นและการ์ดใบนี้กลับขึ้นมือ\nคุณสามารถใช้เอฟเฟกต์ของ \"Symphonic Warrior Guitariss\" ได้ 1 ครั้งต่อเทิร์น\n[ Monster Effect ]\nถ้า \"Symph Amplifire\" อยู่ใน Field Zone ของคุณ: คุณสามารถ อัญเชิญพิเศษ การ์ดใบนี้จากมือของคุณ\nถ้าการ์ดใบนี้ถูก อัญเชิญปกติ หรือ อัญเชิญพิเศษ: คุณสามารถเลือกเป้าหมายการ์ด 1 ใบใน Pendulum Zone ของคุณ; นำมันกลับขึ้นมือ\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Symphonic Warrior Guitariss\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "99dbc794f5457ad2c2f3e17e363b476a332fea106d21f356b60bd02d493d0959",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

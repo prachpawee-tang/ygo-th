@@ -1,0 +1,9 @@
+{
+  "id": "22666164",
+  "name": "Commander Covington",
+  "th": "คุณสามารถส่ง \"Machina Soldier\", \"Machina Sniper\" และ \"Machina Defender\" ที่หงายอยู่ 1 ตัวที่คุณควบคุมไปยังสุสาน; อัญเชิญพิเศษ \"Machina Force\" 1 ตัวจากมือหรือเด็คของคุณ.",
+  "status": "ai",
+  "en_sha256": "4ab2f2897bced9f47ecb404ea12710b3a2d3ebb193d0e8df5f31b062325cd85d",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "3810071",
+  "name": "Monk Fighter",
+  "th": "ความเสียหายจากการต่อสู้ที่เกิดขึ้นกับตัวควบคุมการ์ดใบนี้ จะกลายเป็น 0.",
+  "status": "ai",
+  "en_sha256": "43fdbee0d09cc831ba87bd3a7aaae30b80eeb26fdd7e7ead6d3d8f670abe7aae",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

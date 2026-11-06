@@ -1,0 +1,10 @@
+{
+  "id": "55008284",
+  "name": "The League of Uniform Nomenclature",
+  "th": "เลือกมอนสเตอร์ Normal ที่หงายอยู่ Level 2 หรือต่ำกว่าที่คุณควบคุม เพื่อเปิดใช้การ์ดใบนี้\nอัญเชิญพิเศษการ์ดจากเด็คของคุณให้ได้มากที่สุดเท่าที่จะเป็นไปได้ที่มีชื่อเดียวกันกับมอนสเตอร์ที่เลือก",
+  "status": "ai",
+  "en_sha256": "d349135afc79f3246edc6d886bdc9d66c8c8bdf9e62230d6ee1add6cf1e121f2",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

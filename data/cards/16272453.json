@@ -1,0 +1,9 @@
+{
+  "id": "16272453",
+  "name": "Armor Ninjitsu Art of Alchemy",
+  "th": "ถ้าคุณควบคุมการ์ด \"Ninjitsu Art\": ทำลายการ์ด \"Ninjitsu Art\" ที่คุณควบคุมให้ได้มากที่สุดเท่าที่จะเป็นไปได้ จากนั้นจั่วการ์ด 2 ใบ.",
+  "status": "ai",
+  "en_sha256": "f7cf731df33c6f58573aede5c00d7cd83f69a09b42f7e7511f758123bfc980bb",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

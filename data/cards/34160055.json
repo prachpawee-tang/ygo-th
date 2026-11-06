@@ -1,0 +1,9 @@
+{
+  "id": "34160055",
+  "name": "Master of the Flaming Dragonswords",
+  "th": "เมื่อมีการ์ดมอนสเตอร์ถูกอัญเชิญปกติไปยังสนามของคุณ, ยกเว้น \"Master of the Flaming Dragonswords\": คุณสามารถเพิ่ม Level ของมอนสเตอร์นั้นขึ้น 1 ได้, และการ์ดใบนี้จะได้รับ ATK 300 จนถึง End Phase.",
+  "status": "ai",
+  "en_sha256": "795649a7ddc6140ee9296529d1de1477761da388b3720060c337aeda44296bd7",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

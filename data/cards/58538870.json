@@ -1,0 +1,9 @@
+{
+  "id": "58538870",
+  "name": "Oppressed People",
+  "th": "พวกมันถูกกดขี่ แต่เชื่อว่าสักวันหนึ่งพวกมันจะได้รับอิสรภาพ.",
+  "status": "ai",
+  "en_sha256": "b9a7dc3d3deea414a6ae0e9eaef5f94ef102e997e3c455ce1cfd423960092ea3",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

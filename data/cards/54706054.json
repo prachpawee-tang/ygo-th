@@ -1,0 +1,9 @@
+{
+  "id": "54706054",
+  "name": "The Calibrator",
+  "th": "การ์ดใบนี้ได้รับ ATK เท่ากับผลรวมของ Rank ของมอนสเตอร์ Xyz ที่หงายอยู่ทั้งหมดที่คู่ต่อสู้ควบคุม คูณ 300.",
+  "status": "ai",
+  "en_sha256": "bef6b15058a3dee2c367ede18ec64d6e4c96fa9dfddc5a199df72855f41dcc31",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

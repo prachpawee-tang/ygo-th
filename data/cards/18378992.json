@@ -1,0 +1,10 @@
+{
+  "id": "18378992",
+  "name": "Malefic Selector",
+  "th": "เอาการ์ด \"Malefic\" 2 ใบออกจากสุสานของคุณ; เพิ่มการ์ด \"Malefic\" 2 ใบจากเด็คของคุณขึ้นมือ, ยกเว้น \"Malefic Selector\", ที่มีชื่อต่างกันจากกันและจากการ์ดที่ถูกเอาออกจากเกม\nคุณสามารถเปิดใช้ \"Malefic Selector\" ได้เพียง 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "0b4f73304419173358f355b6fb75fb32d015e3031c51a7e5de7e7d5127c09102",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: \"banish\" ×2 in English but \"ออกจากเกม\" ×1 in Thai — meaning may be wrong"
+}

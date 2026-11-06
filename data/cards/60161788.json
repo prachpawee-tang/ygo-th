@@ -1,0 +1,9 @@
+{
+  "id": "60161788",
+  "name": "Blizzed, Defender of the Ice Barrier",
+  "th": "เมื่อการ์ดใบนี้ถูกทำลายด้วยการต่อสู้และส่งลงสุสาน, จั่วการ์ด 1 ใบ.",
+  "status": "ai",
+  "en_sha256": "0c189e3c91a8ac533aab0c4211dafb343e6dc2ccd25bbbe534121fbaabe650f9",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "18000338",
+  "name": "Re: EX",
+  "th": "ถ้าการ์ดใบนี้ทำการต่อสู้กับมอนสเตอร์ใน Extra Monster Zone, มันจะได้รับ ATK และ DEF 800 ระหว่าง Damage Step เท่านั้น.",
+  "status": "ai",
+  "en_sha256": "8456259efa3d25be3837dd6621675ecc975d28d5d578a241182fe339388fea48",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

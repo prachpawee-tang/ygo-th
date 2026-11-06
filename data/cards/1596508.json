@@ -1,0 +1,9 @@
+{
+  "id": "1596508",
+  "name": "Dimension Fortress Weapon",
+  "th": "การ์ดไม่สามารถส่งจากเด็คไปยังสุสานได้.",
+  "status": "ai",
+  "en_sha256": "829d5c443a0d8c0037796a8be1ad0f18745cb549ca233c5d4bf0e2778bf2da38",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

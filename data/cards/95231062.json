@@ -1,0 +1,9 @@
+{
+  "id": "95231062",
+  "name": "Lost Blue Breaker",
+  "th": "ถ้ามีมอนสเตอร์ Fish, Sea Serpent หรือ Aqua ที่หงายอยู่บนสนามอื่น: คุณสามารถสังเวยการ์ดใบนี้, จากนั้นเลือกเป้าหมาย Spell/Trap 1 ใบที่อยู่บนสนาม; ทำลายเป้าหมายนั้น.",
+  "status": "ai",
+  "en_sha256": "8d74dfbd21f6ef12a69f8c15bc8c1fc1cae5dc816be7349792b036f8e6fbb29e",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

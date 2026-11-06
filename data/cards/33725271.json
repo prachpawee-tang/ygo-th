@@ -1,0 +1,9 @@
+{
+  "id": "33725271",
+  "name": "Volcanic Recharge",
+  "th": "นำการ์ดมอนสเตอร์ \"Volcanic\" กลับจากสุสานของคุณไปยังเด็คของคุณได้สูงสุด 3 ใบ.",
+  "status": "ai",
+  "en_sha256": "8511b23c2f3b65fc96e40cddf775f7ee2b90d34452c84e520af1603afce7abfc",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

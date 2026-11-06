@@ -1,0 +1,9 @@
+{
+  "id": "28284902",
+  "name": "Morphtronic Monitron",
+  "th": "เมื่อมอนสเตอร์ \"Morphtronic\" ถูกอัญเชิญ คุณสามารถเปลี่ยนมันเป็นท่าป้องกันหงายได้.",
+  "status": "ai",
+  "en_sha256": "8d1d3abbe2fef969213a85c7fd476cbced34b2731c97da0a0849452e3c9aada2",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

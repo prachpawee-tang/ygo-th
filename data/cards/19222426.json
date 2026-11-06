@@ -1,0 +1,9 @@
+{
+  "id": "19222426",
+  "name": "Elemental HERO Thunder Giant - Voltic Thunder",
+  "th": "มอนสเตอร์ \"Elemental HERO\" 2 ตัวที่มี Attribute ต่างกัน\nต้องทำการ Fusion Summon เท่านั้น\nถ้าการ์ดใบนี้ถูกอัญเชิญพิเศษ และคู่ต่อสู้ควบคุมการ์ดมากกว่าคุณ: คุณสามารถทำลายการ์ดอื่นๆ ทั้งหมดบนสนามได้\nคุณสามารถสังเวยการ์ดใบนี้ที่ถูก Fusion Summon โดยใช้มอนสเตอร์ Normal Monster(s) เป็น Material, จากนั้นเลือกเป้าหมายมอนสเตอร์ \"Elemental HERO\" 1 ตัวในสุสานของคุณ; อัญเชิญพิเศษมัน\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Elemental HERO Thunder Giant - Voltic Thunder\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "631743b8c4a76ef3c0e0f2df6fab1b98877a6a0a94de6c2338727718ad655e98",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

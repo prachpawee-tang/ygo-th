@@ -1,0 +1,9 @@
+{
+  "id": "6400512",
+  "name": "Cyber Commander",
+  "th": "\"กองกำลังโจมตีที่ติดตั้งปืน Rocket และ Bazooka.\"",
+  "status": "ai",
+  "en_sha256": "2a80533fe12b463c266fe865dcc72c497beff6b072e9e1f40da1fb1ea4c090b6",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

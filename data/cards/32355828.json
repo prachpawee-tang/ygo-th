@@ -1,0 +1,9 @@
+{
+  "id": "32355828",
+  "name": "Skelgon",
+  "th": "\"The Snake Hair\" + \"Blackland Fire Dragon\"",
+  "status": "ai",
+  "en_sha256": "411f8f39d0599680eaf1066e4168b1f938a40e057ca956dea90ed7d1962b57c5",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

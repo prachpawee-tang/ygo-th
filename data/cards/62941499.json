@@ -1,0 +1,9 @@
+{
+  "id": "62941499",
+  "name": "Springans Ship - Exblowrer",
+  "th": "มอนสเตอร์ Level 8 หรือสูงกว่า 2+\nคุณสามารถเลือก Monster Zone หรือ Spell & Trap Zone ของคู่ต่อสู้ 1 โซน; ถอด Material ออกจากใบนี้จำนวนใดก็ได้ และถ้าทำได้ ทำลายการ์ดจำนวนเท่ากันที่คู่ต่อสู้ควบคุมในโซนที่เลือกนั้นและ Monster Zones และ/หรือ Spell & Trap Zones ที่อยู่ติดกัน\nระหว่าง Main Phase หรือ Battle Phase ของคู่ต่อสู้ (Quick Effect): คุณสามารถเอาการ์ดใบนี้ออกจากเกมจนถึง End Phase\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Springans Ship - Exblowrer\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "e348dd86b3bb31457786c5c237e82b36e50f1ce26aad576e23f97cce6e9265ea",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

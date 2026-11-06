@@ -1,0 +1,9 @@
+{
+  "id": "16970158",
+  "name": "Call of the Grave",
+  "th": "เมื่อคู่ต่อสู้ของคุณเปิดใช้ \"Monster Reborn\": ลบล้างเอฟเฟกต์ของ \"Monster Reborn\" นั้น.",
+  "status": "ai",
+  "en_sha256": "376c8be6495bf4a8428a7ce6ba6d5ce3e09137a1debdd8b510afb12df8ef169e",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

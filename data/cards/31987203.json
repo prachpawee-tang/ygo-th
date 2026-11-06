@@ -1,0 +1,9 @@
+{
+  "id": "31987203",
+  "name": "Harvest Angel of Doom",
+  "th": "[ Pendulum Effect ]\nระหว่าง Main Phase ของคุณ: คุณสามารถทำลายการ์ดใบนี้ และถ้าทำได้ ให้เพิ่มการ์ด \"Black Horn of Heaven\" 1 ใบจากเด็คของคุณขึ้นมือ\nคุณสามารถใช้เอฟเฟกต์ของ \"Harvest Angel of Doom\" ได้ 1 ครั้งต่อเทิร์น\n[ Monster Effect ]\nถ้าการ์ดใบนี้ถูกอัญเชิญปกติหรือด้วย Pendulum: คุณสามารถเพิ่มการ์ด \"Horn of Heaven\" 1 ใบจากเด็คของคุณขึ้นมือ\nถ้าการ์ดใบนี้ถูกสังเวย: คุณสามารถวางการ์ดใบนี้ใน Pendulum Zone ของคุณได้\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Harvest Angel of Doom\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "3cd3578cf1835acbde40e7a0a2eaba6c1ae4618f844a80b4e6efabc7b9a759fe",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

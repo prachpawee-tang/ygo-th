@@ -1,0 +1,9 @@
+{
+  "id": "66762372",
+  "name": "Brotherhood of the Fire Fist - Boar",
+  "th": "ไม่สามารถใช้เป็นมอนสเตอร์ Material ในการ Synchro Summon ได้ เว้นแต่สำหรับการ Synchro Summon มอนสเตอร์ FIRE\nเมื่อการ์ดใบนี้ถูกทำลายด้วยการต่อสู้และส่งลงสุสาน: คุณสามารถ อัญเชิญพิเศษ มอนสเตอร์ \"Fire Fist\" ระดับ 4 จากเด็คของคุณได้ 1 ตัว ยกเว้น \"Brotherhood of the Fire Fist - Boar\"\n1 ครั้งต่อเทิร์น เมื่อมอนสเตอร์ \"Fire Fist\" ถูก อัญเชิญพิเศษ จากเอ็กซ์ตร้าเด็คของคุณ: คุณสามารถ เซ็ต การ์ด Spell \"Fire Formation\" จากเด็คของคุณได้โดยตรง",
+  "status": "ai",
+  "en_sha256": "243215828c551a73e45d26cefb06a3f85c3c9096f6355658ed37347ba9720ce0",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

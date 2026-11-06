@@ -1,0 +1,9 @@
+{
+  "id": "2191144",
+  "name": "Night Papilloperative",
+  "th": "มอนสเตอร์ Level 4 จำนวน 3 ตัว\n1 ครั้งต่อเทิร์น: คุณสามารถถอด Material Xyz 1 ชิ้นจากการ์ดใบนี้; การ์ดใบนี้จะได้รับ ATK 300 สำหรับแต่ละ Material Xyz ที่ติดอยู่กับมอนสเตอร์ในสนาม",
+  "status": "ai",
+  "en_sha256": "d378f739dee145c167b7e554dc9e89db177a996866cc73f6e68210e9aee0d762",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

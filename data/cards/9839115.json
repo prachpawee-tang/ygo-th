@@ -1,0 +1,9 @@
+{
+  "id": "9839115",
+  "name": "Vagnawa the Moon-Eating Dragon",
+  "th": "1 Tuner + 1+ non-Tuner monsters\nถ้าการ์ดใบนี้ถูกอัญเชิญแบบ Synchro: คุณสามารถเปิดใช้งานเอฟเฟกต์นี้; การ์ดใบนี้ได้รับ ATK 300 สำหรับแต่ละ Level ที่มอนสเตอร์ non-Tuner ที่ใช้มี, จากนั้นสร้างความเสียหาย 300 ให้กับคู่ต่อสู้สำหรับแต่ละ Level ที่ Tuner ที่ใช้มี\nการเพิ่มขึ้นของ ATK จะคงอยู่จนจบเทิร์นถัดไป\nคุณสามารถใช้เอฟเฟกต์ของ \"Vagnawa the Moon-Eating Dragon\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "08f7c99bda59d3950bc3a4a1530680755f47f92fb9f2345bb52ef3ecf1cef70f",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

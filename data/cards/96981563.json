@@ -1,0 +1,9 @@
+{
+  "id": "96981563",
+  "name": "Giant Turtle Who Feeds on Flames",
+  "th": "เต่าที่มีเปลือกสีแดงเพลิงที่กินไฟ.",
+  "status": "ai",
+  "en_sha256": "313ef7b5dd1711b1680b78c57b97e336b40f947cbdd92ecf4bf2fc6d2cac9e4c",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

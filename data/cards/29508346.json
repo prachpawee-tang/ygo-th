@@ -1,0 +1,9 @@
+{
+  "id": "29508346",
+  "name": "Arrivalrivals",
+  "th": "ระหว่าง Battle Phase: หลังจากเอฟเฟกต์นี้แก้ไขแล้วทันที, อัญเชิญปกติมอนสเตอร์ 1 ตัว\nคุณสามารถเปิดใช้ \"Arrivalrivals\" ได้เพียง 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "f4b81cc8f52ff623e0ba6ad49ad7a5d6baf0bcf69c11e9ffbc61137969d4c47c",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

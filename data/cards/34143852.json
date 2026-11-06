@@ -1,0 +1,9 @@
+{
+  "id": "34143852",
+  "name": "Heroic Challenger - Extra Sword",
+  "th": "มอนสเตอร์ Xyz ที่ถูกอัญเชิญโดยใช้การ์ดใบนี้เป็น Material Xyz ได้รับเอฟเฟกต์นี้\n● เมื่อมันถูกอัญเชิญแบบ Xyz: มันได้รับ ATK 1000",
+  "status": "ai",
+  "en_sha256": "14bdb4db6a8023317be6d76326feaf961ba1355bfa61a88b14360a0eb5cfebf9",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

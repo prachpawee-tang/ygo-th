@@ -1,0 +1,9 @@
+{
+  "id": "2815176",
+  "name": "Zebufera, Vaalmonican Hallow Heathen",
+  "th": "มอนสเตอร์เอฟเฟกต์ 1 ตัว\nไม่สามารถทำการ Link Summon ได้ เว้นแต่คุณจะมี Resonance Counter 3 ตัวหรือมากกว่าบนการ์ดมอนสเตอร์ Fiend ใน Pendulum Zone ของคุณ\nคุณสามารถทำการ Special Summon \"Zebufera, Vaalmonican Hallow Heathen\" ได้เพียง 1 ครั้งต่อเทิร์น\nถ้าการ์ดที่คุณควบคุมจะถูกทำลายโดยการต่อสู้หรือเอฟเฟกต์ของการ์ด คุณสามารถนำ Resonance Counter 3 ตัวออกจาก Pendulum Zone ของคุณแทนได้\n1 ครั้งต่อเทิร์นของคู่ต่อสู้ (Quick Effect): คุณสามารถเลือกเป้าหมายการ์ด Normal Spell/Trap \"Vaalmonica\" ของคุณ 1 ใบที่ถูกเอาออกจากเกมหรืออยู่ในสุสาน; ใช้เอฟเฟกต์การเปิดใช้ของการ์ดใบนั้น",
+  "status": "ai",
+  "en_sha256": "c625cc0331dfee9056f2aebae6f7b1107509efc4dbe52cc49ef0af475557ea73",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

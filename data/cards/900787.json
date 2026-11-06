@@ -1,0 +1,9 @@
+{
+  "id": "900787",
+  "name": "Dragunity Knight - Gae Bulg",
+  "th": "1 มอนสเตอร์ Dragon-Type Tuner + มอนสเตอร์ Winged Beast-Type ที่ไม่ใช่ Tuner 1 ตัวขึ้นไป\nถ้าการ์ดใบนี้โจมตีหรือถูกโจมตี ในระหว่าง Damage Step คุณสามารถเอามอนสเตอร์ Winged Beast-Type 1 ตัว (ตัวเดียวเท่านั้น) ออกจากเกมจากสุสานของคุณ เพื่อให้การ์ดใบนี้ได้รับ ATK ของมอนสเตอร์ตัวนั้น จนถึง End Phase",
+  "status": "ai",
+  "en_sha256": "81a8601a7c72e37cbca8c0eadda14594e82513e79f5a461c76a6a2cde3c8a7ee",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

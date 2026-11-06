@@ -1,0 +1,9 @@
+{
+  "id": "78449284",
+  "name": "The Phantom Knights of Malevolent Scythe",
+  "th": "มอนสเตอร์ DARK เลเวล 3 จำนวน 2 ตัว\nคุณสามารถถอด Material 1 ชิ้นจากใบนี้; อัญเชิญพิเศษมอนสเตอร์ \"The Phantom Knights\" 1 ตัวจากเด็คของคุณ\nถ้าคุณทำการ Xyz Summon มอนสเตอร์ \"Xyz Dragon\" ขณะที่การ์ดใบนี้อยู่ใน Main Monster Zone หรือ Extra Monster Zone (ยกเว้นระหว่าง Damage Step): คุณสามารถเพิ่มการ์ด Spell \"Rank-Up-Magic\" 1 ใบจากเด็คของคุณขึ้นมือ\nถ้าการ์ดใบนี้ถูกทำลาย: คุณสามารถเพิ่มการ์ด \"The Phantom Knights\" ที่ถูกเอาออกจากเกมของคุณ 1 ใบขึ้นมือ ยกเว้นมอนสเตอร์ Xyz\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"The Phantom Knights of Malevolent Scythe\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "e5cb9fd8d39b6b92172ba2f60b5ef690972d2aa23bd45f01d9a4b7d9cdc6c953",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

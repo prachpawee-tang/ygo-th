@@ -1,0 +1,10 @@
+{
+  "id": "87608852",
+  "name": "Temperance of Prophecy",
+  "th": "ระหว่าง Main Phase ของคุณ, ถ้าคุณได้เปิดใช้การ์ด Spellbook Spell Card ก่อนหน้านี้ในเทิร์นนี้: คุณสามารถสังเวยการ์ดใบนี้; อัญเชิญพิเศษมอนสเตอร์เอฟเฟกต์ชนิด Spellcaster ที่มี Level 5 หรือสูงกว่า 1 ตัวจากเด็คของคุณ\nคุณไม่สามารถอัญเชิญพิเศษมอนสเตอร์ Level 5 หรือสูงกว่าอีกตัวหนึ่งในช่วงเทิร์นที่คุณเปิดใช้เอฟเฟกต์นี้",
+  "status": "ai",
+  "en_sha256": "44230c5478ea142e7e90a31f716a95dea1a3ebff00937ddcfb3730837cc84ba4",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: card names in quotes changed/missing: \"Spellbook\""
+}

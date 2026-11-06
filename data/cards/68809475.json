@@ -1,0 +1,9 @@
+{
+  "id": "68809475",
+  "name": "Koa'ki Meiru Speeder",
+  "th": "ในช่วง End Phase ของคุณในแต่ละครั้ง ทำลายการ์ดใบนี้ เว้นแต่คุณจะส่ง \"Iron Core of Koa'ki Meiru\" 1 ใบจากมือของคุณลงสุสาน หรือเปิดเผย มอนสเตอร์ Machine-Type 1 ตัวในมือของคุณ\nถ้าคุณจั่ว \"Iron Core of Koa'ki Meiru\" ในช่วง Draw Phase ของคุณ คุณสามารถเปิดเผยมันให้กับคู่ต่อสู้เพื่อจั่วการ์ดเพิ่มอีก 1 ใบ",
+  "status": "ai",
+  "en_sha256": "c3aabbaf62878b360eaf481ff5d1855f1cd9fae02cd3385f8cfb3d299c82ea8a",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

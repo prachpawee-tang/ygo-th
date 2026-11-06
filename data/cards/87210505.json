@@ -1,0 +1,9 @@
+{
+  "id": "87210505",
+  "name": "Knight's Title",
+  "th": "สังเวย \"Dark Magician\" ที่หงายอยู่ 1 ตัว; อัญเชิญพิเศษ \"Dark Magician Knight\" 1 ตัวจากมือ, เด็ค หรือสุสานของคุณ.",
+  "status": "ai",
+  "en_sha256": "683e242b0537841b79a55c7b101f016b26740167d00c662e4eac8e045f6ceb4c",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

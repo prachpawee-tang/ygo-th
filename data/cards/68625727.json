@@ -1,0 +1,10 @@
+{
+  "id": "68625727",
+  "name": "Prediction Princess Petalelf",
+  "th": "FLIP: คุณสามารถเปลี่ยนมอนสเตอร์ที่อยู่ในท่าโจมตีซึ่งคู่ต่อสู้ควบคุมให้เป็นท่าป้องกันได้ทั้งหมด\nมอนสเตอร์ที่ถูกเปลี่ยนเป็นท่าป้องกันโดยเอฟเฟกต์นี้ไม่สามารถเปลี่ยนท่าต่อสู้ได้",
+  "status": "ai",
+  "en_sha256": "a9c025c0fcdf73cad6ca91cd3edc6a6003f1231fc124f4f1cbfc7c2136da3dcb",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: \"face-up\" ×2 in English but \"หงาย\" ×0 in Thai — meaning may be wrong"
+}

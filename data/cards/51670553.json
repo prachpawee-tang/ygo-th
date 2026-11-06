@@ -1,0 +1,9 @@
+{
+  "id": "51670553",
+  "name": "Soul Devouring Bamboo Sword",
+  "th": "เลือกมอนสเตอร์ 1 ตัวที่ติดตั้งการ์ด “Bamboo Sword” Equip Spell Card ไว้\nถ้ามันสร้างความเสียหายจากการต่อสู้ให้กับคู่ต่อสู้ในขณะที่ติดตั้งการ์ด “Bamboo Sword” ไว้ พวกเขาจะข้าม Draw Phase ถัดไปของพวกเขา\nทำลายการ์ดใบนี้ในช่วง Standby Phase ที่สองของคุณหลังจากการเปิดใช้งาน",
+  "status": "ai",
+  "en_sha256": "4840144972d718c54b0b91a2ec4f0ccb737286b996927e452bfe31b0275dc6cf",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

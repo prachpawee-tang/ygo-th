@@ -1,0 +1,9 @@
+{
+  "id": "13316346",
+  "name": "Boot-Up Soldier - Dread Dynamo",
+  "th": "ตราบใดที่คุณควบคุมมอนสเตอร์ \"Gadget\" การ์ดใบนี้จะได้รับ ATK 2000.",
+  "status": "ai",
+  "en_sha256": "338ef5bedbdf1d58eaffb255ca6f7f284a4ad9e139121e6eed8d7bdf4bf372ce",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

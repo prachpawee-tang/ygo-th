@@ -1,0 +1,9 @@
+{
+  "id": "35537251",
+  "name": "Battlin' Boxer Shadow",
+  "th": "ระหว่าง Main Phase ของคุณ: คุณสามารถถอด Material Xyz 1 ชิ้นจากมอนสเตอร์ Xyz \"Battlin' Boxer\" ที่คุณควบคุม และถ้าทำได้ ให้ อัญเชิญพิเศษการ์ดใบนี้จากมือของคุณ\nคุณสามารถใช้เอฟเฟกต์ของ \"Battlin' Boxer Shadow\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "d02f55d5d62b36618f7af53c93ff792321c3c6629803fc7573ba4c64130b7ae2",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

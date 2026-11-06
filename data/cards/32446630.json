@@ -1,0 +1,9 @@
+{
+  "id": "32446630",
+  "name": "Number C43: High Manipulator of Chaos",
+  "th": "มอนสเตอร์ DARK ระดับ 3 จำนวน 4 ตัว\nโทเค็นทั้งหมดที่คุณควบคุมสามารถทำการโจมตีครั้งที่สองในระหว่าง Battle Phase แต่ละครั้ง\nถ้าการ์ดใบนี้มี \"Number 43: Manipulator of Souls\" เป็น Material Xyz มันจะได้รับเอฟเฟกต์นี้\n● 1 ครั้งต่อเทิร์น: คุณสามารถถอด Material Xyz 1 ตัวจากไพ่ใบนี้; อัญเชิญพิเศษ \"Manipulator Token\" (Fiend-Type/DARK/Level 1/ATK ?/DEF ?).\n(เมื่อถูกอัญเชิญ ATK และ DEF ของมันจะกลายเป็นครึ่งหนึ่งของ LP ปัจจุบันของคู่ต่อสู้)",
+  "status": "ai",
+  "en_sha256": "0aedd07337f013d3c00dc4def6c21d9b812ac0343ddcca9ab625b068eba9da6f",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "21908319",
+  "name": "Kozaky's Self-Destruct Button",
+  "th": "สร้างความเสียหาย 1000 ให้กับผู้เล่นที่ทำลายการ์ดที่เซ็ตใบนี้.",
+  "status": "ai",
+  "en_sha256": "70a71ba603dfc97adbe2ba50f303701c6495fa6a2fb2535ed97ed0a0a4ed59be",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

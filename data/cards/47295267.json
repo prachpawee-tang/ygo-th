@@ -1,0 +1,10 @@
+{
+  "id": "47295267",
+  "name": "Cybernetic Zone",
+  "th": "เลือกมอนสเตอร์ Fusion ประเภท Machine ที่หงายอยู่ที่คุณควบคุม และนำมันออกจากสนามจนกว่าจะถึง End Phase ของเทิร์นนี้\nเมื่อมอนสเตอร์นั้นถูกส่งกลับไปยังสนาม, เพิ่ม ATK ของมันเป็นสองเท่า\nในช่วง Standby Phase ถัดไปของคุณ, ทำลายมัน",
+  "status": "ai",
+  "en_sha256": "ecc3aedd1e9e29897ed10b53c053bd0dc7a70db47f771539810a86092f582798",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

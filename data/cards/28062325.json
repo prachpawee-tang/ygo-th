@@ -1,0 +1,9 @@
+{
+  "id": "28062325",
+  "name": "Bamboo Scrap",
+  "th": "สังเวยมอนสเตอร์ประเภท Plant-Type 1 ตัว\nอัญเชิญพิเศษ \"Plant Tokens\" 2 ตัว (Plant-Type/EARTH/Level 1/ATK 800/DEF 500) ไปยัง Main Monster Zone ฝั่งของคู่ต่อสู้ ในท่าป้องกัน",
+  "status": "ai",
+  "en_sha256": "a73ac25b382fdff367a3bc4fa8ea1cb46488e2b222869d02f7cdf5b142dc1899",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

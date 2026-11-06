@@ -1,0 +1,9 @@
+{
+  "id": "28053106",
+  "name": "Cyber Egg Angel",
+  "th": "ถ้าการ์ดใบนี้ถูกอัญเชิญ: คุณสามารถเพิ่มการ์ด “Machine Angel” เวทมนตร์ 1 ใบ หรือ “Ritual Sanctuary” 1 ใบ จากเด็คของคุณขึ้นมือ\nคุณสามารถใช้เอฟเฟกต์ของ “Cyber Egg Angel” ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "0371cdd42646cd4f8964b0ba011dc7532095734a18717afe3b96ee9f719b20eb",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "94068856",
+  "name": "Time Passage",
+  "th": "เพิ่ม Level ของ \"Fortune Lady\" มอนสเตอร์หงาย 1 ตัวที่คุณควบคุมขึ้น 3, จนถึง End Phase.",
+  "status": "ai",
+  "en_sha256": "742803f008ae21e0c3c1b73ba7d88ad7e8ab7a40892131c1199c3ad6b080c46e",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

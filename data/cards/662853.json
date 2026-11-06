@@ -1,0 +1,9 @@
+{
+  "id": "662853",
+  "name": "Sanctity of Dragon",
+  "th": "3+ Dragon Effect Monsters\nต้องทำการ Link Summon\nถ้าการ์ด Link Extra ที่เชื่อมโยงนี้โจมตีคู่ต่อสู้โดยตรงและลด LP ของพวกเขาเหลือ 0 คุณชนะการแข่งขัน",
+  "status": "ai",
+  "en_sha256": "b785997064e5e50a06768441e8cbff3340352cc0a62cdc4afe67f10ade85eb4e",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

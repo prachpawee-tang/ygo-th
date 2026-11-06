@@ -1,0 +1,9 @@
+{
+  "id": "62327910",
+  "name": "Mighty Guard",
+  "th": "ทหารเครื่องจักรที่ได้รับการพัฒนาเพื่อใช้เป็นยาม\nมันทำจากโลหะที่ป้องกันสนิม",
+  "status": "ai",
+  "en_sha256": "4b139fc7dddadaf79ba4fab0f1fc63a3ba5bf77948afe23f53e9b3d25c197ddf",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

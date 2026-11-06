@@ -1,0 +1,9 @@
+{
+  "id": "55870497",
+  "name": "Burning Bamboo Sword",
+  "th": "ถ้าคุณเปิดใช้การ์ด \"Bamboo Sword\" ในขณะที่การ์ดใบนี้หงายอยู่แล้วใน Spell & Trap Zone ของคุณ: คุณสามารถข้าม Main Phase 1 ของคู่ต่อสู้ครั้งต่อไปได้.",
+  "status": "ai",
+  "en_sha256": "31ec0c6b7f33543e355ec6c007b50b1041e954e4212101fb2f1a054ab9150fdb",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "41248270",
+  "name": "Traffic Ghost",
+  "th": "3 มอนสเตอร์",
+  "status": "ai",
+  "en_sha256": "cec849cf697507f7238e025d70d9f5fb1c9aab4142523a63f0429dead5d9705a",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

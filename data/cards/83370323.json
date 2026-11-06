@@ -1,0 +1,9 @@
+{
+  "id": "83370323",
+  "name": "Torapart",
+  "th": "การ์ดใบนี้ไม่สามารถใช้เป็นมอนสเตอร์ Material ในการ Synchro ได้ ยกเว้นสำหรับการ Synchro Summon มอนสเตอร์ Synchro ประเภท Warrior\nถ้ามอนสเตอร์ Synchro ที่ใช้การ์ดใบนี้เป็นมอนสเตอร์ Material ในการ Synchro โจมตี คู่ต่อสู้จะไม่สามารถเปิดใช้การ์ดกับดักได้จนจบ Damage Step",
+  "status": "ai",
+  "en_sha256": "0fda58d0573c0fc626e930a3c8340f58dcd2c9063f061e08a8d458e68e6d64fb",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

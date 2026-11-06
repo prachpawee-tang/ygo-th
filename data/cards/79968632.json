@@ -1,0 +1,9 @@
+{
+  "id": "79968632",
+  "name": "Secret Skills of the Six Samurai",
+  "th": "ส่งมอนสเตอร์ 1 ตัวที่คุณควบคุมลงสุสาน, จากนั้นเลือกเป้าหมายมอนสเตอร์ \"Six Samurai\" ที่ถูกเอาออกจากเกมของคุณ 1 ตัว; อัญเชิญพิเศษมัน\nคุณสามารถเปิดใช้ \"Secret Skills of the Six Samurai\" ได้ 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "8aa7b585ee368d339f5082c0439311819f5e3ce42ccdbfa8286d613611935265",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

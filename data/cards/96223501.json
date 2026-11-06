@@ -1,0 +1,9 @@
+{
+  "id": "96223501",
+  "name": "Satellarknight Zefrathuban",
+  "th": "[ เอฟเฟกต์ Pendulum ]\nคุณจะไม่สามารถอัญเชิญแบบ Pendulum มอนสเตอร์ได้ ยกเว้นมอนสเตอร์ \"tellarknight\" และ \"Zefra\"\nเอฟเฟกต์นี้ไม่สามารถลบล้างได้\n[ เอฟเฟกต์มอนสเตอร์ ]\nถ้าการ์ดใบนี้ถูกอัญเชิญปกติ อัญเชิญแบบพลิก หรืออัญเชิญแบบ Pendulum: คุณสามารถเลือกเป้าหมายการ์ด \"tellarknight\" หรือ \"Zefra\" อื่นๆ ใน Main Monster Zone หรือ Pendulum Zone ของคุณ และการ์ดหงายที่คู่ต่อสู้ควบคุม 1 ใบ; ทำลายพวกมัน\nคุณสามารถใช้เอฟเฟกต์ของ \"Satellarknight Zefrathuban\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "23c7dbd9d228bc2c0e6df7141e56f48455d754cb3fd8008d62753ba820aeefee",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

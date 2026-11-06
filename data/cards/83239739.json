@@ -1,0 +1,9 @@
+{
+  "id": "83239739",
+  "name": "Oyster Meister",
+  "th": "ถ้าการ์ดใบนี้ถูกส่งออกจากสนามไปยังสุสาน, ยกเว้นเมื่อถูกทำลายด้วยการต่อสู้: อัญเชิญพิเศษ \"Oyster Token\" 1 ตัว (มอนสเตอร์ประเภท Fish/WATER/Level 1/ATK 0/DEF 0).",
+  "status": "ai",
+  "en_sha256": "72f23377a4fe033d1175cf7bccf34dc5b7f4f9f4c77ea7d5646caf7e10c245c2",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

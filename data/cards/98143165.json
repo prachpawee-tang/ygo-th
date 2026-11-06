@@ -1,0 +1,9 @@
+{
+  "id": "98143165",
+  "name": "Synchro Boost",
+  "th": "มอนสเตอร์ที่ถูกติดตั้งได้รับ ATK 500 และ Level ของมันเพิ่มขึ้น 1.",
+  "status": "ai",
+  "en_sha256": "50bc9fcc51309b85de31c10db7bf8c5a1b6ea4d827250f3ce7982c6ae34871cf",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

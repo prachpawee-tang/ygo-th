@@ -1,0 +1,9 @@
+{
+  "id": "53519297",
+  "name": "Blackboost",
+  "th": "เอามอนสเตอร์ \"Blackwing\" Tuner ที่หงายอยู่ 2 ตัวที่คุณควบคุมออกจากเกม; จั่วการ์ด 2 ใบ.",
+  "status": "ai",
+  "en_sha256": "1d4b5d12de1e485c96b0baacfa3c898b7e8e70c8992e109bc0eb15bf97914288",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

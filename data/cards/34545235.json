@@ -1,0 +1,9 @@
+{
+  "id": "34545235",
+  "name": "Iron Core Luster",
+  "th": "เผย \"Iron Core of Koa'ki Meiru\" 1 ใบในมือของคุณ\nลบล้างการเปิดใช้งานการ์ด Spell หรือ Trap ของคู่ต่อสู้ และทำลายมัน",
+  "status": "ai",
+  "en_sha256": "090bc064abc5ddd15a2623ff95807b69cd50ed7e92e07c31c6af6dfcb6234ae6",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

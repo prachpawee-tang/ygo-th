@@ -1,0 +1,9 @@
+{
+  "id": "79205581",
+  "name": "Scrubbed Raid",
+  "th": "ระหว่าง Battle Phase คุณสามารถส่งการ์ด 1 ใบที่คุณควบคุมลงสุสาน ยกเว้นการ์ดใบนี้ เพื่อจบ Battle Phase.",
+  "status": "ai",
+  "en_sha256": "4b9bf8ea5a6678f0f0991345fd4fc5bc71f149cb6c0a10957d83bf7ae9448011",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

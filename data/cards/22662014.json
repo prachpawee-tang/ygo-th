@@ -1,0 +1,10 @@
+{
+  "id": "22662014",
+  "name": "Amazement Assistant Delia",
+  "th": "คุณสามารถเปิดเผยการ์ด “Attraction” ประเภทกับดัก 1 ใบในมือของคุณ; อัญเชิญพิเศษการ์ดใบนี้จากมือของคุณ\nคุณสามารถส่งการ์ด “Attraction” ประเภทกับดัก 1 ใบจากมือหรือสนามที่คว่ำอยู่ของคุณลงสุสาน; เซ็ตการ์ด “Attraction” ประเภทกับดัก 1 ใบโดยตรงจากเด็คของคุณไปยังโซน Spell & Trap ของคุณ\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Amazement Assistant Delia\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "dcc0bc7264c43a31498ab866789d8a7773a1f56e4a175082172709a39dc1986a",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: \"face-up\" ×1 in English but \"หงาย\" ×0 in Thai — meaning may be wrong"
+}

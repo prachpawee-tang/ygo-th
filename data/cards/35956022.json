@@ -1,0 +1,9 @@
+{
+  "id": "35956022",
+  "name": "Acidic Downpour",
+  "th": "มอนสเตอร์ EARTH ทั้งหมดเสีย ATK 500 และได้ DEF เพิ่มขึ้น 400.",
+  "status": "ai",
+  "en_sha256": "a37fd33981d314b40fd2b4a2e689d12b0dc1f1793fcbcbf2af09376a3001160c",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

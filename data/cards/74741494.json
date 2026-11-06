@@ -1,0 +1,9 @@
+{
+  "id": "74741494",
+  "name": "Level Tuning",
+  "th": "ลด Level ของมอนสเตอร์หงายทั้งหมดที่คุณควบคุมลง 1, จนถึง End Phase.",
+  "status": "ai",
+  "en_sha256": "db4b88fa865d6b907c23fe34fadb00a495c0a7b456028e411610e2b0572ef8ee",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "86164529",
+  "name": "Aqua Dragon",
+  "th": "\"Fairy Dragon\" + \"Amazon of the Seas\" + \"Zone Eater\"",
+  "status": "ai",
+  "en_sha256": "4c6b4804f2e7ea4c662983021486f426e5af5355f8242f837318a694fc33ed5f",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

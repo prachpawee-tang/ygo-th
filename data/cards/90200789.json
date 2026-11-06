@@ -1,0 +1,10 @@
+{
+  "id": "90200789",
+  "name": "Ninjitsu Art of Super-Transformation",
+  "th": "เปิดใช้การ์ดนี้โดยเลือกเป้าหมาย \"Ninja\" มอนสเตอร์ 1 ตัวที่ที่คุณควบคุม และมอนสเตอร์หงาย 1 ตัวที่คู่ต่อสู้ควบคุม; ส่งพวกมันลงสุสาน จากนั้น อัญเชิญพิเศษมอนสเตอร์ Dragon, Dinosaur หรือ Sea Serpent 1 ตัวจากเด็คของคุณ ที่มี Level น้อยกว่าหรือเท่ากับ Level เดิมรวมของมอนสเตอร์ที่ถูกส่ง\nเมื่อการ์ดใบนี้ออกจากสนาม ลบล้างมอนสเตอร์ใบนั้น",
+  "status": "ai",
+  "en_sha256": "7116c6a47260ba70e308abe20eb8d412492e0fea2f0ba142b9d5fa0890045aa8",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: \"banish\" ×1 in English but \"ออกจากเกม\" ×0 in Thai — meaning may be wrong"
+}

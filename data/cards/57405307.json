@@ -1,0 +1,9 @@
+{
+  "id": "57405307",
+  "name": "Winged Dragon, Guardian of the Fortress #2",
+  "th": "ปีกของมอนสเตอร์ตัวนี้สามารถสร้างพายุทอร์นาโดได้.",
+  "status": "ai",
+  "en_sha256": "411770614b4c97a70c7151dea2408cab223591e6d5a724605519d34cd82eb491",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

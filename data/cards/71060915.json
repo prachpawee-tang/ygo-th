@@ -1,0 +1,9 @@
+{
+  "id": "71060915",
+  "name": "Feather Wind",
+  "th": "เมื่อมีการเปิดใช้การ์ด Spell/Trap ขณะที่คุณควบคุม \"Elemental HERO Avian\" ที่หงายอยู่: ลบล้างการเปิดใช้งานและทำลายมัน.",
+  "status": "ai",
+  "en_sha256": "c7eb424fec8daf5091d5c82ab71956880fde4b29c7c9e8a561169f1c7b70dded",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

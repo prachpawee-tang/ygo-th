@@ -1,0 +1,10 @@
+{
+  "id": "99941223",
+  "name": "Darklord Dance",
+  "th": "อัญเชิญแบบ Fusion มอนสเตอร์ Fairy Fusion ที่เป็น DARK 1 ตัวจากเอ็กซ์ตร้าเด็คของคุณ โดยการเอามอนสเตอร์ออกจากมือ สนาม และ/หรือ สุสานของคุณเป็น Material\nมอนสเตอร์ที่อัญเชิญพิเศษด้วยเอฟเฟกต์นี้ ได้รับ ATK 1000\nถ้าอัญเชิญมอนสเตอร์ Fusion \"Darklord\" แบบนี้ คุณสามารถใช่มอนสเตอร์ \"Darklord\" ที่คู่ต่อสู้ควบคุมเป็น Material ได้ด้วย\nคุณสามารถเปิดใช้ \"Darklord Dance\" ได้เพียง 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "15573049a6f8b70ffad17630a00386e466c809f0389fc6ee4887debe321e1927",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: \"banish\" ×1 in English but \"ออกจากเกม\" ×0 in Thai — meaning may be wrong"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "78310590",
+  "name": "Abyss Actor - Mellow Madonna",
+  "th": "[ Pendulum Effect ]\nคุณสามารถจ่าย LP 1000; เพิ่มการ์ด Pendulum Monster \"Abyss Actor\" 1 ใบจากเด็คของคุณขึ้นมือ, ยกเว้น \"Abyss Actor - Mellow Madonna\", นอกจากนี้คุณไม่สามารถ อัญเชิญพิเศษ มอนสเตอร์ได้สำหรับการเทิร์นที่เหลือ, ยกเว้น มอนสเตอร์ Pendulum \"Abyss Actor\" (แม้ว่าการ์ดใบนี้จะออกจากสนาม)\nคุณสามารถใช้เอฟเฟกต์นี้ของ \"Abyss Actor - Mellow Madonna\" ได้ 1 ครั้งต่อเทิร์น\n[ Monster Effect ]\nได้รับ ATK 100 สำหรับแต่ละการ์ด Spell \"Abyss Script\" ในสุสานของคุณ\nคุณสามารถใช้เอฟเฟกต์ต่อไปนี้ของ \"Abyss Actor - Mellow Madonna\" ได้ 1 ครั้งต่อเทิร์น\n● เมื่อมอนสเตอร์ Pendulum ที่คุณควบคุมถูกทำลายโดยการต่อสู้: คุณสามารถ อัญเชิญพิเศษ การ์ดใบนี้จากมือของคุณ\n● ถ้าการ์ด Spell หรือเอฟเฟกต์ \"Abyss Script\" ถูกเปิดใช้: คุณสามารถ อัญเชิญพิเศษ มอนสเตอร์ Pendulum \"Abyss Actor\" ระดับ 4 หรือต่ำกว่า 1 ตัวจากเด็คของคุณ, แต่ส่งกลับไปยังมือในช่วง End Phase",
+  "status": "ai",
+  "en_sha256": "085107dc65ef38dded6d876d62326c8af12c92366fc68e2c40a1f8c895fc78db",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

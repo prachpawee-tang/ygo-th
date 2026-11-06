@@ -1,0 +1,9 @@
+{
+  "id": "28355718",
+  "name": "Destiny HERO - Double Dude",
+  "th": "ไม่สามารถอัญเชิญพิเศษได้\nการ์ดใบนี้สามารถโจมตีได้ 2 ครั้งในช่วง Battle Phase แต่ละครั้ง\nในช่วง Standby Phase ของคุณ, ถ้าการ์ดใบนี้ถูกทำลายตั้งแต่ Standby Phase ก่อนหน้าของคุณ: คุณสามารถอัญเชิญพิเศษโทเค็น \"Double Dude Tokens\" 2 ตัว (Warrior-Type/DARK/Level 4/ATK 1000/DEF 1000)\nการ์ดใบนี้ต้องอยู่ในสุสานของคุณเพื่อเปิดใช้และเพื่อให้เอฟเฟกต์นี้ทำงาน",
+  "status": "ai",
+  "en_sha256": "dc3cf20ee87e2038d6f59b2a621aa7856c4c56c9e70514ba0a077a0a2f606fc8",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

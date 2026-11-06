@@ -1,9 +1,9 @@
 {
   "id": "71143015",
   "name": "Ultimate Fusion",
-  "th": "ระหว่าง Main Phase: อัญเชิญแบบ Fusion มอนสเตอร์ Fusion 1 ตัวจาก เอ็กซ์ตร้าเด็ค ที่ระบุชื่อ \"Blue-Eyes White Dragon\" หรือ \"Blue-Eyes Ultimate Dragon\" เป็น Material โดยการสับ Material Fusion ที่ระบุไว้บนการ์ดจาก มือ สนาม และ/หรือ สุสาน (GY) ลงใน เด็ค จากนั้น คุณสามารถทำลายการ์ดที่หงายอยู่ซึ่งคู่ต่อสู้ควบคุม ได้จำนวนเท่ากับจำนวน \"Blue-Eyes White Dragon\" และ \"Blue-Eyes Ultimate Dragon\" ที่ใช้จาก สนาม เป็น Material คุณสามารถเปิดใช้ \"Ultimate Fusion\" ได้ 1 ครั้งต่อเทิร์น",
+  "th": "ระหว่าง Main Phase: อัญเชิญแบบ Fusion มอนสเตอร์ Fusion 1 ตัวจากเอ็กซ์ตร้าเด็คของคุณที่กล่าวถึง \"Blue-Eyes White Dragon\" หรือ \"Blue-Eyes Ultimate Dragon\" เป็น Material โดยการสับ Material การ Fusion ที่ระบุไว้บนการ์ดจากมือ สนาม และ/หรือ สุสานของคุณเข้าเด็ค จากนั้น คุณสามารถทำลายการ์ดที่หงายอยู่ซึ่งคู่ต่อสู้ควบคุมได้ สูงสุดตามจำนวน \"Blue-Eyes White Dragon\" และ \"Blue-Eyes Ultimate Dragon\" ที่ใช้จากสนามเป็น Material\nคุณสามารถเปิดใช้ \"Ultimate Fusion\" ได้เพียง 1 ใบต่อเทิร์น",
   "status": "ai",
   "en_sha256": "8b07fe8db4412c1dd3d62f862e3dff5b10dd9dca5c128ba119e8cbedf7f450ac",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-06"
 }

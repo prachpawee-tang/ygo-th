@@ -1,0 +1,10 @@
+{
+  "id": "28573958",
+  "name": "The Agent of Miracles - Jupiter",
+  "th": "1 ครั้งต่อเทิร์น คุณสามารถนำการ์ด \"The Agent\" มอนสเตอร์ 1 ใบจากสุสานของคุณออกจากสนามเพื่อเลือกมอนสเตอร์ LIGHT Fairy-Type ที่หงายอยู่ที่คุณควบคุม\nมอนสเตอร์ที่เลือกได้รับ ATK 800 จนถึง End Phase\nตราบใดที่ \"The Sanctuary in the Sky\" อยู่ในสนาม หงายอยู่ คุณสามารถทิ้งการ์ด Fairy-Type 1 ใบเพื่อเลือกการ์ด \"The Agent\" LIGHT Fairy-Type ที่ถูกนำออกจากสนามของคุณ และ อัญเชิญพิเศษมัน",
+  "status": "ai",
+  "en_sha256": "83e20fefdf26b5a935c686582a58eba33b450121de62faca8fe8ef87a365ef82",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

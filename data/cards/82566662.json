@@ -1,0 +1,9 @@
+{
+  "id": "82566662",
+  "name": "Taotie Dragon",
+  "th": "2+ มอนสเตอร์ อัญเชิญพิเศษจาก เอ็กซ์ตร้าเด็ค\nการ์ดใบนี้ได้รับเอฟเฟกต์ตามชนิดของการ์ด (Fusion/Synchro/Xyz) ของ Material ที่ใช้สำหรับการ Link Summon ของมัน\n● Fusion: คู่ต่อสู้ไม่สามารถเปิดใช้งานเอฟเฟกต์มอนสเตอร์ในช่วง Battle Phase ได้\n● Synchro: คู่ต่อสู้ไม่สามารถเปิดใช้ Spell/Trap Cards และเอฟเฟกต์ในช่วง Main Phase ของคุณได้\n● Xyz: คู่ต่อสู้ไม่สามารถเปิดใช้งานเอฟเฟกต์ของการ์ดใน สุสาน (GY) ในช่วง Main Phase หรือ Battle Phase ของคุณได้",
+  "status": "ai",
+  "en_sha256": "4d1f8134ccafd0a7968b002eaca4c83e6501d02efffe3e5399726f2aa5d8bd6f",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

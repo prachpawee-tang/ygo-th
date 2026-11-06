@@ -1,0 +1,9 @@
+{
+  "id": "21949879",
+  "name": "Performapal Gentrude",
+  "th": "[ Pendulum Effect ]\nถ้า \"Performapal Ladyange\" อยู่ใน Pendulum Zone อื่นของคุณ และคุณไม่ได้ควบคุมมอนสเตอร์ หรือควบคุมแต่ Pendulum Monsters เท่านั้น: คุณสามารถเพิ่มการ์ด \"Odd-Eyes\" 1 ใบจากเด็คของคุณขึ้นมือ\nคุณสามารถใช้เอฟเฟกต์นี้ของ \"Performapal Gentrude\" ได้ 1 ครั้งต่อเทิร์น\n[ Monster Effect ]\nถ้าการ์ดใบนี้ถูกทำลาย: คุณสามารถวาง Pendulum Monster \"Performapal\" 1 ตัวจากเด็คของคุณใน Pendulum Zone ของคุณ ยกเว้น \"Performapal Gentrude\"\nถ้าการ์ดใบนี้หงายอยู่ในการ์ดเอ็กซ์ตร้าเด็คของคุณ: คุณสามารถทิ้ง Pendulum Monster 1 ตัว; เพิ่มการ์ดใบนี้ขึ้นมือ จากนั้นคุณสามารถส่งการ์ด \"Performapal\" หรือ \"Odd-Eyes\" 1 ใบจาก Pendulum Zone ของคุณกลับขึ้นมือ\nคุณสามารถใช้เอฟเฟกต์ \"Performapal Gentrude\" ได้ 1 เอฟเฟกต์ต่อเทิร์น และเพียงครั้งเดียวในเทิร์นนั้น",
+  "status": "ai",
+  "en_sha256": "39093cb48ca2962dc0e94ab15fa446bad23b5a5ee6d9229e03d00499bde572b2",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

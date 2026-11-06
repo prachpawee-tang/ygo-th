@@ -1,0 +1,9 @@
+{
+  "id": "52031567",
+  "name": "Elemental HERO Mudballman",
+  "th": "\"Elemental HERO Bubbleman\" + \"Elemental HERO Clayman\"\nต้องทำการ Fusion Summon และไม่สามารถทำการ อัญเชิญพิเศษด้วยวิธีอื่นได้",
+  "status": "ai",
+  "en_sha256": "8b430421a7ef68914fdafeebe8a0365ed4e0ea4219d13ad97566f3c02fd1097f",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

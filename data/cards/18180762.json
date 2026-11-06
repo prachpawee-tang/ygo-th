@@ -1,0 +1,9 @@
+{
+  "id": "18180762",
+  "name": "The Thing That Hides in the Mud",
+  "th": "\"มอนสเตอร์ตัวนี้ละลายตัวลงไปใต้ดินเพื่อโจมตีศัตรูจากด้านล่าง.\"",
+  "status": "ai",
+  "en_sha256": "ecd21ab4d88fe427b78fcf30c70970c892cf241ebed46d661c4b5c45e1cb8405",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

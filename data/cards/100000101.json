@@ -1,0 +1,9 @@
+{
+  "id": "100000101",
+  "name": "Ojamandala",
+  "th": "จ่าย LP 1000\nอัญเชิญพิเศษ \"Ojama Green\", \"Ojama Yellow\" และ \"Ojama Black\" 1 ตัว จากสุสานของคุณ",
+  "status": "ai",
+  "en_sha256": "68d00f1dfa91b16d29dc9b0515492c3bedd48e6e6bbe56384364ea0555be8521",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "82340056",
+  "name": "Offering to the Immortals",
+  "th": "เมื่อมอนสเตอร์ของคู่ต่อสู้ประกาศโจมตีโดยตรงในขณะที่คุณมี LP 3000 หรือน้อยกว่า: ลบล้างการโจมตี และถ้าทำได้ อัญเชิญพิเศษ \"Ceremonial Tokens\" 2 ตัว (Rock-Type/EARTH/Level 1/ATK 0/DEF 0) และถ้าทำเช่นนั้น เพิ่มการ์ด \"Earthbound Immortal\" การ์ด \"Earthbound Revival\" หรือการ์ด \"Roar of the Earthbound\" 1 ใบจากเด็คของคุณขึ้นมือ\n\"Ceremonial Tokens\" ไม่สามารถถูกสังเวยได้ ยกเว้นสำหรับการอัญเชิญแบบสังเวยมอนสเตอร์ \"Earthbound Immortal\" และไม่สามารถใช้เป็น Material Synchro ได้",
+  "status": "ai",
+  "en_sha256": "1a104c376b3ad7339bb5fa0a0ab19ee5c17e3ef2dfdc72195b8629f17eea3b50",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

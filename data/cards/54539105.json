@@ -1,0 +1,9 @@
+{
+  "id": "54539105",
+  "name": "War-Lion Ritual",
+  "th": "การ์ดใบนี้ใช้สำหรับ อัญเชิญแบบสังเวย \"Super War-Lion\"\nคุณต้อง สังเวย มอนสเตอร์จาก มือ หรือ สนาม ที่มี Level รวมกันเท่ากับ 7 หรือมากกว่า",
+  "status": "ai",
+  "en_sha256": "b2ec4aa05ec5dbc9db9ef26bb56678b5c31520f5382e24cec8cfbbe6ff978906",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,10 +1,9 @@
 {
   "id": "26096328",
   "name": "Superdreadnought Rail Cannon Juggernaut Liebe",
-  "th": "มอนสเตอร์ Level 11 จำนวน 3 ตัว\n1 ครั้งต่อเทิร์น: คุณสามารถทำการอัญเชิญ Link แบบ Xyz โดยใช้ มอนสเตอร์ Xyz Machine Rank 10 ที่คุณควบคุมเป็น Material ได้ 1 ตัว (ส่ง Material ของมันลงมาที่การ์ดนี้) 1 ครั้งต่อเทิร์น: คุณสามารถถอด Material 1 ตัวจากการ์ดนี้; การ์ดนี้จะได้รับ ATK/DEF 2000 และตลอดเทิร์นนี้ คุณสามารถประกาศโจมตีด้วยการ์ดนี้ได้ครั้งเดียวเท่านั้น ระหว่าง Battle Phase แต่ละครั้ง การ์ดนี้สามารถโจมตีมอนสเตอร์ได้สูงสุดตามจำนวน Material ที่มันมี +1",
+  "th": "มอนสเตอร์ Level 11 จำนวน 3 ตัว\n1 ครั้งต่อเทิร์น คุณสามารถอัญเชิญ Xyz \"Superdreadnought Rail Cannon Juggernaut Liebe\" ได้โดยใช้ มอนสเตอร์ Xyz Machine Rank 10 ที่คุณควบคุมเป็น Material\n(ถ่ายโอน Material ไปยังการ์ดใบนี้) 1 ครั้งต่อเทิร์น: คุณสามารถถอด Material 1 ตัวจากใบนี้; มันได้รับ ATK/DEF 2000 และสำหรับการเหลือของเทิร์นนี้ คุณสามารถประกาศโจมตีด้วยการ์ดใบนี้ได้เท่านั้น\nในระหว่าง Battle Phase แต่ละครั้ง การ์ดใบนี้สามารถโจมตีมอนสเตอร์ได้สูงสุดตามจำนวน Material ที่มันมี +1",
   "status": "ai",
   "en_sha256": "32b4ad58ae4437ce640a5a1f93ad1394d6b5dbb977806c5999b53001533e4db6",
   "model": "gemma3:12b",
-  "updated": "2026-11-04",
-  "note": "rule-check: card names in quotes changed/missing: \"Superdreadnought Rail Cannon Juggernaut Liebe\""
+  "updated": "2026-11-06"
 }

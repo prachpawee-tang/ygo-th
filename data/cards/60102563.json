@@ -1,0 +1,9 @@
+{
+  "id": "60102563",
+  "name": "Maji-Gire Panda",
+  "th": "ทุกครั้งที่มอนสเตอร์ประเภท Beast-Type บนสนามถูกทำลาย การ์ดใบนี้จะได้รับ ATK 500.",
+  "status": "ai",
+  "en_sha256": "f03ee72d2360de0a2fe429c01a0d51e7573f4f36b8c8f0de4ba7d7ffcb1844b8",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

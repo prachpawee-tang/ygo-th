@@ -1,9 +1,9 @@
 {
   "id": "33396948",
   "name": "Exodia the Forbidden One",
-  "th": "ถ้าคุณมี \"Right Leg of the Forbidden One\", \"Left Leg of the Forbidden One\", \"Right Arm of the Forbidden One\" และ \"Left Arm of the Forbidden One\" นอกเหนือจากการ์ดใบนี้ในมือ คุณชนะการต่อสู้",
+  "th": "ถ้าคุณมี \"Right Leg of the Forbidden One\", \"Left Leg of the Forbidden One\", \"Right Arm of the Forbidden One\" และ \"Left Arm of the Forbidden One\" นอกเหนือจากการ์ดใบนี้ในมือ คุณชนะการต่อสู้.",
   "status": "ai",
   "en_sha256": "94d5b6b6d414ed0aed55eaf122a79a2a1e939cec9709f6457cb3cb41a6d31007",
   "model": "gemma3:12b",
-  "updated": "2026-11-04"
+  "updated": "2026-11-06"
 }

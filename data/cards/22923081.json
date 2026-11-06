@@ -1,0 +1,9 @@
+{
+  "id": "22923081",
+  "name": "Breaker the Dark Magical Warrior",
+  "th": "ถ้าการ์ดใบนี้ถูกอัญเชิญปกติ: วาง Spell Counter 2 ชิ้นบนการ์ดใบนี้\nถ้าการ์ดใบนี้ถูกอัญเชิญแบบ Pendulum: วาง Spell Counter 3 ชิ้นบนการ์ดใบนี้\nได้รับ ATK 400 สำหรับแต่ละ Spell Counter ที่อยู่บนการ์ดใบนี้\nคุณสามารถนำ Spell Counter 1 ชิ้นออกจากนี้การ์ดใบนี้, จากนั้นเลือกเป้าหมาย Spell/Trap 1 ใบในสนาม; ทำลายมัน\nคุณสามารถใช้เอฟเฟกต์ของ \"Breaker the Dark Magical Warrior\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "3612937e114a611ecd37c7ba0162e19d3d28ce9a2c5e5dabcbe01fb080d02bf0",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

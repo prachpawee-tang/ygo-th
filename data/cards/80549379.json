@@ -1,0 +1,10 @@
+{
+  "id": "80549379",
+  "name": "Dragunity Javelin",
+  "th": "ถ้าการ์ดคว่ำนี้ถูกทำลายขณะอยู่ใน Main Monster Zone คุณสามารถติดตั้งมันให้กับมอนสเตอร์ \"Dragunity\" ประเภท Winged Beast ที่หงายอยู่ที่คุณควบคุมได้ แทนที่จะส่งมันลงสุสาน.",
+  "status": "ai",
+  "en_sha256": "4296070ea76b05f9f756cd4ae5fcf846c88ad8d79190df84f677ee043134bed1",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: numbers missing in Thai: 1; \"face-up\" ×2 in English but \"หงาย\" ×1 in Thai — meaning may be wrong"
+}

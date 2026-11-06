@@ -1,0 +1,9 @@
+{
+  "id": "96428622",
+  "name": "Cybernetic Cyclopean",
+  "th": "ตราบใดที่คุณไม่มีการ์ดในมือ, การ์ดใบนี้จะได้รับ ATK 1000.",
+  "status": "ai",
+  "en_sha256": "12901c89f69cb9f1e0c409d4c46a7052dc9a315089623e51f09bd83dc537651c",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

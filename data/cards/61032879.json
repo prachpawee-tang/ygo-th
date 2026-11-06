@@ -1,0 +1,9 @@
+{
+  "id": "61032879",
+  "name": "Synchronized Realm",
+  "th": "ทุกครั้งที่คุณทำการ Synchro Summon มอนสเตอร์ Synchro, สร้างความเสียหาย 500 ให้กับคู่ต่อสู้.",
+  "status": "ai",
+  "en_sha256": "d4b7c0c21d1bfb08862234b8368bb18274347b01ba2ff351d47e156375dc9f53",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

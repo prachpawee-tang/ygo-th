@@ -1,0 +1,9 @@
+{
+  "id": "34690519",
+  "name": "Spirit of the Mountain",
+  "th": "\"นักเวทมนตร์ชราที่สร้างภูเขาด้วยขลุ่ยของเขา.\"",
+  "status": "ai",
+  "en_sha256": "7624c90d7da4b95c45854965f05373333900e5dba743d4bd1d2a853fcd7723ec",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

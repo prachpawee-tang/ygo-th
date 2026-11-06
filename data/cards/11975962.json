@@ -1,0 +1,9 @@
+{
+  "id": "11975962",
+  "name": "Hieratic Seal of Banishment",
+  "th": "สังเวยมอนสเตอร์ \"Hieratic\" 1 ตัวเพื่อเลือกเป้าหมายการ์ด 1 ใบที่คู่ต่อสู้ควบคุม; เอามันออกจากเกม.",
+  "status": "ai",
+  "en_sha256": "2e5789041cead5ac171ada5393bd6bab961abb6458801a1c01f3c2c3caf4db26",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

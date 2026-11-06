@@ -1,0 +1,9 @@
+{
+  "id": "4542651",
+  "name": "Yellow Luster Shield",
+  "th": "เพิ่ม DEF ของมอนสเตอร์ทั้งหมดบนสนามของคุณฝ่ายละ 300 แต้ม.",
+  "status": "ai",
+  "en_sha256": "0e1c675131278598df4d138287ba9cb463bbf7bc0d2b1a827d6e63733720d814",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

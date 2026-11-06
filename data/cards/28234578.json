@@ -1,0 +1,9 @@
+{
+  "id": "28234578",
+  "name": "Spiritual Entanglement",
+  "th": "เลือกมอนสเตอร์หงาย 1 ตัวที่คู่ต่อสู้ควบคุม; เอามันออกจากเกม จนกว่าจะถึง End Phase\nคุณสามารถเปิดใช้ \"Spiritual Entanglement\" ได้เพียง 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "402f4d295624688f07f1e7c71247a93a8b31d2ee68e6bc6b14a54c033f4c7b9c",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

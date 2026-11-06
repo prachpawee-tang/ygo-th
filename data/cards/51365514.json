@@ -1,0 +1,9 @@
+{
+  "id": "51365514",
+  "name": "Hieratic Seal of Supremacy",
+  "th": "อัญเชิญพิเศษมอนสเตอร์ \"Hieratic\" 1 ตัวจากมือของคุณ.",
+  "status": "ai",
+  "en_sha256": "6294ebfb22227770257ad1e79439256d68cc1aa74d55b2f7e1e3e8b782f89ea0",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "11522479",
+  "name": "Battlin' Boxer Uppercutter",
+  "th": "ถ้าการ์ดใบนี้ถูกอัญเชิญปกติหรืออัญเชิญพิเศษ: คุณสามารถเพิ่มมอนสเตอร์ \"Battlin' Boxer\" หรือการ์ดกับดัก \"Counter\" 1 ใบจากเด็คของคุณขึ้นมือ, ยกเว้น \"Battlin' Boxer Uppercutter\"\nถ้าการ์ดใบนี้ถูกส่งลงสุสานโดยเอฟเฟกต์ของการ์ด: คุณสามารถเปิดใช้งานเอฟเฟกต์ 1 อย่างใดอย่างหนึ่งต่อไปนี้;\n● อัญเชิญพิเศษมอนสเตอร์ \"Battlin' Boxer\" 1 ตัวจากสุสานของคุณ, ยกเว้น \"Battlin' Boxer Uppercutter\"\n● เซ็ตการ์ดกับดัก \"Counter\" 1 ใบจากสุสานของคุณลงสนาม\nคุณสามารถใช้เอฟเฟกต์ \"Battlin' Boxer Uppercutter\" ได้ 1 เอฟเฟกต์ต่อเทิร์น, และเพียงครั้งเดียวในเทิร์นนั้น",
+  "status": "ai",
+  "en_sha256": "85dcd0aac3e07eaf1006b8986d0b74db4ec2caef5a208294c39970faeefe5662",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

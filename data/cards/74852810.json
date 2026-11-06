@@ -1,0 +1,9 @@
+{
+  "id": "74852810",
+  "name": "Overlay Capture",
+  "th": "เลือกมอนสเตอร์ Link หงาย 1 ตัวที่คู่ต่อสู้ควบคุมที่มี Material Xyz และมอนสเตอร์ Link หงาย 1 ตัวที่คุณควบคุม; ถอด Material Xyz ทั้งหมดจากมอนสเตอร์ของคู่ต่อสู้ และถ้าทำได้ ให้ติดการ์ดใบนี้กับมอนสเตอร์ของคุณเป็น Material Xyz.",
+  "status": "ai",
+  "en_sha256": "e2ec71f6b56f297606a6eb5da0c796da08e07f4e66a1e6ee69ddebe3bce54a6a",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

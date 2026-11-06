@@ -1,0 +1,9 @@
+{
+  "id": "59644958",
+  "name": "Overlay Owl",
+  "th": "1 ครั้งต่อเทิร์น: คุณสามารถจ่าย LP 600; ถอด Material Xyz 1 ชิ้นจากมอนสเตอร์ในสนาม.",
+  "status": "ai",
+  "en_sha256": "51ffc8483dbfef1c008f49275f5dd045e02b0723c68f96ae9d28e02851fc75bc",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "70875955",
+  "name": "Aerial Recharge",
+  "th": "1 ครั้งต่อเทิร์น: คุณสามารถอัญเชิญพิเศษ \"Mecha Phantom Beast Token\" 1 ตัว (Machine-Type/WIND/Level 3/ATK 0/DEF 0)\nในช่วง End Phase ของผู้เล่นแต่ละคน, สังเวย Token 1 ตัว หรือ มอนสเตอร์ \"Mecha Phantom Beast\" หรือ ส่งการ์ดใบนี้ลงสุสาน",
+  "status": "ai",
+  "en_sha256": "28bda630c13178b75aeab1ab2af6bfe1f729062b149c488e27af4afd06592507",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

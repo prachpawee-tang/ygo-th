@@ -1,0 +1,9 @@
+{
+  "id": "35787450",
+  "name": "Eternal Dread",
+  "th": "วางตัวนับนาฬิกา 2 ตัวบน \"Clock Tower Prison\" แต่ละใบ.",
+  "status": "ai",
+  "en_sha256": "5f9f0ba125bb1269316b3f93c4c9c57798abae2dbcd4447fc34d99d4b5083e3a",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

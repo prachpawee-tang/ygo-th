@@ -1,0 +1,9 @@
+{
+  "id": "42081767",
+  "name": "Sloppy Stasher Squirrel",
+  "th": "ระหว่าง Main Phase (Quick Effect): คุณสามารถเลือกเป้าหมาย Spells/Traps ได้สูงสุด 3 ใบในสุสานของคุณ; เอาการ์ดเหล่านั้นออกจากเกม และถ้าทำได้ ให้สับการ์ดเหล่านั้นกลับเข้าเด็คในช่วง End Phase ของเทิร์นถัดไป\nระหว่าง Standby Phase ของคุณ: คุณสามารถเลือก Spells/Traps ที่ถูกเอาออกจากเกม 1 ใบของคุณ; เซ็ตการ์ดใบนั้น\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Sloppy Stasher Squirrel\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "c31148f27fa7a89a37c85bc2108cfaf87e88ad8c0575fc56f37fc4e84bb2d71d",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

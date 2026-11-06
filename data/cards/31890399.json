@@ -1,0 +1,9 @@
+{
+  "id": "31890399",
+  "name": "Fiend's Mirror",
+  "th": "คุณสามารถ อัญเชิญแบบพิธีกรรม การ์ดใบนี้ด้วย \"Beastly Mirror Ritual\".",
+  "status": "ai",
+  "en_sha256": "313a597526897e2a3c00904f0fd94c0ec1412d46dd64c29d94d6c2dae38264a6",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

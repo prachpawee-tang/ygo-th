@@ -1,0 +1,9 @@
+{
+  "id": "88438982",
+  "name": "Worm Dimikles",
+  "th": "พลิก: การ์ดใบนี้ได้รับ ATK และ DEF 300.",
+  "status": "ai",
+  "en_sha256": "67ee168c56803df91b39126d7f8fe6703f9476e0aa05dd0bd949a48c57c207ce",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

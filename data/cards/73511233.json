@@ -1,0 +1,9 @@
+{
+  "id": "73511233",
+  "name": "Performapal U Go Golem",
+  "th": "[ Pendulum Effect ]\n1 ครั้งต่อเทิร์น, ถ้ามีการอัญเชิญแบบฟิวชั่นมอนสเตอร์ลงในสนามของคุณ (ยกเว้นระหว่าง Damage Step): คุณสามารถเพิ่มการ์ด Pendulum Monster \"Performapal\", \"Odd-Eyes\" หรือ \"Magician\" 1 ใบจากสุสานของคุณ หรือการ์ดที่หงายอยู่ใน Extra Deck ของคุณขึ้นมือ\n[ Monster Effect ]\n1 ครั้งต่อเทิร์น, ระหว่าง Main Phase ของคุณ, ถ้าการ์ดใบนี้ถูกอัญเชิญแบบ Pendulum ในเทิร์นนี้: คุณสามารถอัญเชิญแบบฟิวชั่นมอนสเตอร์ 1 ตัวจาก Extra Deck ของคุณ โดยใช้การ์ดใบนี้ที่คุณควบคุม และมอนสเตอร์ Dragon ที่คุณควบคุมเป็น Material",
+  "status": "ai",
+  "en_sha256": "4c6e75d1b0cf1f21bdb63beef22cb3d531e9dbea4494f8dcf28b2806de4769bd",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

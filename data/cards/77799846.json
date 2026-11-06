@@ -1,0 +1,10 @@
+{
+  "id": "77799846",
+  "name": "Googly-Eyes Drum Dragon",
+  "th": "มอนสเตอร์ Machine-Type Level 8 จำนวน 2 ตัว\n1 ครั้งต่อเทิร์น: คุณสามารถถอด Material Xyz 1 ตัวจากการ์ดใบนี้; มันได้รับ ATK 1000 จนจบเทิร์นถัดไปของคู่ต่อสู้\nถ้าการ์ดใบนี้ถูกทำลายในขณะที่มี Material Xyz: คุณสามารถเอามอนสเตอร์ \"Super Defense Robot\" 1 ตัวออกจากสุสานของคุณ; อัญเชิญพิเศษการ์ดใบนี้จากสุสานของคุณ จากนั้น คุณสามารถติดมอนสเตอร์ \"Super Defense Robot\" 1 ตัวจากสุสานของคุณเป็นการ์ดใบนี้เป็น Material Xyz",
+  "status": "ai",
+  "en_sha256": "4271fb44486b9a4c2c0bcef4549bfcff01d445a756dc4e7e2ae0f9c66e949051",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: \"banish\" ×1 in English but \"ออกจากเกม\" ×0 in Thai — meaning may be wrong"
+}

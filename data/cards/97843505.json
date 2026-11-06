@@ -1,0 +1,9 @@
+{
+  "id": "97843505",
+  "name": "Djinn the Watcher of the Wind",
+  "th": "\"สิ่งมีชีวิตนี้สร้างลมกระโชกแรงและพายุทอร์นาโดเพื่อพัดศัตรูออกไป.\"",
+  "status": "ai",
+  "en_sha256": "cfbd0ef5c54b54e1a6c016248285d7a17f143ebb2a704c0b9e2e8a10b7827487",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

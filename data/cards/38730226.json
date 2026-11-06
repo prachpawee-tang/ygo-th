@@ -1,0 +1,9 @@
+{
+  "id": "38730226",
+  "name": "The Agent of Wisdom - Mercury",
+  "th": "ระหว่าง Standby Phase ของคุณ, ถ้าคุณควบคุมการ์ดใบนี้แบบหงาย และไม่มีการ์ดในมือเมื่อสิ้นสุดเฟส End Phase ล่าสุดของคู่ต่อสู้: จั่วการ์ด 1 ใบ.",
+  "status": "ai",
+  "en_sha256": "f1a9efbaf399097fe20668e37b4c5cc4447b47249232769b431ddca1d7c308b5",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

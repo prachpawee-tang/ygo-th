@@ -1,0 +1,9 @@
+{
+  "id": "75025112",
+  "name": "Free-Range Monsters",
+  "th": "ระหว่าง Main Phase: หลังจากเอฟเฟกต์นี้แก้ไขแล้วทันที, อัญเชิญปกติ/เซ็ต มอนสเตอร์ 1 ตัว.",
+  "status": "ai",
+  "en_sha256": "9218f5ae7be4f436eef08feea9c700d5cc60f89a15a04ae7ae5db11a2d716e4d",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

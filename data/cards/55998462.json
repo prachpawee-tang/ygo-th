@@ -1,0 +1,9 @@
+{
+  "id": "55998462",
+  "name": "Metal Fish",
+  "th": "ปลาโลหะที่มีครีบหางแหลมคม.",
+  "status": "ai",
+  "en_sha256": "273029b35773b19821612bddfb5b6e0b9eefa55fa10fb05ff595c4730ade9fba",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

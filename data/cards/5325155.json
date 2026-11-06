@@ -1,0 +1,9 @@
+{
+  "id": "5325155",
+  "name": "Tsukahagi, the Poisonous Mayakashi",
+  "th": "คุณสามารถควบคุม \"Tsukahagi, the Poisonous Mayakashi\" ได้เพียง 1 ตัว\nถ้ามอนสเตอร์ \"Mayakashi\" ที่คุณครอบครอง ยกเว้น \"Tsukahagi, the Poisonous Mayakashi\" ถูกทำลายโดยการต่อสู้หรือเอฟเฟกต์ของการ์ดของคู่ต่อสู้ ในขณะที่การ์ดใบนี้อยู่ในสุสาน: คุณสามารถอัญเชิญพิเศษการ์ดใบนี้\nคุณไม่สามารถอัญเชิญพิเศษมอนสเตอร์จากเอ็กซ์ตร้าเด็คในเทิร์นที่คุณเปิดใช้เอฟเฟกต์นี้ ยกเว้นมอนสเตอร์ \"Mayakashi\"",
+  "status": "ai",
+  "en_sha256": "ad3a481149bc581c4fabdcc0e85329dbe1b5c267882bffc60c5adfbb50f647ca",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

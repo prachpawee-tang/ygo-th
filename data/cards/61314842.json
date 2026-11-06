@@ -1,0 +1,10 @@
+{
+  "id": "61314842",
+  "name": "Advanced Heraldry Art",
+  "th": "เลือกมอนสเตอร์ \"Heraldic Beast\" 2 ตัวในสุสานของคุณ; อัญเชิญพิเศษทั้ง 2 ตัวนั้น\nทันทีหลังจากที่เอฟเฟกต์นี้จบลง, ทำการอัญเชิญแบบ Xyz โดยใช้วิธีการ์ด 2 ใบเหล่านั้นเท่านั้น",
+  "status": "ai",
+  "en_sha256": "271d287c884e3a976e4fdfdf4b28f004682ae6645874bca779d2f7e1a920e55f",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

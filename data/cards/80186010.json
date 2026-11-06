@@ -1,0 +1,9 @@
+{
+  "id": "80186010",
+  "name": "Destroyersaurus",
+  "th": "คุณสามารถทิ้งการ์ดใบนี้ลงสุสาน; เพิ่ม \"Jurassic World\" 1 ใบจากเด็คของคุณขึ้นมือ.",
+  "status": "ai",
+  "en_sha256": "ef0bad432d37299082cda12de9b8ba26e1adfc0f07a552e4e34d32e52343d509",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

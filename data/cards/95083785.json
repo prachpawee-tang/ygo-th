@@ -1,0 +1,10 @@
+{
+  "id": "95083785",
+  "name": "Premature Return",
+  "th": "เอากล้อง 1 ใบออกจากมือของคุณ จากนั้น เลือกเป้าหมายมอนสเตอร์ที่ถูกเอาออกจากเกมของคุณ 1 ตัว; อัญเชิญพิเศษมันในท่าป้องกันคว่ำ.",
+  "status": "ai",
+  "en_sha256": "4233970b8afc006a566ec8eab7ebcb7684a64dc2dca3cb8325c095a8c6e154cd",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: \"banish\" ×2 in English but \"ออกจากเกม\" ×1 in Thai — meaning may be wrong"
+}

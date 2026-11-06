@@ -1,0 +1,9 @@
+{
+  "id": "52900379",
+  "name": "Blackwing - Brisote the Tailwind",
+  "th": "ถ้า \"Blackwing\" ที่หงายอยู่ซึ่งคุณควบคุมถูกทำลาย 2 ตัวขึ้นไปในเทิร์นนี้ คุณสามารถอัญเชิญพิเศษการ์ดใบนี้ (จากมือของคุณ)\nถ้าการ์ดใบนี้ถูกส่งลงสุสานในฐานะ Material Synchro: ได้รับ LP 600",
+  "status": "ai",
+  "en_sha256": "efd8098af60b369d3bbd0df69f28da50f7708a79e97469cabb9a4ebe0ba0ebb6",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "87890143",
+  "name": "Generation Force",
+  "th": "ถ้าคุณควบคุมมอนสเตอร์ Xyz: เพิ่มการ์ด \"Xyz\" 1 ใบจากเด็คของคุณขึ้นมือ.",
+  "status": "ai",
+  "en_sha256": "e35c5ec1bcbfb53af7eb3c31a32f190507073fb277464bbb20adde852090983d",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "43011492",
+  "name": "Evil Eye Confrontation",
+  "th": "ถ้าคุณควบคุมมอนสเตอร์ \"Evil Eye\": เลือกเป้าหมาย Spell/Trap 1 ใบที่คู่ต่อสู้ควบคุม; ทำลายมัน, และถ้าทำลายแล้ว และ \"Evil Eye of Selene\" อยู่ใน Spell & Trap Zone ของคุณ, เอาการ์ดที่ถูกทำลายนั้นออกจากเกม\nคุณสามารถเปิดใช้ \"Evil Eye Confrontation\" ได้เพียง 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "dc5ef2388f2595d9b5accdb5f98d17bebbd59af7d9ffaff1afc0e4d2412d3dd3",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

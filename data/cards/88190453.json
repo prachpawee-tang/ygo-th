@@ -1,0 +1,9 @@
+{
+  "id": "88190453",
+  "name": "Chain Thrasher",
+  "th": "การ์ดใบนี้สามารถโจมตีได้อีก 1 ครั้งในช่วง Battle Phase เดียวกัน สำหรับ \"Chain Thrasher\" แต่ละตัวในสุสานของคุณ.",
+  "status": "ai",
+  "en_sha256": "056f7e08ff09873ab18450d7c4f9efac5a3be065b86149eb774077b32930bd54",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

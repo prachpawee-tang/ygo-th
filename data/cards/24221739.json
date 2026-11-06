@@ -1,0 +1,9 @@
+{
+  "id": "24221739",
+  "name": "Protector of the Sanctuary",
+  "th": "คู่ต่อสู้ของคุณไม่สามารถจั่วการ์ดได้ ยกเว้นระหว่าง Draw Phase.",
+  "status": "ai",
+  "en_sha256": "2c825d108e08f7b43da3a2b17d52d9548953f715ab181391945c2f458947547c",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

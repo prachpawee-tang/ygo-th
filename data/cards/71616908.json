@@ -1,0 +1,9 @@
+{
+  "id": "71616908",
+  "name": "Gem-Knight Amethyst",
+  "th": "มอนสเตอร์ \"Gem-Knight\" 1 ตัว + มอนสเตอร์ประเภท Aqua-Type 1 ตัว\nต้องทำการ Fusion Summon ก่อน\nเมื่อการ์ดใบนี้ถูกส่งออกจากสนามไปยังสุสาน: นำการ์ด Spell และ Trap ที่วางคว่ำอยู่บนสนามกลับขึ้นมือทั้งหมด",
+  "status": "ai",
+  "en_sha256": "0c953c55d9c87e88dbf5c4c04facfd6c33c40541ca55f1e269c2144b519b5b9b",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

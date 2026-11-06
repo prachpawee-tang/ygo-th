@@ -1,0 +1,9 @@
+{
+  "id": "32485271",
+  "name": "Rose Spectre of Dunn",
+  "th": "\"Feral Imp\" + \"Snakeyashi\"",
+  "status": "ai",
+  "en_sha256": "38a5d3df1deff50b179a8faa13e00fd8d6ecad5b8f1018fd06e096a149695037",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

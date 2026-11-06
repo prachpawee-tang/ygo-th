@@ -1,0 +1,9 @@
+{
+  "id": "49600724",
+  "name": "Crevice Into the Different Dimension",
+  "th": "ประกาศ Attribute 1 ชนิด และเลือกมอนสเตอร์ที่มี Attribute นั้นรวม 2 ตัวจากสุสาน\nนำมอนสเตอร์เหล่านั้นออกจากสนาม",
+  "status": "ai",
+  "en_sha256": "7254b7c86edb1eac2fa781fa8adaeb8c3f0de33275ec00a7f18e7c091bf1fcb1",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

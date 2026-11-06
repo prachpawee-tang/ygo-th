@@ -1,0 +1,9 @@
+{
+  "id": "48469380",
+  "name": "Archfiend Emperor",
+  "th": "[ Pendulum Effect ]\nคุณสามารถเลือกเป้าหมาย Spell/Trap อีก 1 ใบที่หงายอยู่บนสนาม; ทำลายทั้งใบนั้นและใบนี้\nคุณสามารถใช้เอฟเฟกต์ของ \"Archfiend Emperor\" ได้เพียง 1 ครั้งต่อเทิร์น\n[ Monster Effect ]\nคุณสามารถ Ritual Summon การ์ดใบนี้ด้วย \"Throne of the Archfiends\"\nต้องทำการ Ritual Summon\nไม่ได้รับผลจากเอฟเฟกต์ของมอนสเตอร์อื่นๆ ขณะอยู่ใน Extra Monster Zone\nคุณสามารถใช้เอฟเฟกต์ต่อไปนี้ของ \"Archfiend Emperor\" ได้เพียง 1 ครั้งต่อเทิร์น\nถ้าการ์ดใบนี้ถูก Ritual Summon จาก Extra Deck: คุณสามารถเอามอนสเตอร์ทั้งหมดบนสนามออกจากเกม ยกเว้นใน Extra Monster Zones\nถ้าการ์ดใบนี้อยู่ใน Extra Monster Zone: คุณสามารถ อัญเชิญพิเศษ มอนสเตอร์ Fiend 1 ตัวจากมือ เด็ค สุสาน หรือที่ถูกเอาออกจากเกม",
+  "status": "ai",
+  "en_sha256": "a2929d707d87731f71e30954caee19e2fe91c2c1b00d5c407ba37e87aba1128d",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

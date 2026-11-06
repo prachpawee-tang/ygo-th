@@ -1,0 +1,9 @@
+{
+  "id": "28604635",
+  "name": "Weed Out",
+  "th": "จ่าย Life Points 500.\nทำลายมอนสเตอร์ที่อยู่ในท่าโจมตี Level 3 ที่หงายอยู่ทั้งหมด.",
+  "status": "ai",
+  "en_sha256": "40dbc2f8dde4c9a105cb777ff759a579df5e2e925ebb662aaa9862fb54bb07af",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "37678339",
+  "name": "Oneiros, the Dream Mirror Tormentor",
+  "th": "มอนสเตอร์ \"Dream Mirror\" 2 ตัวที่มี Attribute ต่างกัน\nตราบใดที่การ์ดใบนี้หงายอยู่บนสนาม การ์ดใบนี้ก็ถือเป็น Attribute LIGHT ด้วย\nคุณสามารถใช้เอฟเฟกต์ต่อไปนี้ของ \"Oneiros, the Dream Mirror Tormentor\" ได้ 1 ครั้งต่อเทิร์น\n● เมื่อเปิดใช้งานเอฟเฟกต์มอนสเตอร์ขณะที่ \"Dream Mirror of Terror\" อยู่ใน Field Zone (Quick Effect): คุณสามารถลบล้างเอฟเฟกต์นั้นได้\n● ถ้า \"Dream Mirror of Joy\" อยู่ใน Field Zone (Quick Effect): คุณสามารถสังเวยการ์ดใบนี้; อัญเชิญพิเศษมอนสเตอร์ \"Oneiros, the Dream Mirror Erlking\" 1 ตัวจาก เอ็กซ์ตร้าเด็ค ในท่าป้องกัน",
+  "status": "ai",
+  "en_sha256": "fdd36fd6bae627e64c4e1ff0868ac7ffdab678be201c9622ae8ff5f767c7b155",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

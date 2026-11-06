@@ -1,0 +1,9 @@
+{
+  "id": "81344637",
+  "name": "Basilius, Familiar of the Evil Eye",
+  "th": "ถ้าคุณควบคุมมอนสเตอร์ \"Evil Eye\" คุณสามารถอัญเชิญพิเศษการ์ดใบนี้ (จากมือของคุณ)\nคุณสามารถอัญเชิญพิเศษ \"Basilius, Familiar of the Evil Eye\" ได้เพียงครั้งเดียวต่อเทิร์นด้วยวิธีนี้\nในช่วง Main Phase ของคุณ: คุณสามารถส่งการ์ด Spell/Trap \"Evil Eye\" 1 ใบจากเด็คของคุณลงสุสาน\nคุณสามารถใช้เอฟเฟกต์ของ \"Basilius, Familiar of the Evil Eye\" ได้เพียง 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "0b70abfca716ca9e3a851c307defe82cc4a5b87c8b71b7ef13c4d8aaf0bf712a",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

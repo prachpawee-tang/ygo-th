@@ -1,0 +1,10 @@
+{
+  "id": "43698897",
+  "name": "Frightfur Factory",
+  "th": "คุณสามารถเอาการ์ดเวทมนตร์ \"Polymerization\" หรือการ์ดเวทมนตร์ \"Fusion\" 1 ใบออกจากสุสานของคุณ ยกเว้น \"Diffusion Wave-Motion\"; อัญเชิญแบบฟิวชั่น มอนสเตอร์ \"Frightfur\" แบบฟิวชั่น 1 ตัวจากเอ็กซ์ตร้าเด็คของคุณ โดยใช้มอนสเตอร์จากมือของคุณหรือจาก Main Monster Zone ฝั่งของคุณเป็น Material ฟิวชั่น\nถ้าการ์ดใบนี้ถูกส่งลงสุสาน: คุณสามารถเลือกเป้าหมาย \"Frightfur Fusion\" ที่ถูกเอาออกจากเกมของคุณ 1 ใบ; เพิ่มมันขึ้นมือ\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Frightfur Factory\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "09d8c359981c8127928b4e7fcaff0ddcd513e477748b67b21b700fc70c6035b5",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: \"banish\" ×2 in English but \"ออกจากเกม\" ×1 in Thai — meaning may be wrong"
+}

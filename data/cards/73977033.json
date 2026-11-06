@@ -1,0 +1,10 @@
+{
+  "id": "73977033",
+  "name": "Raidraptor - Booster Strix",
+  "th": "เมื่อมอนสเตอร์ \"Raidraptor\" ที่คุณควบคุมถูกเลือกเป้าหมายเพื่อโจมตีโดยมอนสเตอร์ของคู่ต่อสู้: คุณสามารถเอการ์ดใบนี้ออกจากมือของคุณ; ทำลายมอนสเตอร์ที่โจมตี.",
+  "status": "ai",
+  "en_sha256": "335a064bf8fa70d9a4b41f3b139de2a1525425e60f1b372d3cc097d4af804b91",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: \"banish\" ×1 in English but \"ออกจากเกม\" ×0 in Thai — meaning may be wrong"
+}

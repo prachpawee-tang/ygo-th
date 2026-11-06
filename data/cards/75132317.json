@@ -1,0 +1,9 @@
+{
+  "id": "75132317",
+  "name": "Brotherhood of the Fire Fist - Snake",
+  "th": "เมื่อมีการ์ด Spell/Trap \"Fire Formation\" ถูกส่งลงสุสานของคุณ (ยกเว้นในช่วง Damage Step) 1 ครั้งต่อเทิร์น: คุณสามารถเซ็ตการ์ด Trap \"Fire Formation\" 1 ใบจากเด็คของคุณได้โดยตรง\nเมื่อคุณไม่ได้ควบคุมมอนสเตอร์อื่น ๆ 1 ครั้งต่อเทิร์น: คุณสามารถส่งการ์ด Spell/Trap \"Fire Formation\" ที่คุณควบคุมอยู่ 2 ใบที่หงายอยู่ลงสุสาน; จั่วการ์ด 1 ใบ",
+  "status": "ai",
+  "en_sha256": "b1c952fb9dbbe10c5b036e084b7f0880b2fc706ee8f20734caa0a85d0a4b24f1",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "94185340",
+  "name": "Sacrifice Level-Up",
+  "th": "เลือกมอนสเตอร์ Xyz 1 ตัวที่คุณควบคุม; ถอด Material 2 ชิ้นจากมัน, และถ้าทำได้, อัญเชิญพิเศษมอนสเตอร์ Xyz 1 ตัวจากเอ็กซ์ตร้าเด็คของคุณ, ซึ่ง Rank สูงกว่ามอนสเตอร์ตัวนั้น 1, แต่จะไม่สามารถโจมตีในเทิร์นนี้ได้\nคุณสามารถเปิดใช้ \"Sacrifice Level-Up\" ได้เพียง 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "27542f5f70ec1cefc5ac921b309236174bcdbe0199b28a52a63852803d841aa5",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: \"banish\" ×1 in English but \"ออกจากเกม\" ×0 in Thai — meaning may be wrong"
+}

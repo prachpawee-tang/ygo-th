@@ -1,0 +1,9 @@
+{
+  "id": "55136228",
+  "name": "Indomitable Gladiator Beast",
+  "th": "เลือกมอนสเตอร์ \"Gladiator Beast\" ที่หงายอยู่ที่คุณควบคุม เพิ่ม ATK 500 จนถึง End Phase\nตราบใดที่การ์ดใบนี้อยู่ในสุสานของคุณ คุณสามารถส่งการ์ด \"Gladiator Beast\" 2 ใบจากสุสานของคุณกลับเข้าเด็ค เพื่อส่งการ์ดใบนี้กลับขึ้นมือ",
+  "status": "ai",
+  "en_sha256": "5d4a85714439af258c0929b90bc2ee0be9dedc42058de7fff474ef5a12502b4a",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

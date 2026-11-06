@@ -1,0 +1,9 @@
+{
+  "id": "55321970",
+  "name": "Gust Fan",
+  "th": "มอนสเตอร์ WIND ที่ถูกติดตั้งการ์ดใบนี้ เพิ่ม ATK 400 และลด DEF 200.",
+  "status": "ai",
+  "en_sha256": "b12c7468d231ef215ab59cc2fb4c4cb2baea5635d9aa855f0fea677d8b53c72a",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

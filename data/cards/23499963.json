@@ -1,0 +1,9 @@
+{
+  "id": "23499963",
+  "name": "Springans Watch",
+  "th": "นำ \"Great Sand Sea - Gold Golgonda\" 1 ใบจากเด็คของคุณขึ้นมือ\nถ้า \"Great Sand Sea - Gold Golgonda\" อยู่ใน Field Zone ของคุณ คุณสามารถใช้เอฟเฟกต์นี้แทนได้\n● นำมอนสเตอร์ \"Springans\" 1 ตัวจากเด็คของคุณขึ้นมือ และถ้าทำได้ ส่งมอนสเตอร์ \"Springans\" 1 ตัวจากเด็คของคุณลงสุสาน\nคุณสามารถเปิดใช้ \"Springans Watch\" ได้เพียง 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "f535587e7a7a55e5cf2537d2e785c72ac609e90fd9fd4ae0ae54cc3de6135864",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

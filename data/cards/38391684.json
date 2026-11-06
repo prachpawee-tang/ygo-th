@@ -1,0 +1,10 @@
+{
+  "id": "38391684",
+  "name": "Atlantis, City of the Sea Dragon",
+  "th": "ตราบใดที่มอนสเตอร์ที่กล่าวถึง \"Atlantis, City of the Sea Dragon\" อยู่บนสนาม ระดับของมอนสเตอร์ทั้งหมดในมือและบนสนามของผู้เล่นทั้งสองฝ่ายจะลดลง 1\nเมื่อคุณทำการ Link Summon มอนสเตอร์ Link \"Daedalus\" คุณสามารถลดจำนวน Material รวมทั้งหมดลงได้ 1 (ทั้งจาก Link Rating และจาก Material ที่กล่าวถึง)\nถ้าการ์ดใบนี้อยู่ในสุสานของคุณและคุณควบคุม \"Umi\": คุณสามารถวางการ์ดใบนี้คว่ำอยู่บนสนามของคุณได้\nคุณสามารถใช้เอฟเฟกต์ของ \"Atlantis, City of the Sea Dragon\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "1c920c979d44111881e379f38fec9bd03a0c0a2e1db0be12cfdbaa3ead45ceeb",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: \"face-up\" ×1 in English but \"หงาย\" ×0 in Thai — meaning may be wrong"
+}

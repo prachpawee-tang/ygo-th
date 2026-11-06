@@ -1,0 +1,9 @@
+{
+  "id": "81615450",
+  "name": "Reptilianne Ramifications",
+  "th": "ส่งการ์ด 1 ใบจากมือของคุณลงสุสาน และเปิดใช้ 2 เอฟเฟกต์เหล่านี้ตามลำดับ;\n● เพิ่มมอนสเตอร์ \"Reptilianne\" 1 ตัวจากเด็คของคุณขึ้นมือ\n● เพิ่มการ์ดเวทมนตร์ (Spell) / กับดัก (Trap) \"Reptilianne\" 1 ใบจากเด็คของคุณขึ้นมือ ยกเว้น \"Reptilianne Ramifications\"\n● เปลี่ยน ATK ของมอนสเตอร์ 1 ตัวที่คู่ต่อสู้ควบคุมเป็น 0\nคุณสามารถเปิดใช้ \"Reptilianne Ramifications\" ได้เพียง 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "1d6dfe3c1636ee87c7f405ac39818769953b50d48ff0f7717ae33e79273cae4f",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

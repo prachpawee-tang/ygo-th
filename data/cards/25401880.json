@@ -1,0 +1,9 @@
+{
+  "id": "25401880",
+  "name": "Psychic Path",
+  "th": "จ่าย Life Points 800 และเลือกมอนสเตอร์ Psychic-Type ของคุณที่ถูกนำออกจากสนามได้สูงสุด 2 ตัว\nเพิ่มพวกมันขึ้นมือ",
+  "status": "ai",
+  "en_sha256": "ff83a7cfa488b5597fa07b84e6391661a29c68998d677308d9c583c9e4ea4d9f",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

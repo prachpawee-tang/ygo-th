@@ -1,0 +1,9 @@
+{
+  "id": "17601919",
+  "name": "Pumprincess the Princess of Ghosts",
+  "th": "ถ้าการ์ดหงายใบนี้ถูกทำลายขณะอยู่ใน Main Monster Zone หรือ Extra Monster Zone คุณสามารถวางมันแบบหงายใน Spell & Trap Zone ของคุณในฐานะการ์ดเวทมนตร์ต่อเนื่องได้ แทนที่จะส่งมันลงสุสาน\nตราบใดที่การ์ดใบนี้ถูกมองว่าเป็น Continuous Spell Card โดยเอฟเฟกต์นี้ ในระหว่าง Standby Phase ของผู้เล่นแต่ละคน: วาง Pumpkin Counter 1 อันบนการ์ดใบนี้\nมอนสเตอร์ทั้งหมดที่คู่ต่อสู้ควบคุมจะเสีย ATK และ DEF 100 สำหรับ Pumpkin Counter แต่ละอันที่อยู่บนการ์ดใบนี้",
+  "status": "ai",
+  "en_sha256": "cdfc88940c7a96ae2d4becb2835d0485844bc1e742e96ece2487960c9164c5bc",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

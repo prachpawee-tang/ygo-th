@@ -1,0 +1,10 @@
+{
+  "id": "29876529",
+  "name": "Darklight",
+  "th": "สังเวยมอนสเตอร์ DARK ที่มี ATK 1500 หรือมากกว่า; ทำลายมอนสเตอร์ทั้งหมดที่ถูกอัญเชิญพิเศษในเทิร์นนี้.",
+  "status": "ai",
+  "en_sha256": "1cdb335ef2184d2e6c6fb135759e842db17405f428428867cb2fcdc9dc27ba97",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

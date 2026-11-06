@@ -1,0 +1,9 @@
+{
+  "id": "40854824",
+  "name": "Rainbow Refraction",
+  "th": "ถ้ามอนสเตอร์ที่คุณควบคุมซึ่งชื่อเดิมคือ \"Rainbow Dragon\" หรือ \"Rainbow Dark Dragon\" เปิดใช้งานเอฟเฟกต์ในเทิร์นนี้: อัญเชิญพิเศษมอนสเตอร์ \"Crystal Beast\" จำนวนใดก็ได้ที่มีชื่อแตกต่างกันจากเด็คของคุณ.",
+  "status": "ai",
+  "en_sha256": "2735bdfd665e6b37e22c22ab5fbeebb12d1ae25184cbcdfc5ad718a473a4be31",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

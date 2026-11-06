@@ -1,0 +1,9 @@
+{
+  "id": "13070280",
+  "name": "Play of the Tistina",
+  "th": "อัญเชิญพิเศษมอนสเตอร์ \"Tistina\" 1 ตัวจากมือหรือสุสานของคุณในท่าป้องกัน; แต่ส่งมันกลับขึ้นมือในช่วง End Phase\nคุณสามารถเปิดใช้ \"Play of the Tistina\" ได้ 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "9bc8ac98aac765e740aa5b49ef4eea1280fdeb38a9309b26e78cd0ba69a24fec",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "98891840",
+  "name": "Gladiator Beast's Respite",
+  "th": "สับการ์ด \"Gladiator Beast\" 2 ใบจากมือของคุณกลับเข้าเด็ค จากนั้นจั่วการ์ด 3 ใบ.",
+  "status": "ai",
+  "en_sha256": "027b21b772dd151520b1fbb6ce97bd6e428d090ecadb6fd3f385381b063c572a",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "76384284",
+  "name": "Trojan Gladiator Beast",
+  "th": "อัญเชิญพิเศษมอนสเตอร์ \"Gladiator Beast\" 1 ตัวจากมือของคุณไปยังสนามฝั่งของคู่ต่อสู้\nจากนั้น จั่วการ์ด 1 ใบ",
+  "status": "ai",
+  "en_sha256": "d18f9a71ed47ebe5298752d099b48107c9f6bcaaae40984be42ffd7630e4be64",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "6840573",
+  "name": "Barox",
+  "th": "\"Frenzied Panda\" + \"Ryu-Kishin\"",
+  "status": "ai",
+  "en_sha256": "70cfd9df3781cec09bda84fb9e9560da7371059fc25241701eec571d23e4eabe",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

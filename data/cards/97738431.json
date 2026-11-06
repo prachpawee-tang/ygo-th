@@ -1,0 +1,9 @@
+{
+  "id": "97738431",
+  "name": "Numbers Overlay Boost",
+  "th": "เลือกมอนสเตอร์ Link \"Number\" ที่คุณควบคุม 1 ตัว ที่ไม่มี Material Xyz; ติดมอนสเตอร์ 2 ตัวจากมือของคุณลงบนมอนสเตอร์ Xyz ที่หงายนั้นเป็น Material Xyz.",
+  "status": "ai",
+  "en_sha256": "d1e3c3193001c02cd45585156fd92a32a905ae5b0fa521e7369c80f6ce99f3c6",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

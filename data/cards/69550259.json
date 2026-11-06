@@ -1,0 +1,9 @@
+{
+  "id": "69550259",
+  "name": "Speedroid Block-n-Roll",
+  "th": "ถ้าการ์ดใบนี้ถูกส่งลงสุสานเป็น Material Synchro: คุณสามารถอัญเชิญพิเศษ \"Speedroid Token\" (Machine/WIND/ATK 0/DEF 0) ที่มี Level เท่ากับ Level เดิมของมอนสเตอร์ Synchro ที่ใช้การ์ดใบนี้เป็น Material\nคุณสามารถใช้เอฟเฟกต์ของ \"Speedroid Block-n-Roll\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "822b668cfb47d82318bc0d90a083debefc36cac9a495b3ddccecff6e56ebee7b",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

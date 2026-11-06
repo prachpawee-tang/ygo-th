@@ -1,0 +1,9 @@
+{
+  "id": "1410324",
+  "name": "Trickstar Hoody",
+  "th": "ถ้าคุณควบคุมมอนสเตอร์ Fusion หรือ Link \"Trickstar\": คุณสามารถอัญเชิญพิเศษการ์ดใบนี้จากมือของคุณได้\nถ้าการ์ดใบนี้ถูกส่งลงสุสานเป็น Material สำหรับมอนสเตอร์ Link \"Trickstar\": คุณสามารถเพิ่มการ์ด \"Trickstar Fusion\" หรือ \"Trickstar Diffusion\" 1 ใบจากเด็คของคุณขึ้นมือได้\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Trickstar Hoody\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "7dfc70a249c0137afc820c975492971c36bdcdb4c9b1bbb06ef5622c471335bd",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

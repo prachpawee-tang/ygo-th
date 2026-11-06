@@ -1,0 +1,9 @@
+{
+  "id": "27450400",
+  "name": "Cosmic Compass",
+  "th": "เมื่อการ์ดใบนี้ถูกอัญเชิญปกติ: คุณสามารถอัญเชิญพิเศษ \"Compass Tokens\" (Machine/EARTH/Level 1/ATK 0/DEF 0) จำนวนเท่ากับจำนวนมอนสเตอร์ที่คู่ต่อสู้ควบคุม.",
+  "status": "ai",
+  "en_sha256": "32964a81e5ff06102f9a80900a6a91e31fd7790d64192af67b6b440a9f2105ee",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

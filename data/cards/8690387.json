@@ -1,0 +1,10 @@
+{
+  "id": "8690387",
+  "name": "Earthbound Servant Geo Gremlin",
+  "th": "1 DARK Tuner + 1+ non-Tuner monsters\nในช่วง Main Phase (Quick Effect): คุณสามารถเลือกเป้าหมายมอนสเตอร์ที่หงายอยู่ 1 ตัวที่คู่ต่อสู้ควบคุม; คู่ต่อสู้ของคุณเลือก 1 ในเอฟเฟกต์เหล่านี้ให้คุณใช้\n● ทำลายมอนสเตอร์นั้น\n● ได้รับ LP เท่ากับ ATK ของมอนสเตอร์นั้น\nในช่วง Battle Phase (Quick Effect): คุณสามารถ Fusion Summon มอนสเตอร์ Fusion \"Earthbound\" 1 ตัวจากเอ็กซ์ตร้าเด็คของคุณ โดยการเอา Material ออกจากมือ สนาม และ/หรือ สุสานของคุณ\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Earthbound Servant Geo Gremlin\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "e3661cda26bb28d2cc1058ba51a75bb712f43eb419c981159f424378fd8db479",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: \"banish\" ×1 in English but \"ออกจากเกม\" ×0 in Thai — meaning may be wrong"
+}

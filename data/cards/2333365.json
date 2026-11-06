@@ -1,0 +1,9 @@
+{
+  "id": "2333365",
+  "name": "Tyr of the Nordic Champions",
+  "th": "มอนสเตอร์ของคู่ต่อสู้ไม่สามารถเลือก “Nordic” มอนสเตอร์เป็นเป้าหมายในการโจมตีได้ ยกเว้น “Tyr of the Nordic Champions”\nถ้าในสนามไม่มี “Nordic” มอนสเตอร์อื่น ทำลายการ์ดใบนี้",
+  "status": "ai",
+  "en_sha256": "e368d969768443d583b5670bc854e38da6144e4d29a1ac684e6c78907b5309ce",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

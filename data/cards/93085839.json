@@ -1,0 +1,10 @@
+{
+  "id": "93085839",
+  "name": "Noble Knight Eachtar",
+  "th": "คุณสามารถเอา \"Noble Knight\" มอนสเตอร์ 2 ตัวออกจากสุสานของคุณ; อัญเชิญพิเศษการ์ดใบนี้จากมือหรือสุสานของคุณ\nคุณสามารถใช้เอฟเฟกต์ของ \"Noble Knight Eachtar\" ได้ 1 ครั้งต่อเทิร์น\nการอัญเชิญ Synchro หรือ Xyz ของมอนสเตอร์ \"Noble Knight\" ที่ใช้การ์ดใบนี้เป็น Material ไม่สามารถถูกลบล้างได้; นอกจากนี้ คู่ต่อสู้ของคุณไม่สามารถเปิดใช้การ์ดหรือเอฟเฟกต์เมื่อมอนสเตอร์ตัวนั้นถูกอัญเชิญพิเศษ",
+  "status": "ai",
+  "en_sha256": "9eb3e7da320e666dac574a52b502fd4e9dd7bf878d33a284ce5ec5ee0c19faff",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: \"banish\" ×1 in English but \"ออกจากเกม\" ×0 in Thai — meaning may be wrong"
+}

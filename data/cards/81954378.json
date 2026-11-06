@@ -1,0 +1,9 @@
+{
+  "id": "81954378",
+  "name": "Reaper Scythe - Dreadscythe",
+  "th": "ใส่ได้เฉพาะกับ \"Guardian Dreadscythe\" เท่านั้น\nมันได้รับ ATK 500 สำหรับมอนสเตอร์แต่ละตัวในสุสาน",
+  "status": "ai",
+  "en_sha256": "8eafac589a30f33f6f8a3c6ba1db3f0d0424565b52ba4ac5b89d2adac819d95e",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

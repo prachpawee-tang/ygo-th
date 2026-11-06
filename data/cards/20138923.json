@@ -1,0 +1,9 @@
+{
+  "id": "20138923",
+  "name": "Anti-Magic Prism",
+  "th": "เปิดใช้ได้เมื่อคู่ต่อสู้เปิดใช้การ์ดเวทมนตร์ Quick-Play เท่านั้น\nเลือกการ์ด 1 ใบในสนามและทำลายมัน",
+  "status": "ai",
+  "en_sha256": "14a6ce6a2c2b785629587ec73d6eb5fde2cc2e3754bd034bf42e5a24bbdfd909",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

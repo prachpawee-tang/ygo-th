@@ -1,0 +1,9 @@
+{
+  "id": "76512652",
+  "name": "Krokodilus",
+  "th": "\"จระเข้ที่ดุร้ายและมีสติปัญญาสูง.\"",
+  "status": "ai",
+  "en_sha256": "cbc4175701e0e56b1deff3c0211000df11c142b8cce7039cef577ce330383f8b",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

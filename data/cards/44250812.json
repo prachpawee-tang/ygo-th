@@ -1,0 +1,9 @@
+{
+  "id": "44250812",
+  "name": "Gagaga Clerk",
+  "th": "ถ้าคุณควบคุมมอนสเตอร์ \"Gagaga\" นอกเหนือจาก \"Gagaga Clerk\" คุณสามารถอัญเชิญพิเศษการ์ดใบนี้ (จากมือ) ได้.",
+  "status": "ai",
+  "en_sha256": "04c44f5fc033f92cc9aca4a211ce69c3e61eb9027dc23fa69d53b6222e4825a7",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

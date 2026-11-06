@@ -1,0 +1,9 @@
+{
+  "id": "89211486",
+  "name": "Genex Doctor",
+  "th": "คุณสามารถสังเวย \"Genex Controller\" ที่หงายอยู่ 1 ใบ เพื่อเลือกและทำลายการ์ด 1 ใบในสนาม.",
+  "status": "ai",
+  "en_sha256": "d7780eacf7edd21cf2cd91a0a405233a063b181df8637a47e2e6efc17add25e3",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

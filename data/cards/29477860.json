@@ -1,0 +1,9 @@
+{
+  "id": "29477860",
+  "name": "Spiral Discharge",
+  "th": "ตราบใดที่ \"Gaia the Dragon Champion\" อยู่ใน Main Monster Zone ของคุณ มอนสเตอร์ของคู่ต่อสู้สามารถเลือกเป้าหมาย \"Gaia the Dragon Champion\" เพื่อโจมตีได้เท่านั้น\nเมื่อมีการประกาศโจมตีที่เกี่ยวข้องกับ \"Gaia the Dragon Champion\" ของคุณ: คุณสามารถเลือกเป้าหมายการ์ด 1 ใบในสนาม; ทำลายมัน\nคุณสามารถใช้เอฟเฟกต์ของ \"Spiral Discharge\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "27cb61167b3d4a3bcfefdf9144c64743dd7c53e03d562c07f5629706c96f7fb7",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

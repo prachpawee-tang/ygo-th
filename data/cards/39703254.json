@@ -1,0 +1,10 @@
+{
+  "id": "39703254",
+  "name": "Inmato",
+  "th": "เมื่อมอนสเตอร์ Plant-Type ที่หงายอยู่ตัวอื่นถูกเลือกเป้าหมายโดยเอฟเฟกต์ของการ์ด Spell หรือ Trap ที่คู่ต่อสู้ควบคุม คุณสามารถสังเวยการ์ดใบนี้เพื่อจั่วการ์ด 2 ใบ.",
+  "status": "ai",
+  "en_sha256": "b9e2f922e3e170abd66fd6e41aba05c8e4b778a22aab0ff7aad78df2833726ed",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

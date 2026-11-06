@@ -1,0 +1,9 @@
+{
+  "id": "62472614",
+  "name": "Pestilence",
+  "th": "สามารถติดตั้งกับมอนสเตอร์ประเภท Warrior, Beast-Warrior หรือ Spellcaster เท่านั้น\nATK ของมันจะกลายเป็น 0\nในช่วง Standby Phase ของคุณในแต่ละครั้ง สร้างความเสียหาย 500 ให้กับผู้ควบคุมมอนสเตอร์ที่ถูกติดตั้ง",
+  "status": "ai",
+  "en_sha256": "65b6a43a17c160efda904ceaebbfc46ff785e6a883c5c958e29a8bc53ed3e8a0",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

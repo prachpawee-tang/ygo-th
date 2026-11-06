@@ -1,9 +1,9 @@
 {
   "id": "49823708",
   "name": "Buster Whelp of the Destruction Swordsman",
-  "th": "เมื่อการ์ดใบนี้ถูกอัญเชิญปกติ: คุณสามารถเพิ่มการ์ด \"Destruction Sword\" 1 ใบจากเด็คของคุณขึ้นมือ, ยกเว้น \"Buster Whelp of the Destruction Swordsman\" คุณสามารถใช้เอฟเฟกต์ต่อไปนี้ของ \"Buster Whelp of the Destruction Swordsman\" ได้ 1 เอฟเฟกต์ต่อเทิร์น และเพียงครั้งเดียวในเทิร์นนั้น\n● คุณสามารถสังเวยการ์ดใบนี้; อัญเชิญพิเศษ \"Buster Blader\" 1 ใบจากมือหรือสุสานของคุณ\n● ถ้าการ์ดใบนี้อยู่ในสุสานของคุณและคุณควบคุม \"Buster Blader\": คุณสามารถทิ้งการ์ด \"Destruction Sword\" 1 ใบ; อัญเชิญพิเศษการ์ดใบนี้",
+  "th": "เมื่อการ์ดใบนี้ถูกอัญเชิญปกติ: คุณสามารถเพิ่มการ์ด \"Destruction Sword\" 1 ใบจากเด็คของคุณขึ้นมือ, ยกเว้น \"Buster Whelp of the Destruction Swordsman\"\nคุณสามารถใช้เอฟเฟกต์ต่อไปนี้ของ \"Buster Whelp of the Destruction Swordsman\" ได้เพียง 1 เอฟเฟกต์ต่อเทิร์น, และเพียงครั้งเดียวในเทิร์นนั้น\n● คุณสามารถสังเวยการ์ดใบนี้; อัญเชิญพิเศษ \"Buster Blader\" 1 ตัวจากมือหรือสุสานของคุณ\n● ถ้าการ์ดใบนี้อยู่ในสุสานของคุณและคุณควบคุม \"Buster Blader\": คุณสามารถทิ้งการ์ด \"Destruction Sword\" 1 ใบ; อัญเชิญพิเศษการ์ดใบนี้",
   "status": "ai",
   "en_sha256": "337a8a51fb23bbedefb6e449dafb15e8c09bb234bface43d912791991c966e4c",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-06"
 }

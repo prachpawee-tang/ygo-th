@@ -1,0 +1,9 @@
+{
+  "id": "94766498",
+  "name": "Chronomaly Aztec Mask Golem",
+  "th": "ในเทิร์นของคุณ, ถ้าคุณได้เปิดใช้การ์ดเวทมนตร์ \"Chronomaly\" ก่อนหน้านี้ในเทิร์นนี้, คุณสามารถอัญเชิญพิเศษการ์ดใบนี้ (จากมือของคุณ)\nคุณสามารถควบคุม \"Chronomaly Aztec Mask Golem\" ได้เพียง 1 ใบเท่านั้น",
+  "status": "ai",
+  "en_sha256": "f914735fbb8b74f58644cfd13415e68654eaeae0a49ecbe45f5f3fce43727c5f",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "21488686",
+  "name": "Psychic Rejuvenation",
+  "th": "ได้รับ LP 1000 สำหรับมอนสเตอร์ Psychic-Type ที่หงายอยู่แต่ละตัวที่คุณควบคุม.",
+  "status": "ai",
+  "en_sha256": "eb7d4ff5918dbd0df0b0da7ae172cff3fcd9905de3881a472a928038cfce764f",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

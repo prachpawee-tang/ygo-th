@@ -1,0 +1,9 @@
+{
+  "id": "33951077",
+  "name": "Super War-Lion",
+  "th": "คุณสามารถ อัญเชิญแบบพิธีกรรม การ์ดใบนี้ด้วย \"War-Lion Ritual\".",
+  "status": "ai",
+  "en_sha256": "5793b940c02ef41316b16d491d2acf363a598887e6dc753db563d6af7201a84f",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

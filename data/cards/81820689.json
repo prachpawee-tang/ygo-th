@@ -1,0 +1,9 @@
+{
+  "id": "81820689",
+  "name": "The Inexperienced Spy",
+  "th": "เลือกและดูการ์ด 1 ใบในมือของคู่ต่อสู้.",
+  "status": "ai",
+  "en_sha256": "68253816eb04f5288ed2a2090f80519103829b7e6e15b56b5ce455d0c843ca7a",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

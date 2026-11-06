@@ -1,0 +1,9 @@
+{
+  "id": "7392745",
+  "name": "Chewbone",
+  "th": "พลิก: อัญเชิญพิเศษ \"Chewbone Jr. Tokens\" 3 ชิ้น (มอนสเตอร์เอฟเฟกต์/EARTH/Level 1/ATK 100/DEF 300) ลงในสนามของคู่ต่อสู้ในท่าป้องกัน.",
+  "status": "ai",
+  "en_sha256": "eb99149f0abc54ed8ad9769b35c110b7c8a7c67c5b29ae61f5818d7eac24cb9a",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

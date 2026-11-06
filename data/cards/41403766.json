@@ -1,0 +1,9 @@
+{
+  "id": "41403766",
+  "name": "Giant Scorpion of the Tundra",
+  "th": "\"แมงป่องสีน้ำเงินที่น่าทึ่งซึ่งพบได้ในทุ่งทุนดรา ไม่ใช่ในทะเลทราย.\"",
+  "status": "ai",
+  "en_sha256": "e1f343344aca6907cfce772c35d52950baa708cf9575d2360f3bca37a4745fc0",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

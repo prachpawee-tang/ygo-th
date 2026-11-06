@@ -1,0 +1,9 @@
+{
+  "id": "16527176",
+  "name": "Naturia Leodrake",
+  "th": "1 EARTH Tuner + 1 ตัวหรือมากกว่า มอนสเตอร์ non-Tuner EARTH",
+  "status": "ai",
+  "en_sha256": "68e518418afb7883bfee32ef1d263ca0663f4ae6a6d7fdcd07cd717e50c85334",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "65236257",
+  "name": "Tellarknight Genesis",
+  "th": "ทำลายการ์ด Spell/Trap บนสนาม เท่ากับจำนวนการ์ด \"tellarknight\" อื่นๆ ที่คุณควบคุม.",
+  "status": "ai",
+  "en_sha256": "3d50cfe60b03c8a1b92dba5f5972e9453d0ae31796b5e6d5152586b91b9ececb",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

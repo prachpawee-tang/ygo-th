@@ -1,0 +1,9 @@
+{
+  "id": "95511642",
+  "name": "Crowned by the World Chalice",
+  "th": "ด้วยไม้กายสิทธิ์วิเศษของเธอ เธอสามารถถ่ายทอดหัวใจแห่งโลกของเธอเพื่อปกป้องผู้คนจาก Mekk-Knights ที่เข้ายึดครองโลกนั้น.",
+  "status": "ai",
+  "en_sha256": "ead81c6b4d89e1409a9b10e0410c8b695a28af8a8c624ce382d292ea55b45bbd",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

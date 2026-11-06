@@ -1,0 +1,10 @@
+{
+  "id": "78243409",
+  "name": "The Thing in the Crater",
+  "th": "เมื่อการ์ดใบนี้ถูกทำลายและส่งจากสนามไปยังสุสาน, คุณสามารถอัญเชิญพิเศษมอนสเตอร์ประเภท Pyro จากมือของคุณได้.",
+  "status": "ai",
+  "en_sha256": "1cbe5cc886bd9c6cbf94883f65539e7586594f40c5f448ebfe6bc8876f225ff0",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

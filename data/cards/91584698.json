@@ -1,0 +1,9 @@
+{
+  "id": "91584698",
+  "name": "Performapal Trump Witch",
+  "th": "[ Pendulum Effect ]\n1 ครั้งต่อเทิร์น: คุณสามารถ อัญเชิญแบบ Fusion มอนสเตอร์ Fusion 1 ตัวจาก เอ็กซ์ตร้าเด็คของคุณ โดยใช้ มอนสเตอร์ที่คุณควบคุมเป็น Material การ Fusion\n[ Monster Effect ]\nคุณสามารถ สังเวย การ์ดใบนี้; เพิ่ม การ์ด \"Polymerization\" 1 ใบจาก เด็คของคุณหรือ สุสาน ไปที่ มือของคุณ",
+  "status": "ai",
+  "en_sha256": "95cd09e4a40676c60582036cc6bd330d46e05996bc8d26849c7ebcb28110fd11",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "12829151",
+  "name": "Kanan the Swordmistress",
+  "th": "นักรบหญิงที่ติดอาวุธด้วยดาบและโล่ เธอเคลื่อนไหวอย่างเบาบางและแทงอย่างรวดเร็ว.",
+  "status": "ai",
+  "en_sha256": "faab02fa1c9adc5c182eba4eaed3a4fc727b2ac687e959b78b23687cd7ca732c",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

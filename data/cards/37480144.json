@@ -1,0 +1,9 @@
+{
+  "id": "37480144",
+  "name": "Column Switch",
+  "th": "เลือกเป้าหมายมอนสเตอร์ 1 ตัวใน Main Monster Zone ของคุณ; ย้ายเป้าหมายนั้นไปยัง Main Monster Zone อื่นของคุณ.",
+  "status": "ai",
+  "en_sha256": "b58bd651564fddc68591067a4734a31296acdd78b8dee249bad603e23dcf26a2",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

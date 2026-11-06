@@ -1,0 +1,9 @@
+{
+  "id": "69176131",
+  "name": "Space Cyclone",
+  "th": "ถอด Material จากมอนสเตอร์ Link 1 ตัว.",
+  "status": "ai",
+  "en_sha256": "56cdf829d3d480b48be751e6b36cb142c9e9b5f1e4445f49d97c37004582edb9",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

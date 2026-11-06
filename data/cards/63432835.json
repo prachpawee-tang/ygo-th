@@ -1,0 +1,10 @@
+{
+  "id": "63432835",
+  "name": "Stone Armadiller",
+  "th": "Dis stone crittah's got rock-hahd fur.\nDat gives him some really good dee-fense!",
+  "status": "ai",
+  "en_sha256": "59e97b98de6da24e1202ecf430caeafe4cea6019181c5e21fe6b67cb70a65f4b",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: no Thai text"
+}

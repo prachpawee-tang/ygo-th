@@ -1,0 +1,9 @@
+{
+  "id": "45159319",
+  "name": "Moai Interceptor Cannons",
+  "th": "1 ครั้งต่อเทิร์น คุณสามารถพลิกการ์ดใบนี้ลงคว่ำในท่าป้องกัน.",
+  "status": "ai",
+  "en_sha256": "c0b8bf6c3351b72fd0188d6ef4b385555ff735ffa2702c247971ff9919312a8e",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

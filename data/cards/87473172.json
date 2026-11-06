@@ -1,0 +1,9 @@
+{
+  "id": "87473172",
+  "name": "Firebird",
+  "th": "ทุกครั้งที่มอนสเตอร์ประเภท Winged Beast บนสนามของคุณถูกทำลาย การ์ดใบนี้จะได้รับ ATK 500.",
+  "status": "ai",
+  "en_sha256": "a9fdc096fd1e316041abedcd453c9d0040f030d9193d2e6d14e51c163df063ac",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

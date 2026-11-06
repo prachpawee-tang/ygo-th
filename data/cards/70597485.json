@@ -1,0 +1,9 @@
+{
+  "id": "70597485",
+  "name": "Materiactor Gigaboros",
+  "th": "มอนสเตอร์ Level 3 หรือสูงกว่า 2+ ตัว\nได้รับ ATK/DEF 500 สำหรับแต่ละการ์ดในมือของคุณ\nคุณสามารถใช้เอฟเฟกต์ต่อไปนี้ของ \"Materiactor Gigaboros\" ได้แต่ละเอฟเฟกต์ 1 ครั้งต่อเทิร์น\nคุณสามารถถอด Material 1 ชิ้นจากตัวนี้; ติดมอนสเตอร์ \"Materiactor\" 1 ตัวจากเด็คของคุณเข้ากับตัวนี้เป็น Material\nระหว่าง Main Phase หรือ Battle Phase ของคู่ต่อสู้ (Quick Effect): คุณสามารถเพิ่มการ์ด 1 ใบที่ติดอยู่กับตัวนี้ขึ้นมือ",
+  "status": "ai",
+  "en_sha256": "82ee7aa97e23ff43abcf9fd39ba604bea73e9e4d7e6383836e609d9c420ff7b7",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

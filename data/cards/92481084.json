@@ -1,0 +1,9 @@
+{
+  "id": "92481084",
+  "name": "Temple of the Mind's Eye",
+  "th": "ความเสียหายจากการต่อสู้ที่ผู้เล่นคนใดก็ตามได้รับจะกลายเป็น 1000.",
+  "status": "ai",
+  "en_sha256": "24f368041fdf6e600927c95ae1d0ad8c46d0bf9dd6d0879eea1f01ad12350c8c",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

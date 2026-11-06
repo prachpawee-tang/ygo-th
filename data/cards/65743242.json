@@ -1,0 +1,9 @@
+{
+  "id": "65743242",
+  "name": "Call of the Earthbound",
+  "th": "เมื่อมอนสเตอร์ของคู่ต่อสู้ประกาศโจมตี: คุณเลือกเป้าหมายของการโจมตี.",
+  "status": "ai",
+  "en_sha256": "2c1c8acdf9a84507735d990ea0796f6bec1a0f8f24729384abff6ba528ff55a9",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "11711438",
+  "name": "Ancient Warriors Saga - Three Visits",
+  "th": "ระหว่าง Main Phase ของคุณ, ถ้าคุณ อัญเชิญปกติ หรือ อัญเชิญพิเศษ มอนสเตอร์ \"Ancient Warriors\": คุณสามารถเลือกเป้าหมาย 1 ตัวจากมอนสเตอร์เหล่านั้น; เพิ่มมอนสเตอร์ \"Ancient Warriors\" ที่มีชื่อต่างกัน 1 ใบจากเด็คของคุณขึ้นมือ\nถ้าการ์ดใบนี้ถูกส่งจาก Spell & Trap Zone ไปยัง สุสาน: คุณสามารถ อัญเชิญพิเศษ มอนสเตอร์ \"Ancient Warriors\" 1 ตัวจากมือของคุณ\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Ancient Warriors Saga - Three Visits\" ได้ 1 ครั้งต่อเทิร์น\nส่งการ์ดใบนี้ไปยัง สุสาน ในระหว่าง 2nd Standby Phase ของคุณหลังจากการเปิดใช้",
+  "status": "ai",
+  "en_sha256": "ecebf3cbb2fd2926099cebe3d09c89e621ac32760c3df6dfdff77296dc6516e2",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

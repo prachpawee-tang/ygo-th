@@ -1,0 +1,10 @@
+{
+  "id": "76840111",
+  "name": "Soul of the Supreme Celestial King",
+  "th": "สังเวยมอนสเตอร์ Pendulum Spellcaster ที่มี ATK เดิม 2500; อัญเชิญ Fusion \"Supreme King Z-ARC\" 1 ตัวจากเอ็กซ์ตร้าเด็คของคุณโดยเอามaterial Fusion ที่ระบุไว้บนการ์ดออกจากเกมจากมือ เด็ค เอ็กซ์ตร้าเด็ค สนาม และ/หรือ สุสาน แต่ลบล้างเอฟเฟกต์ของมันเว้นแต่ว่ามอนสเตอร์ \"Pendulum Dragon\", \"Xyz Dragon\", \"Synchro Dragon\" และ \"Fusion Dragon\" ของคุณอย่างน้อยตัวละ 1 ตัวถูกเอาออกจากเกมในขณะนี้\nคุณสามารถเปิดใช้ \"Soul of the Supreme Celestial King\" ได้เพียง 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "3a559d0e61430ad9a9b5bfe9b5fd40b8251d1c5a90e92894515bade4077f39fb",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

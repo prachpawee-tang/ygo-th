@@ -1,0 +1,9 @@
+{
+  "id": "2091298",
+  "name": "Constellar Praesepe",
+  "th": "มอนสเตอร์ \"Constellar\" ระดับ 4 จำนวน 2 ตัว\n1 ครั้งต่อเทิร์น, ในช่วง Damage Step ของเทิร์นของผู้เล่นคนใดคนหนึ่ง, เมื่อมอนสเตอร์ \"Constellar\" ที่คุณควบคุมกำลังโจมตีหรือถูกโจมตี: คุณสามารถถอด Material Xyz 1 ตัวจากไพ่ใบนี้; มอนสเตอร์นั้นได้รับ ATK 1000, จนถึง End Phase",
+  "status": "ai",
+  "en_sha256": "f2b4511506f7b1bf5f070ace2c3f237010dcaa0221a6c1ebad6c83b100e5c25b",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

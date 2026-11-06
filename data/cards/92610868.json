@@ -1,0 +1,9 @@
+{
+  "id": "92610868",
+  "name": "ReSolfachord Dreamia",
+  "th": "[ Pendulum Effect ]\nการ อัญเชิญแบบ Pendulum ของมอนสเตอร์ \"Solfachord\" Pendulum ของคุณ ไม่สามารถถูกลบล้างได้\n[ Monster Effect ]\nตราบใดที่คุณมีการ์ด Pendulum Scale ที่เป็นเลขคี่ใน Pendulum Zone ของคุณ, ถ้าการ์ด \"Solfachord\" Pendulum Monster ที่คุณควบคุมอยู่จะถูกทำลายโดยเอฟเฟกต์ของการ์ดของคู่ต่อสู้, คุณสามารถทำลายการ์ดใบนี้แทน 1 ในการ์ดเหล่านั้นได้\nถ้าคุณมีการ์ด \"Solfachord\" ใน Pendulum Zone ของคุณ: คุณสามารถ อัญเชิญพิเศษการ์ดใบนี้จากมือของคุณได้\nคุณสามารถใช้เอฟเฟกต์ของ \"ReSolfachord Dreamia\" ได้เพียง 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "5b1f4ba0eba033a9e9c80098a7729f61bd649c413fba4ac74bb9e81eb9b7b288",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

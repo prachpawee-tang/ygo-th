@@ -1,9 +1,9 @@
 {
   "id": "6417578",
   "name": "El Shaddoll Fusion",
-  "th": "อัญเชิญ Fusion 1 \"Shaddoll\" Fusion Monster จาก เอ็กซ์ตร้าเด็ค ของคุณ โดยใช้ มอนสเตอร์ จาก มือ หรือ สนาม เป็น Material สำหรับ Fusion คุณสามารถเปิดใช้ \"El Shaddoll Fusion\" ได้ 1 ครั้งต่อเทิร์น",
+  "th": "อัญเชิญแบบ Fusion มอนสเตอร์ Fusion \"Shaddoll\" 1 ตัวจากเอ็กซ์ตร้าเด็คของคุณ โดยใช้มอนสเตอร์จากมือหรือสนามของคุณเป็น Material สำหรับ Fusion\nคุณสามารถเปิดใช้ \"El Shaddoll Fusion\" ได้เพียง 1 ใบต่อเทิร์น",
   "status": "ai",
   "en_sha256": "a91177dc4859eb56a1382ffb9d1b42368a05a904da6ee82eb2d78ec2f14ca9ca",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-06"
 }

@@ -1,0 +1,9 @@
+{
+  "id": "14957440",
+  "name": "Otoshidamashi",
+  "th": "ตราบใดที่คุณควบคุมมอนสเตอร์ที่ไม่ใช่ Tuner มอนสเตอร์ของคู่ต่อสู้จะไม่สามารถเลือกการ์ดใบนี้เป็นเป้าหมายในการโจมตีได้\nถ้ามีการ์ดถูกส่งจากสนามไปยังสุสานของคู่ต่อสู้: วาง Otoshidamashi Counter 1 ตัวบนการ์ดใบนี้ จากนั้น อัญเชิญพิเศษ \"Otoshidamashi Tokens\" (Beast/EARTH/Level 1/ATK ?/DEF ?) ขึ้นมาสูงสุดตามจำนวน Otoshidamashi Counters ที่อยู่บนการ์ดใบนี้\nLevel ของแต่ละ Token จะเพิ่มขึ้นเมื่อถูกอัญเชิญตามจำนวน Otoshidamashi Counters ที่อยู่บนการ์ดใบนี้ นอกจากนี้ ATK/DEF ของแต่ละ Token คือ Level เมื่อถูกอัญเชิญ x 500\nคุณสามารถใช้เอฟเฟกต์ของ \"Otoshidamashi\" ได้เพียง 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "a1d111956ecf83321e7816cbb8ece48b4ef4e650dd9e6cd017027e354b95edb2",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "73244186",
+  "name": "Moray of Avarice",
+  "th": "เอาการ์ดมอนสเตอร์ Fish, Sea Serpent หรือ Aqua ที่หงายอยู่ 1 ใบที่คุณควบคุมออกจากเกม; จั่วการ์ด 2 ใบ\nคุณสามารถเปิดใช้ \"Moray of Avarice\" ได้ 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "7a51f971097f0d1d72a372978fc89780e256edea3d99f922771026e5bbc2476c",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

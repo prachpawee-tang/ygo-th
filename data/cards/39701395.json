@@ -1,9 +1,9 @@
 {
   "id": "39701395",
   "name": "Cards of Consonance",
-  "th": "ทิ้ง Dragon Tuner 1 ใบที่มี ATK 1000 หรือน้อยกว่า; จั่วการ์ด 2 ใบ",
+  "th": "ทิ้งการ์ด Dragon Tuner 1 ใบที่มี ATK 1000 หรือน้อยกว่า; จั่วการ์ด 2 ใบ.",
   "status": "ai",
   "en_sha256": "10c1c39d31acb5cc55e4102fa76aa33be73db4078f0fc41139497e97032da12b",
   "model": "gemma3:12b",
-  "updated": "2026-11-04"
+  "updated": "2026-11-06"
 }

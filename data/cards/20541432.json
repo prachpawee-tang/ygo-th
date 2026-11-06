@@ -1,0 +1,9 @@
+{
+  "id": "20541432",
+  "name": "Key Mace #2",
+  "th": "ปีศาจตัวนี้กระตุ้นด้านมืดในตัวของทุกคน.",
+  "status": "ai",
+  "en_sha256": "3a4b03e9a65bdff7c07bbd4b4e39ead90ed6383ae87974f75e6670d6cad56768",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

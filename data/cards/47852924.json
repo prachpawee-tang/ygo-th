@@ -1,0 +1,12 @@
+{
+  "id": "47852924",
+  "name": "Soul of the Pure",
+  "th": "เพิ่ม Life Points ของคุณ 800 points.",
+  "status": "ai",
+  "en_sha256": "9d31f13901e9a36dd4d18791b7de1ff7f725a2d8e4ef5b1e84d0cffc3892be9b",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "alt": [
+    "47852925"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "40160226",
+  "name": "Mecha Sea Dragon Plesion",
+  "th": "ถ้าคุณควบคุมมอนสเตอร์ Type Sea Serpent ที่หงายอยู่ คุณสามารถ อัญเชิญปกติ การ์ดใบนี้ได้โดยไม่ต้อง สังเวย\n1 ครั้งต่อเทิร์น: คุณสามารถ สังเวย มอนสเตอร์ WATER 1 ตัว เพื่อ เลือกเป้าหมาย การ์ดที่คว่ำอยู่ 1 ใบที่คู่ต่อสู้ควบคุม; ทำลายเป้าหมายนั้น",
+  "status": "ai",
+  "en_sha256": "44cdc5b0afd4e05abbc4d8451bdf3a4ca7b35337dbd49445301acac054e3eac6",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: \"face-up\" ×2 in English but \"หงาย\" ×1 in Thai — meaning may be wrong"
+}

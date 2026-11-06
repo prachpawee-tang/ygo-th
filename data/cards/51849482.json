@@ -1,0 +1,10 @@
+{
+  "id": "51849482",
+  "name": "Finis Terrae, Tower of the Necroworld",
+  "th": "ถ้าคุณควบคุมมอนสเตอร์ Level 10 คุณสามารถอัญเชิญพิเศษการ์ดใบนี้ (จากมือ) ได้\nคุณสามารถอัญเชิญพิเศษ \"Finis Terrae, Tower of the Necroworld\" ด้วยวิธีนี้ได้เพียง 1 ครั้งต่อเทิร์น\nถ้าการ์ดใบนี้ถูกส่งลงสุสาน: คุณสามารถเลือกเป้าหมายการ์ดที่คว่ำอยู่ 1 ใบในสนาม; การ์ดใบนั้นจะไม่ถูกทำลายโดยเอฟเฟกต์ของการ์ดในเทิร์นนี้\nคุณสามารถใช้เอฟเฟกต์ของ \"Finis Terrae, Tower of the Necroworld\" ได้เพียง 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "24699115439a4223c51855848d106c25e63a1b10f0caad887933ecfe51416488",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: \"face-up\" ×1 in English but \"หงาย\" ×0 in Thai — meaning may be wrong"
+}

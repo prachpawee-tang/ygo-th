@@ -1,0 +1,10 @@
+{
+  "id": "26647858",
+  "name": "Hero Ring",
+  "th": "เลือกมอนสเตอร์ประเภท Warrior ที่มี ATK 1500 หรือน้อยกว่า; ติดการ์ดใบนี้เป็น Material ให้กับมัน\nมอนสเตอร์ที่คู่ต่อสู้ควบคุมที่มี ATK 1900 หรือมากกว่าไม่สามารถโจมตีเป้าหมายนั้นได้",
+  "status": "ai",
+  "en_sha256": "1d4ab3883a5542e9b129201b599b4c02bad2ffe559122ceee985fd27b305e767",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

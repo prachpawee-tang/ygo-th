@@ -1,0 +1,10 @@
+{
+  "id": "57270476",
+  "name": "Grave Lure",
+  "th": "เปิดการ์ดบนสุดของเด็คของคู่ต่อสู้ให้คว่ำขึ้น จากนั้นคู่ต่อสู้สับเด็คของพวกเขา\nเมื่อคู่ต่อสู้จั่วการ์ดที่เปิดไว้ ให้ส่งมันลงสุสานทันที",
+  "status": "ai",
+  "en_sha256": "f07ad74b655145882cd4ad0a4119e46522d30d43a83b8ac2124f0e7727acce5d",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: \"face-up\" ×2 in English but \"หงาย\" ×0 in Thai — meaning may be wrong"
+}

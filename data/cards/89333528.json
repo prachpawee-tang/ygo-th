@@ -1,0 +1,9 @@
+{
+  "id": "89333528",
+  "name": "Genex Gaia",
+  "th": "ถ้าการ์ดใบนี้จะถูกทำลาย คุณสามารถทำลายมอนสเตอร์ \"Genex Controller\" 1 ตัวที่คุณควบคุมแทนได้.",
+  "status": "ai",
+  "en_sha256": "93f14bbc56ed6f1df35a443c202595fb439afab6a8c6cb7df9ddfd4e489d3f8c",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "30968774",
+  "name": "Swap Cleric",
+  "th": "ถ้าการ์ดใบนี้ถูกส่งลงสุสานเป็น Link Material: คุณสามารถทำให้ Link Monster นั้นเสีย ATK 500 และจั่วการ์ด 1 ใบ\nคุณสามารถใช้เอฟเฟกต์ของ \"Swap Cleric\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "e25a044f5b4a43a5a334fb86663406b27de146dc1c28342fc64783a6048beaee",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

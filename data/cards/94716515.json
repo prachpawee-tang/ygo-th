@@ -1,0 +1,9 @@
+{
+  "id": "94716515",
+  "name": "Eradicating Aerosol",
+  "th": "ทำลายมอนสเตอร์แมลงทั้งหมดบนสนาม.",
+  "status": "ai",
+  "en_sha256": "f683eebeadbf3e01d38f07a7048278f21ac7d3a91c2b6b1bdf2663694be93ab0",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

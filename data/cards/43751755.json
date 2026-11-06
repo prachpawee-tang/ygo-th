@@ -1,0 +1,9 @@
+{
+  "id": "43751755",
+  "name": "Chrysalis Pantail",
+  "th": "คุณสามารถสังเวยการ์ดใบนี้ได้เมื่อ \"Neo Space\" อยู่บนสนาม เพื่ออัญเชิญพิเศษ \"Neo-Spacian Dark Panther\" 1 ตัวจากมือหรือเด็คของคุณ.",
+  "status": "ai",
+  "en_sha256": "96600d3816fc9013c23fc8895fcac4e95920d9b757bd8967aa5eb8297c39e649",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

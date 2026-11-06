@@ -1,0 +1,10 @@
+{
+  "id": "42921475",
+  "name": "Fairy Tail - Sleeper",
+  "th": "FLIP: คุณสามารถอัญเชิญพิเศษมอนสเตอร์ 1 ตัวจากมือของคุณได้\nเมื่อคู่ต่อสู้เปิดใช้การ์ดเวทมนตร์ปกติ/กับดัก (Quick Effect): คุณสามารถสังเวยมอนสเตอร์ตัวอื่น 1 ตัว; เอฟเฟกต์ที่เปิดใช้นั้นจะกลายเป็น \"เปลี่ยนมอนสเตอร์หงาย 1 ตัวที่คู่ต่อสู้ควบคุมให้เป็นท่าป้องกันคว่ำ\"\nคุณสามารถใช้เอฟเฟกต์ของ \"Fairy Tail - Sleeper\" ได้เพียง 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "82a8a06992d85cf7da91cf6fac89efea9f6b1033d773f00103aaf48e75af199e",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: card names in quotes changed/missing: \"Change 1 face-up monster your opponent controls to face-down Defense Position\""
+}

@@ -1,0 +1,10 @@
+{
+  "id": "10131855",
+  "name": "Dark World Brainwashing",
+  "th": "เมื่อมอนสเตอร์ของคู่ต่อสู้เปิดใช้งานเอฟเฟกต์, ถ้าคุณมี 3 ใบหรือมากกว่าในมือ (ยกเว้นในช่วง Damage Step): คุณสามารถเลือกเป้าหมายมอนสเตอร์ \"Dark World\" 1 ตัวในสนาม; ส่งมันกลับขึ้นมือ, และถ้าทำได้ เอฟเฟกต์ที่เปิดใช้นั้นจะกลายเป็น \"ทิ้งการ์ดสุ่ม 1 ใบจากมือของคู่ต่อสู้\".",
+  "status": "ai",
+  "en_sha256": "fc01b01fd0c7e6db3286b677b06ab906967fee8b41e2b63d2a7bdbd8dcb3cea4",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: card names in quotes changed/missing: \"Discard 1 random card from your opponent's hand\""
+}

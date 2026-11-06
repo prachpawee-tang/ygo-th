@@ -1,0 +1,10 @@
+{
+  "id": "13379114",
+  "name": "Archfiend's Fervor",
+  "th": "ถ้าคุณควบคุม \"Archfiend\" Ritual Monster ใน Extra Monster Zone: คุณสามารถเลือกเป้าหมายการ์ดที่คว่ำอยู่ 1 ใบที่คู่ต่อสู้ควบคุม; ลบล้างเอฟเฟกต์ของมันจนจบเทิร์นนี้\nถ้าการ์ดใบนี้ถูกเอาออกจากเกมจากมือหรือสนาม: คุณสามารถเพิ่มการ์ด \"Archfiend\" 1 ใบจากเด็คของคุณขึ้นมือได้, ยกเว้น \"Archfiend's Fervor\"\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Archfiend's Fervor\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "4a5418a23daef02d0b104b1e7c75374631d88059093e89ee9aba69dc099bbd5a",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: \"face-up\" ×1 in English but \"หงาย\" ×0 in Thai — meaning may be wrong"
+}

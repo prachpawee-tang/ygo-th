@@ -1,0 +1,9 @@
+{
+  "id": "37953640",
+  "name": "Royal Swamp Eel",
+  "th": "ถ้าการ์ดใบนี้ถูกใช้เป็นมอนสเตอร์ Material ในการ Synchro, มอนสเตอร์ Material Synchro อื่น ๆ ทั้งหมดต้องเป็นมอนสเตอร์ประเภท Fish-Type.",
+  "status": "ai",
+  "en_sha256": "cf10337516962512da2cdfd4b55390981a05b5363107d788845d7deae5a9d282",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "58685438",
+  "name": "Bicorn Re'em",
+  "th": "ถ้าการ์ดใบนี้ถูกส่งลงสุสานเป็น Synchro Material Monster สำหรับการอัญเชิญแบบ Synchro, ส่งการ์ด 2 ใบแรกจากบนสุดของเด็คของคู่ต่อสู้ลงสุสาน.",
+  "status": "ai",
+  "en_sha256": "845161dba4a8a99eb540f1f61f56be96f25a5ae6019b211304763f8ec6bc6c3c",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

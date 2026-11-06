@@ -1,0 +1,9 @@
+{
+  "id": "57777714",
+  "name": "Ritual Beast Tamer Zeframpilica",
+  "th": "[ Pendulum Effect ]\nคุณไม่สามารถอัญเชิญแบบ Pendulum มอนสเตอร์ได้ ยกเว้นมอนสเตอร์ \"Ritual Beast\" และ \"Zefra\"\nเอฟเฟกต์นี้ไม่สามารถถูกลบล้างได้\n[ Monster Effect ]\nเมื่อการ์ดใบนี้ถูกอัญเชิญปกติหรืออัญเชิญแบบ Pendulum: คุณสามารถเลือกเป้าหมายมอนสเตอร์ \"Ritual Beast\" หรือ \"Zefra\" 1 ตัวในสุสานของคุณ ยกเว้น \"Ritual Beast Tamer Zeframpilica\"; อัญเชิญพิเศษมัน แต่ทำลายมันในช่วง End Phase\nคุณสามารถอัญเชิญพิเศษ \"Ritual Beast Tamer Zeframpilica(s)\" ได้เพียง 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "6ed2f15e3611f47524c02cd91adf5dc980ccd40b462d62acf2c280cf87879a56",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

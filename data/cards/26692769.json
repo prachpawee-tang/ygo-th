@@ -1,9 +1,9 @@
 {
   "id": "26692769",
   "name": "The Phantom Knights of Rusty Bardiche",
-  "th": "มอนสเตอร์ DARK 2+ ตัว\nระหว่าง Main Phase ของคุณ: คุณสามารถส่งมอนสเตอร์ \"The Phantom Knights\" 1 ตัวจากเด็คของคุณลงสุสาน จากนั้นเซ็ต การ์ดเวทมนตร์/กับดัก \"Phantom Knights\" 1 ใบจากเด็คของคุณลงใน Spell & Trap Zone ของคุณโดยตรง ถ้ามีการอัญเชิญพิเศษ มอนสเตอร์ Xyz DARK (1 ตัวหรือมากกว่า) ลงใน Main Monster Zone/Extra Monster Zone ที่การ์ดใบนี้ชี้อยู่ ในขณะที่มอนสเตอร์นี้อยู่ในสนาม (ยกเว้นระหว่าง Damage Step): คุณสามารถเลือกเป้าหมายการ์ด 1 ใบในสนาม; ทำลายมัน คุณสามารถใช้แต่ละเอฟเฟกต์ของ \"The Phantom Knights of Rusty Bardiche\" ได้ 1 ครั้งต่อเทิร์น ไม่สามารถใช้เป็น Link Material ได้",
+  "th": "มอนสเตอร์ DARK 2+ ตัว\nระหว่าง Main Phase ของคุณ: คุณสามารถส่งมอนสเตอร์ \"The Phantom Knights\" 1 ตัวจากเด็คของคุณลงสุสาน จากนั้นเซ็ตการ์ด Spell/Trap \"Phantom Knights\" 1 ใบจากเด็คของคุณลงใน Spell & Trap Zone ของคุณโดยตรง\nถ้ามีการ์ด DARK Xyz Monster(s) ถูกอัญเชิญพิเศษไปยัง Main Monster Zone(s) ที่การ์ดใบนี้ชี้อยู่ ในขณะที่มอนสเตอร์ใบนี้อยู่ในสนาม (ยกเว้นระหว่าง Damage Step): คุณสามารถเลือกเป้าหมายการ์ด 1 ใบในสนาม; ทำลายมัน\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"The Phantom Knights of Rusty Bardiche\" ได้ 1 ครั้งต่อเทิร์น\nไม่สามารถใช้เป็น Link Material ได้",
   "status": "ai",
   "en_sha256": "a9522af44e64029aaa449f27cdefbe53ad4373025d9f151dceccd63417e2393e",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-06"
 }

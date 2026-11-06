@@ -1,0 +1,10 @@
+{
+  "id": "87240371",
+  "name": "Beetrooper Descent",
+  "th": "อัญเชิญพิเศษ \"Beetrooper Token\" (Insect/EARTH/Level 3/ATK 1000/DEF 1000) จากในมือหรือสุสานของคุณ; จากนั้น ถ้าคุณควบคุมมอนสเตอร์ Insect ที่มี ATK 3000 หรือมากกว่า คุณสามารถทำลายการ์ด Spell/Trap อื่น 1 ใบในสนามได้\nคุณสามารถเปิดใช้ \"Beetrooper Descent\" ได้เพียง 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "1e94c467aa4be91ea766a3471ea62caabc4ad707e836463ff7bfccb774993d4a",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

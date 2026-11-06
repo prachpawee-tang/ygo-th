@@ -1,0 +1,10 @@
+{
+  "id": "45115956",
+  "name": "Ancient Warriors Saga - Deception and Betrayal",
+  "th": "ระหว่าง Main Phase ของคุณ: คุณสามารถ อัญเชิญพิเศษ มอนสเตอร์ \"Ancient Warriors\" 1 ตัวจาก มือของคุณ และถ้าทำได้ ให้รับความเสียหายเท่ากับ Level x 100 ของมัน\nคุณสามารถส่งการ์ดใบนี้จาก Spell & Trap Zone ลงสุสาน และจากนั้น เลือกเป้าหมายมอนสเตอร์ \"Ancient Warriors\" 1 ตัวบนสนาม; เปลี่ยน Attribute เป็น Attribute ใดก็ได้ จากนั้น ถ้าคุณเลือกเป้าหมายมอนสเตอร์ของคู่ต่อสู้ คุณสามารถควบคุมมันได้\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Ancient Warriors Saga - Deception and Betrayal\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "fff9e0ff1f9d8994ad26f754c6fa6adede2f4be39a5f1348ec7843e5ae5bc3f8",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: \"face-up\" ×1 in English but \"หงาย\" ×0 in Thai — meaning may be wrong"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "6901008",
+  "name": "Phantom King Hydride",
+  "th": "ถ้าคุณใช้การ์ดนี้ที่คุณควบคุมสำหรับการอัญเชิญ Synchro, คุณสามารถมองว่ามันเป็นมอนสเตอร์ non-Tuner ได้.",
+  "status": "ai",
+  "en_sha256": "c4d04edc762cb4093117678b860d17597dbc3ddc42b1966cd1b83929f41d7cfc",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

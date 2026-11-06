@@ -1,0 +1,9 @@
+{
+  "id": "83054225",
+  "name": "Scramble!! Scramble!!",
+  "th": "ถ้ามอนสเตอร์ของคู่ต่อสู้ในสนามมีจำนวนมากกว่ามอนสเตอร์ที่ไม่ใช่โทเค็นของคุณในสนาม: สังเวย \"Mecha Phantom Beast Tokens\" จำนวนใดก็ได้; อัญเชิญพิเศษมอนสเตอร์ \"Mecha Phantom Beast\" จำนวนเท่ากันจากเด็คของคุณ\nสับกลับเข้าเด็คในช่วง End Phase\nคุณสามารถเปิดใช้ \"Scramble!! Scramble!!\" ได้เพียง 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "ce2429f04b7ba64b64c08bfd7c3c0d193b3035efcce0d72dbd5dd2d41e57f3bf",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

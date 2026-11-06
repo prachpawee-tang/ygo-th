@@ -1,0 +1,9 @@
+{
+  "id": "16828633",
+  "name": "Genex Spare",
+  "th": "1 ครั้งต่อเทิร์น, ถ้าคุณควบคุมมอนสเตอร์ \"Genex\" ตัวอื่น, คุณสามารถเปลี่ยนชื่อการ์ดใบนี้เป็น \"Genex Controller\" จนถึง End Phase.",
+  "status": "ai",
+  "en_sha256": "68088d4f86c7cd1a22eb4c7540cb36b956586148040a8fc2ffd879e2154dd660",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

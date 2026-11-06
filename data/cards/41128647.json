@@ -1,0 +1,9 @@
+{
+  "id": "41128647",
+  "name": "Dinomic Powerload",
+  "th": "มอนสเตอร์ \"Dinomist\" ทั้งหมดบนสนาม ได้รับ ATK และ DEF 300\nถ้ามอนสเตอร์ \"Dinomist\" ที่คุณควบคุมทำการต่อสู้ คู่ต่อสู้จะไม่สามารถเปิดใช้การ์ดหรือเอฟเฟกต์ใดๆ ได้จนกว่าจะถึงจบ Damage Step",
+  "status": "ai",
+  "en_sha256": "93b9eb7299cc7b0462705aa42a42cb5ca1a6b18d3c7cbe718358e1ab302afaaf",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

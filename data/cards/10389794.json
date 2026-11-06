@@ -1,0 +1,9 @@
+{
+  "id": "10389794",
+  "name": "Doom Donuts",
+  "th": "พลิก: ทำลายมอนสเตอร์ที่หงายอยู่ทั้งหมดบนสนามที่มี ATK หรือ DEF เดิมเป็น 0.",
+  "status": "ai",
+  "en_sha256": "8eea0b5a6a77d3ae0b59f3499d4e7634e19776fce9bafe3a7e46d81a47f63aec",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

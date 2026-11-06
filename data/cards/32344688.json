@@ -1,0 +1,9 @@
+{
+  "id": "32344688",
+  "name": "Dark Chimera",
+  "th": "\"มอนสเตอร์ที่พ่นไฟและอาศัยอยู่ในโลกใต้.\"",
+  "status": "ai",
+  "en_sha256": "a2402fcd45d35bcbd15e74aecdf03fd6b5a35cd2d215c00af16e070658191784",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

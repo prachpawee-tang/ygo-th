@@ -1,0 +1,9 @@
+{
+  "id": "57585212",
+  "name": "Self-Destruct Button",
+  "th": "คุณสามารถเปิดใช้การ์ดนี้ได้เมื่อ Life Points ของคุณต่ำกว่า Life Points ของคู่ต่อสู้ และผลต่างเป็น 7000 แต้มหรือมากกว่า\nLife Points ของทั้งผู้เล่นกลายเป็น 0",
+  "status": "ai",
+  "en_sha256": "6adc2eebb00d03be4c5a47d45e71caaa0efc77bdce4e0422afe7eafe5f3a49ff",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "93224848",
+  "name": "Phantasmal Martyrs",
+  "th": "เปิดใช้ได้เฉพาะเมื่อคุณมีการ์ด 2 ใบขึ้นไปในมือ และควบคุม \"Uria, Lord of Searing Flames\" หรือ \"Hamon, Lord of Striking Thunder\" ที่หงายอยู่\nส่งมือของคุณทั้งหมดลงสุสานเพื่ออัญเชิญพิเศษ \"Phantasmal Martyr Tokens\" (มอนสเตอร์เอฟเฟกต์/DARK/Level 1/ATK 0/DEF 0) จำนวน 3 ตัวในท่าโจมตี",
+  "status": "ai",
+  "en_sha256": "9e2561092cb6e7c4b10bf8b0fe2966f0dccbe920eaf8ce264dd6fbc1a494109b",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "80032567",
+  "name": "Jurrac Giganoto",
+  "th": "1 Tuner + 1 หรือมากกว่ามอนสเตอร์ Dinosaur-Type ที่ไม่ใช่ Tuner\nมอนสเตอร์ \"Jurrac\" ที่หงายอยู่ทั้งหมดที่คุณควบคุม ได้รับ ATK 200 สำหรับแต่ละมอนสเตอร์ \"Jurrac\" ในสุสานของคุณ",
+  "status": "ai",
+  "en_sha256": "a315a2036c9a73b576240e8c741fbf9ffd11602caa20c3a51c676f9df04f7b3f",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

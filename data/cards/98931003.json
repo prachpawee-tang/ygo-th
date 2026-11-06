@@ -1,0 +1,10 @@
+{
+  "id": "98931003",
+  "name": "Nanana",
+  "th": "เลือกเป้าหมายมอนสเตอร์ Level 7 หรือ Rank 7 ที่คุณควบคุม; มันได้รับ ATK/DEF 700 จนจบเทิร์นนี้.",
+  "status": "ai",
+  "en_sha256": "96f8f050f5ab6a5bc05be7cce3f46f67ba473613159db715b3ba85a90d023153",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

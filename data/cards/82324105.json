@@ -1,0 +1,9 @@
+{
+  "id": "82324105",
+  "name": "Limit Impulse",
+  "th": "ส่งการ์ด 2 ใบจากมือของคุณลงสุสาน; อัญเชิญพิเศษ \"Soul Tokens\" (Fiend/DARK/Level 1/ATK 0/DEF 0) 2 ตัว\nพวกมันไม่สามารถถูกสังเวยได้ ยกเว้นสำหรับการอัญเชิญแบบสังเวย",
+  "status": "ai",
+  "en_sha256": "1e22d90cf54fad543f4fb3733f26eaa59e9f120b107f2d5f5fd239b292946aaa",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

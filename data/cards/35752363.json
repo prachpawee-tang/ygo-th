@@ -1,0 +1,9 @@
+{
+  "id": "35752363",
+  "name": "Vermillion Sparrow",
+  "th": "\"Rhaimundos of the Red Sword\" + \"Fireyarou\"",
+  "status": "ai",
+  "en_sha256": "cf041874a2bb0a403bf4a272f8caef4d94a1d22bd796782df5c74c6fabe8e2d7",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

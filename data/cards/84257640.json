@@ -1,0 +1,12 @@
+{
+  "id": "84257640",
+  "name": "Dian Keto the Cure Master",
+  "th": "เพิ่ม Life Points ของคุณขึ้น 1000 points.",
+  "status": "ai",
+  "en_sha256": "10f04858124c7eb5b2421ea019507148c8b52a44e3afb44ad8bb073aa06758e9",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "alt": [
+    "84257639"
+  ]
+}

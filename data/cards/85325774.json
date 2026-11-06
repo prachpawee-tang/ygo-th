@@ -1,0 +1,9 @@
+{
+  "id": "85325774",
+  "name": "Charge Into a Dark World",
+  "th": "เลือกมอนสเตอร์ Fiend ระดับ 4 หรือต่ำกว่า 1 ตัวในสุสานของคุณ; อัญเชิญพิเศษมัน จากนั้นทิ้งมอนสเตอร์ Fiend 1 ตัว\nคุณสามารถเปิดใช้ \"Charge Into a Dark World\" ได้เพียง 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "90444d9d69e2deda49df4db841dcb350fd4de653fa0091dd8d25ed6e542c77dd",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

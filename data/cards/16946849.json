@@ -1,0 +1,9 @@
+{
+  "id": "16946849",
+  "name": "Synthetic Seraphim",
+  "th": "ทุกครั้งที่เปิดใช้การ์ดกับดักสวนล้ม, ทันทีหลังจากที่มันจบการทำงาน, อัญเชิญพิเศษ \"Synthetic Seraphim Token\" (Fairy/LIGHT/Level 1/ATK 300/DEF 300) 1 ตัว.",
+  "status": "ai",
+  "en_sha256": "abf0b5b0477c7922ba775e34f644ad3caddcd8a8a5fc55c77eb156f484e8f8ed",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

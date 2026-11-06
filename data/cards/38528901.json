@@ -1,0 +1,9 @@
+{
+  "id": "38528901",
+  "name": "Shock Troops of the Ice Barrier",
+  "th": "คุณสามารถสังเวยการ์ดใบนี้เพื่อเลือกมอนสเตอร์ WATER ที่หงายอยู่บนสนาม 1 ตัว, ทำลายมัน, และเพิ่มมอนสเตอร์ \"Ice Barrier\" 1 ตัวจากเด็คของคุณขึ้นมือ.",
+  "status": "ai",
+  "en_sha256": "57fa782fe28dcd4b05d5a397cc3e3e14e3dba66b6ce7eed1bdfc5370efdba005",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "67808837",
+  "name": "Performapal King Bear",
+  "th": "[ Pendulum Effect ]\n1 ครั้งต่อเทิร์น, ระหว่าง End Phase, ถ้าการ์ดใบนี้ถูกเปิดใช้นี้เทิร์น: คุณสามารถทำลายการ์ดใบนี้ได้ และถ้าทำได้ ให้เพิ่มมอนสเตอร์ Level 7 หรือสูงกว่านั้น 1 ตัวขึ้นมือ ซึ่งอยู่ในสุสานหรือหงายอยู่ใน Extra Deck ของคุณ\n[ Monster Effect ]\nไม่สามารถถูกทำลายด้วยเอฟเฟกต์ Spell/Trap ขณะอยู่ในท่าโจมตี\nการ์ดใบนี้ได้รับ ATK 100 ต่อการ์ด \"Performapal\" แต่ละใบที่คุณควบคุม, เฉพาะระหว่าง Battle Phase ของคุณเท่านั้น",
+  "status": "ai",
+  "en_sha256": "cfaec04821e13c2f2f46ceb1bd791a121fbb0e0d599da24c5df907b7bfa0af85",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: \"face-up\" ×2 in English but \"หงาย\" ×1 in Thai — meaning may be wrong"
+}

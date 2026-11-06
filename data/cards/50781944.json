@@ -1,0 +1,9 @@
+{
+  "id": "50781944",
+  "name": "Ancient Crimson Ape",
+  "th": "เมื่อมอนสเตอร์ที่คุณควบคุมถูกทำลายและส่งลงสุสาน, ได้รับ Life Points 1000.",
+  "status": "ai",
+  "en_sha256": "8789315329f37e30bcd7095d112fee309caeaa8f44cd7b84670136b90ea86c57",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

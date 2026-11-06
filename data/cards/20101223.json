@@ -1,0 +1,9 @@
+{
+  "id": "20101223",
+  "name": "Breath of Light",
+  "th": "ทำลายมอนสเตอร์ Rock-Type ที่หงายอยู่ทั้งหมดบนสนาม.",
+  "status": "ai",
+  "en_sha256": "7668ad53088cb20a8a9803790f3ebb3a2d0664d09f1d42f7ab14d1a8b2cba636",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

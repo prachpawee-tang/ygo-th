@@ -1,0 +1,9 @@
+{
+  "id": "7512044",
+  "name": "Gather Your Mind",
+  "th": "เพิ่มการ์ด \"Gather Your Mind\" 1 ใบจากเด็คของคุณขึ้นมือ\nจากนั้นให้สับเด็คของคุณ\nคุณสามารถใช้ \"Gather Your Mind\" ได้เพียง 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "418a7d7b70ecba8243e6a841b59af24601e6e01a9d74b1be2d2112b97d656a1c",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "7080743",
+  "name": "Express Train Trolley Olley",
+  "th": "มอนสเตอร์ Xyz ที่ถูกอัญเชิญโดยใช้การ์ดนี้ในสนามเป็น Material Xyz ได้รับเอฟเฟกต์นี้\n● ถ้ามันถูกอัญเชิญแบบ Xyz: มันได้รับ ATK 800",
+  "status": "ai",
+  "en_sha256": "8f267bf3750f762482cbf1a7469fb3e3766b0e71bb3f60c93a6d02a5dc4a65fa",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

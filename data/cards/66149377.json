@@ -1,0 +1,9 @@
+{
+  "id": "66149377",
+  "name": "Magical Musket - Dancing Needle",
+  "th": "ถ้าคุณควบคุมมอนสเตอร์ \"Magical Musket\": เลือกเป้าหมายการ์ดสูงสุด 3 ใบในสุสาน; เอามันออกจากเกม\nคุณสามารถเปิดใช้ \"Magical Musket - Dancing Needle\" ได้เพียง 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "1b2c48fcc22dec868654691849a855cb202ba011668adc96d08bc4d3be37f089",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

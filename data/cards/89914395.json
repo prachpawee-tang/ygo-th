@@ -1,0 +1,9 @@
+{
+  "id": "89914395",
+  "name": "Divine Relic Mjollnir",
+  "th": "เลือกเป้าหมาย \"Aesir\" มอนสเตอร์ 1 ตัวที่คุณควบคุม; มันสามารถทำการโจมตีครั้งที่สองในช่วง Battle Phase ในเทิร์นนี้.",
+  "status": "ai",
+  "en_sha256": "7197a288346bddcf9b6bc81f0db554ae7a82dd977c45967c9cfdf2d434e00182",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

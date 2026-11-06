@@ -1,0 +1,9 @@
+{
+  "id": "41589166",
+  "name": "Tenkabito Shien",
+  "th": "การ์ดใบนี้ไม่ได้รับผลจากเอฟเฟกต์ของการ์ดกับดัก.",
+  "status": "ai",
+  "en_sha256": "187f754fc2385d91f8da8bbdb68ba480ac595d72a9fb0143a7fc5a0ef8e01722",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

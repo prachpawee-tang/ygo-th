@@ -1,0 +1,9 @@
+{
+  "id": "100461000",
+  "name": "Diabellstar, the Seeker of Sinful Spoils",
+  "th": "ถ้า \"Sinful Spoils of Subversion - Snake-Eye\" หรือ \"Snake-Eyes Poplar\" อยู่ในสุสานของคุณหรือคู่ต่อสู้ คุณสามารถอัญเชิญพิเศษการ์ดใบนี้ (จากมือของคุณ) ได้\nคุณสามารถอัญเชิญพิเศษ \"Diabellstar, the Seeker of Sinful Spoils\" ด้วยวิธีนี้ได้เพียง 1 ครั้งต่อเทิร์น\nคุณสามารถใช้แต่ละเอฟเฟกต์ต่อไปนี้ของ \"Diabellstar, the Seeker of Sinful Spoils\" ได้ 1 ครั้งต่อเทิร์น\nคุณสามารถเอามอนสเตอร์ \"Sinful Spoils of Doom - Rciela\" 1 ตัวออกจากเกมจากสุสานของคุณ; ทำลาย Spell/Trap ทั้งหมดที่คู่ต่อสู้ควบคุม\nในระหว่างเทิร์นของคู่ต่อสู้ (Quick Effect): คุณสามารถเอามอนสเตอร์ \"Sinful Spoils of Betrayal - Silvera\" 1 ตัวออกจากเกมจากสุสานของคุณ; ทำลายมอนสเตอร์ทั้งหมดที่คู่ต่อสู้ควบคุม",
+  "status": "ai",
+  "en_sha256": "0f47893d71bed933418abd0c0642a258fcbf152b6a88835bd2e4ec76593c6d8c",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

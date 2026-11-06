@@ -1,0 +1,9 @@
+{
+  "id": "58518520",
+  "name": "Clear Effector",
+  "th": "ถ้าการ์ดใบนี้ถูกส่งลงสุสานเป็น Material สำหรับการ Synchro: จั่วการ์ด 1 ใบ\nมอนสเตอร์ Synchro ที่ใช้การ์ดใบนี้เป็น Material สำหรับการ Synchro ไม่สามารถถูกทำลายได้ด้วยเอฟเฟกต์ของการ์ด",
+  "status": "ai",
+  "en_sha256": "17735afe48da37fe690ea370787feb1b989ebb8978058b9a63d21ca94161da09",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

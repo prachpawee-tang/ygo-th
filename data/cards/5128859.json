@@ -1,0 +1,9 @@
+{
+  "id": "5128859",
+  "name": "Elemental HERO Marine Neos",
+  "th": "\"Elemental HERO Neos\" + \"Neo-Spacian Marine Dolphin\"\nต้องทำการอัญเชิญพิเศษก่อน (จากเอ็กซ์ตร้าเด็ค) โดยการสับการ์ดที่ระบุข้างต้นที่คุณควบคุมกลับเข้าเด็ค\n(คุณไม่สามารถใช้ \"Polymerization\" ได้) 1 ครั้งต่อเทิร์น: คุณสามารถทำลายการ์ด 1 ใบแบบสุ่มในมือของคู่ต่อสู้",
+  "status": "ai",
+  "en_sha256": "16b641ab4cafaa8047d2a0319f09bfbe2aa3c92a9748f7ae898ad79475e30d4b",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

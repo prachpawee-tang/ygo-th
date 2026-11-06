@@ -1,0 +1,9 @@
+{
+  "id": "62393472",
+  "name": "Phantasos, the Dream Mirror Friend",
+  "th": "ถ้าการ์ดใบนี้ถูกอัญเชิญพิเศษด้วยเอฟเฟกต์ของมอนสเตอร์ \"Dream Mirror\": คุณสามารถเลือกเป้าหมายมอนสเตอร์ \"Dream Mirror\" ระดับ 8 หรือต่ำกว่าในสุสานของคุณ 1 ตัว ยกเว้น \"Phantasos, the Dream Mirror Friend\"; อัญเชิญพิเศษมันในท่าป้องกัน\nในช่วง Main Phase หรือ Battle Phase, ถ้า \"Dream Mirror of Terror\" อยู่ใน Field Zone (Quick Effect): คุณสามารถสังเวยการ์ดใบนี้; อัญเชิญพิเศษ \"Phantasos, the Dream Mirror Foe\" 1 ตัวจากเด็คของคุณ\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Phantasos, the Dream Mirror Friend\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "940380a68527bf5496abf7aae88d1c75f1a0c9237af40d4a059e6d0b09cf094a",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

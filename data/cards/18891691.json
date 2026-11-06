@@ -1,0 +1,9 @@
+{
+  "id": "18891691",
+  "name": "Perfect Machine King",
+  "th": "การ์ดใบนี้จะได้รับ ATK 500 เพิ่มสำหรับมอนสเตอร์ Machine-Type แต่ละตัวในสนาม.",
+  "status": "ai",
+  "en_sha256": "1ef747157ed6903eecca6015ce1d5c77ae1a4422706cde3fe02ac39b11591879",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

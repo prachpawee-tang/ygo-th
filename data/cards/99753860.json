@@ -1,0 +1,10 @@
+{
+  "id": "99753860",
+  "name": "Ars Magna the Division and the Union",
+  "th": "คุณสามารถเอาการ์ดใบนี้ออกจากเกมจากมือของคุณ; อัญเชิญพิเศษมอนสเตอร์ \"Ars Magna\" ที่ไม่ใช่ Spellcaster 1 ตัวจากสุสานของคุณหรือการถูกส่งออก; นอกจากนี้ มอนสเตอร์ Link \"Power Patron\" ของคุณสามารถโจมตีมอนสเตอร์ได้สูงสุด 3 ครั้งในแต่ละ Battle Phase ในเทิร์นนี้\nถ้ามีการอัญเชิญพิเศษ Synchro หรือ Link Monster(s) ในขณะที่การ์ดใบนี้ถูกส่งออก (ยกเว้นระหว่าง Damage Step): คุณสามารถอัญเชิญพิเศษการ์ดใบนี้\nคุณสามารถเอาการ์ด \"Ars Magna\" 1 ใบออกจากสุสานของคุณ; จั่วการ์ด 1 ใบ\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Ars Magna the Division and the Union\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "ea56a350e9888952052d5668f11f37cb05d9b185c4560a0421e44d9e8efa49c9",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: \"banish\" ×4 in English but \"ออกจากเกม\" ×1 in Thai — meaning may be wrong"
+}

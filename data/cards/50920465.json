@@ -1,0 +1,9 @@
+{
+  "id": "50920465",
+  "name": "Blizzard Thunderbird",
+  "th": "คุณสามารถทิ้งการ์ด 1 ใบ; อัญเชิญพิเศษมอนสเตอร์ WATER Winged Beast-Type 2 ตัว, 1 จากมือของคุณ และ 1 จากสุสานของคุณ, ยกเว้น \"Blizzard Thunderbird\", จากนั้นส่งการ์ดใบนี้จากสนามกลับขึ้นมือ\nคุณสามารถใช้เอฟเฟกต์ของ \"Blizzard Thunderbird\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "ac5cd36da5a3dc7448251dcbeee077cd78ed1abcfb0ddcc5224a76806c16d84b",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

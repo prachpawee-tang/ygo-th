@@ -1,0 +1,9 @@
+{
+  "id": "57182235",
+  "name": "Token Thanksgiving",
+  "th": "ทำลายโทเค็นทั้งหมดบนสนาม\nเพิ่ม Life Points ของคุณเป็นจำนวนโทเค็นที่ถูกทำลาย x 800 points",
+  "status": "ai",
+  "en_sha256": "00d6dc62458bdc81514941494b1117bfd6b338add1cd13e08d3096708e347327",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

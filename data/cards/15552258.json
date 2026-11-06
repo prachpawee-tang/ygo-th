@@ -1,0 +1,9 @@
+{
+  "id": "15552258",
+  "name": "Half or Nothing",
+  "th": "ระหว่าง Battle Phase ของคู่ต่อสู้ (ยกเว้นระหว่าง Damage Step): คู่ต่อสู้เลือก 1 ในเอฟเฟกต์เหล่านี้\n● ลด ATK ของมอนสเตอร์ทั้งหมดที่พวกเขาควบคุมในปัจจุบันลงครึ่งหนึ่ง จนจบ Battle Phase\n● จบ Battle Phase",
+  "status": "ai",
+  "en_sha256": "d51d1d751483e20708655dc6cce72b85d1f450de2915e479cbff864e38ccce62",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

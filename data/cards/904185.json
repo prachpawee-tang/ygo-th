@@ -1,0 +1,9 @@
+{
+  "id": "904185",
+  "name": "Vertical Landing",
+  "th": "สังเวยมอนสเตอร์ WIND จำนวนใดก็ได้ ยกเว้น Tokens; อัญเชิญพิเศษมอนสเตอร์ \"Mecha Phantom Beast Tokens\" (Machine-Type/WIND/Level 3/ATK 0/DEF 0) จำนวนเท่ากัน\nคุณสามารถเปิดใช้ \"Vertical Landing\" ได้เพียง 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "067c8ef475dcb43a05e8c89611a070d89bf3f60e989fb9812f0e0a598c100c67",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

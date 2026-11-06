@@ -1,0 +1,9 @@
+{
+  "id": "21051977",
+  "name": "Acorno",
+  "th": "ระหว่าง Main Phase ของคุณ: คุณสามารถส่ง \"Pinecono\" 1 ใบจากมือของคุณไปยังสุสาน, และอัญเชิญพิเศษการ์ดใบนี้จากมือ.",
+  "status": "ai",
+  "en_sha256": "c7668a66368e9fa5d37dbda1b7bc0ccb8be011fa6daa9a8284c232c7aafa4c77",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

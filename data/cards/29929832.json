@@ -1,0 +1,9 @@
+{
+  "id": "29929832",
+  "name": "Marine Beast",
+  "th": "\"Water Magician\" + \"Behegon\"",
+  "status": "ai",
+  "en_sha256": "0c92340a8d601aebaf42947675925f2f96b3a3c3a494c09bc5b34ecfc8d6688a",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

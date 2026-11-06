@@ -1,0 +1,9 @@
+{
+  "id": "66690411",
+  "name": "Mind on Air",
+  "th": "คู่ต่อสู้ของคุณต้องเล่นโดยเปิดเผยมือ.",
+  "status": "ai",
+  "en_sha256": "9dffaa18e939c85e7a01a4fa326c77316b2440eee5366894b2895c0dec1dc40c",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

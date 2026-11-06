@@ -1,0 +1,10 @@
+{
+  "id": "56981417",
+  "name": "Spellbook of the Master",
+  "th": "ถ้าคุณควบคุมมอนสเตอร์ชนิด Spellcaster: คุณสามารถเปิดเผยการ์ด \"Spellbook\" อีก 1 ใบในมือของคุณ จากนั้นเลือกเป้าหมายการ์ดเวทมนตร์ Normal Spell \"Spellbook\" ในสุสานของคุณ ยกเว้น \"Spellbook of the Master\"; เอฟเฟกต์ของการ์ดใบนี้จะกลายเป็นเอฟเฟกต์ของการ์ดเป้าหมายนั้น\nคุณสามารถเปิดใช้ \"Spellbook of the Master\" ได้เพียง 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "8d052a5c465031fe8217781692bb26b8fa193b8f92f29ef07064cf87c1d7d10a",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

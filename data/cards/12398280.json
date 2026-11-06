@@ -1,0 +1,9 @@
+{
+  "id": "12398280",
+  "name": "Freya, Spirit of Victory",
+  "th": "ตราบใดที่คุณควบคุมมอนสเตอร์ Fairy-Type นอกเหนือจาก \"Freya, Spirit of Victory\", มอนสเตอร์ของคู่ต่อสู้ไม่สามารถเลือกการ์ดใบนี้เป็นเป้าหมายในการโจมตีได้\nมอนสเตอร์ Fairy-Type ทั้งหมดที่คุณควบคุมได้รับ ATK และ DEF +400",
+  "status": "ai",
+  "en_sha256": "c3189287072091dcae34d9de263d538aca4179c2bc23f0f88dcbccee89198c92",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

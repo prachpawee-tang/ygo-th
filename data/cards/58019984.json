@@ -1,0 +1,9 @@
+{
+  "id": "58019984",
+  "name": "New World Formation",
+  "th": "เลือกเป้าหมาย Spell/Trap 1 ใบในสุสานของคุณที่กล่าวถึง \"Visas Starfrost\"; เซ็ตมัน และถ้าคุณเซ็ต Trap หรือ Quick-Play Spell มันสามารถเปิดใช้ได้ในเทิร์นนี้\nคุณสามารถเอาการ์ดใบนี้ออกจากเกมจากสุสานของคุณ จากนั้นเลือกเป้าหมาย Spells/Traps 3 ใบในสุสานของคุณที่กล่าวถึง \"Visas Starfrost\" ยกเว้น \"New World Formation\"; สับพวกมันกลับเข้าเด็ค\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"New World Formation\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "2b52cab0da7b4bb4204f53c4b9dcee550b13ec0ec0122156153b750bdf8b8542",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

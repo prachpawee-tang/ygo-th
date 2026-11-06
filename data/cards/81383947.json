@@ -1,0 +1,9 @@
+{
+  "id": "81383947",
+  "name": "White Magician Pikeru",
+  "th": "ระหว่าง Standby Phase ของคุณ เพิ่ม Life Points ของคุณ 400 แต้มสำหรับมอนสเตอร์แต่ละตัวในสนามของคุณ.",
+  "status": "ai",
+  "en_sha256": "6743ae38f091e92ed2cdd689500627d563ddc5bbd6466f028164ad42eb12fc23",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

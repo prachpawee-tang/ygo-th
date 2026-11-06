@@ -1,0 +1,9 @@
+{
+  "id": "11193246",
+  "name": "Lunalight Reincarnation Dance",
+  "th": "ถ้ามอนสเตอร์ที่คุณควบคุมถูกทำลายโดยการต่อสู้หรือเอฟเฟกต์ของการ์ด: เพิ่มมอนสเตอร์ \"Lunalight\" จากเด็คของคุณขึ้นมือได้สูงสุด 2 ตัว\nคุณสามารถเปิดใช้ \"Lunalight Reincarnation Dance\" ได้เพียง 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "d68bbd8bca2a327d5e17bccb0b2f164383d30c5aa1ddf91b9cbc81e0aca57101",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "49604192",
+  "name": "Mitsurugi Tempest",
+  "th": "ถ้าคุณมี “Mitsurugi” การ์ดเวทมนตร์พิธีกรรมในสุสานของคุณ: สังเวยมอนสเตอร์ 3 ตัวที่มีชื่อเดิมคือ “Ame no Murakumo no Mitsurugi”, “Futsu no Mitama no Mitsurugi”, และ “Ame no Habakiri no Mitsurugi”; บังคับให้คู่ต่อสู้เอาการ์ดทั้งหมด 8 ใบออกจากเกมจากมือ, เอ็กซ์ตร้าเด็ค, สนาม, และ/หรือ สุสาน\nคุณสามารถเปิดใช้ “Mitsurugi Tempest” ได้เพียง 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "cc35536af7df9346e0a7470315eb2955e82e3b8c2f56d8bec9ad3c3fdec20bf6",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

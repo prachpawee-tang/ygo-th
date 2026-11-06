@@ -1,0 +1,9 @@
+{
+  "id": "5026221",
+  "name": "Stellarnova Wave",
+  "th": "1 ครั้งต่อเทิร์น, ระหว่าง Main Phase ของคุณหรือ Battle Phase ของคู่ต่อสู้: คุณสามารถ อัญเชิญพิเศษ มอนสเตอร์ \"tellarknight\" 1 ตัวจาก มือของคุณ.",
+  "status": "ai",
+  "en_sha256": "b6d07697b94fa8a77796349aed59ccaa650c9a2e56405b553f3adb48cdd07330",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

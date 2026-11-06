@@ -1,0 +1,9 @@
+{
+  "id": "37803970",
+  "name": "Amazing Pendulum",
+  "th": "ถ้าคุณไม่มีการ์ดใน Pendulum Zones ของคุณ: เพิ่ม \"Magician\" มอนสเตอร์ Pendulum ที่หงายอยู่ 2 ตัวที่มีชื่อต่างกันจาก เอ็กซ์ตร้าเด็คของคุณขึ้นมือ\nคุณสามารถเปิดใช้ \"Amazing Pendulum\" ได้เพียง 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "7464becfc76f344ad2da237e001a055720b399a2d8581dd0c6a23359ea8fd4cf",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

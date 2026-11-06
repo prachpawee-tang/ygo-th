@@ -1,0 +1,9 @@
+{
+  "id": "90764875",
+  "name": "Gorgonic Ghoul",
+  "th": "ถ้าคุณควบคุม \"Gorgonic Ghoul\": คุณสามารถจ่าย LP 300; อัญเชิญพิเศษการ์ดใบนี้จากมือของคุณ\nคุณสามารถใช้เอฟเฟกต์ของ \"Gorgonic Ghoul\" ได้สูงสุด 2 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "1ffdb474ffb3bcc8ad243dec154dc5b32447cddb0a07339a33bb2e8ac436a52d",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

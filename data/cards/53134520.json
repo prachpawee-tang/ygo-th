@@ -1,0 +1,9 @@
+{
+  "id": "53134520",
+  "name": "Phantasmal Summoning Beast",
+  "th": "คุณสามารถสังเวยการ์ดใบนี้; เพิ่ม \"Uria, Lord of Searing Flames\", \"Hamon, Lord of Striking Thunder\" หรือ \"Raviel, Lord of Phantasms\" 1 ใบจากเด็คหรือสุสานของคุณขึ้นมือ, จากนั้นคุณสามารถอัญเชิญพิเศษมอนสเตอร์ Pyro, Thunder หรือ Fiend Level 10 จากมือของคุณได้ 1 ตัว ซึ่งมี ATK เท่ากับ DEF ของมัน โดยไม่สนใจเงื่อนไขการอัญเชิญ, แต่จะไม่สามารถโจมตีโดยตรงในเทิร์นนี้\nคุณสามารถเอากล่องใบนี้ออกจากเกมจากสุสานของคุณ; เพิ่ม \"Dimension Fusion Destruction\" 1 ใบจากเด็คของคุณขึ้นมือ\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Phantasmal Summoning Beast\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "246816c884e6c8037fdde63690cda726a0af010311d1fe5a0c6d897bdc17496f",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "20822520",
+  "name": "Spellbook Library of the Heliosphere",
+  "th": "ถ้าคุณมี “Spellbook” Spell Cards 5 ใบขึ้นไปในสุสาน: ขุดการ์ด 2 ใบแรกจากเด็คของคุณ, เพิ่มการ์ด “Spellbook” Spell Cards ที่ขุดได้ขึ้นมือ, และสับการ์ดที่เหลือกลับเข้าเด็ค\nคุณสามารถเปิดใช้ “Spellbook Library of the Heliosphere” ได้เพียง 1 ใบต่อเทิร์น\nคุณไม่สามารถเปิดใช้การ์ด Spell ใดๆ ในเทิร์นที่คุณเปิดใช้การ์ดนี้ได้, ยกเว้น “Spellbook” Spell Cards",
+  "status": "ai",
+  "en_sha256": "e8a87531bab3e550338b439ccea541961cebec0eb85b56c6bcc8da4faaea394d",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

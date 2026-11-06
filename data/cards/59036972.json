@@ -1,0 +1,9 @@
+{
+  "id": "59036972",
+  "name": "Mavelus",
+  "th": "\"Tyhone\" + \"Wings of Wicked Flame\"",
+  "status": "ai",
+  "en_sha256": "59a23603887b24f04355ab3284b5e3ee5254f15e35d992967bf6abb0c03126d3",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

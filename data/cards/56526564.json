@@ -1,0 +1,9 @@
+{
+  "id": "56526564",
+  "name": "Break Off Trap Hole",
+  "th": "เมื่อมอนสเตอร์ Link ถูกอัญเชิญแบบ Link: ทำลายมอนสเตอร์ทั้งหมดบนสนามที่ไม่ได้เชื่อมโยง.",
+  "status": "ai",
+  "en_sha256": "b99da5571e94eff9d19aaf9116580e6db914af37962cafbfc3cd25247d622909",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "95466842",
+  "name": "Mermail Abysslung",
+  "th": "คู่ต่อสู้ของคุณไม่สามารถเลือกมอนสเตอร์ WATER ที่หงายอยู่เพื่อการโจมตีได้ ยกเว้นใบนี้\nมอนสเตอร์ WATER ทั้งหมดที่คุณควบคุม ได้รับ ATK 300",
+  "status": "ai",
+  "en_sha256": "aec87f87586dca1e336f62dec7fbabc44a9faa1e22c92edb31c30fbb43e9f64e",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

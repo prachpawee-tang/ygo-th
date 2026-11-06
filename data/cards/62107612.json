@@ -1,0 +1,9 @@
+{
+  "id": "62107612",
+  "name": "Dimension Wanderer",
+  "th": "เมื่อมอนสเตอร์ถูกเอาออกจากเกมโดยเอฟเฟกต์ของ \"Galaxy-Eyes Photon Dragon\": คุณสามารถส่งการ์ดใบนี้จากมือของคุณลงสุสาน; สร้างความเสียหาย 3000 ให้กับคู่ต่อสู้\nคุณสามารถใช้เอฟเฟกต์ของ \"Dimension Wanderer\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "abffae30bec6c6f0c2f90e5b40beede3aefbf0ae5d909322049a6be49acc0b42",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

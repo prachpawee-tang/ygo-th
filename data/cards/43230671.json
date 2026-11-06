@@ -1,0 +1,9 @@
+{
+  "id": "43230671",
+  "name": "Ancient Lizard Warrior",
+  "th": "ก่อนยุคเริ่มต้นของมนุษย์ นักรบกิ้งตัวนี้ปกครองอย่างสูงสุด.",
+  "status": "ai",
+  "en_sha256": "824a6f8ae29ff88b57be0797cee37388dcd383c2e654565ca5f6724ffef8d717",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

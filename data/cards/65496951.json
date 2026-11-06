@@ -1,0 +1,9 @@
+{
+  "id": "65496951",
+  "name": "Vaalmonica Disarmonia",
+  "th": "วาง Resonance Counter 1 ตัวลงบนการ์ด 1 ใบใน Pendulum Zone ของคุณที่คุณสามารถวาง Resonance Counter ได้ จากนั้นใช้เอฟเฟกต์ต่อไปนี้ 1 ข้อ\n● ได้รับ LP 500, จากนั้นคุณสามารถเพิ่มการ์ด \"Vaalmonica\" ที่ถูกเอาออกจากเกมของคุณ 1 ใบขึ้นมือ ยกเว้น \"Vaalmonica Disarmonia\"\n● รับความเสียหาย 500, จากนั้นคุณสามารถเพิ่มการ์ด \"Vaalmonica\" 1 ใบจากสุสานของคุณขึ้นมือ ยกเว้น \"Vaalmonica Disarmonia\"\nคุณสามารถเปิดใช้ \"Vaalmonica Disarmonia\" ได้เพียง 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "5e8c582100dee8856cdf30a648d4db49549fa02fe2d7975c77cfa16d4534372b",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

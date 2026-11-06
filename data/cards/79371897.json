@@ -1,0 +1,9 @@
+{
+  "id": "79371897",
+  "name": "Reinforcement of the Army's Troops",
+  "th": "เมื่อมีการประกาศโจมตีที่เกี่ยวข้องกับมอนสเตอร์ Warrior ของคุณ: คุณสามารถอัญเชิญพิเศษมอนสเตอร์ Warrior เลเวล 4 หรือต่ำกว่า 1 ตัวจากมือของคุณได้\nคุณสามารถใช้เอฟเฟกต์ของ \"Reinforcement of the Army's Troops\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "20f20c5c3ab58940118b2c8b70e2eacc430255f108cd35810ff1e86c39a1e7d4",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

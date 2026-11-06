@@ -1,0 +1,9 @@
+{
+  "id": "38124994",
+  "name": "Fluffal Rabbit",
+  "th": "ถ้าการ์ดใบนี้ถูกส่งลงสุสานเป็น Material สำหรับการอัญเชิญแบบ Fusion: คุณสามารถเลือกเป้าหมายมอนสเตอร์ \"Edge Imp Sabres\" หรือ \"Fluffal\" 1 ตัวในสุสานของคุณ ยกเว้น \"Fluffal Rabbit\"; เพิ่มมันขึ้นมือ\nคุณสามารถใช้เอฟเฟกต์ของ \"Fluffal Rabbit\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "4852c31bea23e3ed054a8ce8e5a04ddb2ef2f7dd2649625f8df197973d1a96ad",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

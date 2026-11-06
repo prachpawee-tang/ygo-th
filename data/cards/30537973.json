@@ -1,0 +1,9 @@
+{
+  "id": "30537973",
+  "name": "Predaplant Spider Orchid",
+  "th": "[ Pendulum Effect ]\nระหว่าง Main Phase ของคุณ, ถ้าการ์ดใบนี้ถูกเปิดใช้นี้เทิร์น: คุณสามารถเลือกเป้าหมายการ์ด Spell & Trap อีก 1 ใบที่หงายอยู่; ทำลายมัน\nคุณสามารถใช้เอฟเฟกต์ของ \"Predaplant Spider Orchid\" ได้ 1 ครั้งต่อเทิร์น\n[ Monster Effect ]\nระหว่าง End Phase, ถ้าการ์ดใบนี้ถูก อัญเชิญปกติ หรือ อัญเชิญพิเศษนี้เทิร์น: คุณสามารถทิ้งการ์ด Plant 1 ตัว; เพิ่มการ์ด Plant เลเวล 4 หรือต่ำกว่า 1 ใบจากเด็คของคุณขึ้นมือ\nคุณสามารถใช้เอฟเฟกต์ของ \"Predaplant Spider Orchid\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "c2830fb35f22a70e1ae0835d188764e5e6f4c1060bfabda4db83c7c6b76cb114",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "90873992",
+  "name": "Warrior Elimination",
+  "th": "ทำลายมอนสเตอร์ Warrior ทั้งหมดบนสนาม.",
+  "status": "ai",
+  "en_sha256": "8282361592a4050612ff76525e74398c55c3b727c477d3766aafed0b0615cc3a",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

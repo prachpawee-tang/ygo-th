@@ -1,0 +1,9 @@
+{
+  "id": "86209650",
+  "name": "Stray Asmodian",
+  "th": "เมื่อการ์ดใบนี้ถูกทำลายและส่งลงสุสานด้วยการต่อสู้ ผู้เล่นทั้งสองฝ่ายได้รับ LP 800.",
+  "status": "ai",
+  "en_sha256": "8e44f82ddb9bbebacece44c9417c0d127db796db33f866b84ccade39bceab134",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

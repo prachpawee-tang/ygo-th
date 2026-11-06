@@ -1,0 +1,9 @@
+{
+  "id": "82085619",
+  "name": "Shining Friendship",
+  "th": "ผู้ประนีประนอมแห่งเหล่ามอนสเตอร์.",
+  "status": "ai",
+  "en_sha256": "39a89d1a3160ab243f6cce3ddb3654427c75c7fc655948876d079622f4101949",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "51394546",
+  "name": "Cemetary Bomb",
+  "th": "สร้างความเสียหาย 100 ให้กับคู่ต่อสู้ สำหรับการ์ดแต่ละใบในสุสานของพวกเขา.",
+  "status": "ai",
+  "en_sha256": "ace6f3e96dfa8946a7fae8e7351a2ab790bb8008fb6d34f4baadcaac2a83c5f4",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

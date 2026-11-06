@@ -1,0 +1,9 @@
+{
+  "id": "49847524",
+  "name": "Flame Administrator",
+  "th": "มอนสเตอร์ Cyberse 2 ตัว\nมอนสเตอร์ Link ทั้งหมดที่คุณควบคุมได้รับ ATK 800\nคุณสามารถควบคุม \"Flame Administrator\" ได้เพียง 1 ตัว",
+  "status": "ai",
+  "en_sha256": "e6c4f05c415278a566273ad07748a84834dd3946eaeb8b3b1a5de98dddab1791",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

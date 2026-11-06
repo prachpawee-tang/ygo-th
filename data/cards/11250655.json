@@ -1,0 +1,9 @@
+{
+  "id": "11250655",
+  "name": "Emperor of the Land and Sea",
+  "th": "\"สัตว์เลื้อยคลานที่พ่นไฟไปทุกทิศทาง.\"",
+  "status": "ai",
+  "en_sha256": "c9c73cb28dbd4f531e5721251276e74edb631845e230d9e087b6279d40780ff3",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

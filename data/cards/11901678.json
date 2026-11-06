@@ -1,9 +1,9 @@
 {
   "id": "11901678",
   "name": "Black Skull Dragon",
-  "th": "\"Summoned Skull\" + \"Red-Eyes Black Dragon\"\n\n(การ์ดใบนี้ถือว่าเป็น “Archfiend” เสมอ.)",
+  "th": "\"Summoned Skull\" + \"Red-Eyes Black Dragon\"\n(การ์ดใบนี้ถือว่าเป็นการ์ด \"Archfiend\" เสมอ.)",
   "status": "ai",
   "en_sha256": "0b1b7a68279eaabe71c165a91aa56029bc02fc582dc7ec3d800bddac7a137028",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-06"
 }

@@ -1,0 +1,9 @@
+{
+  "id": "45730592",
+  "name": "Adamancipator Resonance",
+  "th": "เมื่อเปิดใช้งานเอฟเฟกต์มอนสเตอร์, ในขณะที่คุณควบคุมมอนสเตอร์ Link \"Adamancipator\": ลบล้างการเปิดใช้งาน, และถ้าทำได้ ให้ทำลายมัน.",
+  "status": "ai",
+  "en_sha256": "3d2a38fa76ac075cb64c098a802eeaf4d4a31e09c2e719a37f096cb818f608e5",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

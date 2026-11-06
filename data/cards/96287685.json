@@ -1,0 +1,9 @@
+{
+  "id": "96287685",
+  "name": "Jar Turtle",
+  "th": "ทุกครั้งที่ \"Jar of Greed\" ถูกเปิดใช้, จั่วการ์ด 1 ใบ.",
+  "status": "ai",
+  "en_sha256": "4fa066ab30af673f40f0d66d5ec25d822337055903b8aefa3bc4a3c2e0b5aed4",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

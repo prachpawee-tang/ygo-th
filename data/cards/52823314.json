@@ -1,0 +1,9 @@
+{
+  "id": "52823314",
+  "name": "Tour Bus From the Underworld",
+  "th": "เมื่อการ์ดใบนี้ถูกส่งลงสุสาน: เลือกเป้าหมายมอนสเตอร์ 1 ตัวในสุสานของผู้เล่นคนใดก็ได้ ยกเว้น \"Tour Bus From the Underworld\"; สับการ์ดเป้าหมายนั้นกลับเข้าเด็ค.",
+  "status": "ai",
+  "en_sha256": "cc1f041b74d4c591d3d13b2da5a484db0843cdf41babf7057b26a7df23a42ca6",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

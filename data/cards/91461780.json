@@ -1,0 +1,9 @@
+{
+  "id": "91461780",
+  "name": "Blue-Eyes Ultimate Dragon, the God-Surpassing Servant",
+  "th": "\"Blue-Eyes White Dragon\" + \"Blue-Eyes White Dragon\" + \"Blue-Eyes White Dragon\"\nไม่สามารถถูกทำลายโดยเอฟเฟกต์ของการ์ดได้ และไม่ได้รับผลจากเอฟเฟกต์ที่เปิดใช้งานของคู่ต่อสู้ระหว่างเทิร์นของคู่ต่อสู้\nสามารถทำการโจมตีได้สูงสุด 3 ครั้งในระหว่าง Battle Phase แต่ละครั้ง\nเมื่อ Chain 1 ครั้ง ระหว่าง Battle Phase (Quick Effect): คุณสามารถเลือกเป้าหมายมอนสเตอร์ 1 ตัวที่ถูกอัญเชิญพิเศษในเทิร์นนี้ หรือการ์ดที่วางคว่ำ 1 ใบ ที่คู่ต่อสู้ควบคุม; ทำลายมัน\nคุณสามารถใช้เอฟเฟกต์ของ \"Blue-Eyes Ultimate Dragon, the God-Surpassing Servant\" ได้เพียง 3 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "4f12c0795bbf497edcee0080df03f4ca7c493d5a545893433cdac471369975f5",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

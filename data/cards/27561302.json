@@ -1,0 +1,10 @@
+{
+  "id": "27561302",
+  "name": "The Weather Rainy Canvas",
+  "th": "\"The Weather\" มอนสเตอร์เอฟเฟกต์ใน Main Monster Zones ของการ์ดใบนี้และคอลัมน์ที่อยู่ติดกันได้รับเอฟเฟกต์นี้\n● คุณสามารถขับไล่การ์ดใบนี้ จากนั้นเลือกเป้าหมาย Spell/Trap 1 ใบที่คู่ต่อสู้ควบคุม (Quick Effect); ส่งมันกลับขึ้นมือ\nคุณสามารถควบคุม \"The Weather Rainy Canvas\" ได้เพียง 1 ใบเท่านั้น",
+  "status": "ai",
+  "en_sha256": "a9fb1b220e8b9b487e7dc6cc1a5c4f1c9cbfb65d639720fd63e02e9bbd46c25a",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: \"banish\" ×1 in English but \"ออกจากเกม\" ×0 in Thai — meaning may be wrong"
+}

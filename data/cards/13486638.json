@@ -1,0 +1,9 @@
+{
+  "id": "13486638",
+  "name": "Raidraptor's Phantom Knights Claw",
+  "th": "เมื่อเปิดใช้งานเอฟเฟกต์มอนสเตอร์: ถอด Material 1 ชิ้นจาก DARK Xyz Monster ของคุณ; ลบล้างการเปิดใช้งาน และถ้าทำได้ ทำลายการ์ดใบนั้น จากนั้น ถ้า Material ที่ถอดเป็นของการ์ด \"The Phantom Knights\", \"Raidraptor\", หรือ \"Xyz Dragon\" มอนสเตอร์ Xyz \"Raidraptor\" ที่คุณควบคุม 1 ตัวได้รับ ATK เท่ากับ ATK เดิมของมอนสเตอร์ที่ถูกทำลายนั้น\nคุณสามารถเปิดใช้ \"Raidraptor's Phantom Knights Claw\" ได้เพียง 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "62c794e2b7146546e9d797c68dfb844722fea752dc372dd5bbc8a63041d1465e",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

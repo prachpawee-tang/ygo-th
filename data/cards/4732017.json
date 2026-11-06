@@ -1,0 +1,9 @@
+{
+  "id": "4732017",
+  "name": "Molten Zombie",
+  "th": "เมื่อการ์ดใบนี้ถูกอัญเชิญพิเศษจากสุสาน: จั่วการ์ด 1 ใบ.",
+  "status": "ai",
+  "en_sha256": "374500f743236fdcaf21508bb1033283f150ea736f0cd7fa00b88efeceacb8af",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

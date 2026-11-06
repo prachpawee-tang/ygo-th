@@ -1,0 +1,9 @@
+{
+  "id": "14464864",
+  "name": "Gleipnir, the Fetters of Fenrir",
+  "th": "เพิ่มมอนสเตอร์ \"Nordic\" 1 ตัวจากเด็คของคุณขึ้นมือ.",
+  "status": "ai",
+  "en_sha256": "1b134d1281ff2a2a8dbfd29139b14640cc3ad96ea69855894f984f50934ed25a",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

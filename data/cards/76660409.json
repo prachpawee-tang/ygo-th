@@ -1,0 +1,9 @@
+{
+  "id": "76660409",
+  "name": "Pendulum Back",
+  "th": "ถ้าคุณมี 2 การ์ดใน Pendulum Zones ของคุณ: เลือกเป้าหมายมอนสเตอร์ 2 ตัวในสุสานของคุณ, แต่ละตัวมี Level ระหว่าง (ไม่รวม) ระดับ Pendulum Scales ของการ์ดใน Pendulum Zones ของคุณ; เพิ่มพวกมันขึ้นมือ.",
+  "status": "ai",
+  "en_sha256": "65fe5b27484beec06f1bd6c2209c1014d1d9529830d37ef6f381be661c2cebac",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

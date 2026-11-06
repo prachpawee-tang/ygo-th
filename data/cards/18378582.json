@@ -1,0 +1,9 @@
+{
+  "id": "18378582",
+  "name": "Archlord Zerato",
+  "th": "การ์ดใบนี้ไม่สามารถอัญเชิญปกติหรือเซ็ตได้\nการ์ดใบนี้ไม่สามารถอัญเชิญพิเศษได้ ยกเว้นโดยการสังเวย \"Warrior of Zera\" ที่หงายอยู่ 1 ตัวใน Main Monster Zone ของคุณ ในขณะที่ \"The Sanctuary in the Sky\" อยู่ในสนาม\nถ้า \"The Sanctuary in the Sky\" อยู่ใน Main Monster Zone ของคุณ, โดยการทิ้งการ์ดมอนสเตอร์ LIGHT 1 ใบจากมือของคุณลงสุสาน, ทำลายมอนสเตอร์ทั้งหมดใน Main Monster Zone ที่คู่ต่อสู้ควบคุม\nถ้า \"The Sanctuary in the Sky\" ไม่อยู่ใน Main Monster Zone ของคุณ, เอฟเฟกต์นี้จะไม่ถูกใช้",
+  "status": "ai",
+  "en_sha256": "17322f3f39c818804e9ce79fce88074de8577203f7637cc7c5f84ebe9082316d",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

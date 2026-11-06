@@ -1,0 +1,9 @@
+{
+  "id": "79980427",
+  "name": "Mart, Knight of the Winter Raven",
+  "th": "คุณสามารถส่งการ์ดอื่น 1 ใบจากมือหรือสนามของคุณไปยังสุสาน; วางการ์ดใบนี้แบบหงายใน Spell & Trap Zone ของเจ้าของ และถ้าทำได้ อัญเชิญพิเศษมอนสเตอร์ \"Winter Raven\" สูงสุด 2 ตัวที่มีชื่อต่างกันจากเด็คของคุณ ยกเว้น \"Mart, Knight of the Winter Raven\"\nเมื่อมอนสเตอร์ประกาศโจมตีและการ์ดใบนี้เป็น Continuous Spell: คุณสามารถเลือกเป้าหมายมอนสเตอร์ \"Winter Raven\" การ์ด 1 ใบใน Spell & Trap Zone ของคุณ; อัญเชิญพิเศษมัน\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Mart, Knight of the Winter Raven\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "ce89400e60ce388ab4f2ddd0619c5d175b0ef0bb75613682b9e1f8b8051fb31e",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

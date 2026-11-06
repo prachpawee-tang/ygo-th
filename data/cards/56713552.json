@@ -1,0 +1,9 @@
+{
+  "id": "56713552",
+  "name": "Obese Marmot of Nefariousness",
+  "th": "สัตว์ร้ายในสนามที่ไร้มารยาท ซึ่งจะขย้ำทุกสิ่ง.",
+  "status": "ai",
+  "en_sha256": "9270dfbcd50f0b2f654b4290a7eb4c1f674ff319a7c447c7f3f08b5d492cb26f",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

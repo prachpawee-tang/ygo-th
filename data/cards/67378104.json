@@ -1,0 +1,10 @@
+{
+  "id": "67378104",
+  "name": "Celestial Observatory",
+  "th": "วางมอนสเตอร์ Level 6 จากมือของคุณหรือการ์ด Field ที่หงายอยู่บนกองเด็ค; จั่วการ์ด 2 ใบ\nคุณสามารถเปิดใช้ \"Celestial Observatory\" ได้เพียง 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "43781f86c946159f1815ed87c73ed4e3699f1d44143877fe34ece78526d700ae",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

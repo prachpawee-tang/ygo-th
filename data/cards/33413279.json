@@ -1,0 +1,9 @@
+{
+  "id": "33413279",
+  "name": "Explosive Magician",
+  "th": "1 Tuner + 1+ มอนสเตอร์ Spellcaster ที่ไม่ใช่ Tuner\nคุณสามารถนำ Spell Counter 2 ตัวออกจากสนามของคุณ จากนั้นเลือกเป้าหมาย Spell/Trap 1 ใบที่คู่ต่อสู้ควบคุม; ทำลายเป้าหมายนั้น",
+  "status": "ai",
+  "en_sha256": "1594a9674e44235673aa14c5c3ef9878befcb94f0297eb8f94f6271077d8dd09",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

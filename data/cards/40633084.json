@@ -1,0 +1,9 @@
+{
+  "id": "40633084",
+  "name": "Beetrooper Squad",
+  "th": "สังเวยมอนสเตอร์แมลงที่ไม่ใช่ Token; อัญเชิญพิเศษ \"Beetrooper Token\" (แมลง/EARTH/Level 3/ATK 1000/DEF 1000) ได้สูงสุด 1 ตัว สำหรับ ATK เดิมทุกๆ 1000 ของมอนสเตอร์ที่ถูกสังเวยนั้น\nคุณสามารถเปิดใช้ \"Beetrooper Squad\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "36bd4d988869835d900b5ad9b2bc4e64426b8a3223a5bf2ba3b45dd6d8c16625",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

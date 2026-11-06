@@ -1,0 +1,9 @@
+{
+  "id": "17994645",
+  "name": "Assault Blackwing - Sayo the Rain Hider",
+  "th": "1 Tuner + 1 non-Tuner monster\nถ้าการ์ดใบนี้ถูกอัญเชิญแบบ Synchro โดยใช้มอนสเตอร์ \"Blackwing\" เป็น Material, มันจะถือว่าเป็น Tuner ตราบเท่าที่มันหงายอยู่บนสนาม\nสองครั้งต่อเทิร์น, การ์ดใบนี้จะไม่ถูกทำลายจากการต่อสู้",
+  "status": "ai",
+  "en_sha256": "1f46b6a8d4f640b251fbf66fd342436737ffc7d5c55de4200ae102adcf480cb0",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

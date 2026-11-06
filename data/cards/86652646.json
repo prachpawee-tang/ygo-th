@@ -1,0 +1,10 @@
+{
+  "id": "86652646",
+  "name": "Skull Dog Marron",
+  "th": "สุนัขที่หลงหายที่พลัดหลงไปเมื่อ 1,000 ปีก่อน\nเขายังคงรอให้เจ้านายมาตามเขา",
+  "status": "ai",
+  "en_sha256": "5501d53556a4cc98923322ab20c101ec6596aad8068ebe0bd4bc616abc05d2bf",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: numbers missing in Thai: 1000"
+}

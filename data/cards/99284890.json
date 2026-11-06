@@ -1,0 +1,9 @@
+{
+  "id": "99284890",
+  "name": "Avatar of The Pot",
+  "th": "โดยการส่ง \"Pot of Greed\" 1 ใบจากมือของคุณไปยังสุสาน, จั่วการ์ด 3 ใบจากเด็คของคุณ.",
+  "status": "ai",
+  "en_sha256": "fd322f4fafe7579a1a1eb695c4e9eadea8e60d4a506ec6cca5110b63e410d88b",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

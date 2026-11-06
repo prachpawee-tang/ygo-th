@@ -1,9 +1,9 @@
 {
   "id": "14816857",
   "name": "Tri-Brigade Nervall",
-  "th": "คุณสามารถเอาออกจากเกมมอนสเตอร์ประเภท Beast, Beast-Warrior และ/หรือ Winged Beast จำนวนใดก็ได้ในสุสานของคุณ; อัญเชิญพิเศษมอนสเตอร์ Link ประเภท Beast, Beast-Warrior หรือ Winged Beast 1 ตัวจาก เอ็กซ์ตร้าเด็คของคุณ, โดยมี Link Rating เท่ากับจำนวนที่เอาออกจากเกม, นอกจากนี้ คุณสามารถใช้เฉพาะมอนสเตอร์ประเภท Beast, Beast-Warrior และ Winged Beast เป็น Link Material สำหรับเทิร์นนี้เท่านั้น ถ้าการ์ดใบนี้ถูกส่งลงสุสาน: คุณสามารถเพิ่มมอนสเตอร์ \"Tri-Brigade\" 1 ตัวจากเด็คของคุณขึ้นมือ, ยกเว้น \"Tri-Brigade Nervall\" คุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Tri-Brigade Nervall\" ได้ 1 ครั้งต่อเทิร์น",
+  "th": "คุณสามารถเอามอนสเตอร์ประเภท Beast, Beast-Warrior และ/หรือ Winged Beast จำนวนใดก็ได้ออกจากเกมจากสุสานของคุณ; อัญเชิญพิเศษมอนสเตอร์ Link ประเภท Beast, Beast-Warrior หรือ Winged Beast 1 ตัวจากเอ็กซ์ตร้าเด็คของคุณ โดยมี Link Rating เท่ากับจำนวนที่ถูกเอาออกจากเกม และคุณสามารถใช้เฉพาะมอนสเตอร์ประเภท Beast, Beast-Warrior และ Winged Beast เป็น Material Link สำหรับส่วนที่เหลือของเทิร์นนี้เท่านั้น\nถ้าการ์ดใบนี้ถูกส่งลงสุสาน: คุณสามารถเพิ่มมอนสเตอร์ \"Tri-Brigade\" 1 ตัวจากเด็คของคุณขึ้นมือ ยกเว้น \"Tri-Brigade Nervall\"\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Tri-Brigade Nervall\" ได้ 1 ครั้งต่อเทิร์น",
   "status": "ai",
   "en_sha256": "dbebcf60a1658b802949a90177f6ff99ca39ff2c67b252a13df6edc331c18838",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-06"
 }

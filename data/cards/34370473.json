@@ -1,0 +1,9 @@
+{
+  "id": "34370473",
+  "name": "Gryphon's Feather Duster",
+  "th": "ทำลายการ์ดเวทมนตร์และกับดักทั้งหมดบนสนามของคุณ\nเพิ่ม Life Points ของคุณเป็นจำนวนของการ์ดที่ถูกทำลายคูณ 500",
+  "status": "ai",
+  "en_sha256": "77c25dd1db9b7d8cd9a73e4012cd7f2c8e4bdff23148a80e7eba847f72760e14",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

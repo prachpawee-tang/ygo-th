@@ -1,0 +1,10 @@
+{
+  "id": "46606977",
+  "name": "Nemeses Umbrella",
+  "th": "คุณสามารถเลือกมอนสเตอร์ที่ถูกส่งลงสุสานของคุณ 1 ตัว ยกเว้น \"Nemeses Umbrella\"; อัญเชิญพิเศษการ์ดใบนี้จากมือของคุณ และถ้าทำได้ ให้สับเป้าหมายนั้นกลับเข้าเด็ค\nคุณสามารถเลือกมอนสเตอร์ \"Nemeses\" 1 ตัวในสุสานของคุณ ยกเว้น \"Nemeses Umbrella\"; เพิ่มมันขึ้นมือ\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Nemeses Umbrella\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "47a446bde2cf2ab6ea194b3c2bef81b0663add1939aaa83ed4ed2e0da0d48f25",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: \"banish\" ×1 in English but \"ออกจากเกม\" ×0 in Thai — meaning may be wrong"
+}

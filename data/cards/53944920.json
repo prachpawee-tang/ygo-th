@@ -1,0 +1,9 @@
+{
+  "id": "53944920",
+  "name": "Genex Furnace",
+  "th": "ถ้าคุณควบคุม \"Genex Controller\" ที่หงายอยู่ คุณสามารถอัญเชิญปกติการ์ดใบนี้โดยไม่ต้องสังเวย.",
+  "status": "ai",
+  "en_sha256": "eb5c30ecf5cc7f9ce3ad4f79032ad47c2d76b3d6c1c39a465984c96130cf26af",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

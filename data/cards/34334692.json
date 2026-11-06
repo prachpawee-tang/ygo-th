@@ -1,0 +1,10 @@
+{
+  "id": "34334692",
+  "name": "Ritual Raven",
+  "th": "ถ้าคุณทำการอัญเชิญแบบบูชายัญมอนสเตอร์ Ritual DARK, การ์ดใบนี้สามารถใช้เป็นสังเวยทั้งหมดได้.",
+  "status": "ai",
+  "en_sha256": "a09c96e109e833fb2f7bb5c77bb7e56bf01b505b556c2ea28994ca8d1301700e",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

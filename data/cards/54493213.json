@@ -1,0 +1,9 @@
+{
+  "id": "54493213",
+  "name": "Helios - The Primordial Sun",
+  "th": "ค่า ATK และ DEF ของการ์ดใบนี้เท่ากับจำนวนมอนสเตอร์ที่ถูกเอาออกจากเกม คูณ 100.",
+  "status": "ai",
+  "en_sha256": "73a27a7571d24317f8adbd6ffc4595d9db8e0355cf448f7fb2006a13c609b090",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

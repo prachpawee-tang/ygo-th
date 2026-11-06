@@ -1,0 +1,9 @@
+{
+  "id": "83519853",
+  "name": "Ignoble Knight of High Laundsallyn",
+  "th": "1 Tuner + มอนสเตอร์ \"Noble Knight\" ที่ไม่ใช่ Tuner 1 ตัวขึ้นไป\nเมื่อการ์ดใบนี้ถูกอัญเชิญแบบ Synchro: คุณสามารถติดตั้งการ์ด Spell อุปกรณ์ \"Noble Arms\" 1 ใบจากเด็คของคุณกับการ์ดใบนี้ได้\nเมื่อสิ้นสุด Battle Phase, ถ้าการ์ดใบนี้ทำลายมอนสเตอร์ด้วยการต่อสู้และส่งมันลงสุสาน: คุณสามารถเพิ่มการ์ด \"Noble Knight\" หรือ \"Noble Arms\" 1 ใบจากเด็คของคุณขึ้นมือได้\nคุณสามารถควบคุม \"Ignoble Knight of High Laundsallyn\" ได้เพียง 1 ใบเท่านั้น",
+  "status": "ai",
+  "en_sha256": "74752b5c7b53e6a346672f98a108d81aa469de1eed34d1cf0b7bad5e57aa2af0",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

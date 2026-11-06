@@ -1,0 +1,9 @@
+{
+  "id": "19204398",
+  "name": "Ally of Justice Light Gazer",
+  "th": "1 Tuner + 1 หรือ มอนสเตอร์ non-Tuner หรือมากกว่า\nการ์ดใบนี้ได้รับ ATK 200 สำหรับมอนสเตอร์ LIGHT แต่ละตัวในสุสานของคู่ต่อสู้",
+  "status": "ai",
+  "en_sha256": "633b0a9e04ef3985184f79819bdba5a0149242463a972b00a35f24d5e28bcceb",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

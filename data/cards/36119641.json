@@ -1,0 +1,9 @@
+{
+  "id": "36119641",
+  "name": "Space Mambo",
+  "th": "A Space Mambo ลอยอยู่ในจักรวาลอันกว้างใหญ่\nซากฟอสซิลที่มีชีวิตนี้ถูกค้นพบในซากปรักหักพังของอารยธรรมที่ยิ่งใหญ่บน Alphard 4",
+  "status": "ai",
+  "en_sha256": "7fe8aef555bbd71ac52bd8a7f9612fcafb59f32f5fca99b11cff517cad32e778",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

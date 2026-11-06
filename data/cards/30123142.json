@@ -1,0 +1,9 @@
+{
+  "id": "30123142",
+  "name": "Synchro Strike",
+  "th": "มอนสเตอร์ที่ทำการอัญเชิญ Synchro ถูกเลือกเป้าหมาย จะได้รับ ATK 500 สำหรับมอนสเตอร์ Material Synchro แต่ละตัวที่ใช้ในการอัญเชิญมัน จนถึง End Phase.",
+  "status": "ai",
+  "en_sha256": "d8cb54582b3ebc8c61c3ae00d3bd46eac75998b6b9ddded6c7d5f02fd0b0634f",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

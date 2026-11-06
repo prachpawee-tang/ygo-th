@@ -1,0 +1,9 @@
+{
+  "id": "15590355",
+  "name": "Libromancer Realized",
+  "th": "คุณสามารถเปิดเผย \"Libromancer\" Ritual Monster 1 ตัวในมือของคุณ: อัญเชิญพิเศษ \"Fire Token\" (Cyberse/FIRE/ATK 0/DEF 0) ที่มี Level เดียวกันกับมอนสเตอร์ที่เปิดเผย\nตราบใดที่คุณควบคุม Token นั้น คุณจะไม่สามารถอัญเชิญพิเศษมอนสเตอร์ได้ ยกเว้นมอนสเตอร์ \"Libromancer\"\nคุณสามารถใช้เอฟเฟกต์ของ \"Libromancer Realized\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "d46838437e6d7e664e7235f1900a6695e729eea24193c1c444a3efa685600406",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

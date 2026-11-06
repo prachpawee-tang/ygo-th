@@ -1,0 +1,9 @@
+{
+  "id": "73779005",
+  "name": "Dragoons of Draconia",
+  "th": "[ Pendulum Effect ]\n1 ครั้งต่อเทิร์น, ถ้ามอนสเตอร์ Normal ที่คุณควบคุมทำลายมอนสเตอร์ของคู่ต่อสู้ด้วยการต่อสู้, หลังจากการคำนวณความเสียหาย: คุณสามารถเพิ่มมอนสเตอร์ Normal ระดับ 4 หรือสูงกว่าจากเด็คของคุณขึ้นมือ\n[ Monster Effect ]\n''Armed with muskets and iron spears, these mounted land troops of the Draconia Empire are feared by the Reptier Kingdom and other bordering nations.''",
+  "status": "ai",
+  "en_sha256": "15599f17e852ab8ed5a4b61d99535345c7ee321c01fe507e144c6069a4ad12d3",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

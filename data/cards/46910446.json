@@ -1,0 +1,9 @@
+{
+  "id": "46910446",
+  "name": "Chthonian Alliance",
+  "th": "มอนสเตอร์ที่ถูกติดตั้งได้รับ ATK 800 จุดสำหรับมอนสเตอร์หงายแต่ละตัวในสนามที่มีชื่อเดียวกัน.",
+  "status": "ai",
+  "en_sha256": "b13b14dc9f363ccab12dbe4f2e23d1fb0e3dd4e6ff89d45c21f4f67f8a4bfa81",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

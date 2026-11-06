@@ -1,0 +1,9 @@
+{
+  "id": "111000561",
+  "name": "Get Your Game On!",
+  "th": "คุณสามารถเล่นการ์ดนี้ได้ก็ต่อเมื่อคุณเข้าร่วมการแข่งขัน Yu-Gi-Oh! TRADING CARD GAME World Championship ปี 2007\nATK ของมอนสเตอร์ \"Elemental Hero\" และ \"Neo-Spacian\" ทั้งหมดของคุณในสนามเป็นสองเท่า",
+  "status": "ai",
+  "en_sha256": "dd3ca1d27da16c21ebcb92e73f87c75d6816f65a18d3b0cc73a6151fa4b8ae6c",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

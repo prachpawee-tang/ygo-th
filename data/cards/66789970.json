@@ -1,0 +1,10 @@
+{
+  "id": "66789970",
+  "name": "Hieratic Dragon of Sutekh",
+  "th": "อัญเชิญปกติหรือเซ็ตไม่ได้\nต้องอัญเชิญพิเศษก่อน (จากมือของคุณ) โดยเอามอนสเตอร์ Dragon-Type Normal 3 ตัวออกจากสุสานของคุณ\n1 ครั้งต่อเทิร์น: คุณสามารถเอามอนสเตอร์ Dragon-Type 1 ตัวออกจากสุสานของคุณเพื่อเลือกเป้าหมายการ์ด 1 ใบในสนาม; ทำลายเป้าหมายนั้น",
+  "status": "ai",
+  "en_sha256": "3017ae7c143b7c7de9b9ad1b736a97e1937f47483889f1332a24c8e8c7384fcf",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: \"banish\" ×2 in English but \"ออกจากเกม\" ×0 in Thai — meaning may be wrong"
+}

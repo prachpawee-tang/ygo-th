@@ -1,0 +1,10 @@
+{
+  "id": "74440055",
+  "name": "Cactus Fighter",
+  "th": "ถ้าการ์ดใบนี้ทำลายมอนสเตอร์ของคู่ต่อสู้ด้วยการต่อสู้, อัญเชิญพิเศษ \"Needle Token\" (Plant-Type/EARTH/Level 1/ATK 500/DEF 500) ไปยังสนามฝั่งของคู่ต่อสู้ในท่าป้องกัน.",
+  "status": "ai",
+  "en_sha256": "d097942e452d02811cf56741862fe1b6839659e0eb9b78be51baacf4e5cb9f3f",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "88358139",
+  "name": "Performapal Helpprincess",
+  "th": "เมื่อคุณทำการอัญเชิญปกติหรืออัญเชิญพิเศษมอนสเตอร์ \"Performapal\" (ยกเว้น \"Performapal Helpprincess\") (ยกเว้นในช่วง Damage Step): คุณสามารถทำการอัญเชิญพิเศษการ์ดใบนี้จากมือของคุณได้.",
+  "status": "ai",
+  "en_sha256": "e796555c76ea0b04140e8b3a9495eada51cc20e8c945c3ef938213234ab81ce9",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

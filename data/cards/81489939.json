@@ -1,0 +1,9 @@
+{
+  "id": "81489939",
+  "name": "Stygian Dirge",
+  "th": "ลด Level ของมอนสเตอร์ทั้งหมดที่คู่ต่อสู้ควบคุมลง 1.",
+  "status": "ai",
+  "en_sha256": "9f6540404e42272f10d3232adf00e6c71a51522a10e7fcae12a8eee8ab1e6e4b",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

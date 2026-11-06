@@ -1,0 +1,9 @@
+{
+  "id": "99002135",
+  "name": "Urgent Synthesis",
+  "th": "นำ \"Iron Core of Koa'ki Meiru\" 1 ใบจากสุสานของคุณกลับเข้าเด็ค\nอัญเชิญพิเศษมอนสเตอร์ \"Koa'ki Meiru\" ระดับ 4 หรือต่ำกว่า 1 ตัวจากมือหรือสุสานของคุณ",
+  "status": "ai",
+  "en_sha256": "cf9b28f943613e2aac0e62fb7a61afd8250c83e1fc9f4e842aaab4473e9f1c3d",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,9 +1,9 @@
 {
   "id": "87209160",
   "name": "Tri-Brigade Fraktall",
-  "th": "คุณสามารถส่งการ์ดใบนี้จากมือหรือสนามลงสุสาน; ส่งมอนสเตอร์ Level 3 หรือต่ำกว่าที่เป็นมอนสเตอร์ Beast, Beast-Warrior, หรือ Winged Beast จากเด็คของคุณลงสุสาน คุณสามารถเอาออกจากเกมมอนสเตอร์ Beast, Beast-Warrior, และ/หรือ Winged Beast จำนวนใดๆ ก็ได้ในสุสานของคุณ; อัญเชิญพิเศษมอนสเตอร์ Link Beast, Beast-Warrior, หรือ Winged Beast 1 ตัวจากเอ็กซ์ตร้าเด็คของคุณ โดยมี Link Rating เท่ากับจำนวนที่เอาออกจากเกม นอกจากนี้ คุณสามารถใช้เฉพาะมอนสเตอร์ Beast, Beast-Warrior, และ Winged Beast เป็น Link Material สำหรับส่วนที่เหลือของเทิร์นนี้เท่านั้น คุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Tri-Brigade Fraktall\" ได้ 1 ครั้งต่อเทิร์น",
+  "th": "คุณสามารถส่งการ์ดใบนี้จากมือหรือสนามของคุณไปยังสุสาน; ส่งมอนสเตอร์ Beast, Beast-Warrior หรือ Winged Beast เลเวล 3 หรือต่ำกว่าจากเด็คของคุณไปยังสุสาน\nคุณสามารถเอามอนสเตอร์ Beast, Beast-Warrior และ/หรือ Winged Beast จำนวนใดก็ได้ออกจากเกมจากสุสานของคุณ; อัญเชิญพิเศษมอนสเตอร์ Link Beast, Beast-Warrior หรือ Winged Beast 1 ตัวจากเอ็กซ์ตร้าเด็คของคุณ โดยมี Link Rating เท่ากับจำนวนที่ถูกเอาออกจากเกม และคุณสามารถใช้เฉพาะมอนสเตอร์ Beast, Beast-Warrior และ Winged Beast เป็น Material Link สำหรับส่วนที่เหลือของเทิร์นนี้เท่านั้น\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Tri-Brigade Fraktall\" ได้ 1 ครั้งต่อเทิร์น",
   "status": "ai",
   "en_sha256": "894bd99a5a6b66fcd5680bdc2d149b80f024a9c5b1d3b9b3314cb975ca1673ee",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-06"
 }

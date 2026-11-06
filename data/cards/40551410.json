@@ -1,0 +1,10 @@
+{
+  "id": "40551410",
+  "name": "Recette de Personnel (Staff Recipe)",
+  "th": "คุณสามารถเลือกเป้าหมายมอนสเตอร์ Ritual ที่คุณควบคุม; อัญเชิญพิเศษ \"Nouvelles Token\" 1 ตัว (Fiend/DARK/Level 1/ATK 50/DEF 50)\nLevel ของ Token นี้จะกลายเป็นระดับเดียวกับมอนสเตอร์ตัวนั้น\nคุณสามารถส่งการ์ดใบนี้จาก Spell & Trap Zone ของคุณลงสุสาน; อัญเชิญแบบสังเวย \"Nouvelles\" มอนสเตอร์ Ritual 1 ตัวจากมือของคุณโดยสังเวยมอนสเตอร์จากมือหรือสนามของคุณที่รวม Level แล้วเท่ากับ Level ของมอนสเตอร์ Ritual นั้น\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Recette de Personnel (Staff Recipe)\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "659a99cd6da1cb5a73ceb822f32516489d2c3d2742187994228f8069357e01b2",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: \"face-up\" ×1 in English but \"หงาย\" ×0 in Thai — meaning may be wrong"
+}

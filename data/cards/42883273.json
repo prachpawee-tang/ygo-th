@@ -1,0 +1,9 @@
+{
+  "id": "42883273",
+  "name": "Wodan the Resident of the Forest",
+  "th": "เพิ่ม ATK ของการ์ดใบนี้ 100 แต้มสำหรับมอนสเตอร์ Plant-Type ทุกตัวที่หงายอยู่บนสนาม.",
+  "status": "ai",
+  "en_sha256": "eb2dd2068cc22212ed94134d0ed328925ffccfb3f1937dfce1be803d2a627b48",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

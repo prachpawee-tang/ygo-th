@@ -1,0 +1,9 @@
+{
+  "id": "64475743",
+  "name": "Kittytail, Mystical Beast of the Forest",
+  "th": "ถ้าการ์ดใบนี้ถูกอัญเชิญปกติหรืออัญเชิญพิเศษ: คุณสามารถเลือกเป้าหมายมอนสเตอร์ประเภท Beast, Beast-Warrior, Winged Beast, Insect หรือ Plant ในสุสานของคุณ; ส่งมอนสเตอร์ 1 ตัวจากเด็คของคุณไปยังสุสานที่มีประเภทเดิมเหมือนกับมอนสเตอร์นั้น\nถ้าการ์ดใบนี้ในครอบครองของผู้เล่นของคุณถูกทำลายโดยการ์ดของคู่ต่อสู้: คุณสามารถเพิ่มมอนสเตอร์ 1 ตัวประเภท Beast, Beast-Warrior, Winged Beast, Insect หรือ Plant จากเด็คของคุณขึ้นมือ ยกเว้น \"Kittytail, Mystical Beast of the Forest\"\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Kittytail, Mystical Beast of the Forest\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "8c7d6038290c2f7ec0ed91823311fcd9ba22fe16664dcf5edaeb687e8fb2ea87",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

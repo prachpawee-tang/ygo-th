@@ -1,0 +1,9 @@
+{
+  "id": "32360466",
+  "name": "Beginning of Heaven and Earth",
+  "th": "เผยการ์ดมอนสเตอร์ Warrior-Type 3 ใบจากเด็คของคุณ โดยมี \"Black Luster Soldier\" มอนสเตอร์ หรือ \"Gaia The Fierce Knight\" มอนสเตอร์อย่างน้อย 1 ตัว และให้คู่ต่อสู้สุ่มเลือก 1 ใบ\nถ้าพวกเขาเลือก \"Black Luster Soldier\" มอนสเตอร์ หรือ \"Gaia The Fierce Knight\" มอนสเตอร์ ให้เพิ่มมันขึ้นมือ และส่งที่เหลือลงสุสาน\nมิฉะนั้น ให้ส่งพวกมันทั้งหมดลงสุสาน\nคุณสามารถเปิดใช้ \"Beginning of Heaven and Earth\" ได้เพียง 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "4e8115f52bac6803d86b5a030ee967c343e586e4a24f4461461902ee09ac13fe",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

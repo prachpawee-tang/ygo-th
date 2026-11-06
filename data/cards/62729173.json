@@ -1,0 +1,9 @@
+{
+  "id": "62729173",
+  "name": "Steelswarm Genome",
+  "th": "การ์ดใบนี้สามารถนำมาคิดเป็น 2 สังเวยสำหรับการอัญเชิญแบบสังเวยมอนสเตอร์ \"Steelswarm\".",
+  "status": "ai",
+  "en_sha256": "74f7322a812e719947e5b2aecd00dd56e64007c8eb146fecfa39186a1d85fd4a",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "10125011",
+  "name": "Constellar Tellarknights",
+  "th": "เมื่อการ์ดใบนี้ถูกเปิดใช้: คุณสามารถอัญเชิญพิเศษมอนสเตอร์ \"tellarknight\" หรือ \"Constellar\" 1 ตัวจากมือหรือสุสานของคุณ\nคุณสามารถเลือกเป้าหมาย \"tellarknight\" หรือ \"Constellar\" Xyz Monster ที่คุณควบคุม 1 ตัว; อัญเชิญพิเศษจากเอ็กซ์ตร้าเด็ค มอนสเตอร์ \"tellarknight\" หรือ \"Constellar\" Xyz Monster อีก 1 ตัวที่มี Rank ต่างกัน โดยใช้มอนสเตอร์ Xyz ที่คุณควบคุมเป็น Material\n(การอัญเชิญนี้ถือเป็นการอัญเชิญแบบ Xyz ถ่ายโอน Material ไปยังมอนสเตอร์ที่ถูกอัญเชิญ) คุณสามารถใช้เอฟเฟกต์ของ \"Constellar Tellarknights\" ได้ 1 ครั้งต่อเทิร์น\nคุณสามารถเปิดใช้ \"Constellar Tellarknights\" ได้เพียง 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "032325ba4e8174eb0623f3cc3125db171069f1cf91fc5aad1ecc9d9c8b8dc909",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

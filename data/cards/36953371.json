@@ -1,0 +1,9 @@
+{
+  "id": "36953371",
+  "name": "Superheavy Samurai Ogre Shutendoji",
+  "th": "1 มอนสเตอร์ประเภท Machine-Type Tuner + มอนสเตอร์ \"Superheavy Samurai\" ที่ไม่ใช่ Tuner 1 ตัวขึ้นไป\nการ์ดใบนี้สามารถโจมตีได้ในขณะที่อยู่ในท่าป้องกันแบบหงาย\nถ้าทำได้ ให้ใช้ DEF ของมันในการคำนวณความเสียหาย\nเมื่อการ์ดใบนี้ถูกอัญเชิญแบบ Synchro, ในขณะที่คุณไม่ได้มี Spell/Trap Cards อยู่ในสุสาน: คุณสามารถทำลาย Spell และ Trap Cards ทั้งหมดที่คู่ต่อสู้ควบคุมได้",
+  "status": "ai",
+  "en_sha256": "804d2ce304d93272f1618d23b9136eafc876d8100d6389e06a3946f3db38a287",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

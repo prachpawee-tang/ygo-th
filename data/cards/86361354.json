@@ -1,0 +1,10 @@
+{
+  "id": "86361354",
+  "name": "Tribe-Shocking Virus",
+  "th": "1 ครั้งต่อเทิร์น: คุณสามารถเอามอนสเตอร์ 1 ตัวออกจากมือของคุณ; ทำลายมอนสเตอร์หงายอยู่บนสนามทั้งหมดที่มีชนิดเดียวกันกับมอนสเตอร์นั้น.",
+  "status": "ai",
+  "en_sha256": "d03bd2513a0c5f58649a504b8f7b6e159d3f977773147b4a3cce97d62ddd1820",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: \"banish\" ×1 in English but \"ออกจากเกม\" ×0 in Thai — meaning may be wrong"
+}

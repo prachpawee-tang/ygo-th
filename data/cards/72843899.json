@@ -1,0 +1,9 @@
+{
+  "id": "72843899",
+  "name": "Advanced Crystal Beast Topaz Tiger",
+  "th": "ถ้า \"Advanced Dark\" ไม่อยู่ใน Field Zone ให้ส่งมอนสเตอร์ตัวนี้ลงสุสาน\nมอนสเตอร์ \"Advanced Crystal Beast\" ทั้งหมดที่คุณควบคุมได้รับ ATK/DEF เพิ่ม 400; นอกจากนี้ มอนสเตอร์ที่คู่ต่อสู้ควบคุมจะเสีย ATK/DEF ไป 400\nถ้าการ์ดที่หงายอยู่ใบนี้ถูกทำลายใน Main Monster Zone คุณสามารถวางมันแบบหงายใน Spell & Trap Zone ของคุณในฐานะการ์ด Spell ต่อเนื่อง แทนที่จะส่งมันลงสุสาน",
+  "status": "ai",
+  "en_sha256": "409e2ea645493847a55096642600c9b4a38d403861b390840b552a7db979901f",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

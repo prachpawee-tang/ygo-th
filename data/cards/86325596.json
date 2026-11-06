@@ -1,0 +1,9 @@
+{
+  "id": "86325596",
+  "name": "Baron of the Fiend Sword",
+  "th": "ขุนนางที่ใช้ดาบที่ถูกปีศาจร้ายเข้าสิง ซึ่งจะล่าเหยื่อผู้ที่อ่อนแอ.",
+  "status": "ai",
+  "en_sha256": "477f0ceb6e46d3e03dd51681015cca5bfb8de0aa5cbf8b803e35c2ad2f2b8f7c",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

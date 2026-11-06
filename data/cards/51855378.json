@@ -1,0 +1,10 @@
+{
+  "id": "51855378",
+  "name": "Junk Blader",
+  "th": "คุณสามารถเอามอนสเตอร์ \"Junk\" 1 ตัวออกจากสุสานของคุณ; การ์ดใบนี้จะได้รับ ATK 400 จนจบเทิร์นนี้.",
+  "status": "ai",
+  "en_sha256": "b4ce9be3e16298b0c5aa9f9191b78ea664841c5d32b4dbd214d3b8ba22b3d043",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: \"banish\" ×1 in English but \"ออกจากเกม\" ×0 in Thai — meaning may be wrong"
+}

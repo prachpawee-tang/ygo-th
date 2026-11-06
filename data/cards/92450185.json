@@ -1,0 +1,9 @@
+{
+  "id": "92450185",
+  "name": "Limiter Overload",
+  "th": "ถ้าการ์ดใบนี้ถูกส่งลงสุสาน: อัญเชิญพิเศษ \"Speed Warrior\" 1 ตัวจากมือ, เด็ค, หรือสุสานของคุณ.",
+  "status": "ai",
+  "en_sha256": "ade25c6b571f9ade87ee1d8aa2c6e260ffc95649bcfbdb87c0362c299eecdd78",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

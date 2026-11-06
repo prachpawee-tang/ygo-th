@@ -1,0 +1,9 @@
+{
+  "id": "7935043",
+  "name": "Aegis of the Ocean Dragon Lord",
+  "th": "จนถึง End Phase, มอนสเตอร์ WATER ที่หงายอยู่และมี Level 3 หรือต่ำกว่าที่คุณควบคุมอยู่ ไม่สามารถถูกทำลายจากการต่อสู้หรือจากเอฟเฟกต์ของการ์ดได้.",
+  "status": "ai",
+  "en_sha256": "2c653aad6ef017fb0d901479561bfa1f06b3ff2c713f8bb9c8bceb9e80583525",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "75220074",
+  "name": "Armed Dragon, the Armored Dragon",
+  "th": "เมื่อการ์ดใบนี้ทำลายมอนสเตอร์ของคู่ต่อสู้ด้วยการต่อสู้: คุณสามารถอัญเชิญพิเศษมอนสเตอร์ Dragon ระบบลม Level 5 หรือต่ำกว่า 1 ตัวจากมือหรือเด็คของคุณ ยกเว้น \"Armed Dragon, the Armored Dragon\" แต่จะไม่สามารถโจมตีโดยตรงในเทิร์นนี้.",
+  "status": "ai",
+  "en_sha256": "e4deb97fb7556f11694afbd0f0eaaeb683ecec5b94f639ea968b6d71e298b67e",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

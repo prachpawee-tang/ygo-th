@@ -1,0 +1,9 @@
+{
+  "id": "36278828",
+  "name": "Venom Serpent",
+  "th": "1 ครั้งต่อเทิร์น คุณสามารถวาง Venom Counter 1 ตัวบนมอนสเตอร์ 1 ตัวที่คู่ต่อสู้ควบคุม.",
+  "status": "ai",
+  "en_sha256": "72c48975f37ad7c17ffdeb2cf06363cc51d295889c6649a5f61a4378693c8aaa",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

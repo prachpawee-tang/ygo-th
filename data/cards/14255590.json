@@ -1,0 +1,9 @@
+{
+  "id": "14255590",
+  "name": "Malice Ascendant",
+  "th": "ระหว่าง Standby Phase ของคู่ต่อสู้, ส่งการ์ด 1 ใบจากด้านบนของเด็คของพวกเขาลงสุสาน สำหรับ \"Malice Ascendant\" แต่ละใบในสุสานของคุณ.",
+  "status": "ai",
+  "en_sha256": "5f391a0f55ce7b16ffe0c885bae02481726618d455a025e862514bb34f72c5b7",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

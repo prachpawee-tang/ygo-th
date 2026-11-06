@@ -1,0 +1,9 @@
+{
+  "id": "10248192",
+  "name": "Hieroglyph Lithograph",
+  "th": "จ่าย Life Points 1000.\nระหว่างการดวลปัจจุบัน ขนาดมือของคุณจะจำกัดอยู่ที่ 7.",
+  "status": "ai",
+  "en_sha256": "8c46cdfa66cf58e5b709a1f23a13c5cef8c26f364008a17400ef141f9d77db30",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "83602069",
+  "name": "Comrade Swordsman of Landstar",
+  "th": "มอนสเตอร์ Warrior-Type ทั้งหมดที่คุณควบคุม ได้รับ ATK 400.",
+  "status": "ai",
+  "en_sha256": "9f0d34373ef2acc577fbef66b031cccbb44eda572c16e1438dd8e239013f6fc3",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

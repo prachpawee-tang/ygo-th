@@ -1,0 +1,9 @@
+{
+  "id": "87319876",
+  "name": "Trust Guardian",
+  "th": "การ์ดใบนี้ไม่สามารถใช้เป็นมอนสเตอร์ Material สำหรับการ Synchro Summon ได้ ยกเว้นสำหรับการ Synchro Summon มอนสเตอร์ Synchro ระดับ 7 หรือสูงกว่า\n1 ครั้งต่อเทิร์น มอนสเตอร์ Synchro นั้นไม่สามารถถูกทำลายจากการต่อสู้ได้\nทุกครั้งที่เอฟเฟกต์นี้ถูกใช้ มอนสเตอร์ Synchro นั้นจะสูญเสีย ATK และ DEF 400 ที่จุดสิ้นสุดของ Damage Step",
+  "status": "ai",
+  "en_sha256": "957fec1fd05407c05ab1c4cb0f2d1bce89c51b8ccab4ba7e68fb7ce2a6d40c82",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

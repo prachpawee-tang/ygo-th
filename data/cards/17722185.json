@@ -1,0 +1,9 @@
+{
+  "id": "17722185",
+  "name": "Invincibility Barrier",
+  "th": "1 ครั้งต่อเทิร์น: คุณสามารถเอามอนสเตอร์ที่หงายอยู่ชนิด Ritua, Fusion, Synchro, Xyz, Pendulum หรือ Link ที่คุณควบคุม ออกจากเกมได้ 1 ตัว; เทิร์นนี้ เอฟเฟกต์ของมอนสเตอร์ชนิดเดียวกันกับมอนสเตอร์ที่ถูกเอาออกจากเกมนั้น (Ritual, Fusion, Synchro, Xyz, Pendulum หรือ Link) จะถูกลบล้าง.",
+  "status": "ai",
+  "en_sha256": "b1411d38a9dcb501ee5d68277ca870dfc09a2f4736b357ad654dc8427e9d214d",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

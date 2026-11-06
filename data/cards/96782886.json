@@ -1,0 +1,9 @@
+{
+  "id": "96782886",
+  "name": "Mind Master",
+  "th": "คุณสามารถจ่าย Life Points 800 และ สังเวย มอนสเตอร์ Psychic-Type 1 ตัว ยกเว้น \"Mind Master\" เพื่อ อัญเชิญพิเศษ มอนสเตอร์ Psychic-Type เลเวล 4 หรือต่ำกว่า 1 ตัวจาก เด็ค ใน ท่าโจมตี หงาย.",
+  "status": "ai",
+  "en_sha256": "69636422fb1eed6fba6aaeaf0573055a3a4047e4d25b48dea4098e78a84a50e3",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

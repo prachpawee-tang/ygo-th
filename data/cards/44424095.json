@@ -1,0 +1,9 @@
+{
+  "id": "44424095",
+  "name": "Morphtronic Accelerator",
+  "th": "นำมอนสเตอร์ \"Morphtronic\" 1 ตัวจากมือของคุณกลับเข้าเด็ค\nทำลายการ์ด 1 ใบในสนาม และจั่วการ์ด 1 ใบ",
+  "status": "ai",
+  "en_sha256": "d4f2874379e060effef52137404d812a8853ec7b43e8f87a44a95407daab318e",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

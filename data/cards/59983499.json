@@ -1,0 +1,9 @@
+{
+  "id": "59983499",
+  "name": "Dancing Elf",
+  "th": "เอลฟ์ที่เต้นรำบนท้องฟ้าด้วยปีกที่ทำจากใบมีดคมกริบ.",
+  "status": "ai",
+  "en_sha256": "b3f7bf6b8c147f87662056fe02fa83fcc752094f8267ada1cfb7e9efee5d6b39",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

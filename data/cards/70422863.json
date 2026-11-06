@@ -1,0 +1,9 @@
+{
+  "id": "70422863",
+  "name": "Hexatellarknight",
+  "th": "มอนสเตอร์ Xyz \"tellarknight\" แต่ละตัวได้รับ ATK และ DEF 200 สำหรับ Material Xyz แต่ละตัวที่ติดอยู่กับมัน\nเมื่อมอนสเตอร์ Xyz \"tellarknight\" ที่คุณควบคุมถูกเลือกเป้าหมายสำหรับการโจมตี: คุณสามารถส่งการ์ด \"tellarknight\" 1 ใบจากมือของคุณลงสุสาน; ลบล้างการโจมตีนั้น",
+  "status": "ai",
+  "en_sha256": "a8dfbcc4573c49fa371fae138001ad0c2d115c0c55f6600cbd9ccf853762a428",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

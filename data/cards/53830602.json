@@ -1,0 +1,9 @@
+{
+  "id": "53830602",
+  "name": "Fungi of the Musk",
+  "th": "\"ละลายทุกสิ่งบังอาจขวางหน้ามัน.\"",
+  "status": "ai",
+  "en_sha256": "4512548c24c2f66c2adce45eb8259f382fecb82f85cd99ca63effc6bf45cdb45",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "15103313",
+  "name": "Self-Mummification",
+  "th": "เลือกมอนสเตอร์ 1 ตัวที่คุณควบคุม, และส่งมันลงสุสาน.",
+  "status": "ai",
+  "en_sha256": "e989e5024764afcff770d90f97c9bc094f932ab97ddda80bd8a5b0b74e47d413",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

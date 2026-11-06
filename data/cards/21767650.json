@@ -1,0 +1,10 @@
+{
+  "id": "21767650",
+  "name": "Mermail Abyssmander",
+  "th": "คุณสามารถเอาการ์ดใบนี้ออกจากเกมจากสุสานของคุณเพื่อเปิดใช้เอฟเฟกต์ใดเอฟเฟกต์หนึ่งต่อไปนี้;\n● เพิ่ม Level ของมอนสเตอร์ \"Mermail\" ทั้งหมดที่คุณควบคุมอยู่ในขณะนี้ 1\n● เพิ่ม Level ของมอนสเตอร์ \"Mermail\" ทั้งหมดที่คุณควบคุมอยู่ในขณะนี้ 2",
+  "status": "ai",
+  "en_sha256": "03dc85aeec586a8fa8a52e5bee5beca302bc787ac17de34e4682840fb388bed2",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

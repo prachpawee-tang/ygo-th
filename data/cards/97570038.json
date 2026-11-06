@@ -1,0 +1,9 @@
+{
+  "id": "97570038",
+  "name": "Kaminote Blow",
+  "th": "เปิดใช้ได้เมื่อมี \"Chu-Ske the Mouse Fighter\", \"Monk Fighter\" หรือ \"Master Monk\" ที่หงายอยู่ อย่างน้อย 1 ตัวบนสนามของคุณ\nทำลายมอนสเตอร์ที่ทำการต่อสู้กับมอนสเตอร์เหล่านี้บนสนามของคุณในเทิร์นนี้ ในตอนท้ายของแต่ละ Damage Step",
+  "status": "ai",
+  "en_sha256": "845c64caa1fbf01e9c7a5e97f18384892d7cf9b405a28c75346785af68f1b302",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

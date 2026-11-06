@@ -1,0 +1,9 @@
+{
+  "id": "74983881",
+  "name": "Sweet Corn",
+  "th": "1 ครั้งต่อเทิร์น, ในช่วง Main Phase 2 ของคุณ: คุณสามารถจ่าย Life Points 500; อัญเชิญพิเศษ \"Maize Token\" (Plant-Type/EARTH/Level 1/ATK 0/DEF 0).",
+  "status": "ai",
+  "en_sha256": "2b53e5d3c24d4ac4175b16a39c5501161aa6c807dfac2e8d86d6134c08887674",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

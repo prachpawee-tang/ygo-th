@@ -1,0 +1,9 @@
+{
+  "id": "62104532",
+  "name": "The Phantom Knights' Rank-Up-Magic Requiem",
+  "th": "เลือกมอนสเตอร์ \"The Phantom Knights\" หรือ \"Xyz Dragon\" 1 ตัวในสุสานของคุณหรือที่ถูกเอาออกจากเกม; อัญเชิญพิเศษด้วย, แต่ลบล้างเอฟเฟกต์ของมัน, จากนั้นใช้เอฟเฟกต์ต่อไปนี้\n● เลือกมอนสเตอร์ Xyz DARK 1 ตัวที่คุณควบคุม, และอัญเชิญพิเศษจากเอ็กซ์ตร้าเด็ค, มอนสเตอร์ \"The Phantom Knights\" หรือ \"Xyz Dragon\" Xyz 1 ตัวที่มี Rank สูงกว่าตัวนั้น 1 Rank โดยใช้มันเป็น Material (ถือว่าเป็นการอัญเชิญแบบ Xyz, ถ่ายโอน Material ของมัน)\nคุณสามารถเปิดใช้ \"The Phantom Knights' Rank-Up-Magic Requiem\" ได้เพียง 1 ใบต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "7a0e5231c8a55bde8bf1756b210f5baab88fd2c1fbe1ab1e877eb5a3e2956439",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

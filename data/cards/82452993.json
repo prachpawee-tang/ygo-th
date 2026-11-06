@@ -1,0 +1,10 @@
+{
+  "id": "82452993",
+  "name": "Lone Wolf",
+  "th": "เปิดใช้ได้เมื่อมีมอนสเตอร์เพียงตัวเดียวในฝั่งของคุณคือ \"Chu-Ske the Mouse Fighter\", \"Monk Fighter\" หรือ \"Master Monk\" เท่านั้น\nมอนสเตอร์ตัวนั้นจะไม่ถูกทำลายจากการต่อสู้ และไม่ได้รับผลกระทบจากเอฟเฟกต์มอนสเตอร์ใดๆ ของคู่ต่อสู้",
+  "status": "ai",
+  "en_sha256": "d949ea75038e201fb06ddbed7cb1c3aaba7bc45249a2a8ebd83d70be26b45fd7",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06",
+  "note": "rule-check: numbers missing in Thai: 1"
+}

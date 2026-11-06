@@ -1,0 +1,9 @@
+{
+  "id": "63442604",
+  "name": "Physical Double",
+  "th": "ระหว่างเทิร์นของคู่ต่อสู้: เลือกเป้าหมายมอนสเตอร์หงาย 1 ตัวที่คู่ต่อสู้ควบคุม; อัญเชิญพิเศษ \"Mirage Token\" 1 ตัวที่มี Level, Type, Attribute, ATK และ DEF เหมือนกับเป้าหมายนั้น\nทำลาย Token นี้ในช่วง End Phase",
+  "status": "ai",
+  "en_sha256": "d29a39793f883f1ee304903e8fbc18246c8de55b4c3631c9e9915037a15b9898",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

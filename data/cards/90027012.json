@@ -1,0 +1,9 @@
+{
+  "id": "90027012",
+  "name": "Choju of the Trillion Hands",
+  "th": "ถ้าการ์ดใบนี้ถูกอัญเชิญ: คุณสามารถเพิ่มมอนสเตอร์ Ritual 1 ตัวและการ์ดเวทมนตร์ Ritual 1 ใบจากเด็คของคุณขึ้นมือได้\nคุณสามารถใช้เอฟเฟกต์ของ \"Choju of the Trillion Hands\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "3695687520e33f7bc90a1c1c9b79a84a59dedd85abadc6d01b694a8491498c52",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

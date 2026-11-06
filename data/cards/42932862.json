@@ -1,0 +1,9 @@
+{
+  "id": "42932862",
+  "name": "Prediction Princess Tarotreith",
+  "th": "คุณสามารถ อัญเชิญแบบ Ritual การ์ดใบนี้ด้วย \"Underworld Ritual of Prediction\"\nต้อง อัญเชิญแบบ Ritual หรือ อัญเชิญพิเศษด้วย \"Prediction Princess Tarotrei\"\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Prediction Princess Tarotreith\" ได้ 1 ครั้งต่อเทิร์น\n(Quick Effect): คุณสามารถเปิดใช้ 1 ในเอฟเฟกต์เหล่านี้;\n● พลิกมอนสเตอร์ที่คุณควบคุมที่คว่ำอยู่ จำนวนใดก็ได้ ไปยังท่าป้องกัน หงาย\n● พลิกมอนสเตอร์ที่คุณควบคุมที่หงายอยู่ จำนวนใดก็ได้ ไปยังท่าป้องกัน คว่ำ\nFLIP: คุณสามารถ อัญเชิญพิเศษมอนสเตอร์แบบพลิก 1 ตัวจากเด็คของคุณไปยังท่าป้องกัน คว่ำ",
+  "status": "ai",
+  "en_sha256": "af4aed7ddc9bdbb07fde456acedac0822a929716505fbc17b2d4e8ddb57bb44b",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

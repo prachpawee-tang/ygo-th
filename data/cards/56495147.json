@@ -1,9 +1,9 @@
 {
   "id": "56495147",
   "name": "Swordsoul of Taia",
-  "th": "คุณสามารถเอาออกจากเกมการ์ด \"Swordsoul\" 1 ใบ หรือ มอนสเตอร์ Wyrm 1 ตัว จาก สุสานของคุณ; อัญเชิญพิเศษ \"Swordsoul Token\" (Wyrm/Tuner/WATER/Level 4/ATK 0/DEF 0) 1 ตัว ขณะที่ Token นั้นอยู่ใน Main Monster Zone หรือ Extra Monster Zone ผู้เล่นที่อัญเชิญมัน ไม่สามารถอัญเชิญพิเศษมอนสเตอร์จาก เอ็กซ์ตร้าเด็ค ยกเว้น มอนสเตอร์ Synchro ถ้าการ์ดใบนี้ถูกส่งลง สุสาน ในฐานะ Synchro Material: คุณสามารถส่งการ์ด \"Swordsoul\" 1 ใบ หรือ มอนสเตอร์ Wyrm 1 ตัว จาก เด็คของคุณ ลง สุสาน คุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Swordsoul of Taia\" ได้ 1 ครั้งต่อเทิร์น",
+  "th": "คุณสามารถเอาการ์ด \"Swordsoul\" 1 ใบ หรือมอนสเตอร์ Wyrm 1 ตัวออกจากเกมจากสุสานของคุณ; อัญเชิญพิเศษ \"Swordsoul Token\" 1 ตัว (Wyrm/Tuner/WATER/Level 4/ATK 0/DEF 0).\nตราบใดที่ Token นั้นอยู่ใน Main Monster Zone หรือ Extra Monster Zone ผู้เล่นที่อัญเชิญมันไม่สามารถอัญเชิญพิเศษมอนสเตอร์จากเอ็กซ์ตร้าเด็ค ยกเว้นมอนสเตอร์ Synchro\nถ้าการ์ดใบนี้ถูกส่งลงสุสานเป็น Synchro Material: คุณสามารถส่งการ์ด \"Swordsoul\" 1 ใบ หรือมอนสเตอร์ Wyrm 1 ตัวจากเด็คของคุณลงสุสาน\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Swordsoul of Taia\" ได้ 1 ครั้งต่อเทิร์น",
   "status": "ai",
   "en_sha256": "75997e8506bd23a80c752fdcca34c580748cd86963026aaa96caaebbf69d56ef",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-06"
 }

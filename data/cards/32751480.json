@@ -1,0 +1,9 @@
+{
+  "id": "32751480",
+  "name": "Mystical Sand",
+  "th": "\"Giant Soldier of Stone\" + \"Ancient Elf\"",
+  "status": "ai",
+  "en_sha256": "c5e90aee5001e059d68b4c47db8a6d235bf3baef92b2569451b1627763bf8335",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

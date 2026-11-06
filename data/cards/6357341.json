@@ -1,0 +1,9 @@
+{
+  "id": "6357341",
+  "name": "The Six Shinobi",
+  "th": "ถ้าคุณควบคุมมอนสเตอร์ \"Six Samurai\" 6 ตัวที่มี Attribute ต่างกัน: ข้ามเทิร์นถัดไปของคู่ต่อสู้.",
+  "status": "ai",
+  "en_sha256": "90b158a1040443e567efc5662145b6a0f6355dc4dd017cf149347fcb04694b00",
+  "model": "gemma3:12b",
+  "updated": "2026-11-06"
+}

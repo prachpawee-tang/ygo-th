@@ -1,0 +1,170 @@
+<!doctype html>
+<html lang="th">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ygo-th ตรวจคำแปล</title>
+<style>
+  :root { --bg: #15171f; --panel: #1d2029; --line: #333849; --text: #eee; --muted: #9aa0b0; --gold: #c9a227; --ok: #8ee08e; --bad: #ff8a80; }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--text); font: 15px/1.6 "Noto Sans Thai", "Leelawadee UI", Tahoma, sans-serif; }
+  header { position: sticky; top: 0; z-index: 2; display: flex; flex-wrap: wrap; gap: 8px; align-items: center; padding: 10px 16px; background: #101219; border-bottom: 1px solid var(--line); }
+  header h1 { margin: 0 12px 0 0; font-size: 16px; color: var(--gold); }
+  select, input[type=search] { background: var(--panel); color: var(--text); border: 1px solid var(--line); border-radius: 4px; padding: 4px 6px; font: inherit; font-size: 13px; }
+  #count { margin-left: auto; font-size: 13px; color: var(--muted); }
+  main { max-width: 1200px; margin: 0 auto; padding: 16px; }
+  .title { display: flex; flex-wrap: wrap; align-items: baseline; gap: 10px; margin-bottom: 8px; }
+  .title h2 { margin: 0; font-size: 20px; }
+  .meta { color: var(--muted); font-size: 13px; }
+  .problems { margin: 0 0 12px; padding: 8px 12px; border-left: 3px solid var(--bad); background: rgba(255,138,128,.08); font-size: 13px; }
+  .problems:empty { display: none; }
+  .problems div::before { content: "⚠ "; }
+  .cols { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+  @media (max-width: 800px) { .cols { grid-template-columns: 1fr; } }
+  .box { background: var(--panel); border: 1px solid var(--line); border-radius: 6px; padding: 10px 12px; min-width: 0; }
+  .box h3 { margin: 0 0 6px; font-size: 12px; color: var(--muted); font-weight: 600; letter-spacing: .03em; }
+  .text { white-space: pre-wrap; overflow-wrap: anywhere; }
+  textarea { width: 100%; min-height: 160px; margin-top: 12px; background: #11131a; color: var(--text); border: 1px solid var(--line); border-radius: 6px; padding: 10px; font: inherit; resize: vertical; }
+  textarea.changed { border-color: var(--gold); }
+  .actions { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 10px; align-items: center; }
+  button { padding: 7px 14px; border: 1px solid var(--line); border-radius: 4px; background: #2a2e3b; color: var(--text); font: inherit; font-size: 14px; cursor: pointer; }
+  button.primary { background: var(--gold); color: #111; border-color: var(--gold); font-weight: 600; }
+  button:disabled { opacity: .5; cursor: default; }
+  kbd { font-size: 11px; opacity: .7; margin-left: 4px; }
+  #msg { font-size: 13px; }
+  .err { color: var(--bad); } .good { color: var(--ok); }
+  .empty { text-align: center; color: var(--muted); padding: 60px 0; }
+  .live-rule { font-size: 12px; margin-top: 6px; color: var(--muted); }
+  /* สีชุดเดียวกับ extension / Dueling Nexus */
+  .ygot-block { display: block; } .ygot-block + .ygot-block { margin-top: 10px; }
+  .ygot-cond { color: #F1FA8C; font-weight: 500; } .ygot-cost { color: #FF79C6; font-weight: 500; } .ygot-summon { color: #8BE9FD; font-weight: 500; }
+  .ygot-name { font-style: italic; } .ygot-limit { text-decoration: underline; } .ygot-quick { font-weight: bold; }
+</style>
+</head>
+<body>
+<header>
+  <h1>🇹🇭 ตรวจคำแปล</h1>
+  <select id="mode" title="ชุดการ์ดที่จะตรวจ">
+    <option value="notes">ใบที่ rule-check สงสัย (มี note)</option>
+    <option value="ai">ทุกใบที่ยังเป็น AI</option>
+  </select>
+  <select id="kind" title="กรองตามชนิดปัญหา">
+    <option value="">ปัญหาทุกแบบ</option>
+    <option value="banish">banish ↔ ออกจากเกม</option>
+    <option value="face">face-up/down ↔ หงาย/คว่ำ</option>
+    <option value="number">ตัวเลขหาย</option>
+    <option value="colon">":" หาย</option>
+    <option value="semicolon">";" หาย</option>
+    <option value="name">ชื่อการ์ด</option>
+    <option value="bullet">●</option>
+    <option value="other">อื่น ๆ</option>
+  </select>
+  <input id="q" type="search" placeholder="ค้นชื่อการ์ด / passcode">
+  <span id="count">กำลังโหลด…</span>
+</header>
+<main id="main"><div class="empty">กำลังโหลด…</div></main>
+
+<script src="/format.js"></script>
+<script>
+const TOKEN = new URLSearchParams(location.search).get("t") || "";
+history.replaceState(null, "", "/?t=" + TOKEN); // คง token ไว้ แต่ล้างพารามิเตอร์อื่น
+const $ = id => document.getElementById(id);
+const el = (tag, props = {}, ...kids) => { const e = Object.assign(document.createElement(tag), props); e.append(...kids); return e; };
+const api = (path, opts = {}) => fetch(path, { ...opts, headers: { "x-review-token": TOKEN, ...(opts.headers || {}) } }).then(r => r.json());
+
+let all = [], list = [], pos = 0, done = 0;
+
+// แสดงข้อความด้วย formatter เดียวกับ extension (สร้าง DOM ด้วย textContent เท่านั้น)
+const CLS = { cond: "ygot-cond", cost: "ygot-cost", summon: "ygot-summon", name: "ygot-name", limit: "ygot-limit", quick: "ygot-quick" };
+function render(target, text) {
+  target.textContent = "";
+  let blocks = null;
+  try { blocks = globalThis.ygotFormatThai(text); } catch {}
+  if (!blocks?.length) { target.textContent = text; return; }
+  for (const b of blocks) {
+    const d = el("span", { className: "ygot-block" });
+    for (const s of b.segs) d.append(s.cls.length ? el("span", { className: s.cls.map(c => CLS[c]).join(" "), textContent: s.text }) : document.createTextNode(s.text));
+    target.append(d);
+  }
+}
+
+async function load() {
+  $("count").textContent = "กำลังโหลด…";
+  const r = await api("/api/queue?mode=" + $("mode").value);
+  if (!r.ok) { $("main").replaceChildren(el("div", { className: "empty err", textContent: r.error || "โหลดไม่ได้" })); return; }
+  all = r.items; applyFilter();
+}
+
+function applyFilter() {
+  const k = $("kind").value, q = $("q").value.trim().toLowerCase();
+  list = all.filter(c => (!k || c.kinds.includes(k)) && (!q || c.name.toLowerCase().includes(q) || c.id.includes(q)));
+  pos = 0; show();
+}
+
+function show() {
+  $("count").textContent = list.length ? `${pos + 1} / ${list.length} · ตรวจแล้วรอบนี้ ${done}` : `ไม่มีใบให้ตรวจ · ตรวจแล้วรอบนี้ ${done}`;
+  const c = list[pos];
+  if (!c) { $("main").replaceChildren(el("div", { className: "empty", textContent: done ? "หมดแล้ว 🎉 ปิดหน้านี้แล้วรัน tools\\update-data.bat เพื่อส่งขึ้น GitHub" : "ไม่มีใบที่ตรงกับตัวกรอง" })); return; }
+
+  const enBox = el("div", { className: "text" }); render(enBox, c.en);
+  const thBox = el("div", { className: "text" }); render(thBox, c.th);
+  const ta = el("textarea", { value: c.th, spellcheck: false, ariaLabel: "แก้คำแปล" });
+  const live = el("div", { className: "live-rule" });
+  const msg = el("span", { id: "msg" });
+  const btnOk = el("button", { className: "primary", title: "Ctrl+Enter" }, "✓ ถูกแล้ว", el("kbd", { textContent: "Ctrl+Enter" }));
+  const btnSave = el("button", { disabled: true, title: "Ctrl+S" }, "💾 บันทึกที่แก้", el("kbd", { textContent: "Ctrl+S" }));
+  const btnSkip = el("button", { title: "Alt+→" }, "ข้าม →", el("kbd", { textContent: "Alt+→" }));
+  const btnBack = el("button", { title: "Alt+←", disabled: pos === 0 }, "← ย้อน", el("kbd", { textContent: "Alt+←" }));
+
+  ta.addEventListener("input", () => {
+    const changed = ta.value.trim() !== c.th.trim();
+    ta.classList.toggle("changed", changed);
+    btnSave.disabled = !changed;
+    render(thBox, ta.value);
+    live.textContent = changed ? "ตัวอย่างด้านบนอัปเดตตามที่แก้ · กด Ctrl+S เพื่อบันทึก" : "";
+  });
+
+  async function save(action) {
+    btnOk.disabled = btnSave.disabled = true;
+    msg.className = ""; msg.textContent = "กำลังบันทึก…";
+    const r = await api("/api/save", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ id: c.id, th: ta.value, action }) });
+    if (!r.ok) { msg.className = "err"; msg.textContent = r.error; btnOk.disabled = false; btnSave.disabled = ta.value.trim() === c.th.trim(); return; }
+    done++;
+    all = all.filter(x => x.id !== c.id); list.splice(pos, 1);
+    if (pos >= list.length) pos = Math.max(0, list.length - 1);
+    show();
+    if (r.rule?.length) { const m = $("msg"); if (m) { m.className = "err"; m.textContent = `บันทึก ${c.name} แล้ว (rule-check ยังเตือน: ${r.rule.join(" · ")})`; } }
+  }
+  btnOk.onclick = () => save("accept");
+  btnSave.onclick = () => save("edit");
+  btnSkip.onclick = () => { if (pos < list.length - 1) { pos++; show(); } };
+  btnBack.onclick = () => { if (pos > 0) { pos--; show(); } };
+  current = { ok: () => !btnOk.disabled && save(ta.value.trim() !== c.th.trim() ? "edit" : "accept"), save: () => !btnSave.disabled && save("edit"), skip: btnSkip.onclick, back: btnBack.onclick };
+
+  const flags = [c.status === "ai" ? "🤖 AI" : c.status, `ยอดดู ${c.views.toLocaleString()}`, c.type, c.stale ? "⚠ ข้อความอังกฤษเปลี่ยนจากตอนแปล" : ""].filter(Boolean).join(" · ");
+  $("main").replaceChildren(
+    el("div", { className: "title" }, el("h2", { textContent: c.name }), el("span", { className: "meta", textContent: `#${c.id} · ${flags}` })),
+    el("div", { className: "problems" }, ...c.problems.map(p => el("div", { textContent: p }))),
+    el("div", { className: "cols" },
+      el("div", { className: "box" }, el("h3", { textContent: "ENGLISH" }), enBox),
+      el("div", { className: "box" }, el("h3", { textContent: "ไทย (แสดงแบบเดียวกับใน extension)" }), thBox)),
+    ta, live,
+    el("div", { className: "actions" }, btnOk, btnSave, btnBack, btnSkip, msg)
+  );
+}
+
+let current = null;
+document.addEventListener("keydown", e => {
+  if (!current) return;
+  if (e.ctrlKey && e.key === "Enter") { e.preventDefault(); current.ok(); }
+  else if (e.ctrlKey && (e.key === "s" || e.key === "S")) { e.preventDefault(); current.save(); }
+  else if (e.altKey && e.key === "ArrowRight") { e.preventDefault(); current.skip(); }
+  else if (e.altKey && e.key === "ArrowLeft") { e.preventDefault(); current.back(); }
+});
+$("mode").onchange = load;
+$("kind").onchange = applyFilter;
+$("q").oninput = applyFilter;
+load();
+</script>
+</body>
+</html>

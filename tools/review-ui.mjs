@@ -1,0 +1,132 @@
+// หน้าตรวจคำแปลบนเครื่องผู้ดูแล — ดับเบิลคลิก tools\review-ui.bat  (หรือ node tools/review-ui.mjs [cards-en.json])
+// - เปิด server ที่ 127.0.0.1 เท่านั้น + token สุ่มทุกครั้ง (กันเว็บอื่นในเครื่องแอบสั่งบันทึก) + ตรวจ Host (กัน DNS rebinding)
+// - อ่านภาษาอังกฤษจาก batch\cards-en.json ในเครื่อง (repo ไม่เก็บข้อความอังกฤษ)
+// - บันทึกลง data/cards/{id}.json ทันที: status → reviewed, ลบ note · ตรวจเสร็จแล้วรัน update-data.bat เพื่อ commit + push
+import { createServer } from "node:http";
+import { readFileSync, writeFileSync, existsSync } from "node:fs";
+import { join } from "node:path";
+import { randomBytes, timingSafeEqual } from "node:crypto";
+import { spawn } from "node:child_process";
+import { ROOT, CARDS_DIR, loadCards, ruleCheck, checkCardSchema, unsafeText, cardJson, enHash, MAX_TH } from "./lib.mjs";
+
+const EN_FILE = process.argv[2] || "E:\\YGO-Translator\\batch\\cards-en.json";
+const PORT = +(process.env.REVIEW_PORT || 8787);
+const TOKEN = randomBytes(24).toString("hex");
+
+if (!existsSync(EN_FILE)) { console.error(`ไม่พบ ${EN_FILE} — ระบุ path ของ cards-en.json เป็นอาร์กิวเมนต์แรก`); process.exit(1); }
+
+// ---- ข้อมูลภาษาอังกฤษ (id และ alt passcode ทุกตัว) ----
+console.log("อ่านข้อมูลภาษาอังกฤษ…");
+const enRaw = JSON.parse(readFileSync(EN_FILE, "utf8"));
+const EN = new Map();
+for (const c of enRaw.data || enRaw) {
+  const rec = { en: c.desc || "", views: c.misc_info?.[0]?.views || 0, type: c.type || "" };
+  EN.set(String(c.id), rec);
+  for (const im of c.card_images || []) EN.set(String(im.id), rec);
+}
+
+const today = () => new Date().toISOString().slice(0, 10);
+const cardPath = id => join(CARDS_DIR, `${id}.json`);
+
+function problemKind(p) {
+  if (/banish/.test(p)) return "banish";
+  if (/face-(up|down)/.test(p)) return "face";
+  if (/numbers missing/.test(p)) return "number";
+  if (/fewer ":"/.test(p)) return "colon";
+  if (/fewer ";"/.test(p)) return "semicolon";
+  if (/quotes/.test(p)) return "name";
+  if (/bullet/.test(p)) return "bullet";
+  return "other";
+}
+
+// อ่านการ์ดทั้งหมดครั้งเดียวตอนเปิด (14,000+ ไฟล์บน HDD ใช้เวลาเป็นนาที) แล้วเก็บในหน่วยความจำ · บันทึกแล้วอัปเดตเฉพาะใบนั้น
+console.log("อ่านไฟล์การ์ดทั้งหมด… (บน HDD ครั้งแรกอาจใช้ 1–2 นาที ครั้งต่อไปจะเร็วขึ้น)");
+const t0 = Date.now();
+const CARDS = new Map(loadCards().map(({ card }) => [card.id, card]));
+console.log(`อ่านแล้ว ${CARDS.size} ใบ (${((Date.now() - t0) / 1000).toFixed(0)} วินาที)`);
+
+/** คิวงาน: mode=notes → ใบที่มี note · mode=ai → ทุกใบที่ยังเป็น ai (ยอดนิยมก่อน) */
+function queue(mode) {
+  const out = [];
+  for (const card of CARDS.values()) {
+    if (card.status === "reviewed") continue;
+    if (mode === "notes" ? !card.note : card.status !== "ai") continue;
+    const e = EN.get(card.id);
+    if (!e) continue;
+    const problems = ruleCheck(e.en, card.th).problems;
+    out.push({ id: card.id, name: card.name, th: card.th, en: e.en, views: e.views, type: e.type, status: card.status,
+      stale: !!card.en_sha256 && card.en_sha256 !== enHash(e.en), problems, kinds: [...new Set(problems.map(problemKind))] });
+  }
+  return out.sort((a, b) => b.views - a.views);
+}
+
+function save({ id, th, action }) {
+  if (typeof id !== "string" || !/^\d{3,10}$/.test(id) || !existsSync(cardPath(id))) return { ok: false, error: "ไม่พบการ์ด" };
+  const card = JSON.parse(readFileSync(cardPath(id), "utf8"));
+  if (action === "edit") {
+    if (typeof th !== "string") return { ok: false, error: "ไม่มีคำแปล" };
+    th = th.replace(/\r\n?/g, "\n").split("\n").map(l => l.trim()).filter(Boolean).join("\n");
+    if (!th || th.length > MAX_TH) return { ok: false, error: "คำแปลว่างหรือยาวเกิน" };
+    const bad = unsafeText(th);
+    if (bad.length) return { ok: false, error: "คำแปลมี " + bad.join(", ") };
+    card.th = th;
+  } else if (action !== "accept") return { ok: false, error: "action ไม่ถูกต้อง" };
+  const e = EN.get(id);
+  card.status = "reviewed";
+  card.updated = today();
+  if (e) card.en_sha256 = enHash(e.en); // ตรวจเทียบกับข้อความอังกฤษเวอร์ชันนี้
+  delete card.note;
+  const problems = checkCardSchema(card);
+  if (problems.length) return { ok: false, error: problems.join("; ") };
+  writeFileSync(cardPath(id), cardJson(card));
+  CARDS.set(id, card);
+  return { ok: true, card, rule: e ? ruleCheck(e.en, card.th).problems : [] };
+}
+
+// ---- HTTP ----
+const PAGE = () => readFileSync(join(ROOT, "tools", "review-ui.html"), "utf8");
+const FORMAT_JS = () => readFileSync(join(ROOT, "extension", "format.js"), "utf8");
+const okToken = t => { const a = Buffer.from(String(t || "")), b = Buffer.from(TOKEN); return a.length === b.length && timingSafeEqual(a, b); };
+const send = (res, code, type, body) => {
+  res.writeHead(code, { "Content-Type": type, "Cache-Control": "no-store", "X-Content-Type-Options": "nosniff",
+    "Content-Security-Policy": "default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'unsafe-inline'; connect-src 'self'; frame-ancestors 'none'",
+    "Referrer-Policy": "no-referrer" });
+  res.end(body);
+};
+const json = (res, code, obj) => send(res, code, "application/json; charset=utf-8", JSON.stringify(obj));
+
+const server = createServer((req, res) => {
+  // อนุญาตเฉพาะ Host ของเราเอง (กัน DNS rebinding)
+  if (req.headers.host !== `127.0.0.1:${PORT}` && req.headers.host !== `localhost:${PORT}`) return send(res, 403, "text/plain", "forbidden host");
+  const url = new URL(req.url, `http://127.0.0.1:${PORT}`);
+  if (req.method === "GET" && url.pathname === "/") {
+    if (!okToken(url.searchParams.get("t"))) return send(res, 403, "text/plain; charset=utf-8", "ต้องเปิดจากลิงก์ที่ review-ui แสดง (มี token)");
+    return send(res, 200, "text/html; charset=utf-8", PAGE());
+  }
+  if (req.method === "GET" && url.pathname === "/format.js") return send(res, 200, "text/javascript; charset=utf-8", FORMAT_JS());
+  if (!url.pathname.startsWith("/api/")) return send(res, 404, "text/plain", "not found");
+  // API ทุกตัวต้องมี token ใน header (เว็บอื่นใส่ header นี้ข้าม origin ไม่ได้ถ้าไม่ผ่าน CORS ซึ่งเราไม่เปิด)
+  if (!okToken(req.headers["x-review-token"])) return json(res, 403, { ok: false, error: "token ไม่ถูกต้อง" });
+  if (req.method === "GET" && url.pathname === "/api/queue") return json(res, 200, { ok: true, items: queue(url.searchParams.get("mode") === "ai" ? "ai" : "notes") });
+  if (req.method === "POST" && url.pathname === "/api/save") {
+    if (!String(req.headers["content-type"] || "").startsWith("application/json")) return json(res, 415, { ok: false, error: "ต้องเป็น JSON" });
+    let body = "";
+    req.on("data", d => { body += d; if (body.length > 64 * 1024) req.destroy(); });
+    req.on("end", () => {
+      let r;
+      try { r = save(JSON.parse(body)); } catch (e) { r = { ok: false, error: String(e.message || e) }; }
+      if (r.ok) console.log(`✓ ${r.card.id} ${r.card.name}`);
+      json(res, r.ok ? 200 : 400, r);
+    });
+    return;
+  }
+  json(res, 404, { ok: false, error: "not found" });
+});
+
+server.listen(PORT, "127.0.0.1", () => {
+  const link = `http://127.0.0.1:${PORT}/?t=${TOKEN}`;
+  const n = queue("notes").length;
+  console.log(`\nหน้าตรวจคำแปล: ${link}\nใบที่มี note รอตรวจ: ${n} · ปิดหน้าต่างนี้เมื่อเสร็จ แล้วรัน tools\\update-data.bat เพื่อส่งขึ้น GitHub\n`);
+  if (!process.env.NO_OPEN) spawn("cmd", ["/c", "start", "", link], { detached: true, stdio: "ignore" }).unref();
+});
+server.on("error", e => { console.error(e.code === "EADDRINUSE" ? `พอร์ต ${PORT} ถูกใช้อยู่ — ปิดหน้าตรวจเดิมก่อน หรือตั้ง REVIEW_PORT` : e.message); process.exit(1); });

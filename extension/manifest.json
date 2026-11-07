@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "ygo-th — คำแปลการ์ดภาษาไทย",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "description": "แสดงคำแปลภาษาไทยของข้อความการ์ดบน Dueling Nexus จากฐานคำแปลเปิด ygo-th (โปรเจกต์แฟน ไม่เกี่ยวข้องกับ Konami)",
   "minimum_chrome_version": "137",
   "permissions": ["storage", "unlimitedStorage", "alarms"],

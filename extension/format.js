@@ -8,7 +8,8 @@
   const QUOTES = new Set(['"', "“", "”"]);
 
   // a new effect usually starts with one of these (used only when the AI dropped the periods)
-  const STARTERS = /^(?:ถ้า|หาก|เมื่อ|ในช่วง|ระหว่าง|ตอนที่|ตอน|ขณะที่|1 ครั้งต่อเทิร์น|ครั้งเดียวต่อเทิร์น|คุณสามารถ|ในเทิร์นที่|ในขณะที่|ในระหว่าง|ใน(?:Main|Battle|Standby|End|Draw) Phase|\(Quick Effect\))/;
+  const STARTERS = /^(?:ถ้า|หาก|เมื่อ|ในช่วง|ระหว่าง|ตอนที่|ตอน|ขณะที่|1 ครั้งต่อเทิร์น|ครั้งเดียวต่อเทิร์น|คุณสามารถ|ในเทิร์นที่|ในขณะที่|ในระหว่าง|ใน(?:Main|Battle|Standby|End|Draw) Phase)/;
+  // "(Quick Effect)" ไม่ใช่จุดเริ่มเอฟเฟกต์ — มันอยู่ท้ายเงื่อนไข ("เมื่อ … (Quick Effect):") เหมือนที่เว็บแสดงภาษาอังกฤษ
 
   /** index of `ch` in s at or after `from`, outside "quotes" */
   function findOutsideQuotes(s, ch, from = 0) {

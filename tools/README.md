@@ -8,6 +8,7 @@
 | เครื่องมือ | ทำอะไร | ใช้ตอนไหน | รันที่ไหน |
 | --- | --- | --- | --- |
 | [`update-data.bat`](#update-data) | pull + import + validate + commit + push ในคำสั่งเดียว | หลัง batch แปลการ์ดได้เพิ่ม | เครื่อง Tonk (ดับเบิลคลิก) |
+| [`review-ui.bat`](#review-ui) | หน้าตรวจคำแปลใน browser (EN คู่ TH, ✓ ถูก / แก้ / ข้าม) | ไล่ตรวจใบที่มี note หรือใบยอดนิยม | เครื่อง Tonk (ดับเบิลคลิก) |
 | [`import-batch.mjs`](#import-batch) | แปลงผล batch เป็น `data/cards/*.json` | ถูกเรียกจาก update-data | เครื่อง Tonk |
 | [`validate.mjs`](#validate) | ตรวจรูปแบบไฟล์ใน `data/` | ก่อน push ทุกครั้ง · CI รันเองทุก PR/push | ทั้งสองที่ |
 | [`build.mjs`](#build) | สร้าง API static `site/v1/` และเซ็น | Actions รันเองหลัง push เข้า main | Actions (ลองในเครื่องได้) |
@@ -58,6 +59,32 @@ node tools/update-data.mjs "D:\other\cards-th.jsonl" "D:\other\verified.json"
 | ขั้น: git commit | ตั้งชื่อและอีเมลด้วย `git config user.name` / `git config user.email` |
 | ขั้น: git push · ruleset | main ห้าม push ตรง → commit อยู่ในเครื่องแล้ว ให้เปิด PR หรือตั้ง bypass ให้บัญชีผู้ดูแล |
 | ขั้น: git push · มี commit ใหม่กว่า | `git pull --rebase` แล้ว `git push` |
+
+---
+
+<a id="review-ui"></a>
+## `review-ui.bat` / `review-ui.mjs`: หน้าตรวจคำแปล
+
+**ทำอะไร:** เปิดหน้าเว็บบนเครื่อง (`127.0.0.1:8787` เท่านั้น) ให้ตรวจทีละใบ
+- ภาษาอังกฤษ (จาก `batchcards-en.json` ในเครื่อง) คู่กับคำแปลไทย ทั้งสองฝั่งจัดสีและแบ่งย่อหน้าด้วย `extension/format.js` ตัวเดียวกับ extension
+- แสดงปัญหาที่ rule-check เจอ · ยอดดู · ป้าย "ข้อความอังกฤษเปลี่ยนจากตอนแปล"
+- แก้คำแปลในกล่องได้ เห็นตัวอย่างการแสดงผลสดด้านบน
+- เรียงใบยอดนิยมก่อน · กรองตามชนิดปัญหา (banish / หงาย-คว่ำ / ตัวเลข / ":" / ";" / ชื่อการ์ด …) · ค้นตามชื่อหรือ passcode
+- โหมด "ทุกใบที่ยังเป็น AI" ใช้ไล่ตรวจใบยอดนิยมที่ไม่มี note ได้ด้วย
+
+| ปุ่ม | คีย์ลัด | ผล |
+| --- | --- | --- |
+| ✓ ถูกแล้ว | Ctrl+Enter | status → `reviewed`, ลบ note (ถ้าแก้ในกล่องไว้จะบันทึกที่แก้) |
+| 💾 บันทึกที่แก้ | Ctrl+S | บันทึกคำแปลในกล่อง + `reviewed` |
+| ข้าม → / ← ย้อน | Alt+→ / Alt+← | เลื่อนใบโดยไม่บันทึก |
+
+บันทึกลง `data/cards/{id}.json` ทันที (อัปเดต `en_sha256` เป็นข้อความอังกฤษเวอร์ชันที่ตรวจ) · ตรวจเสร็จแล้วปิดหน้าต่าง แล้วรัน `update-data.bat` เพื่อ commit + push
+ใบที่ `reviewed` แล้ว import-batch / retry-flagged จะไม่เขียนทับ
+
+**ใช้ยังไง:** ดับเบิลคลิก `toolseview-ui.bat` → รอโหลดการ์ด (บน HDD ประมาณ 1–1.5 นาที) → browser เปิดเอง
+ถ้า cards-en.json อยู่ที่อื่น: `node tools/review-ui.mjs "D:pathcards-en.json"` · เปลี่ยนพอร์ต: ตั้ง env `REVIEW_PORT`
+
+**ความปลอดภัย:** รับเฉพาะ 127.0.0.1 · ต้องเปิดจากลิงก์ที่มี token สุ่ม (เปลี่ยนทุกครั้งที่เปิด) · API ต้องมี token ใน header และ Host ต้องเป็น 127.0.0.1/localhost (กันเว็บอื่นแอบสั่งบันทึก) · คำแปลแสดงด้วย textContent เท่านั้น
 
 ---
 

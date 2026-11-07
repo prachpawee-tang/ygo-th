@@ -14,7 +14,7 @@
   dt { opacity: .65; } dd { margin: 0; }
   #msg { margin-top: 8px; font-size: 12px; white-space: pre-wrap; min-height: 1em; }
   .err { color: #ff8a80; }
-  footer { margin-top: 10px; font-size: 11px; opacity: .6; }
+  footer { margin-top: 10px; font-size: 11px; color: #a0a6b4; }
   a { color: #c9a227; }
   #update { display: none; margin: 0 0 10px; padding: 8px; border: 1px solid #c9a227; border-radius: 4px; background: rgba(201,162,39,.15); font-size: 12px; }
   #update.show { display: block; }
@@ -22,7 +22,7 @@
 </style>
 </head>
 <body>
-  <h1>🇹🇭 ygo-th คำแปลการ์ด</h1>
+  <h1>ygo-th คำแปลการ์ดภาษาไทย</h1>
   <div id="update"></div>
   <label class="check"><input type="checkbox" id="enabled"> เปิดใช้งาน</label>
   <label for="displayMode">การแสดงผล</label>
@@ -38,7 +38,7 @@
     <dt>เช็กล่าสุด</dt><dd id="checked">–</dd>
   </dl>
   <button id="sync">อัปเดตตอนนี้</button>
-  <div id="msg"></div>
+  <div id="msg" role="status" aria-live="polite"></div>
   <footer>โปรเจกต์แฟน ไม่เกี่ยวข้องกับ Konami · คำแปลไม่ใช่ข้อความทางการ ·
     <a href="https://github.com/prachpawee-tang/ygo-th" target="_blank" rel="noopener noreferrer">GitHub</a></footer>
   <script src="popup.js"></script>

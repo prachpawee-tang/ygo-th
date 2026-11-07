@@ -44,11 +44,11 @@
 <body>
 <header>
   <h1>🇹🇭 ตรวจคำแปล</h1>
-  <select id="mode" title="ชุดการ์ดที่จะตรวจ">
+  <select id="mode" title="ชุดการ์ดที่จะตรวจ" aria-label="ชุดการ์ดที่จะตรวจ">
     <option value="notes">ใบที่ rule-check สงสัย (มี note)</option>
     <option value="ai">ทุกใบที่ยังเป็น AI</option>
   </select>
-  <select id="kind" title="กรองตามชนิดปัญหา">
+  <select id="kind" title="กรองตามชนิดปัญหา" aria-label="กรองตามชนิดปัญหา">
     <option value="">ปัญหาทุกแบบ</option>
     <option value="banish">banish ↔ ออกจากเกม</option>
     <option value="face">face-up/down ↔ หงาย/คว่ำ</option>
@@ -59,7 +59,7 @@
     <option value="bullet">●</option>
     <option value="other">อื่น ๆ</option>
   </select>
-  <input id="q" type="search" placeholder="ค้นชื่อการ์ด / passcode">
+  <input id="q" type="search" placeholder="ค้นชื่อการ์ด / passcode" aria-label="ค้นชื่อการ์ดหรือ passcode">
   <span id="count">กำลังโหลด…</span>
 </header>
 <main id="main"><div class="empty">กำลังโหลด…</div></main>
@@ -70,7 +70,9 @@ const TOKEN = new URLSearchParams(location.search).get("t") || "";
 history.replaceState(null, "", "/?t=" + TOKEN); // คง token ไว้ แต่ล้างพารามิเตอร์อื่น
 const $ = id => document.getElementById(id);
 const el = (tag, props = {}, ...kids) => { const e = Object.assign(document.createElement(tag), props); e.append(...kids); return e; };
-const api = (path, opts = {}) => fetch(path, { ...opts, headers: { "x-review-token": TOKEN, ...(opts.headers || {}) } }).then(r => r.json());
+const api = (path, opts = {}) => fetch(path, { ...opts, headers: { "x-review-token": TOKEN, ...(opts.headers || {}) } })
+  .then(r => r.json())
+  .catch(() => ({ ok: false, error: "ติดต่อเซิร์ฟเวอร์ไม่ได้ — หน้าต่าง review-ui ถูกปิดไปแล้ว? เปิด review-ui.bat ใหม่" }));
 
 let all = [], list = [], pos = 0, done = 0;
 
@@ -135,11 +137,14 @@ function show() {
     show();
     if (r.rule?.length) { const m = $("msg"); if (m) { m.className = "err"; m.textContent = `บันทึก ${c.name} แล้ว (rule-check ยังเตือน: ${r.rule.join(" · ")})`; } }
   }
-  btnOk.onclick = () => save("accept");
+  // ✓ saves what is in the box: if it was edited, the edit wins (same as Ctrl+Enter)
+  const edited = () => ta.value.trim() !== c.th.trim();
+  const leave = () => !edited() || confirm("ยังไม่ได้บันทึกที่แก้ไว้ — ทิ้งแล้วไปใบอื่น?");
+  btnOk.onclick = () => save(edited() ? "edit" : "accept");
   btnSave.onclick = () => save("edit");
-  btnSkip.onclick = () => { if (pos < list.length - 1) { pos++; show(); } };
-  btnBack.onclick = () => { if (pos > 0) { pos--; show(); } };
-  current = { ok: () => !btnOk.disabled && save(ta.value.trim() !== c.th.trim() ? "edit" : "accept"), save: () => !btnSave.disabled && save("edit"), skip: btnSkip.onclick, back: btnBack.onclick };
+  btnSkip.onclick = () => { if (pos < list.length - 1 && leave()) { pos++; show(); } };
+  btnBack.onclick = () => { if (pos > 0 && leave()) { pos--; show(); } };
+  current = { ok: () => !btnOk.disabled && btnOk.onclick(), save: () => !btnSave.disabled && save("edit"), skip: btnSkip.onclick, back: btnBack.onclick };
 
   const flags = [c.status === "ai" ? "🤖 AI" : c.status, `ยอดดู ${c.views.toLocaleString()}`, c.type, c.stale ? "⚠ ข้อความอังกฤษเปลี่ยนจากตอนแปล" : ""].filter(Boolean).join(" · ");
   $("main").replaceChildren(

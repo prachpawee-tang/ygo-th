@@ -65,7 +65,10 @@ const st = git(["status", "--porcelain", "--", "data"]);
 const changed = st.status === 0 ? st.stdout.split("\n").filter(Boolean).length : null;
 const notes = loadCards().filter(x => x.card.note).length;
 
-if (!PUSH || changed === 0) {
+// local commits not on GitHub yet (e.g. a review-ui session committed by hand) still need pushing
+const ahead = +(git(["rev-list", "--count", "@{u}..HEAD"]).stdout || 0);
+
+if (!PUSH || (changed === 0 && !ahead)) {
   console.log(`\n${GREEN}=== สำเร็จ ===${RESET}`);
   console.log(`ไฟล์ใน data/ ที่เปลี่ยน: ${changed ?? "?"} · การ์ดที่มี note รอตรวจ: ${notes}`);
   if (changed === 0) console.log("ไม่มีอะไรใหม่ ไม่ต้อง push");
@@ -73,13 +76,18 @@ if (!PUSH || changed === 0) {
   process.exit(0);
 }
 
-console.log(`\n[${step++}/${TOTAL}] commit ${changed} ไฟล์`);
-let r = git(["add", "-A", "--", "data"]);
-if (r.status !== 0) fail("git add", "เพิ่มไฟล์ไม่ได้", r.stderr);
-const msg = `data: import batch ${today} (${changed} files)`;
-r = git(["commit", "-m", msg, "--", "data"]); // commit only data/, never other local edits
-if (r.status !== 0) fail("git commit", "commit ไม่ได้ — ถ้าขึ้นว่าไม่รู้จักชื่อ/อีเมล ให้ตั้ง git config user.name / user.email", r.stderr + r.stdout);
-console.log(msg);
+let r;
+if (changed > 0) {
+  console.log(`\n[${step++}/${TOTAL}] commit ${changed} ไฟล์`);
+  r = git(["add", "-A", "--", "data"]);
+  if (r.status !== 0) fail("git add", "เพิ่มไฟล์ไม่ได้", r.stderr);
+  const msg = `data: import batch ${today} (${changed} files)`;
+  r = git(["commit", "-m", msg, "--", "data"]); // commit only data/, never other local edits
+  if (r.status !== 0) fail("git commit", "commit ไม่ได้ — ถ้าขึ้นว่าไม่รู้จักชื่อ/อีเมล ให้ตั้ง git config user.name / user.email", r.stderr + r.stdout);
+  console.log(msg);
+} else {
+  console.log(`\n[${step++}/${TOTAL}] data/ ไม่เปลี่ยน แต่มี ${ahead} commit ในเครื่องที่ยังไม่ได้ push`);
+}
 
 console.log(`\n[${step++}/${TOTAL}] push ขึ้น GitHub`);
 r = git(["push"]);

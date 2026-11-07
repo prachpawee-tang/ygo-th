@@ -1,3 +1,4 @@
+/* แผง "แสดงใต้ข้อความภาษาอังกฤษ" */
 .ygot-panel {
   margin-top: 6px;
   background: rgba(20, 22, 30, 0.95);
@@ -9,30 +10,11 @@
   z-index: 2147483646;
   text-align: left;
 }
-.ygot-panel.ygot-float {
-  position: fixed;
-  right: 16px;
-  bottom: 16px;
-  width: 340px;
-  max-height: 55vh;
-  margin: 0;
-  display: flex;
-  flex-direction: column;
-}
 .ygot-head {
-  display: flex;
-  align-items: center;
-  gap: 8px;
   padding: 4px 8px;
   background: rgba(201, 162, 39, 0.18);
   font-weight: 600;
   user-select: none;
-}
-.ygot-float .ygot-head { cursor: move; }
-.ygot-status { flex: 1; font-weight: 400; font-size: 11px; opacity: 0.7; }
-.ygot-toggle {
-  background: none; border: 0; color: inherit; cursor: pointer;
-  font-size: 14px; padding: 0 4px;
 }
 .ygot-body {
   padding: 6px 8px;
@@ -40,63 +22,32 @@
   overflow-y: auto;
   max-height: 40vh;
 }
-.ygot-body:empty { display: none; }
-.ygot-error { color: #ff8a80; }
-.ygot-collapsed .ygot-body { display: none; }
 
+/* โหมดเขียนทับ — คลิก (หรือ Enter/Space) เพื่อสลับ ไทย / English */
 .ygot-replaced {
   white-space: pre-wrap;
   font-family: "Noto Sans Thai", "Leelawadee UI", "Sarabun", Tahoma, sans-serif;
   cursor: pointer;
 }
+.ygot-replaced:focus-visible { outline: 2px solid #c9a227; outline-offset: 2px; }
+
+/* ป้ายสถานะใต้ข้อความ — ขึ้นบรรทัดใหม่ได้ ไม่ล้นคอลัมน์แคบของ Dueling Nexus */
 .ygot-badge {
   display: inline-flex;
+  flex-wrap: wrap;
   align-items: center;
-  gap: 6px;
+  gap: 2px 6px;
   margin-left: 6px;
   font: 11px "Noto Sans Thai", "Leelawadee UI", Tahoma, sans-serif;
   opacity: 0.85;
-  white-space: nowrap;
 }
-.ygot-badge button {
-  background: rgba(201, 162, 39, 0.2);
-  color: inherit;
-  border: 1px solid rgba(201, 162, 39, 0.6);
-  border-radius: 4px;
-  padding: 0 5px;
-  font: inherit;
-  cursor: pointer;
-}
-.ygot-badge button:hover { background: rgba(201, 162, 39, 0.45); }
-.ygot-badge .ygot-ok { color: #8ee08e; }
 .ygot-panel .ygot-badge { margin-left: 0; }
-.ygot-loading { opacity: 0.55; }
-.ygot-loading::after { content: "  ⏳ กำลังแปล…"; font-size: 11px; opacity: 0.8; }
-
-.ygot-hl-target { outline: 2px dashed #c9a227 !important; outline-offset: 2px; cursor: crosshair !important; }
-
-.ygot-toast {
-  position: fixed;
-  top: 16px;
-  left: 50%;
-  transform: translateX(-50%);
-  background: #c9a227;
-  color: #111;
-  padding: 8px 14px;
-  border-radius: 6px;
-  font: 13px "Noto Sans Thai", "Leelawadee UI", Tahoma, sans-serif;
-  z-index: 2147483647;
-  max-width: 80vw;
-  word-break: break-all;
-}
-
-/* v2 */
 .ygot-badge a { color: #c9a227; text-decoration: underline; }
 .ygot-badge .ygot-st-reviewed { color: #8ee08e; }
 .ygot-badge .ygot-st-community { color: #8ec5ff; }
 .ygot-badge .ygot-stale { color: #ffb74d; cursor: help; }
 
-/* v2.1: จัดรูปแบบคำแปลแบบเดียวกับที่ Dueling Nexus จัดภาษาอังกฤษ (สีชุดเดียวกับเว็บ) */
+/* จัดรูปแบบคำแปลแบบเดียวกับที่ Dueling Nexus จัดภาษาอังกฤษ (สีชุดเดียวกับเว็บ) */
 .ygot-block { display: block; }
 .ygot-block + .ygot-block { margin-top: 10px; }
 .ygot-cond { color: #F1FA8C; font-weight: 500; }

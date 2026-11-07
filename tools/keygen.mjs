@@ -4,12 +4,13 @@
 // - public key  → keys/ygo-th.pub.pem in this repo (commit it; the extension embeds it)
 import { generateKeyPairSync } from "node:crypto";
 import { writeFileSync, mkdirSync, existsSync } from "node:fs";
-import { join } from "node:path";
+import { join, resolve, sep } from "node:path";
 import { ROOT } from "./lib.mjs";
 
 const dir = process.argv[2];
 if (!dir) { console.error('usage: node tools/keygen.mjs "<folder OUTSIDE the repo>"'); process.exit(2); }
-if (join(dir).startsWith(ROOT)) { console.error("refusing: private key folder must be outside the repository"); process.exit(2); }
+// resolve(): a relative path like "keys" must count as inside the repo · case-insensitive for Windows drive letters
+if ((resolve(dir) + sep).toLowerCase().startsWith((resolve(ROOT) + sep).toLowerCase())) { console.error("refusing: private key folder must be outside the repository"); process.exit(2); }
 const priv = join(dir, "ygo-th-signing.pem");
 if (existsSync(priv)) { console.error(`refusing: ${priv} already exists (rotate keys deliberately)`); process.exit(2); }
 const { publicKey, privateKey } = generateKeyPairSync("ed25519");

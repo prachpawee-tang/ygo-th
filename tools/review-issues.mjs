@@ -120,15 +120,22 @@ for (const issue of issues) {
     `🤖 **AI ตรวจความหมาย** (${MODEL}, 2 รอบ) → **${label}**`,
     rule.ok ? "กฎตายตัว: ผ่าน" : "กฎตายตัว: ไม่ผ่าน\n" + rule.problems.map(p => `- ${p}`).join("\n"),
     ...r.map((x, i) => `**รอบ ${i + 1}:** ${x.verdict} (มั่นใจ ${(x.confidence * 100).toFixed(0)}%)` +
-      (x.problems.length ? "\n" + x.problems.map(p => `- ${p.replace(/[@<>]/g, "")}`).join("\n") : "")),
+      // AI text can be steered by the untrusted issue — strip markdown that renders links, images, mentions or HTML
+      (x.problems.length ? "\n" + x.problems.map(p => `- ${p.replace(/[@<>[\]()!`*_#|]/g, "").replace(/https?:\/\/\S+/g, "(ลิงก์ถูกตัด)")}`).join("\n") : "")),
     "<details><summary>คำแปลกลับเป็นภาษาอังกฤษ (รอบ 1)</summary>\n\n" + fence(r[0].back_translation) + "\n</details>",
     card?.status === "reviewed" ? "การ์ดนี้สถานะ reviewed — ผู้ดูแลตัดสินเองเสมอ" : ""
   ].filter(Boolean);
 
   let prUrl = null;
   if (!DRY && OPEN_PR && label === "ai-accept" && card && card.status !== "reviewed") {
-    prUrl = await openPr(issue, passcode, card, sha, proposed, en.name);
-    lines.push(`เปิด PR แล้ว: ${prUrl}`);
+    // e.g. the branch already exists because this issue was reviewed before — don't stop the whole queue
+    try {
+      prUrl = await openPr(issue, passcode, card, sha, proposed, en.name);
+      lines.push(`เปิด PR แล้ว: ${prUrl}`);
+    } catch (e) {
+      console.warn(`#${issue.number}: open PR failed — ${e.message}`);
+      lines.push("เปิด PR อัตโนมัติไม่สำเร็จ (อาจมี branch/PR ของหัวข้อนี้อยู่แล้ว) — ผู้ดูแลจะดูเอง");
+    }
   }
   console.log(`#${issue.number} ${en.name}: ${label}${prUrl ? " → " + prUrl : ""}`);
   if (DRY) { console.log(lines.join("\n\n") + "\n"); continue; }

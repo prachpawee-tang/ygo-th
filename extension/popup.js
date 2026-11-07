@@ -53,5 +53,8 @@ $("sync").addEventListener("click", async () => {
   refresh();
 });
 
+// background refreshes the update info without making the popup wait — show it when it lands
+chrome.storage.onChanged.addListener((ch, area) => { if (area === "local" && ch.update) showUpdate(ch.update.newValue); });
+
 loadSettings();
 refresh();

@@ -5,7 +5,7 @@
 | ของ | เวอร์ชันแบบ | อยู่ที่ | ใครเปลี่ยน |
 | --- | --- | --- | --- |
 | **Extension** | SemVer `X.Y.Z` | `extension/manifest.json` → `version` + tag `ext-vX.Y.Z` | ผู้ดูแลเปลี่ยนเอง |
-| **ฐานคำแปล (ข้อมูล)** | timestamp `YYYYMMDDHHMM` (UTC) | `v1/manifest.json` → `manifest.version` | `tools/build.mjs` สร้างให้เองทุกครั้งที่ deploy ห้ามแก้มือ |
+| **ฐานคำแปล (ข้อมูล)** | timestamp `YYYYMMDDHHMMSS` (UTC) | `v1/manifest.json` → `manifest.version` | `tools/build.mjs` สร้างให้เองทุกครั้งที่ deploy ห้ามแก้มือ |
 | **รูปแบบ API** | `ygo-th/vN` | `manifest.format` และ path `/vN/` | เปลี่ยนเมื่อมีการเปลี่ยนแบบ breaking เท่านั้น |
 
 ## 1. Extension: SemVer
@@ -36,7 +36,7 @@
 
 ## 2. ฐานคำแปล: timestamp อัตโนมัติ
 
-- ทุก push เข้า `main` ที่แก้ `data/**` จะ build และเซ็นเป็นเวอร์ชันใหม่ (`202611041759` = 2026-11-04 17:59 UTC)
+- ทุก push เข้า `main` ที่แก้ `data/**` จะ build และเซ็นเป็นเวอร์ชันใหม่ (`20261104175900` = 2026-11-04 17:59:00 UTC)
 - extension รับเฉพาะเวอร์ชันที่ **ใหม่กว่า** ของที่มีอยู่ จึงย้อนเวอร์ชันโดยการ deploy ของเก่าไม่ได้
   ถ้าจะถอยคำแปลที่ผิด ให้ `git revert` แล้ว push ซึ่งจะได้ timestamp ใหม่ที่มีเนื้อหาแบบเดิม
 

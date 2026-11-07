@@ -2,7 +2,8 @@ name: triage
 # Deterministic checks on translation issues. No AI, no repository write access.
 on:
   issues:
-    types: [opened, edited, labeled]
+    # no "labeled": review.bat labels issues with a PAT, which would re-run triage and loop
+    types: [opened, edited]
 
 permissions:
   contents: read

@@ -169,9 +169,13 @@ chrome.runtime.onMessage.addListener((msg, sender, reply) => {
       case "lookup":
         if (typeof msg.en === "string" && msg.en.length > 20000) return { ok: false, error: "ข้อความยาวเกิน" };
         return lookup(msg.id, msg.en);
-      case "status":
+      case "status": {
         if (!fromExtensionPage) break;
-        return { ok: true, meta: await getMeta(), sync: (await chrome.storage.local.get("sync")).sync || {}, update: await checkUpdate() };
+        // answer at once with the last known update info; refresh it in the background (popup listens to storage.onChanged)
+        checkUpdate().catch(() => {});
+        const { sync = {}, update = null } = await chrome.storage.local.get(["sync", "update"]);
+        return { ok: true, meta: await getMeta(), sync, update };
+      }
       case "sync": {
         if (!fromExtensionPage) break;
         const [r, update] = await Promise.all([sync(), checkUpdate(true)]);

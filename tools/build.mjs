@@ -34,7 +34,8 @@ writeFileSync(join(OUT, "glossary.json"), readFileSync(join(ROOT, "data", "gloss
 const now = new Date();
 const manifest = {
   format: "ygo-th/v1",
-  version: Number(now.toISOString().replace(/\D/g, "").slice(0, 12)), // YYYYMMDDHHMM
+  // YYYYMMDDHHMMSS — seconds so two builds in the same minute still differ (the extension only takes a strictly newer version)
+  version: Number(now.toISOString().replace(/\D/g, "").slice(0, 14)),
   built: now.toISOString(),
   cards: cards.length,
   passcodes: Object.keys(all).length,

@@ -18,15 +18,18 @@ if (verifiedPath && existsSync(verifiedPath)) {
 let added = 0, same = 0, kept = 0, flagged = 0, invalid = 0, broken = 0;
 const today = new Date().toISOString().slice(0, 10);
 const lines = readFileSync(jsonl, "utf8").split("\n");
+// a card can have several lines (re-translations, retries) — only the last one counts.
+// Writing every line in turn would flip each such file old → new and bump "updated" on every run.
+const latest = new Map();
 for (const [i, line] of lines.entries()) {
   if (!line.trim()) continue;
-  let r;
   // the batch may be writing the last line right now — skip a half-written line instead of crashing
-  try { r = JSON.parse(line); } catch {
+  try { const r = JSON.parse(line); latest.set(String(r.id), r); } catch {
     broken++;
     console.warn(`skip line ${i + 1}: not valid JSON${i >= lines.length - 2 ? " (batch still writing?)" : ""}`);
-    continue;
   }
+}
+for (const r of latest.values()) {
   const file = join(CARDS_DIR, `${r.id}.json`);
   let cur = null;
   if (existsSync(file)) {

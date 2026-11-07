@@ -95,13 +95,21 @@
     const text = renderThai(el, th);
     replaced.set(el, { th, text, origHTML, showing: "th" });
     el.title = "คลิกเพื่อสลับ ไทย / English";
+    // keyboard too: focusable, Enter/Space toggles
+    el.tabIndex = 0;
+    el.setAttribute("role", "button");
+    el.setAttribute("aria-label", "คำแปลภาษาไทย — กด Enter เพื่อสลับเป็นภาษาอังกฤษ");
     if (!bound.has(el)) {
       bound.add(el);
-      el.addEventListener("click", () => {
+      const toggle = () => {
         const st = replaced.get(el);
         if (!st || !isOurWrite(el)) return;
         if (st.showing === "th") { st.showing = "en"; el.classList.remove("ygot-replaced"); el.innerHTML = st.origHTML; }
         else { st.showing = "th"; el.classList.add("ygot-replaced"); st.text = renderThai(el, st.th); }
+      };
+      el.addEventListener("click", toggle);
+      el.addEventListener("keydown", e => {
+        if ((e.key === "Enter" || e.key === " ") && replaced.has(el)) { e.preventDefault(); toggle(); }
       });
     }
   }
@@ -111,7 +119,7 @@
     if (st && isOurWrite(el) && st.showing === "th") el.innerHTML = st.origHTML;
     replaced.delete(el);
     el.classList.remove("ygot-replaced");
-    el.removeAttribute("title");
+    for (const a of ["title", "tabindex", "role", "aria-label"]) el.removeAttribute(a);
   }
 
   // ---------- แผง (โหมดใต้ต้นฉบับ) + ป้าย ----------
@@ -169,7 +177,7 @@
   function showPanel(target, th) {
     if (!panel) {
       panel = el("div", { className: "ygot-panel" });
-      panel.append(el("div", { className: "ygot-head", textContent: "🇹🇭 แปลไทย" }), el("div", { className: "ygot-body" }));
+      panel.append(el("div", { className: "ygot-head", textContent: "แปลไทย" }), el("div", { className: "ygot-body" }));
     }
     if (panel.previousElementSibling !== target) target.insertAdjacentElement("afterend", panel);
     renderThai(panel.querySelector(".ygot-body"), th);
@@ -206,6 +214,7 @@
     }
     replaced.delete(target);
     target.classList.remove("ygot-replaced");
+    for (const a of ["title", "tabindex", "role", "aria-label"]) target.removeAttribute(a);
     removeExtras();
     lastKey = key; lastRes = null;
     try {

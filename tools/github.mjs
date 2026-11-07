@@ -24,7 +24,8 @@ export function parseForm(body) {
   for (const part of String(body || "").split(/^### /m).slice(1)) {
     const nl = part.indexOf("\n");
     const label = part.slice(0, nl).trim();
-    let value = part.slice(nl + 1).trim();
+    // issue bodies arrive with \r\n — normalise so "same as current" checks and saved cards use \n
+    let value = part.slice(nl + 1).replace(/\r\n?/g, "\n").trim();
     if (value === "_No response_") value = "";
     out[label] = value;
   }

@@ -142,7 +142,7 @@ node tools/validate.mjs
 - `v1/all.json.gz`: ทุกการ์ด `{ passcode: { name, th, status, en_sha256 } }` (passcode ใน `alt` ชี้ไปที่การ์ดเดียวกัน)
 - `v1/cards/{passcode}.json`: การ์ดทีละใบ
 - `v1/glossary.json`
-- `v1/manifest.json`: เวอร์ชัน (timestamp UTC `YYYYMMDDHHMM`), จำนวน, sha256 ของ `all.json.gz` และลายเซ็น Ed25519
+- `v1/manifest.json`: เวอร์ชัน (timestamp UTC `YYYYMMDDHHMMSS`), จำนวน, sha256 ของ `all.json.gz` และลายเซ็น Ed25519
 
 **ใช้ตอนไหน:** ไม่ต้องรันเอง workflow `publish API` จะรันให้ทุกครั้งที่ push แล้ว `data/` เปลี่ยน
 ถ้าจะลองในเครื่อง ให้รันโดยไม่ตั้ง env แล้วจะได้ manifest แบบ UNSIGNED (extension จะไม่รับ แต่ใช้ดูผลได้)

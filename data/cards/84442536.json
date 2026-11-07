@@ -5,6 +5,6 @@
   "status": "ai",
   "en_sha256": "e457eb04888e7727cff463139b87f28a2d5467aa174a0f13653f9ee4e3d0c17f",
   "model": "gemma3:12b",
-  "updated": "2026-11-06",
-  "note": "rule-check: numbers missing in Thai: 1; card names in quotes changed/missing: \"Destroy that monster\""
+  "updated": "2026-11-07",
+  "note": "rule-check: card names in quotes changed/missing: \"Destroy that monster\""
 }

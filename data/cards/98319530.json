@@ -5,6 +5,6 @@
   "status": "ai",
   "en_sha256": "60290b5785df8fbd6af06a5a01ed14d3fc382649f74f19aa81bee6a31d705ea2",
   "model": "gemma3:12b",
-  "updated": "2026-11-06",
-  "note": "rule-check: numbers missing in Thai: 1; card names in quotes changed/missing: \", to 1 appropriate monster you control, then destroy this card. If this card is sent to the GY because the equipped monster is sent to the GY: You can target 1 of your FIRE Warrior monsters that is banished or in your GY; add it to your hand. You can only use 1 \""
+  "updated": "2026-11-07",
+  "note": "rule-check: card names in quotes changed/missing: \", to 1 appropriate monster you control, then destroy this card. If this card is sent to the GY because the equipped monster is sent to the GY: You can target 1 of your FIRE Warrior monsters that is banished or in your GY; add it to your hand. You can only use 1 \""
 }

@@ -5,6 +5,5 @@
   "status": "ai",
   "en_sha256": "7c97d36f190f008bf1af9a53c031b6be33ff773b3fdacece5738bf553558121f",
   "model": "gemma3:12b",
-  "updated": "2026-11-06",
-  "note": "rule-check: numbers missing in Thai: 1"
+  "updated": "2026-11-07"
 }

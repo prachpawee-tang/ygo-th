@@ -57,7 +57,11 @@ const count = (s, ch) => String(s).split(ch).length - 1;
 export function ruleCheck(en, th) {
   const problems = [];
   const a = numbersIn(en), b = numbersIn(th);
-  const missing = a.filter(n => { const i = b.indexOf(n); if (i < 0) return true; b.splice(i, 1); return false; });
+  let missing = a.filter(n => { const i = b.indexOf(n); if (i < 0) return true; b.splice(i, 1); return false; });
+  // "1" is often written as a word in natural Thai: "1 of these effects" → "เอฟเฟกต์ใดเอฟเฟกต์หนึ่ง",
+  // "only once" → "ครั้งเดียว", "a single card" → "ใบเดียว" — each such word covers one missing "1"
+  let ones = (String(th).replace(/"[^"]*"|“[^”]*”/g, "").match(/หนึ่ง|เดียว/g) || []).length;
+  missing = missing.filter(n => !(n === "1" && ones-- > 0));
   if (missing.length) problems.push(`numbers missing in Thai: ${[...new Set(missing)].join(", ")}`);
 
   const qa = quotedIn(en), qb = new Set(quotedIn(th));

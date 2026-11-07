@@ -22,19 +22,19 @@ jobs:
     # the signing key lives in this environment — protect it (Settings → Environments → release)
     environment: release
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
         with:
           persist-credentials: false
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v7
         with:
-          node-version: 20
+          node-version: 24
       - run: node tools/validate.mjs
       - run: node tools/build.mjs
         env:
           YGOTH_SIGNING_KEY: ${{ secrets.YGOTH_SIGNING_KEY }}
       - name: refuse to publish an unsigned manifest
         run: node -e "const m=require('./site/v1/manifest.json'); if(!m.signature){console.error('manifest is unsigned'); process.exit(1)}"
-      - uses: actions/upload-pages-artifact@v3
+      - uses: actions/upload-pages-artifact@v5
         with:
           path: site
 
@@ -46,4 +46,4 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5

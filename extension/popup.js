@@ -14,6 +14,20 @@ async function refresh() {
     : "–";
   $("checked").textContent = fmt(r.sync.checked);
   if (r.sync.error) msg("เช็กล่าสุดไม่สำเร็จ: " + r.sync.error, true);
+  showUpdate(r.update);
+}
+
+// ป้ายมีเวอร์ชันใหม่ — สร้างด้วย textContent, ลิงก์ต้องเป็นหน้า Release ของ repo เรา (background ตรวจแล้ว ตรวจซ้ำอีกชั้น)
+function showUpdate(u) {
+  $("ext").textContent = chrome.runtime.getManifest().version;
+  const box = $("update");
+  box.textContent = "";
+  const ok = u?.available && typeof u.url === "string" && u.url.startsWith("https://github.com/prachpawee-tang/ygo-th/releases/");
+  box.classList.toggle("show", !!ok);
+  if (!ok) return;
+  box.append(`มี extension เวอร์ชันใหม่ ${u.latest} (ตอนนี้ ${u.current}) → `);
+  const a = Object.assign(document.createElement("a"), { href: u.url, target: "_blank", rel: "noopener noreferrer", textContent: "ดาวน์โหลด" });
+  box.append(a, document.createElement("br"), "แตก zip ทับโฟลเดอร์เดิม แล้วกดรีโหลด (↻) ที่ edge://extensions");
 }
 
 async function loadSettings() {
@@ -35,6 +49,7 @@ $("sync").addEventListener("click", async () => {
   $("sync").disabled = false;
   if (!r?.ok) { msg(r?.error || "ผิดพลาด", true); return; }
   msg(r.updated ? `อัปเดตเป็นเวอร์ชัน ${r.version} แล้ว — รีเฟรชหน้า Dueling Nexus` : "ฐานคำแปลเป็นเวอร์ชันล่าสุดแล้ว");
+  showUpdate(r.update);
   refresh();
 });
 

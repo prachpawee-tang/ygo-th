@@ -125,12 +125,24 @@
 
   const el = (tag, props = {}) => Object.assign(document.createElement(tag), props);
 
-  function issueLink(kind, id) {
+  // GitHub ตัด/ปฏิเสธ URL ที่ยาวมาก — ภาษาไทยเข้ารหัสเป็น %E0%B8%.. ตัวละ 9 ไบต์ จึงจำกัดไว้
+  const MAX_URL = 7000;
+  function issueLink(kind, id, th) {
     const url = new URL(REPO + "/issues/new");
     url.searchParams.set("template", kind === "fix" ? "fix-translation.yml" : "errata.yml");
     if (id) url.searchParams.set("passcode", id);
+    const name = (document.querySelector("#card-name")?.textContent || "").trim().slice(0, 100);
+    if (name && name !== "-") url.searchParams.set("title", (kind === "fix" ? "[แก้คำแปล] " : "[errata] ") + name);
+    // กรอกคำแปลปัจจุบันไว้ในช่อง "คำแปลที่เสนอ" ให้ผู้ใช้แก้เฉพาะจุดที่ผิด (ถ้ายาวเกินก็ไม่กรอก)
+    let prefilled = false;
+    if (kind === "fix" && th) {
+      const withTh = new URL(url.href);
+      withTh.searchParams.set("proposed", th);
+      if (withTh.href.length <= MAX_URL) { url.searchParams.set("proposed", th); prefilled = true; }
+    }
     const a = el("a", { href: url.href, target: "_blank", rel: "noopener noreferrer",
-      textContent: kind === "fix" ? "แจ้งแก้คำแปล" : "แจ้งการ์ดที่ไม่มีคำแปล" });
+      textContent: kind === "fix" ? "แจ้งแก้คำแปล" : "แจ้งการ์ดที่ไม่มีคำแปล",
+      title: kind === "fix" ? (prefilled ? "เปิดฟอร์มบน GitHub พร้อมคำแปลปัจจุบัน — แก้เฉพาะจุดที่ผิดแล้วกดส่ง" : "เปิดฟอร์มบน GitHub (คำแปลยาวเกินกว่าจะกรอกให้ — คัดลอกจากหน้าจอได้)") : "เปิดฟอร์มบน GitHub" });
     a.addEventListener("click", e => e.stopPropagation());
     return a;
   }
@@ -151,7 +163,7 @@
     badge.append(el("span", { className: "ygot-st-" + res.status, textContent: STATUS_LABEL[res.status] || res.status }));
     if (res.stale) badge.append(el("span", { className: "ygot-stale", textContent: "⚠ อาจเก่า",
       title: "ข้อความภาษาอังกฤษบนเว็บไม่ตรงกับตอนที่แปล (อาจโดน errata) — เทียบกับต้นฉบับอีกที" }));
-    badge.append(issueLink("fix", id));
+    badge.append(issueLink("fix", id, res.th));
   }
 
   function showPanel(target, th) {

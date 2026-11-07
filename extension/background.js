@@ -116,6 +116,49 @@ async function lookup(id, en) {
   return { ok: true, found: true, th: card.th, status: card.status, stale };
 }
 
+// ---------- extension updates (GitHub Releases) ----------
+// extension ที่โหลดแบบ unpacked อัปเดตตัวเองไม่ได้ → เช็กว่ามี Release ใหม่ไหม แล้วบอกใน popup
+// GitHub API ส่ง CORS "*" มาให้ จึงไม่ต้องขอสิทธิ์ api.github.com เพิ่ม · จำกัด 60 ครั้ง/ชม./IP เราเรียกไม่เกินชั่วโมงละครั้ง
+const RELEASES = "https://api.github.com/repos/prachpawee-tang/ygo-th/releases?per_page=10";
+const RELEASE_PAGE = "https://github.com/prachpawee-tang/ygo-th/releases/";
+
+/** "2.10.0" > "2.9.3" */
+export function newerVersion(a, b) {
+  const pa = String(a).split(".").map(Number), pb = String(b).split(".").map(Number);
+  for (let i = 0; i < Math.max(pa.length, pb.length); i++) {
+    const x = pa[i] || 0, y = pb[i] || 0;
+    if (x !== y) return x > y;
+  }
+  return false;
+}
+
+async function checkUpdate(force = false) {
+  const { update = {} } = await chrome.storage.local.get("update");
+  if (!force && update.checked && Date.now() - Date.parse(update.checked) < 60 * 60 * 1000) return update;
+  const current = chrome.runtime.getManifest().version;
+  const next = { checked: new Date().toISOString(), current, latest: null, url: null };
+  try {
+    const res = await fetch(RELEASES, { cache: "no-store", credentials: "omit", headers: { Accept: "application/vnd.github+json" }, signal: AbortSignal.timeout(5000) });
+    if (res.ok) {
+      for (const r of await res.json()) {
+        const m = /^ext-v(\d+\.\d+\.\d+)$/.exec(r?.tag_name || "");
+        if (!m || r.draft || r.prerelease) continue;
+        // ลิงก์ที่จะให้ผู้ใช้กด ต้องเป็นหน้า Release ของ repo เราเท่านั้น
+        const url = RELEASE_PAGE + "tag/" + r.tag_name;
+        if (!next.latest || newerVersion(m[1], next.latest)) { next.latest = m[1]; next.url = url; }
+      }
+    }
+  } catch { /* ออฟไลน์ — ลองใหม่รอบหน้า */ }
+  next.available = !!(next.latest && newerVersion(next.latest, current));
+  await chrome.storage.local.set({ update: next });
+  // ป้ายบนไอคอน extension ให้เห็นโดยไม่ต้องเปิด popup
+  try {
+    await chrome.action.setBadgeText({ text: next.available ? "NEW" : "" });
+    if (next.available) await chrome.action.setBadgeBackgroundColor({ color: "#c9a227" });
+  } catch {}
+  return next;
+}
+
 // ---------- messages ----------
 // content scripts may only look up; sync / status come from the popup (an extension page)
 chrome.runtime.onMessage.addListener((msg, sender, reply) => {
@@ -128,10 +171,12 @@ chrome.runtime.onMessage.addListener((msg, sender, reply) => {
         return lookup(msg.id, msg.en);
       case "status":
         if (!fromExtensionPage) break;
-        return { ok: true, meta: await getMeta(), sync: (await chrome.storage.local.get("sync")).sync || {} };
-      case "sync":
+        return { ok: true, meta: await getMeta(), sync: (await chrome.storage.local.get("sync")).sync || {}, update: await checkUpdate() };
+      case "sync": {
         if (!fromExtensionPage) break;
-        return { ok: true, ...(await sync()) };
+        const [r, update] = await Promise.all([sync(), checkUpdate(true)]);
+        return { ok: true, ...r, update };
+      }
     }
     return { ok: false, error: "ไม่อนุญาต" };
   };
@@ -143,6 +188,6 @@ chrome.runtime.onMessage.addListener((msg, sender, reply) => {
 const ensureAlarm = async () => {
   if (!(await chrome.alarms.get("sync"))) chrome.alarms.create("sync", { periodInMinutes: CHECK_EVERY_MIN, delayInMinutes: 1 });
 };
-chrome.alarms.onAlarm.addListener(a => { if (a.name === "sync") sync().catch(() => {}); });
+chrome.alarms.onAlarm.addListener(a => { if (a.name === "sync") { sync().catch(() => {}); checkUpdate().catch(() => {}); } });
 chrome.runtime.onInstalled.addListener(() => { ensureAlarm(); sync().catch(() => {}); });
 chrome.runtime.onStartup.addListener(() => { ensureAlarm(); sync().catch(() => {}); });

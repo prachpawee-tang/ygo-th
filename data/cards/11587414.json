@@ -1,9 +1,9 @@
 {
   "id": "11587414",
   "name": "The True Sun God",
-  "th": "เมื่อเปิดใช้งานการ์ดใบนี้: จั่วการ์ด \"The Winged Dragon of Ra\" หรือการ์ดที่กล่าวถึงมัน 1 ใบจากเด็คของคุณขึ้นมือ, ยกเว้น \"The True Sun God\" มอนสเตอร์ ยกเว้น \"The Winged Dragon of Ra\" ไม่สามารถโจมตีในเทิร์นที่ถูกอัญเชิญพิเศษ 1 ครั้งต่อเทิร์น, ในช่วง Main Phase ของคุณ: คุณสามารถส่งการ์ดใบนี้จากสนาม, หรือ \"The Winged Dragon of Ra - Immortal Phoenix\" 1 ใบจากเด็คของคุณลงสุสาน, จากนั้นส่ง \"The Winged Dragon of Ra\" 1 ใบจาก Main Monster Zone ของคุณลงสุสาน คุณสามารถเปิดใช้ \"The True Sun God\" ได้ 1 ใบต่อเทิร์น",
+  "th": "เมื่อการ์ดใบนี้ถูกเปิดใช้: จั่วการ์ด \"The Winged Dragon of Ra\" หรือการ์ดที่กล่าวถึงมัน 1 ใบจากเด็คของคุณขึ้นมือ, ยกเว้น \"The True Sun God\"\nมอนสเตอร์, ยกเว้น \"The Winged Dragon of Ra\", ไม่สามารถโจมตีในเทิร์นที่ถูกอัญเชิญพิเศษ\n1 ครั้งต่อเทิร์น, ใน Main Phase ของคุณ: คุณสามารถส่งการ์ดใบนี้จากสนาม, หรือ \"The Winged Dragon of Ra - Immortal Phoenix\" 1 ใบจากเด็คของคุณ, ลงสุสาน, จากนั้นส่ง \"The Winged Dragon of Ra\" 1 ใบจาก Main Monster Zone ของคุณลงสุสาน\nคุณสามารถเปิดใช้ \"The True Sun God\" ได้เพียง 1 ใบต่อเทิร์น",
   "status": "ai",
   "en_sha256": "9f978c94fe2b801ede06c0c31835472c54c49cb746f94b45fcb6e622d8b8d63c",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

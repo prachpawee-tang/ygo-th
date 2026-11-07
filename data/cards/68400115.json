@@ -1,9 +1,9 @@
 {
   "id": "68400115",
   "name": "The Emperor's Holiday",
-  "th": "ลบล้างเอฟเฟกต์ของการ์ด Equip ทั้งหมดบนสนาม",
+  "th": "ลบล้างเอฟเฟกต์ของการ์ด Equip ทั้งหมดบนสนาม.",
   "status": "ai",
   "en_sha256": "571e5be9fb1cf4cf6408676c87d0ba3f2cb5593381570024ee2a40c594448244",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

@@ -1,9 +1,9 @@
 {
   "id": "63162310",
   "name": "Wall Shadow",
-  "th": "ไม่สามารถอัญเชิญปกติ/เซ็ตได้ ต้องอัญเชิญพิเศษด้วย \"Magical Labyrinth\" ก่อน",
+  "th": "ไม่สามารถอัญเชิญปกติ/เซ็ตได้\nต้องอัญเชิญพิเศษด้วย \"Magical Labyrinth\" ก่อน",
   "status": "ai",
   "en_sha256": "3aa2f26c9953553aff522cfcd32bbe5e1ef3b9bbb9bf9a6fd85e0269fd475ce5",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

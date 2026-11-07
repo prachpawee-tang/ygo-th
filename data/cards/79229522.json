@@ -5,6 +5,6 @@
   "status": "ai",
   "en_sha256": "9ce595092ae2230a332b578bbcd50ca567ebea63847deafaf437bc5f0787572f",
   "model": "gemma3:12b",
-  "updated": "2026-11-06",
+  "updated": "2026-11-07",
   "note": "rule-check: card names in quotes changed/missing: \"Cyber Dragon\""
 }

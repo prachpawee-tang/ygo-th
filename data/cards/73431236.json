@@ -1,9 +1,9 @@
 {
   "id": "73431236",
   "name": "Iron Blacksmith Kotetsu",
-  "th": "พลิก: จั่วการ์ด Equip Spell 1 ใบจากเด็คขึ้นมือ",
+  "th": "พลิก: เพิ่มการ์ด Equip Spell 1 ใบจากเด็คของคุณขึ้นมือ.",
   "status": "ai",
   "en_sha256": "5fab6fc3f1301664cca3e203bf4f2c5e35a37d7ca596a8ee9d3c6c1c260c19cf",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

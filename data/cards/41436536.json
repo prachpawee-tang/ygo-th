@@ -1,9 +1,9 @@
 {
   "id": "41436536",
   "name": "Elemental HERO Phoenix Enforcer",
-  "th": "\"Elemental HERO Avian\" + \"Elemental HERO Burstinatrix\"\nต้องทำการฟิวชั่นซัมมอน และไม่สามารถอัญเชิญพิเศษด้วยวิธีอื่นได้ การ์ดใบนี้จะไม่ถูกทำลายจากการต่อสู้",
+  "th": "\"Elemental HERO Avian\" + \"Elemental HERO Burstinatrix\"\nต้องทำการอัญเชิญแบบฟิวชั่น และไม่สามารถอัญเชิญพิเศษด้วยวิธีอื่นได้\nการ์ดใบนี้ไม่สามารถถูกทำลายจากการต่อสู้",
   "status": "ai",
   "en_sha256": "7fb6f52b1acdd24e8ca252228e5de8f67ef78dd571838c1f3cbb31c35d42bfa3",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

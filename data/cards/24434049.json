@@ -1,9 +1,9 @@
 {
   "id": "24434049",
   "name": "Epurrely Plump",
-  "th": "มอนสเตอร์ Level 2 จำนวน 2 ตัว\n1 ครั้งต่อเทิร์น: คุณสามารถเลือกเป้าหมาย Spells/Traps ได้สูงสุด 2 ใบในสุสาน; ติดมันเข้ากับการ์ดใบนี้เป็น Material นี่คือ Quick Effect ถ้าการ์ดใบนี้มี \"Purrely Delicious Memory\" เป็น Material ขึ้นมา: จนถึงเทิร์นที่ 3 คุณสามารถเปิดใช้การ์ด Quick-Play Spell ที่มีชื่อ \"Purrely\" (Quick Effect): ติดการ์ดใบนั้นในสนามเป็น Material จากนั้น คุณสามารถเอามอนสเตอร์ 1 ตัวออกจากเกมในสนามจนถึง End Phase",
+  "th": "มอนสเตอร์ Level 2 จำนวน 2 ตัว\n1 ครั้งต่อเทิร์น: คุณสามารถเลือกเป้าหมาย Spells/Traps ได้สูงสุด 2 ใบในสุสาน; ติดการ์ดเหล่านั้นเข้ากับการ์ดใบนี้เป็น Material\nนี่คือ Quick Effect ถ้าการ์ดใบนี้มี \"Purrely Delicious Memory\" เป็น Material\nสูงสุด 3 ครั้งต่อเทิร์น, เมื่อคุณเปิดใช้ Spell Card ประเภท Quick-Play \"Purrely\" (Quick Effect): คุณสามารถติดการ์ดใบนั้นในสนามเป็นการ์ดใบนี้เป็น Material, จากนั้นคุณสามารถเอามอนสเตอร์ 1 ตัวในสนามออกจากเกมจนถึง End Phase",
   "status": "ai",
   "en_sha256": "877e93ee2c74b5793c206c584066889721f9e158d99bd000771f9f7a592f5096",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

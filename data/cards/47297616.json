@@ -1,9 +1,9 @@
 {
   "id": "47297616",
   "name": "Light and Darkness Dragon",
-  "th": "ไม่สามารถอัญเชิญพิเศษได้ (Cannot be Special Summoned). ตราบใดที่การ์ดใบนี้หงายอยู่บนสนาม (While face-up on the field), การ์ดใบนี้ถือเป็น Attribute มืด (DARK-Attribute) ด้วย (Also DARK-Attribute). 1 ครั้งต่อเชน (Once per Chain), ในเทิร์นของผู้เล่นคนใดก็ได้ (during either player's turn), เมื่อมีการ์ด Spell, การ์ด Trap หรือเอฟเฟกต์มอนสเตอร์ถูกเปิดใช้ (when a Spell Card, Trap Card, or monster effect is activated): การ์ดใบนี้จะเสีย ATK และ DEF ไปอย่างละ 500 และลบล้างการเปิดใช้นั้น (that activation is negated). เมื่อการ์ดใบนี้ถูกทำลายและส่งลงสุสาน (When this card is destroyed and sent to the Graveyard): เลือกเป้าหมายมอนสเตอร์ 1 ตัวในสุสานของคุณ (Target 1 monster in your Graveyard) (ถ้าเป็นไปได้ (if possible)); ทำลายการ์ดทั้งหมดที่คุณควบคุม (destroy all cards you control), จากนั้นอัญเชิญพิเศษมอนสเตอร์ตัวนั้น (Special Summon that monster) (ถ้ามี (if any)).",
+  "th": "ไม่สามารถอัญเชิญพิเศษได้\nตราบใดที่ยังหงายอยู่บนสนาม การ์ดใบนี้ก็ถือเป็นแอตทริบิวต์ DARK ด้วย\nเมื่อใดก็ตามที่ผู้เล่นทั้งสองฝ่ายเปิดใช้การ์ดเวทมนตร์ การ์ดกับดัก หรือเอฟเฟกต์มอนสเตอร์ 1 ครั้งต่อเชน: การ์ดใบนี้จะเสีย ATK และ DEF ไปอย่างละ 500 และลบล้างการเปิดใช้งานนั้น\nเมื่อการ์ดใบนี้ถูกทำลายและส่งลงสุสาน: เลือกเป้าหมายมอนสเตอร์ 1 ตัวในสุสานของคุณ (ถ้าเป็นไปได้); ทำลายการ์ดทั้งหมดที่คุณควบคุม และอัญเชิญพิเศษมอนสเตอร์ตัวนั้น (ถ้ามี)",
   "status": "ai",
   "en_sha256": "4ce96ff5038f4753898a46772a6e763f8fa15279275f85b8ca345baa5b6dcc88",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

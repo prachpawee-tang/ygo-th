@@ -1,9 +1,9 @@
 {
   "id": "77642288",
   "name": "Gladiator Beast Secutor",
-  "th": "ถ้าการ์ดใบนี้ถูกอัญเชิญพิเศษโดยเอฟเฟกต์ของมอนสเตอร์ \"Gladiator Beast\" ให้เมื่อสิ้นสุด Battle Phase ใดๆ ที่การ์ดใบนี้โจมตีหรือถูกโจมตี: อัญเชิญพิเศษมอนสเตอร์ \"Gladiator Beast\" 2 ตัวจากเด็คของคุณ ยกเว้น \"Gladiator Beast Secutor\"",
+  "th": "ถ้าการ์ดใบนี้ถูกอัญเชิญพิเศษด้วยเอฟเฟกต์ของมอนสเตอร์ \"Gladiator Beast\" เมื่อสิ้นสุด Battle Phase ใดๆ ที่การ์ดใบนี้โจมตีหรือถูกโจมตี: อัญเชิญพิเศษมอนสเตอร์ \"Gladiator Beast\" 2 ตัวจากเด็คของคุณ ยกเว้น \"Gladiator Beast Secutor\".",
   "status": "ai",
   "en_sha256": "293188525d078378379bef9ced2909cf39f7abca5aba8be7ef2e41a1d6fceb2d",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

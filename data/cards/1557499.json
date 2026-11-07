@@ -1,9 +1,9 @@
 {
   "id": "1557499",
   "name": "Silver Bow and Arrow",
-  "th": "มอนสเตอร์ Fairy-Type ที่ติดตั้งการ์ดใบนี้ เพิ่ม ATK และ DEF ขึ้น 300 แต้ม",
+  "th": "มอนสเตอร์ Fairy-Type ที่ติดตั้งการ์ดใบนี้ เพิ่ม ATK และ DEF ขึ้น 300 แต้ม.",
   "status": "ai",
   "en_sha256": "f9d03e5f50489a64d21955af8b79919470694f4bbef5aadcd610231115b9ba50",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

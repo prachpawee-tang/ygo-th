@@ -1,9 +1,9 @@
 {
   "id": "32268901",
   "name": "Salamandra",
-  "th": "ติดตั้งกับมอนสเตอร์ FIRE เท่านั้น มันได้รับ ATK 700",
+  "th": "ใส่ได้เฉพาะกับมอนสเตอร์ FIRE เท่านั้น\nมันได้รับ ATK 700",
   "status": "ai",
   "en_sha256": "33ddbf6d1322d4073d34b255fcbba9e70f810e83a3d2bfd2b75cdb8a8c6b9a8f",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

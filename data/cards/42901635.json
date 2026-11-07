@@ -1,9 +1,9 @@
 {
   "id": "42901635",
   "name": "Berserkion the Electromagna Warrior",
-  "th": "ไม่อาจทำการอัญเชิญปกติ/เซ็ตได้ ต้องทำการอัญเชิญพิเศษก่อน (จากมือของคุณ) โดยการเอาออกจากเกม \"Alpha The Electromagnet Warrior\", \"Beta The Electromagnet Warrior\" และ \"Gamma The Electromagnet Warrior\" 1 ตัวจากมือ, สุสาน และ/หรือ จาก Main Monster Zone/Extra Monster Zone ที่หงายอยู่ของคุณ คุณสามารถเอาออกจากเกม มอนสเตอร์ \"Magnet Warrior\" ระดับ 4 หรือต่ำกว่า 1 ตัวจากสุสานของคุณ จากนั้นเลือกเป้าหมายการ์ด 1 ใบที่คู่ต่อสู้ควบคุม; ทำลายมัน ถ้าการ์ดใบนี้ถูกทำลายจากการต่อสู้ หรือ ถ้าการ์ดใบนี้ในครอบครองของผู้เล่นถูกทำลายโดยเอฟเฟกต์ของการ์ดของคู่ต่อสู้: คุณสามารถเลือก \"Alpha The Electromagnet Warrior\", \"Beta The Electromagnet Warrior\" และ \"Gamma The Electromagnet Warrior\" ที่ถูกเอาออกจากเกม 1 ตัวจากของคุณ; อัญเชิญพิเศษพวกเขา",
+  "th": "ไม่สามารถอัญเชิญปกติ/เซ็ตได้\nต้องอัญเชิญพิเศษก่อน (จากมือของคุณ) โดยเอา \"Alpha The Electromagnet Warrior\", \"Beta The Electromagnet Warrior\" และ \"Gamma The Electromagnet Warrior\" 1 ตัวออกจากเกมจากมือ, สุสาน และ/หรือ จาก Main Monster Zone ที่หงายอยู่ของคุณ\nคุณสามารถเอา มอนสเตอร์ \"Magnet Warrior\" ระดับ 4 หรือต่ำกว่า 1 ตัวออกจากเกมจากสุสานของคุณ จากนั้น เลือกเป้าหมายการ์ด 1 ใบที่คู่ต่อสู้ควบคุม; ทำลายมัน\nถ้าการ์ดใบนี้ถูกทำลายจากการต่อสู้ หรือ ถ้าการ์ดใบนี้ในครอบครองของผู้เล่นของคุณถูกทำลายโดยเอฟเฟกต์ของการ์ดของคู่ต่อสู้: คุณสามารถเลือก \"Alpha The Electromagnet Warrior\", \"Beta The Electromagnet Warrior\" และ \"Gamma The Electromagnet Warrior\" ที่ถูกเอาออกจากเกมของคุณ 1 ตัว; อัญเชิญพิเศษพวกเขา",
   "status": "ai",
   "en_sha256": "e254cd64e5756054fa7de7cf79fefc4050a36c41dd26ce2e407e4c1d50755b35",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

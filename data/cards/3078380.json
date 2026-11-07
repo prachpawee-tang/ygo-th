@@ -1,9 +1,10 @@
 {
   "id": "3078380",
   "name": "Timaeus the United Dragon",
-  "th": "คุณสามารถส่งมอนสเตอร์ Spellcaster 1 ตัว หรือ Spell/Trap 1 ใบที่กล่าวถึง \"Dark Magician\" จากมือของคุณหรือสนามที่หงายอยู่ไปยังสุสาน; อัญเชิญพิเศษการ์ดใบนี้จากมือของคุณ ระหว่าง Main Phase ของคุณ: คุณสามารถ Fusion Summon มอนสเตอร์ Fusion 1 ตัวจาก Extra Deck ของคุณ โดยใช้มอนสเตอร์จากมือหรือสนามของคุณเป็น Material รวมถึงมอนสเตอร์ Spellcaster คุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Timaeus the United Dragon\" ได้ 1 ครั้งต่อเทิร์น",
+  "th": "คุณสามารถส่งมอนสเตอร์ Spellcaster 1 ตัว หรือ Spell/Trap 1 ใบที่กล่าวถึง \"Dark Magician\" จากมือหรือสนามที่คว่ำอยู่ของคุณไปยังสุสาน; อัญเชิญพิเศษการ์ดใบนี้จากมือของคุณ\nระหว่าง Main Phase ของคุณ: คุณสามารถทำการ Fusion Summon มอนสเตอร์ Fusion 1 ตัวจากเอ็กซ์ตร้าเด็คของคุณ โดยใช้มอนสเตอร์จากมือหรือสนามของคุณเป็น Material รวมถึงมอนสเตอร์ Spellcaster\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Timaeus the United Dragon\" ได้ 1 ครั้งต่อเทิร์น",
   "status": "ai",
   "en_sha256": "c5eb82a3599187810d1cafd02e8acf0a951d3b46577d82ff664fd10e2044874e",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07",
+  "note": "rule-check: \"face-up\" ×1 in English but \"หงาย\" ×0 in Thai — meaning may be wrong"
 }

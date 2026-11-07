@@ -1,9 +1,9 @@
 {
   "id": "99092624",
   "name": "Blooming of the Darkest Rose",
-  "th": "อัญเชิญพิเศษ \"Rose Tokens\" (Plant/DARK/Level 2/ATK 800/DEF 800) ในท่าป้องกันไปยังสนามใดสนามก็ได้, สูงสุดตามจำนวนรวมของการ์ดใน Main Monster Zone และ Extra Monster Zone และ Field Spell ในสุสาน คุณสามารถ: ถ้าการ์ดนี้อยู่ในสุสานของคุณ: คุณสามารถเลือกเป้าหมาย \"Black Rose Dragon\" หรือมอนสเตอร์ Plant 1 ตัวใน Monster Zone ของคุณ; เอามันออกจากเกม, และถ้าทำได้ ให้วางการ์ดนี้ไว้ด้านล่างของเด็ค ในระหว่าง Standby Phase ถัดไป ให้ส่งมอนสเตอร์ที่ถูกเอาออกจากเกมกลับไปยังสนาม คุณสามารถใช้เอฟเฟกต์ของ \"Blooming of the Darkest Rose\" ได้ 1 ครั้งต่อเทิร์น",
+  "th": "อัญเชิญพิเศษ \"Rose Tokens\" (Plant/DARK/Level 2/ATK 800/DEF 800) ในท่าป้องกันไปยังสนามใดสนามหนึ่งก็ได้, สูงสุดตามจำนวนการ์ดรวมใน Main Monster Zone และ Extra Monster Zone และ Field Spell ในสุสาน\nถ้าการ์ดใบนี้อยู่ในสุสานของคุณ: คุณสามารถเลือกเป้าหมาย \"Black Rose Dragon\" หรือ มอนสเตอร์ Plant 1 ตัวใน Main Monster Zone ของคุณ; เอามันออกจากเกม, และถ้าทำได้ ให้วางการ์ดใบนี้ไว้ด้านล่างของเด็ค\nในช่วง Standby Phase ถัดไป ให้ส่งมอนสเตอร์ที่ถูกเอาออกจากเกมกลับไปยังสนาม\nคุณสามารถใช้เอฟเฟกต์ของ \"Blooming of the Darkest Rose\" ได้ 1 ครั้งต่อเทิร์น",
   "status": "ai",
   "en_sha256": "34c7de44cceb6a338ff33ca670a7269888fd5621808d20090b634578b073f6db",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

@@ -1,9 +1,9 @@
 {
   "id": "90502999",
   "name": "Ground Collapse",
-  "th": "เลือก Main Monster Zone 2 แห่งบนสนาม ผู้เล่นทั้งสองไม่สามารถใช้ Main Monster Zone ที่เลือกได้ คุณไม่สามารถเลือก Main Monster Zone ที่มี Monster Card อยู่ได้",
+  "th": "เลือก Main Monster Zone 2 แห่งในสนาม\nผู้เล่นทั้งสองไม่สามารถใช้ Main Monster Zone ที่เลือกได้\nคุณไม่สามารถเลือก Main Monster Zone ที่มี Monster Card อยู่แล้วได้",
   "status": "ai",
   "en_sha256": "d175c8337c8c2ea839ce4bf998e772a66e5b1ca8809ce3ac06e40606841c94d1",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

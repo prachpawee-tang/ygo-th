@@ -1,10 +1,10 @@
 {
   "id": "27918365",
   "name": "World Legacy - \"World Crown\"",
-  "th": "คุณสามารถ อัญเชิญพิเศษ การ์ดใบนี้ (จากมือของคุณ) ในท่าป้องกันไปยัง Main Monster Zone ที่มอนสเตอร์ Link ชี้ได้ คุณสามารถ อัญเชิญพิเศษ \"World Legacy - \"World Crown\"\" ได้ 1 ครั้งต่อเทิร์นด้วยวิธีนี้ เมื่อมอนสเตอร์ในสนามที่ถูก อัญเชิญพิเศษ จาก เอ็กซ์ตร้าเด็ค เปิดใช้งานเอฟเฟกต์ของมัน (Quick Effect): คุณสามารถ สังเวย การ์ดใบนี้; ลบล้างการเปิดใช้งาน และถ้าทำได้ ให้ทำลายมัน ถ้าการ์ดที่ถูก อัญเชิญปกติ/เซ็ต ใบนี้ถูก สังเวย: คุณสามารถเพิ่ม การ์ด “World Legacy” เวทมนตร์/กับดัก 1 ใบจากเด็คของคุณขึ้นมือได้ คุณสามารถใช้เอฟเฟกต์ของ \"World Legacy - \"World Crown\"\" ได้ 1 ครั้งต่อเทิร์น",
+  "th": "คุณสามารถ อัญเชิญพิเศษ การ์ดใบนี้ (จากมือของคุณ) ในท่าป้องกัน ไปยังโซนที่คุณซึ่งมอนสเตอร์ Link ชี้\nคุณสามารถ อัญเชิญพิเศษ \"World Legacy - \"World Crown\"\" ได้เพียงครั้งเดียวต่อเทิร์นด้วยวิธีนี้\nเมื่อมอนสเตอร์บนสนามที่ถูก อัญเชิญพิเศษ จาก เอ็กซ์ตร้าเด็ค เปิดใช้งานเอฟเฟกต์ของมัน (Quick Effect): คุณสามารถ สังเวย การ์ดใบนี้; ลบล้างการเปิดใช้งาน และถ้าทำได้ ให้ทำลายมัน\nถ้าการ์ดที่ถูก อัญเชิญปกติ/เซ็ต ใบนี้ถูก สังเวย: คุณสามารถ เพิ่ม การ์ด “World Legacy” เวทมนตร์/กับดัก 1 ใบจากเด็คของคุณขึ้นมือ\nคุณสามารถใช้เอฟเฟกต์ของ \"World Legacy - \"World Crown\"\" ได้เพียง 1 ครั้งต่อเทิร์น",
   "status": "ai",
   "en_sha256": "4bbd3ff9ab66b2144befd8db37dfe3f65f76ceb5c1aeadced6b6a791f08c4378",
   "model": "gemma3:12b",
-  "updated": "2026-11-05",
+  "updated": "2026-11-07",
   "note": "rule-check: card names in quotes changed/missing: \" Spell/Trap from your Deck to your hand. You can only use this effect of \", \" once per turn this way. When a monster on the field that was Special Summoned from the Extra Deck activates its effect (Quick Effect): You can Tribute this card; negate the activation, and if you do, destroy it. If this Normal Summoned/Set card is Tributed: You can add 1 \""
 }

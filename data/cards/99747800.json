@@ -1,9 +1,9 @@
 {
   "id": "99747800",
   "name": "Legendary Fiend",
-  "th": "1 ครั้งต่อเทิร์น, ในช่วง Standby Phase ของคุณ: การ์ดใบนี้ได้รับ ATK 700",
+  "th": "1 ครั้งต่อเทิร์น, ในช่วง Standby Phase ของคุณ: การ์ดใบนี้ได้รับ ATK 700.",
   "status": "ai",
   "en_sha256": "96dc3fa5ccf2c6b18130b45542899c8265475e72b7ab9fa6ac6e4890799bfed7",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

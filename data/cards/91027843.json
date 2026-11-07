@@ -1,9 +1,9 @@
 {
   "id": "91027843",
   "name": "Marincess Battle Ocean",
-  "th": "มอนสเตอร์ \"Marincess\" ที่คุณควบคุมทั้งหมด ได้รับ ATK 200, นอกจากนี้ แต่ละตัวได้รับ ATK เพิ่มเติม 600 สำหรับแต่ละการ์ด \"Marincess\" ที่ติดตั้งอยู่กับมัน มอนสเตอร์ที่คุณควบคุมใน Extra Monster Zone ที่ถูก Link Summoned โดยใช้ \"Marincess Crystal Heart\" เป็น Material จะไม่ได้รับผลจากเอฟเฟกต์ของการ์ดของคู่ต่อสู้ เมื่อคุณ Link Summon มอนสเตอร์ \"Marincess\" ไปยัง Extra Monster Zone (ยกเว้นระหว่าง Damage Step): คุณสามารถติดตั้ง มอนสเตอร์ Link \"Marincess\" ที่มีชื่อต่างกันจาก GY สูงสุด 3 ตัวไปยังมอนสเตอร์ Link Summoned นั้น",
+  "th": "มอนสเตอร์ \"Marincess\" ทั้งหมดที่คุณควบคุม ได้รับ ATK 200, นอกจากนี้ แต่ละตัวได้รับ ATK เพิ่มเติม 600 สำหรับแต่ละการ์ด \"Marincess\" ที่ติดตั้งอยู่กับมัน\nมอนสเตอร์ที่คุณควบคุมใน Extra Monster Zone ที่ถูกอัญเชิญ Link โดยใช้ \"Marincess Crystal Heart\" เป็น Material จะไม่ได้รับผลจากเอฟเฟกต์ของการ์ดของคู่ต่อสู้\nเมื่อคุณอัญเชิญ Link มอนสเตอร์ \"Marincess\" ไปยัง Extra Monster Zone (ยกเว้นระหว่าง Damage Step): คุณสามารถติดตั้งมอนสเตอร์ Link \"Marincess\" ที่มีชื่อต่างกันถึง 3 ตัวจากสุสานของคุณไปยังมอนสเตอร์ที่ถูกอัญเชิญ Link นั้น",
   "status": "ai",
   "en_sha256": "f29978cdf72a4c8608ccd5b28535fef2db94943a8e80216b37937ad7a3dc573c",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

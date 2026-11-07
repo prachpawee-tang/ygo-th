@@ -1,9 +1,9 @@
 {
   "id": "1435851",
   "name": "Dragon Treasure",
-  "th": "มอนสเตอร์ประเภท Dragon ที่ติดตั้งการ์ดใบนี้ เพิ่ม ATK และ DEF 300 แต้ม",
+  "th": "มอนสเตอร์ประเภท Dragon ที่ติดตั้งการ์ดใบนี้ เพิ่ม ATK และ DEF 300 แต้ม.",
   "status": "ai",
   "en_sha256": "28ebec2c32c5c4b452c43bd346aca5943c46c24bf03df48fbecaeffba6b17f06",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

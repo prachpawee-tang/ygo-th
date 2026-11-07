@@ -1,9 +1,9 @@
 {
   "id": "8561192",
   "name": "Leo, the Keeper of the Sacred Tree",
-  "th": "1 Tuner + 1+ non-Tuner monsters\nคู่ต่อสู้ไม่สามารถเลือกเป้าหมายการ์ดนี้ด้วยเอฟเฟกต์การ์ดได้ ยกเว้นในช่วง Main Phase 2 ของคุณ",
+  "th": "1 Tuner + 1+ มอนสเตอร์ non-Tuner\nคู่ต่อสู้ของคุณไม่สามารถเลือกเป้าหมายการ์ดใบนี้ด้วยเอฟเฟกต์ของการ์ดได้ ยกเว้นในช่วง Main Phase 2 ของคุณ",
   "status": "ai",
   "en_sha256": "320a689a9f36bde57c160b2ced31e0190b9b590b498d237819287a5b1dafba53",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

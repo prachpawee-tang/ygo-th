@@ -1,9 +1,9 @@
 {
   "id": "43797906",
   "name": "Warrior of Atlantis",
-  "th": "คุณสามารถทิ้งการ์ดใบนี้ลงสุสาน; เพิ่ม \"A Legendary Ocean\" 1 ใบจากเด็คของคุณขึ้นมือ",
+  "th": "คุณสามารถทิ้งการ์ดใบนี้ลงสุสาน; เพิ่ม \"A Legendary Ocean\" 1 ใบจากเด็คของคุณขึ้นมือ.",
   "status": "ai",
   "en_sha256": "18aba690e0ae80bd7677c6e84f0b6d278cf966bc094ea47b11d5b3f49fa9f0b1",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

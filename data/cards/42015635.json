@@ -1,9 +1,9 @@
 {
   "id": "42015635",
   "name": "Neo Space",
-  "th": "\"Elemental HERO Neos\" และมอนสเตอร์ Fusion ทั้งหมดที่ระบุ \"Elemental HERO Neos\" ไว้โดยเฉพาะในฐานะ Fusion Material ได้รับ ATK 500 มอนสเตอร์ Fusion ที่ระบุ \"Elemental HERO Neos\" ไว้โดยเฉพาะในฐานะ Fusion Material ไม่จำเป็นต้องเปิดใช้งานเอฟเฟกต์ของพวกมันในช่วง End Phase ที่ทำการสับกลับเข้า เอ็กซ์ตร้าเด็ค",
+  "th": "\"Elemental HERO Neos\" และ Fusion Monsters ทุกตัวที่ระบุ \"Elemental HERO Neos\" ไว้โดยเฉพาะว่าเป็น Fusion Material ได้รับ ATK 500\nFusion Monsters ที่ระบุ \"Elemental HERO Neos\" ไว้โดยเฉพาะว่าเป็น Fusion Material ไม่จำเป็นต้องเปิดใช้งานเอฟเฟกต์ของพวกมันในช่วง End Phase ที่สับกลับเข้าเอ็กซ์ตร้าเด็ค",
   "status": "ai",
   "en_sha256": "86a5896723116cb922eadf13a960bb9e165da597b8c56613b29b50306ab8e16a",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

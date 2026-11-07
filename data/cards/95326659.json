@@ -1,9 +1,9 @@
 {
   "id": "95326659",
   "name": "Crystal Beacon",
-  "th": "อัญเชิญพิเศษมอนสเตอร์ \"Crystal Beast\" 1 ตัวจากเด็คของคุณ คุณต้องมี \"Crystal Beast\" อย่างน้อย 2 ใบใน Spell & Trap Card Zone เพื่อเปิดใช้และเพื่อให้เอฟเฟกต์นี้ทำงาน",
+  "th": "อัญเชิญพิเศษมอนสเตอร์ \"Crystal Beast\" 1 ตัวจากเด็คของคุณ\nคุณต้องมีการ์ด \"Crystal Beast\" อย่างน้อย 2 ใบในโซน Spell & Trap Card ของคุณเพื่อเปิดใช้และให้เอฟเฟกต์นี้ทำงาน",
   "status": "ai",
   "en_sha256": "ec32ca540edf4bee60cf59ae51d2dd3a11708222d145555ec6bff699df821c19",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

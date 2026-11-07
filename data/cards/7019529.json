@@ -1,9 +1,9 @@
 {
   "id": "7019529",
   "name": "Insect Soldiers of the Sky",
-  "th": "ถ้าการ์ดใบนี้โจมตีมอนสเตอร์ WIND, มันจะได้รับ ATK 1000 ระหว่าง Damage Step เท่านั้น.",
+  "th": "ถ้าการ์ดใบนี้โจมตีมอนสเตอร์ธาตุลม, มันจะได้รับ ATK 1000 ระหว่าง Damage Step เท่านั้น.",
   "status": "ai",
   "en_sha256": "7303070ad087ae54035fc1e2f851fe7bb5d5bb49890146bb01dde4ca9854143d",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

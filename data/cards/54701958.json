@@ -1,9 +1,9 @@
 {
   "id": "54701958",
   "name": "Lunalight Liger Dancer",
-  "th": "\"Lunalight Leo Dancer\" + มอนสเตอร์ \"Lunalight\" 3 ตัว\nต้องทำการ Fusion Summon ด้วย Fusion Materials ที่ระบุข้างต้น ต้องไม่ได้รับผลจากเอฟเฟกต์การ์ด ยกเว้นการ์ด \"Lunalight\" สามารถทำการโจมตีครั้งที่สองในช่วง Battle Phase แต่ละครั้ง ใช้ได้ 1 ครั้งต่อเทิร์น (Quick Effect): คุณสามารถส่งมอนสเตอร์ \"Lunalight\" 1 ตัวจาก เอ็กซ์ตร้าเด็ค ลง สุสาน (GY); ทำลายมอนสเตอร์ที่ถูกอัญเชิญพิเศษทั้งหมดของคู่ต่อสู้",
+  "th": "\"Lunalight Leo Dancer\" + มอนสเตอร์ \"Lunalight\" 3 ตัว\nต้องทำการ Fusion Summon ด้วย Material การ Fusion ข้างต้น\nไม่ได้รับผลจากเอฟเฟกต์ของการ์ดใดๆ ยกเว้นการ์ด \"Lunalight\"\nสามารถทำการโจมตีครั้งที่สองในช่วง Battle Phase แต่ละครั้ง\n1 ครั้งต่อเทิร์น (Quick Effect): คุณสามารถส่งมอนสเตอร์ \"Lunalight\" 1 ตัวจากเอ็กซ์ตร้าเด็คของคุณลงสุสาน; ทำลายมอนสเตอร์ที่ถูกอัญเชิญพิเศษทั้งหมดของคู่ต่อสู้",
   "status": "ai",
   "en_sha256": "d8ce8af0bd9e754b2daf55c4f65622aa0dd6b3720e146edb4cac6b0b3db5858c",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

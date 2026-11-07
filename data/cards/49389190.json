@@ -1,9 +1,9 @@
 {
   "id": "49389190",
   "name": "Ikelos, the Dream Mirror Sprite",
-  "th": "ถ้าการ์ดใบนี้ถูกอัญเชิญพิเศษโดยเอฟเฟกต์ของมอนสเตอร์ \"Dream Mirror\": คุณสามารถเพิ่มการ์ด \"Dream Mirror\" 1 ใบจากเด็คของคุณขึ้นมือได้, ยกเว้น \"Ikelos, the Dream Mirror Sprite\" ในระหว่าง Main Phase หรือ Battle Phase, ถ้า \"Dream Mirror of Terror\" อยู่ใน Field Zone (Quick Effect): คุณสามารถสังเวยการ์ดใบนี้; อัญเชิญพิเศษมอนสเตอร์ \"Ikelos, the Dream Mirror Mara\" 1 ใบจากเด็คของคุณ คุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Ikelos, the Dream Mirror Sprite\" ได้ 1 ครั้งต่อเทิร์น",
+  "th": "ถ้าการ์ดใบนี้ถูกอัญเชิญพิเศษด้วยเอฟเฟกต์ของมอนสเตอร์ \"Dream Mirror\": คุณสามารถเพิ่มการ์ด \"Dream Mirror\" 1 ใบจากเด็คของคุณขึ้นมือได้, ยกเว้น \"Ikelos, the Dream Mirror Sprite\"\nในช่วง Main Phase หรือ Battle Phase, ถ้า \"Dream Mirror of Terror\" อยู่ใน Field Zone (Quick Effect): คุณสามารถสังเวยการ์ดใบนี้; อัญเชิญพิเศษ \"Ikelos, the Dream Mirror Mara\" 1 ตัวจากเด็คของคุณ\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Ikelos, the Dream Mirror Sprite\" ได้ 1 ครั้งต่อเทิร์น",
   "status": "ai",
   "en_sha256": "f86e631cb1cc9f5531d09064ba27d0992c83e1e2440b9b076394a9ce71ee8467",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

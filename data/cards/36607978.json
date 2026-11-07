@@ -1,9 +1,9 @@
 {
   "id": "36607978",
   "name": "Mystical Moon",
-  "th": "ติดตั้งกับมอนสเตอร์ประเภท Beast-Warrior เท่านั้น มอนสเตอร์นี้จะได้รับ ATK และ DEF +300",
+  "th": "ใส่ได้เฉพาะกับมอนสเตอร์ประเภท Beast-Warrior เท่านั้น\nมันได้รับ ATK และ DEF เพิ่ม 300",
   "status": "ai",
   "en_sha256": "81b2766f46a937a042a7f9e511dec1e9fb1adcf69ebc76e5d211e8206361fb46",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

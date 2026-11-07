@@ -1,9 +1,9 @@
 {
   "id": "22638495",
   "name": "Dinoster Power, the Mighty Dracoslayer",
-  "th": "1 \"Dracoslayer\" Pendulum Monster + 1 Pendulum Monster\nต้องอัญเชิญพิเศษก่อน (จาก เอ็กซ์ตร้าเด็ค) โดยการสังเวยการ์ดข้างต้น (คุณไม่ใช้ \"Polymerization\"). การ์ดมอนสเตอร์ \"Dracoslayer\" Pendulum ใน Main Monster Zone และ Pendulum Zone ของคุณ ไม่สามารถถูกทำลายจากการต่อสู้หรือเอฟเฟกต์ของการ์ดของคู่ต่อสู้ได้ 1 ครั้งต่อเทิร์น: คุณสามารถอัญเชิญพิเศษ มอนสเตอร์ \"Dracoslayer\" Pendulum 1 ตัวจาก มือ หรือ สุสาน (GY) ได้ แต่ไม่สามารถใช้เป็น Material การรวมร่างได้",
+  "th": "\"Dracoslayer\" มอนสเตอร์ Pendulum 1 ตัว + มอนสเตอร์ Pendulum 1 ตัว\nต้องอัญเชิญพิเศษก่อน (จากเอ็กซ์ตร้าเด็ค) โดยการสังเวยการ์ดข้างต้น\n(คุณไม่ได้ใช้ \"Polymerization\") การ์ดมอนสเตอร์ Pendulum ใน Main Monster Zone และ Pendulum Zone ของคุณไม่สามารถถูกทำลายจากการต่อสู้หรือเอฟเฟกต์ของการ์ดของคู่ต่อสู้\n1 ครั้งต่อเทิร์น: คุณสามารถอัญเชิญพิเศษมอนสเตอร์ \"Dracoslayer\" Pendulum 1 ตัวจากมือหรือสุสานของคุณได้ แต่ไม่สามารถใช้เป็น Material การรวมร่างได้",
   "status": "ai",
   "en_sha256": "62aaba2a21a57baf017cda52b17e0a64a6f68c54a824a7c8e033b0d4490f60dd",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

@@ -1,11 +1,11 @@
 {
   "id": "64335805",
   "name": "Red-Eyes Black Metal Dragon",
-  "th": "ไม่สามารถอัญเชิญปกติ/เซ็ตได้ อัญเชิญพิเศษจากเด็คของคุณก่อน โดยต้องสังเวย \"Red-Eyes B. Dragon\" ที่ติดตั้ง \"Metalmorph\"",
+  "th": "อัญเชิญปกติ/เซ็ตไม่ได้\nต้องอัญเชิญพิเศษก่อน (จากเด็คของคุณ) โดยการสังเวย \"Red-Eyes B. Dragon\" ที่ติดตั้ง \"Metalmorph\"",
   "status": "ai",
   "en_sha256": "f6475f735472cc20e74334de0ae00b6ef048555bcf471aebf7dc571de7ebfb10",
   "model": "gemma3:12b",
-  "updated": "2026-11-05",
+  "updated": "2026-11-07",
   "alt": [
     "64335804"
   ]

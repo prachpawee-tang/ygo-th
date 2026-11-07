@@ -5,6 +5,6 @@
   "status": "ai",
   "en_sha256": "bd6a16b92070185f1ab52bdbda32388457f2f4b5a5b258e7f7f2d805c7829bd4",
   "model": "gemma3:12b",
-  "updated": "2026-11-06",
+  "updated": "2026-11-07",
   "note": "rule-check: fewer \";\" than English (0 < 1) — cost/resolution split may be lost"
 }

@@ -1,9 +1,9 @@
 {
   "id": "75782277",
   "name": "Harpies' Hunting Ground",
-  "th": "มอนสเตอร์ Winged Beast ทุกตัวได้รับ ATK/DEF +200 ถ้ามีการ อัญเชิญปกติ หรือ อัญเชิญพิเศษ \"Harpie Lady\" หรือ \"Harpie Lady Sisters\": ผู้เล่นที่ทำการ อัญเชิญ เลือกเป้าหมาย Spell/Trap 1 ใบในสนาม; ผู้เล่นคนนั้นทำลายเป้าหมายนั้น",
+  "th": "มอนสเตอร์ Winged Beast ทั้งหมดได้ ATK/DEF +200\nถ้ามีการ อัญเชิญปกติ หรือ อัญเชิญพิเศษ \"Harpie Lady\" หรือ \"Harpie Lady Sisters\": ผู้เล่นที่ทำการ อัญเชิญ เลือกเป้าหมาย Spell/Trap 1 ใบในสนาม; ผู้เล่นคนนั้นทำลายเป้าหมายนั้น",
   "status": "ai",
   "en_sha256": "4dc79aacbb3230665bcd51bc29675310e8bcb07bef8bd14f9a5e6fa98d11fcf6",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

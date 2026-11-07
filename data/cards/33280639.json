@@ -1,9 +1,9 @@
 {
   "id": "33280639",
   "name": "Prologue of the Destruction Swordsman",
-  "th": "ส่งการ์ด \"Destruction Sword\" 1 ใบ และมอนสเตอร์ \"Buster Blader\" 1 ตัว จากเด็คของคุณไปยังสุสาน (GY), ยกเว้น \"Prologue of the Destruction Swordsman\"; อัญเชิญพิเศษ \"Buster Dragon\" 1 ตัว จากเอ็กซ์ตร้าเด็คของคุณ หรือ สุสาน, แต่ทำลายมันในช่วง End Phase ของเทิร์นถัดไป คุณสามารถเอาการ์ดใบนี้ออกจากเกมจากสุสานของคุณ; เทิร์นนี้ การ์ด \"Destruction Sword\" ที่คุณควบคุมจะไม่ถูกทำลายจากการต่อสู้หรือเอฟเฟกต์ของการ์ด คุณสามารถเปิดใช้ \"Prologue of the Destruction Swordsman\" ได้ 1 ใบต่อเทิร์น",
+  "th": "ส่งการ์ด \"Destruction Sword\" 1 ใบ และมอนสเตอร์ \"Buster Blader\" 1 ตัว จากเด็คของคุณไปยังสุสาน (GY), ยกเว้น \"Prologue of the Destruction Swordsman\"; อัญเชิญพิเศษ \"Buster Dragon\" 1 ตัว จากเอ็กซ์ตร้าเด็คหรือสุสานของคุณ, แต่ทำลายมันในช่วง End Phase ของเทิร์นถัดไป\nคุณสามารถเอาการ์ดใบนี้ออกจากเกมจากสุสานของคุณ; เทิร์นนี้ การ์ด \"Destruction Sword\" ที่คุณควบคุมจะไม่ถูกทำลายจากการต่อสู้หรือเอฟเฟกต์ของการ์ด\nคุณสามารถเปิดใช้ \"Prologue of the Destruction Swordsman\" ได้เพียง 1 ใบต่อเทิร์น",
   "status": "ai",
   "en_sha256": "5d5e9df8cc07b29543186699042a7a83d9c96c38923b3793f20058036c95e457",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

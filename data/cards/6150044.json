@@ -1,11 +1,11 @@
 {
   "id": "6150044",
   "name": "Arcana Knight Joker",
-  "th": "\"Queen's Knight\" + \"Jack's Knight\" + \"King's Knight\"\nการอัญเชิญแบบฟิวชั่นมอนสเตอร์ใบนี้สามารถทำได้โดยใช้ Material ข้างต้นเท่านั้น Once per turn: เมื่อมีการเปิดใช้ Spell/Trap Card หรือเอฟเฟกต์มอนสเตอร์ที่เลือกเป้าหมาย \"Queen's Knight\" ที่หงายอยู่บนสนาม (Quick Effect): คุณสามารถทิ้งการ์ดประเภทเดียวกัน (Monster, Spell หรือ Trap); ลบล้างเอฟเฟกต์",
+  "th": "\"Queen's Knight\" + \"Jack's Knight\" + \"King's Knight\"\nการอัญเชิญแบบ Fusion ของการ์ดใบนี้สามารถทำได้โดยใช้วัสดุข้างต้นเท่านั้น\n1 ครั้งต่อเทิร์น, เมื่อมีการเปิดใช้ Spell/Trap Card หรือเอฟเฟกต์มอนสเตอร์ที่เลือกเป้าหมายการ์ดใบนี้ที่หงายอยู่บนสนาม (Quick Effect): คุณสามารถทิ้งการ์ดประเภทเดียวกัน (Monster, Spell หรือ Trap); ลบล้างเอฟเฟกต์",
   "status": "ai",
   "en_sha256": "cce1c449933b202237e06ae65041ae60e39e139ec33a108728ca7f5bd52dc9c1",
   "model": "gemma3:12b",
-  "updated": "2026-11-05",
+  "updated": "2026-11-07",
   "alt": [
     "6150045"
   ]

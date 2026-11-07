@@ -1,9 +1,9 @@
 {
   "id": "3642509",
   "name": "Elemental HERO Great Tornado",
-  "th": "1 มอนสเตอร์ \"Elemental HERO\" + 1 มอนสเตอร์ WIND\nต้องทำการ Fusion Summon และไม่สามารถอัญเชิญพิเศษด้วยวิธีอื่นได้ ถ้าการ์ดใบนี้ถูก Fusion Summon: ลดครึ่ง ATK และ DEF ของมอนสเตอร์หงายอยู่ทั้งหมดที่คู่ต่อสู้กำลังควบคุมอยู่",
+  "th": "มอนสเตอร์ \"Elemental HERO\" 1 ตัว + มอนสเตอร์ WIND 1 ตัว\nต้องทำการ Fusion Summon และไม่สามารถอัญเชิญพิเศษด้วยวิธีอื่นได้\nเมื่อการ์ดใบนี้ถูก Fusion Summon: ลดครึ่ง ATK และ DEF ของมอนสเตอร์ที่หงายอยู่ทั้งหมดที่คู่ต่อสู้ควบคุมในขณะนี้",
   "status": "ai",
   "en_sha256": "637dfed13ddbc195dd8ed143ddae0330b8b0a9e7db304f161a43a79b7b3404dd",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

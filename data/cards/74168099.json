@@ -1,10 +1,10 @@
 {
   "id": "74168099",
   "name": "Brotherhood of the Fire Fist - Horse Prince",
-  "th": "1 FIRE Tuner + 1+ non-Tuner monsters\nเมื่ออัญเชิญแบบ Synchro: คุณสามารถอัญเชิญพิเศษมอนสเตอร์ FIRE เลเวล 3 จากเด็คของคุณได้ หลังจากนั้น คุณจะไม่สามารถอัญเชิญพิเศษมอนสเตอร์เลเวล 5 หรือสูงกว่านี้ได้จนจบเทิร์น",
+  "th": "1 FIRE Tuner + 1+ non-Tuner monsters\nเมื่อการ์ดใบนี้ถูกอัญเชิญแบบ Synchro: คุณสามารถอัญเชิญพิเศษมอนสเตอร์ FIRE เลเวล 3 จากเด็คของคุณได้\nหลังจากที่คุณอัญเชิญแบบ Synchro การ์ดใบนี้ คุณจะไม่สามารถอัญเชิญพิเศษมอนสเตอร์เลเวล 5 หรือสูงกว่านี้ได้จนจบเทิร์น",
   "status": "ai",
   "en_sha256": "b751dbc82401a48355180acc85c6f37096d00f9478ed5771f63bc1c43b5ad697",
   "model": "gemma3:12b",
-  "updated": "2026-11-05",
+  "updated": "2026-11-07",
   "note": "rule-check: numbers missing in Thai: 1"
 }

@@ -1,10 +1,9 @@
 {
   "id": "1516510",
   "name": "Rune-Eyes Pendulum Dragon",
-  "th": "\"Odd-Eyes Pendulum Dragon\" + มอนสเตอร์ชนิด Spellcaster\nถ้าการ์ดใบนี้ถูกอัญเชิญแบบ Fusion โดยใช้มอนสเตอร์ที่ถูกอัญเชิญแบบ Pendulum บนสนามเป็น Material ในการ Fusion, มันจะไม่ได้รับผลจากเอฟเฟกต์ของการ์ดของคู่ต่อสู้ในเทิร์นนี้ ใช้เอฟเฟกต์ที่เหมาะสม ขึ้นอยู่กับ Level เดิมของมอนสเตอร์ที่ใช้เป็น Material ในการ Fusion ที่ไม่ใช่ \"Odd-Eyes Pendulum Dragon\"\n● Level 4 หรือต่ำกว่า: การ์ดใบนี้สามารถโจมตีมอนสเตอร์ได้สูงสุด 2 ครั้งในระหว่าง Battle Phase แต่ละครั้ง\n● Level 5 หรือสูงกว่า: การ์ดใบนี้สามารถโจมตีมอนสเตอร์ได้สูงสุด 3 ครั้งในระหว่าง Battle Phase แต่ละครั้ง",
+  "th": "\"Odd-Eyes Pendulum Dragon\" + มอนสเตอร์ชนิด Spellcaster-Type 1 ตัว\nถ้าการ์ดใบนี้ถูกอัญเชิญแบบ Fusion โดยใช้มอนสเตอร์ที่ถูกอัญเชิญแบบ Pendulum บนสนามเป็น Material ในการ Fusion, มันจะไม่ได้รับผลจากเอฟเฟกต์ของการ์ดของคู่ต่อสู้ในเทิร์นนี้\nใช้เอฟเฟกต์ที่เหมาะสม ขึ้นอยู่กับ Level เดิมของมอนสเตอร์ที่ใช้เป็น Material ในการ Fusion ที่ไม่ใช่ \"Odd-Eyes Pendulum Dragon\"\n● Level 4 หรือต่ำกว่า: การ์ดใบนี้สามารถโจมตีมอนสเตอร์ได้สูงสุด 2 ครั้งในระหว่าง Battle Phase แต่ละครั้ง\n● Level 5 หรือสูงกว่า: การ์ดใบนี้สามารถโจมตีมอนสเตอร์ได้สูงสุด 3 ครั้งในระหว่าง Battle Phase แต่ละครั้ง",
   "status": "ai",
   "en_sha256": "410fbf58579aa794ff69fd685ff4fa305519f20150fafe2d130ff3f35bbe3971",
   "model": "gemma3:12b",
-  "updated": "2026-11-05",
-  "note": "rule-check: numbers missing in Thai: 1"
+  "updated": "2026-11-07"
 }

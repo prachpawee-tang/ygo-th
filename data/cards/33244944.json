@@ -1,9 +1,9 @@
 {
   "id": "33244944",
   "name": "Contract with Exodia",
-  "th": "ถ้าคุณมี \"Exodia the Forbidden One\", \"Right Arm of the Forbidden One\", \"Left Arm of the Forbidden One\", \"Right Leg of the Forbidden One\", และ \"Left Leg of the Forbidden One\" ครบทั้ง 5 ใบในสุสาน: อัญเชิญพิเศษ \"Exodia Necross\" 1 ใบจากมือของคุณ",
+  "th": "ถ้าคุณมี \"Exodia the Forbidden One\", \"Right Arm of the Forbidden One\", \"Left Arm of the Forbidden One\", \"Right Leg of the Forbidden One\", และ \"Left Leg of the Forbidden One\" ครบทั้ง 5 ใบในสุสาน: อัญเชิญพิเศษ \"Exodia Necross\" 1 ใบจากมือของคุณ.",
   "status": "ai",
   "en_sha256": "717ea9ece240226ade0bd65c3d80a32d2ea1ffacb6a74dc0c2461c7ae620db20",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

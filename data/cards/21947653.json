@@ -1,9 +1,9 @@
 {
   "id": "21947653",
   "name": "Evil HERO Lightning Golem",
-  "th": "\"Elemental HERO Sparkman\" + \"Elemental HERO Clayman\"\nต้องอัญเชิญพิเศษด้วย \"Dark Fusion\" และไม่สามารถอัญเชิญพิเศษด้วยวิธีอื่นได้ 1 ครั้งต่อเทิร์น: คุณสามารถเลือกเป้าหมายมอนสเตอร์ 1 ตัวบนสนาม; ทำลายเป้าหมายนั้น",
+  "th": "\"Elemental HERO Sparkman\" + \"Elemental HERO Clayman\"\nต้องอัญเชิญพิเศษด้วย \"Dark Fusion\" และไม่สามารถอัญเชิญพิเศษด้วยวิธีอื่นได้\n1 ครั้งต่อเทิร์น: คุณสามารถเลือกเป้าหมายมอนสเตอร์ 1 ตัวบนสนาม; ทำลายเป้าหมายนั้น",
   "status": "ai",
   "en_sha256": "c45402c5cc27091227efd448b4c2f6173573a40d8054488e7ebc1acd1bce5ca0",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

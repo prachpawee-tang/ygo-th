@@ -1,9 +1,9 @@
 {
   "id": "37318031",
   "name": "R - Righteous Justice",
-  "th": "ทำลาย Spell/Trap Cards เป็นจำนวนเท่ากับจำนวนการ์ด \"Elemental HERO\" ที่คุณควบคุม",
+  "th": "ทำลายการ์ด Spell/Trap ที่มีจำนวนเท่ากับจำนวนการ์ด \"Elemental HERO\" ที่คุณควบคุม.",
   "status": "ai",
   "en_sha256": "4e8386911ceeaa0e5e516ba0bbe9295e954decee255ebb151435f1ee072cbe57",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

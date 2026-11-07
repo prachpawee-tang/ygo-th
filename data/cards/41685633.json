@@ -1,9 +1,9 @@
 {
   "id": "41685633",
   "name": "Thunder Dragon Titan",
-  "th": "3 \"Thunder Dragon\" monsters\nต้องทำการอัญเชิญแบบ Fusion หรือ อัญเชิญพิเศษโดยการเอาออกจากเกม Thunder monster 1 ตัวจากมือ และ Thunder Fusion Monster 1 ตัวที่คุณควบคุม ยกเว้น \"Thunder Dragon Titan\" (ในกรณีนั้น คุณไม่ต้องใช้ \"Polymerization\") เมื่อเอฟเฟกต์ของ Thunder monster ถูกเปิดใช้ในมือ แม้ในระหว่าง Damage Step (Quick Effect): คุณสามารถทำลายการ์ด 1 ใบในสนามได้ ถ้าการ์ดใบนี้จะถูกทำลายโดยเอฟเฟกต์ของการ์ดอื่น คุณสามารถเอาการ์ด 2 ใบออกจากเกมจาก สุสาน (GY) แทนได้",
+  "th": "มอนสเตอร์ \"Thunder Dragon\" 3 ตัว\nต้องทำการอัญเชิญแบบ Fusion หรือ อัญเชิญพิเศษโดยการเอา Thunder monster 1 ตัวจากมือของคุณและ Thunder Fusion Monster 1 ตัวที่คุณควบคุม ออกจากเกม ยกเว้น \"Thunder Dragon Titan\" (ในกรณีนั้น คุณไม่ใช้ \"Polymerization\")\nเมื่อเอฟเฟกต์ของมอนสเตอร์ Thunder ถูกเปิดใช้ในมือ แม้ในระหว่าง Damage Step (Quick Effect): คุณสามารถทำลายการ์ด 1 ใบในสนามได้\nถ้าการ์ดใบนี้จะถูกทำลายโดยเอฟเฟกต์ของการ์ด คุณสามารถเอาการ์ด 2 ใบจากสุสานของคุณออกจากเกมได้",
   "status": "ai",
   "en_sha256": "6e665a5400cf426fab266963552fdaa40c9a0bea496c87f707c960942794fb66",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

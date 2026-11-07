@@ -1,9 +1,9 @@
 {
   "id": "63018132",
   "name": "Dragon Manipulator",
-  "th": "พลิก: ควบคุมมอนสเตอร์ Dragon-Type ที่หงายอยู่ 1 ตัวบนสนามฝั่งคู่ต่อสู้ จนกว่าจะถึงตอนจบของ End Phase",
+  "th": "พลิก: ควบคุมมอนสเตอร์ Dragon-Type ที่หงายอยู่ 1 ตัวบนสนามฝั่งคู่ต่อสู้ จนกว่าจะถึงตอนจบของ End Phase.",
   "status": "ai",
   "en_sha256": "67ad5cde3481e91ddf9a1e1e8ea0cebd8755246b953beff9a3ca0a67c81ce58b",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

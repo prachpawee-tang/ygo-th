@@ -1,9 +1,9 @@
 {
   "id": "93031067",
   "name": "Plunder Patroll Shipyarrrd",
-  "th": "“Plunder Patroll” มอนสเตอร์ที่คุณควบคุมได้รับ ATK 500 จุดสำหรับแต่ละการ์ด “Plunder Patroll” ใน Spell & Trap Zone ของคุณ คุณสามารถใช้เอฟเฟกต์ต่อไปนี้ของ “Plunder Patroll Shipyarrrd” ได้ 1 ครั้งต่อเทิร์นเท่านั้น\n● คุณสามารถทิ้งการ์ด 1 ใบ; เพิ่มการ์ด “Plunder Patroll” 1 ใบจากเด็คของคุณขึ้นมือ ยกเว้น “Plunder Patroll Shipyarrrd”\n● ถ้าการ์ดนี้อยู่ในสุสานของคุณ: คุณสามารถเลือกเป้าหมายการ์ด “Plunder Patroll” 1 ใบใน Spell & Trap Zone ของคุณ; เซ็ตการ์ดนี้ และถ้าทำได้ ให้ส่งเป้าหมายนั้นกลับขึ้นมือ",
+  "th": "มอนสเตอร์ \"Plunder Patroll\" ที่คุณควบคุมได้รับ ATK 500 สำหรับแต่ละการ์ด \"Plunder Patroll\" ใน Spell & Trap Zone ของคุณ\nคุณสามารถใช้เอฟเฟกต์ต่อไปนี้ของ \"Plunder Patroll Shipyarrrd\" ได้ 1 ครั้งต่อเทิร์นเท่านั้น\n● คุณสามารถทิ้งการ์ด 1 ใบ; เพิ่มการ์ด \"Plunder Patroll\" 1 ใบจากเด็คของคุณขึ้นมือ ยกเว้น \"Plunder Patroll Shipyarrrd\"\n● ถ้าการ์ดนี้อยู่ในสุสานของคุณ: คุณสามารถเลือกเป้าหมายการ์ด \"Plunder Patroll\" 1 ใบใน Spell & Trap Zone ของคุณ; เซ็ตการ์ดนี้ และถ้าทำได้ ให้ส่งเป้าหมายนั้นกลับขึ้นมือ",
   "status": "ai",
   "en_sha256": "ab5605cc152c5f72305f7a9482de8f4f110a8d968303f73fb544ee04eea6b27c",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

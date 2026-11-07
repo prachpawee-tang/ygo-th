@@ -1,9 +1,9 @@
 {
   "id": "14959144",
   "name": "Ultimate Bright Knight Ursatron Alpha",
-  "th": "(การ์ดใบนี้ถือว่าเป็นการ์ด \"Ursarctic\" และ \"Drytron\" เสมอ)\nไม่สามารถอัญเชิญปกติ/เซ็ตได้ ต้องอัญเชิญพิเศษด้วยเอฟเฟกต์ของการ์ดอื่น ถ้าคุณควบคุมมอนสเตอร์ \"Ursarctic\" หรือ \"Drytron\" นอกเหนือจาก \"Ultimate Bright Knight Ursatron Alpha\": คุณสามารถอัญเชิญพิเศษการ์ดใบนี้จากมือของคุณ จากนั้นคุณสามารถเพิ่มการ์ด Spell/Trap \"Ursarctic\" หรือ \"Drytron\" 1 ใบจากเด็คของคุณขึ้นมือ คุณสามารถใช้เอฟเฟกต์นี้ของ \"Ultimate Bright Knight Ursatron Alpha\" ได้ 1 ครั้งต่อเทิร์น",
+  "th": "(การ์ดใบนี้ถือว่าเป็นการ์ด \"Ursarctic\" และ \"Drytron\" เสมอ)\nอัญเชิญปกติ/เซ็ตไม่ได้\nต้องอัญเชิญพิเศษด้วยเอฟเฟกต์ของการ์ด\nถ้าคุณควบคุมมอนสเตอร์ \"Ursarctic\" หรือ \"Drytron\" นอกเหนือจาก \"Ultimate Bright Knight Ursatron Alpha\": คุณสามารถอัญเชิญพิเศษการ์ดใบนี้จากมือของคุณได้ จากนั้นคุณสามารถเพิ่มการ์ด Spell/Trap \"Ursarctic\" หรือ \"Drytron\" 1 ใบจากเด็คของคุณขึ้นมือได้\nคุณสามารถใช้เอฟเฟกต์นี้ของ \"Ultimate Bright Knight Ursatron Alpha\" ได้ 1 ครั้งต่อเทิร์น",
   "status": "ai",
   "en_sha256": "9f5961253de895dae57eeeef0b07dec20f45c8673d3b1ccf128db1f49c6b22f4",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

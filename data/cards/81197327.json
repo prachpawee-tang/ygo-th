@@ -1,9 +1,9 @@
 {
   "id": "81197327",
   "name": "Elemental HERO Steam Healer",
-  "th": "\"Elemental HERO Burstinatrix\" + \"Elemental HERO Bubbleman\"\nต้องทำการ Fusion Summon และไม่สามารถอัญเชิญพิเศษด้วยวิธีอื่นได้ เมื่อการ์ดนี้ทำลายมอนสเตอร์ด้วยการต่อสู้และส่งมันลงสุสาน: ได้รับ Life Points เท่ากับ ATK ของมอนสเตอร์ที่ถูกทำลายในสุสาน",
+  "th": "\"Elemental HERO Burstinatrix\" + \"Elemental HERO Bubbleman\"\nต้องทำการ Fusion Summon และไม่สามารถอัญเชิญพิเศษด้วยวิธีอื่นได้\nเมื่อการ์ดใบนี้ทำลายมอนสเตอร์ด้วยการต่อสู้และส่งมันลงสุสาน: ได้รับ Life Points เท่ากับ ATK ของมอนสเตอร์ที่ถูกทำลายในสุสาน",
   "status": "ai",
   "en_sha256": "1e6800f10d0cfb62ef3e27daa02c1773b85266562f0a50f61c00706c94224b3b",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

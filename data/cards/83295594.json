@@ -1,9 +1,9 @@
 {
   "id": "83295594",
   "name": "Steam Synchron",
-  "th": "ระหว่าง Main Phase ของคู่ต่อสู้: คุณสามารถ: ทันทีหลังจากเอฟเฟกต์นี้จบลง, คุณสามารถทำการ Synchro Summon โดยใช้การ์ดนี้ที่ควบคุมอยู่ (นี่คือ Quick Effect).",
+  "th": "ระหว่าง Main Phase ของคู่ต่อสู้, คุณสามารถ: ทันทีหลังจากเอฟเฟกต์นี้จบลง, คุณสามารถทำการ Synchro Summon โดยใช้การ์ดใบนี้ที่ควบคุมอยู่ (นี่คือ Quick Effect).",
   "status": "ai",
   "en_sha256": "6da0ffaed876fbb62bf63923bceb67ca289fefc27e2dcfe1388e807b82102c03",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

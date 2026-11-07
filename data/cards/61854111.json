@@ -1,9 +1,9 @@
 {
   "id": "61854111",
   "name": "Legendary Sword",
-  "th": "ติดตั้งกับมอนสเตอร์ Warrior เท่านั้น มอนสเตอร์นั้นจะได้รับ ATK/DEF 300",
+  "th": "ใส่ได้เฉพาะกับมอนสเตอร์ Warrior เท่านั้น\nมันได้รับ ATK/DEF 300",
   "status": "ai",
   "en_sha256": "7ec25d226fa87dd0f0baffe2f0194eb96dced6749c264d1938a7e3e7afd04680",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

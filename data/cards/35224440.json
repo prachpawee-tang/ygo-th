@@ -1,9 +1,9 @@
 {
   "id": "35224440",
   "name": "Gladiator Proving Ground",
-  "th": "เพิ่มมอนสเตอร์ \"Gladiator Beast\" ระดับ 4 หรือต่ำกว่า 1 ตัวจากเด็คของคุณขึ้นมือ",
+  "th": "เพิ่มมอนสเตอร์ \"Gladiator Beast\" ระดับ 4 หรือต่ำกว่า 1 ตัวจากเด็คของคุณขึ้นมือ.",
   "status": "ai",
   "en_sha256": "538d2776a283243ee9b08cf0421a4b6050432c713f9f3fbebc2b75f84375e5bc",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

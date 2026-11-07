@@ -1,9 +1,10 @@
 {
   "id": "25833572",
   "name": "Gate Guardian",
-  "th": "ไม่สามารถอัญเชิญปกติ/เซ็ตได้ ต้องอัญเชิญพิเศษก่อน (จากมือ) โดยการสังเวย \"Sanga of the Thunder\", \"Kazejin\" และ \"Suijin\" 1 ตัว",
+  "th": "ไม่สามารถอัญเชิญปกติ/เซ็ตได้\nต้องอัญเชิญพิเศษก่อน (จากมือ) โดยการสังเวย \"Sanga of the Thunder\", \"Kazejin\" และ \"Suijin\"]",
   "status": "ai",
   "en_sha256": "37c089ab3d407706ca17c5f0ea57169fda28d89a442aa7774c12b4afa2b52115",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07",
+  "note": "rule-check: numbers missing in Thai: 1"
 }

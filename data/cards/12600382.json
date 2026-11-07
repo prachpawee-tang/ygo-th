@@ -1,9 +1,9 @@
 {
   "id": "12600382",
   "name": "Exodia Necross",
-  "th": "ไม่สามารถอัญเชิญปกติ/เซ็ตได้ ต้องอัญเชิญพิเศษด้วย \"Contract with Exodia\" และไม่สามารถอัญเชิญพิเศษด้วยวิธีอื่นได้ ไม่สามารถถูกทำลายโดยการต่อสู้หรือเอฟเฟกต์เวทมนตร์/กับดัก 1 ครั้งต่อเทิร์น ในช่วง Standby Phase ของคุณ: การ์ดใบนี้ได้รับ ATK 500 ทำลายการ์ดใบนี้ เว้นแต่การ์ดทั้ง 5 ใบนี้อยู่ในสุสานของคุณ - \"Exodia the Forbidden One\", \"Right Arm of the Forbidden One\", \"Left Arm of the Forbidden One\", \"Right Leg of the Forbidden One\" และ \"Left Leg of the Forbidden One\"",
+  "th": "ไม่สามารถอัญเชิญปกติ/เซ็ตได้\nต้องอัญเชิญพิเศษด้วย \"Contract with Exodia\" และไม่สามารถอัญเชิญพิเศษด้วยวิธีอื่นได้\nไม่สามารถถูกทำลายโดยการต่อสู้หรือเอฟเฟกต์เวทมนตร์/กับดักได้\n1 ครั้งต่อเทิร์น, ในช่วง Standby Phase ของคุณ: การ์ดใบนี้ได้รับ ATK 500\nทำลายการ์ดใบนี้ เว้นแต่การ์ดทั้ง 5 ใบนี้อยู่ในสุสานของคุณ - \"Exodia the Forbidden One\", \"Right Arm of the Forbidden One\", \"Left Arm of the Forbidden One\", \"Right Leg of the Forbidden One\" และ \"Left Leg of the Forbidden One\"",
   "status": "ai",
   "en_sha256": "71450c230d9794f94af7279e50d6f3ad68c065c5c95e72a928f44f99feec54f5",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

@@ -1,9 +1,9 @@
 {
   "id": "62125438",
   "name": "Synchron Carrier",
-  "th": "ระหว่าง Main Phase ของคุณ คุณสามารถ อัญเชิญปกติ มอนสเตอร์ \"Synchron\" 1 ตัวเพิ่มเติม นอกเหนือจากการ อัญเชิญปกติ/เซ็ต ของคุณ (คุณสามารถได้รับเอฟเฟกต์นี้ได้ 1 ครั้งต่อเทิร์นเท่านั้น) ถ้า มอนสเตอร์ \"Synchron\" อีกตัวถูกส่งลงสุสานเป็น Synchro Material สำหรับการ Synchro Summon มอนสเตอร์ Warrior หรือ Machine-Type Synchro ในขณะที่คุณควบคุมการ์ดนี้: คุณสามารถ อัญเชิญพิเศษ \"Synchron Token\" (Machine-Type/EARTH/Level 2/ATK 1000/DEF 0) 1 ตัว คุณสามารถใช้เอฟเฟกต์ของ \"Synchron Carrier\" ได้ 1 ครั้งต่อเทิร์นเท่านั้น",
+  "th": "ระหว่าง Main Phase ของคุณ คุณสามารถ อัญเชิญปกติ มอนสเตอร์ \"Synchron\" 1 ตัวเพิ่มเติม นอกเหนือจากการ อัญเชิญปกติ/เซ็ต ของคุณ\n(คุณสามารถได้รับเอฟเฟกต์นี้ได้เพียง 1 ครั้งต่อเทิร์น) ถ้า มอนสเตอร์ \"Synchron\" ตัวอื่นถูกส่งลงสุสานของคุณในฐานะ Synchro Material สำหรับการ Synchro Summon มอนสเตอร์ Warrior หรือ Machine-Type Synchro ในขณะที่คุณควบคุมการ์ดใบนี้: คุณสามารถ อัญเชิญพิเศษ \"Synchron Token\" (Machine-Type/EARTH/Level 2/ATK 1000/DEF 0) 1 ตัว\nคุณสามารถใช้เอฟเฟกต์ของ \"Synchron Carrier\" ได้เพียง 1 ครั้งต่อเทิร์น",
   "status": "ai",
   "en_sha256": "aa95478ce196026b9fb787ba206fddfa432d58a40022106e7ebbd1f22986e9f9",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

@@ -1,9 +1,9 @@
 {
   "id": "91598270",
   "name": "SolSolfachord Gracia",
-  "th": "[ เอฟเฟกต์ Pendulum ]\nคู่ต่อสู้ไม่สามารถเปิดใช้การ์ด Spell/Trap หรือเอฟเฟกต์มอนสเตอร์ได้ เมื่อมอนสเตอร์ Pendulum \"Solfachord\" ของคุณถูก Pendulum Summoned\n\n[ เอฟเฟกต์มอนสเตอร์ ]\nตราบใดที่คุณมี Pendulum Scale ที่เป็นเลขคู่ใน Pendulum Zone ของคุณ, ถ้ามอนสเตอร์ Pendulum \"Solfachord\" ของคุณโจมตี, คู่ต่อสู้จะไม่สามารถเปิดใช้เอฟเฟกต์มอนสเตอร์ได้จนจบ Damage Step ถ้าการ์ดใบนี้ถูก อัญเชิญปกติ หรือ อัญเชิญพิเศษ: คุณสามารถเพิ่มการ์ด Spell/Trap \"Solfachord\" 1 ใบจากเด็คของคุณขึ้นมือ คุณสามารถใช้เอฟเฟกต์นี้ของ \"SolSolfachord Gracia\" ได้ 1 ครั้งต่อเทิร์น",
+  "th": "[ Pendulum Effect ]\nคู่ต่อสู้ของคุณไม่สามารถเปิดใช้การ์ด Spell/Trap หรือเอฟเฟกต์มอนสเตอร์ได้ เมื่อมอนสเตอร์ Pendulum \"Solfachord\" ของคุณถูกอัญเชิญแบบ Pendulum\n[ Monster Effect ]\nตราบใดที่คุณมี Pendulum Scale ที่เป็นเลขคู่ใน Pendulum Zone ของคุณ ถ้ามอนสเตอร์ Pendulum \"Solfachord\" ของคุณโจมตี คู่ต่อสู้ของคุณไม่สามารถเปิดใช้เอฟเฟกต์มอนสเตอร์ได้จนจบ Damage Step\nถ้าการ์ดใบนี้ถูกอัญเชิญปกติหรืออัญเชิญพิเศษ: คุณสามารถเพิ่มการ์ด Spell/Trap \"Solfachord\" 1 ใบจากเด็คของคุณขึ้นมือได้\nคุณสามารถใช้เอฟเฟกต์ของ \"SolSolfachord Gracia\" นี้ได้ 1 ครั้งต่อเทิร์น",
   "status": "ai",
   "en_sha256": "6deb8a8147fcf5312c63be037414ba5032d3b077d6090f90871de71179e5d488",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

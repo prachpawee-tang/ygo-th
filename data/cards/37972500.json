@@ -1,9 +1,9 @@
 {
   "id": "37972500",
   "name": "GranSolfachord Musecia",
-  "th": "2 “Pendulum” มอนสเตอร์\nระหว่าง Main Phase ของคุณ: คุณสามารถเพิ่ม “Pendulum” มอนสเตอร์ 1 ตัวจากมือของคุณไปยัง เอ็กซ์ตร้าเด็ค ในสภาพหงาย และ “Pendulum” มอนสเตอร์หงาย 1 ตัวจาก เอ็กซ์ตร้าเด็ค ไปยังมือของคุณ ตราบใดที่ตัวหนึ่งมี Pendulum Scale เป็นเลขคู่ และอีกตัวมี Pendulum Scale เป็นเลขคี่ เมื่อคุณทำการ Pendulum Summon มอนสเตอร์ “Solfachord”: คุณสามารถเลือกเป้าหมาย 1 ตัว; เพิ่ม “Solfachord” Pendulum Monster 1 ตัวจาก เด็ค ของคุณไปยังมือของคุณ ซึ่ง Level เท่ากับ Pendulum Scale ของมอนสเตอร์ตัวนั้น คุณสามารถเปิดใช้งานแต่ละเอฟเฟกต์ของ “GranSolfachord Musecia” ได้ 1 ครั้งต่อเทิร์น",
+  "th": "มอนสเตอร์ Pendulum 2 ตัว\nระหว่าง Main Phase ของคุณ: คุณสามารถเพิ่มมอนสเตอร์ Pendulum 1 ตัวจากมือของคุณไปยังเอ็กซ์ตร้าเด็คแบบหงาย และมอนสเตอร์ Pendulum แบบหงาย 1 ตัวจากเอ็กซ์ตร้าเด็คไปยังมือของคุณ ตราบใดที่ตัวหนึ่งมี Pendulum Scale เป็นเลขคู่ และอีกตัวมี Pendulum Scale เป็นเลขคี่\nเมื่อคุณ Pendulum Summon มอนสเตอร์ \"Solfachord\": คุณสามารถเลือกเป้าหมาย 1 ตัว; เพิ่มมอนสเตอร์ Pendulum \"Solfachord\" 1 ตัวจากเด็คของคุณไปยังมือของคุณ ซึ่ง Level เท่ากับ Pendulum Scale ของมอนสเตอร์ตัวนั้น\nคุณสามารถเปิดใช้แต่ละเอฟเฟกต์ของ \"GranSolfachord Musecia\" ได้ 1 ครั้งต่อเทิร์น",
   "status": "ai",
   "en_sha256": "36bd3a620daa4c1c46dcb7bf17337791c3fecaaf89e7343f29e543ae33c77a78",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

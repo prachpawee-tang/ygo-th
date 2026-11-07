@@ -5,6 +5,6 @@
   "status": "ai",
   "en_sha256": "ebf07e0def7f7ec2f2d0ce7d9f6fb34fea21e9c41e4d7ee22da33e991bc050dc",
   "model": "gemma3:12b",
-  "updated": "2026-11-06",
+  "updated": "2026-11-07",
   "note": "rule-check: card names in quotes changed/missing: \"Nimble Momongas\""
 }

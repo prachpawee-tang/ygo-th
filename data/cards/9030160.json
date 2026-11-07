@@ -1,9 +1,9 @@
 {
   "id": "9030160",
   "name": "Dark Contract with the Eternal Darkness",
-  "th": "ตราบใดที่คุณมี “D/D” การ์ด 2 ใบใน Pendulum Zones ของคุณ คู่ต่อสู้จะไม่สามารถเลือกเป้าหมายมอนสเตอร์บนสนามด้วยเอฟเฟกต์ Spell/Trap, สังเวยพวกมันเพื่อ อัญเชิญแบบสังเวย, หรือใช้พวกมันเป็น Material สำหรับ Fusion, Synchro, หรือ Xyz Summon ได้ 1 ครั้งต่อเทิร์น ในช่วง Standby Phase ของคุณ: รับความเสียหาย 1000",
+  "th": "ตราบใดที่คุณมี “D/D” การ์ด 2 ใบใน Pendulum Zones ของคุณ คู่ต่อสู้จะไม่สามารถเลือกมอนสเตอร์ในสนามด้วยเอฟเฟกต์ Spell/Trap, สังเวยเพื่อทำการ อัญเชิญแบบสังเวย, หรือใช้เป็น Material สำหรับ Fusion, Synchro, หรือ Xyz Summon ได้\n1 ครั้งต่อเทิร์น, ในช่วง Standby Phase ของคุณ: รับความเสียหาย 1000",
   "status": "ai",
   "en_sha256": "5ca4bdebb895a2e5a5929c26d32e94bf3b99d552cd7879cab31062092279986f",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

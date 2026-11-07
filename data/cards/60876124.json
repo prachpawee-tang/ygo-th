@@ -1,9 +1,9 @@
 {
   "id": "60876124",
   "name": "Rare Value",
-  "th": "ถ้าคุณควบคุม “Crystal Beast” การ์ด 2 ใบขึ้นไปใน Spell & Trap Zone ของคุณ: คู่ต่อสู้ของคุณเลือก “Crystal Beast” การ์ด 1 ใบใน Spell & Trap Zone ของคุณ, คุณส่งมันลงสุสาน, และถ้าทำได้, คุณจั่วการ์ด 2 ใบ",
+  "th": "ถ้าคุณควบคุม \"Crystal Beast\" 2 ใบขึ้นไปใน Spell & Trap Zone ของคุณ: คู่ต่อสู้ของคุณเลือก \"Crystal Beast\" 1 ใบใน Spell & Trap Zone ของคุณ, คุณส่งมันลงสุสาน, และถ้าทำอย่างนั้น คุณจั่วการ์ด 2 ใบ.",
   "status": "ai",
   "en_sha256": "16a724aa22fc6d0c6e64b8b65d4c4ce41ecb5dafcf629245816c511168c4fcae",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

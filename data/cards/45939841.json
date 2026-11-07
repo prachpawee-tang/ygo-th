@@ -1,9 +1,10 @@
 {
   "id": "45939841",
   "name": "Twister",
-  "th": "จ่าย LP 500, จากนั้นเลือกเป้าหมาย Spell/Trap ที่หงายอยู่บนสนาม 1 ใบ; ทำลายเป้าหมายนั้น",
+  "th": "จ่าย LP 500, จากนั้นเลือกเป้าหมายการ์ดเวทมนตร์หรือกับดักที่หงายอยู่บนสนาม; ทำลายเป้าหมายนั้น.",
   "status": "ai",
   "en_sha256": "0a6c2db7dff3adb6a111e3345bf32fb080b4bb72ee5cedebf571dbb35c54adb8",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07",
+  "note": "rule-check: numbers missing in Thai: 1"
 }

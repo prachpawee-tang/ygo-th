@@ -1,9 +1,9 @@
 {
   "id": "74752631",
   "name": "Battle Shogun of the Six Samurai",
-  "th": "มอนสเตอร์ Warrior 2 ตัว, รวมมอนสเตอร์ \"Six Samurai\"\nถ้าการ์ดใบนี้ถูกอัญเชิญ Link: คุณสามารถทิ้งการ์ด 1 ใบ; เพิ่มการ์ด 1 ใบจากเด็คของคุณขึ้นมือ ที่มีการ์ดเอฟเฟกต์ที่วาง Bushido Counter(s) คุณสามารถใช้เอฟเฟกต์นี้ของ \"Battle Shogun of the Six Samurai\" ได้ 1 ครั้งต่อเทิร์น แต่ละครั้งที่มอนสเตอร์ \"Six Samurai\" ถูกอัญเชิญปกติหรืออัญเชิญพิเศษไปยัง Main Monster Zone ที่การ์ดใบนี้ชี้ ให้วาง Bushido Counter 1 ตัวบนการ์ดใบนี้ ได้รับ ATK 100 สำหรับแต่ละ Bushido Counter ที่อยู่ในสนามของคุณ",
+  "th": "มอนสเตอร์ Warrior 2 ตัว, รวมมอนสเตอร์ \"Six Samurai\"\nถ้าการ์ดใบนี้ถูกอัญเชิญแบบ Link: คุณสามารถทิ้งการ์ด 1 ใบ; เพิ่มการ์ด 1 ใบจากเด็คของคุณขึ้นมือ ซึ่งมีการ์ดเอฟเฟกต์ที่วาง Bushido Counter(s)\nคุณสามารถใช้เอฟเฟกต์ของ \"Battle Shogun of the Six Samurai\" ได้ 1 ครั้งต่อเทิร์น\nทุกครั้งที่มอนสเตอร์ \"Six Samurai\" ตัวใดตัวหนึ่งถูกอัญเชิญปกติหรืออัญเชิญพิเศษไปยัง Main Monster Zone ที่การ์ดใบนี้ชี้, วาง Bushido Counter 1 อันบนการ์ดใบนี้\nได้รับ ATK 100 ต่อ Bushido Counter 1 อันในสนามของคุณ",
   "status": "ai",
   "en_sha256": "da812aad9ab37ca4a3d6d7a43fc7574799cc2e3607567ff5c4ffd244b6cff9e3",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

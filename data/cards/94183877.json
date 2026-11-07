@@ -1,9 +1,9 @@
 {
   "id": "94183877",
   "name": "Loptr, Shadow of the Generaider Bosses",
-  "th": "คุณสามารถควบคุม \"Loptr, Shadow of the Generaider Bosses\" ได้เพียง 1 ตัว มอนสเตอร์ \"Generaider\" ทั้งหมดที่คุณควบคุมได้รับ ATK/DEF 1000 เฉพาะในช่วงเทิร์นของคู่ต่อสู้ ระหว่าง Main Phase (Quick Effect): คุณสามารถ สังเวย มอนสเตอร์ \"Generaider\" 1 ตัว; อัญเชิญพิเศษ มอนสเตอร์ \"Generaider\" ระดับ 9 ที่มีชื่อต่างจากในเด็คของคุณ คุณสามารถใช้เอฟเฟกต์ของ \"Loptr, Shadow of the Generaider Bosses\" ได้ 1 ครั้งต่อเทิร์น",
+  "th": "คุณสามารถควบคุม \"Loptr, Shadow of the Generaider Bosses\" ได้เพียง 1 ตัว\nมอนสเตอร์ \"Generaider\" ทั้งหมดที่คุณควบคุมได้รับ ATK/DEF 1000 เฉพาะระหว่างเทิร์นของคู่ต่อสู้เท่านั้น\nระหว่าง Main Phase (Quick Effect): คุณสามารถสังเวยมอนสเตอร์ \"Generaider\" 1 ตัว; อัญเชิญพิเศษมอนสเตอร์ \"Generaider\" ระดับ 9 ที่มีชื่อต่างจากเด็คของคุณ\nคุณสามารถใช้เอฟเฟกต์ของ \"Loptr, Shadow of the Generaider Bosses\" ได้เพียง 1 ครั้งต่อเทิร์น",
   "status": "ai",
   "en_sha256": "a8f7349a3abb3002ab584c8c3ec5cf31384a1a9bf82aa9b48fd19d3395ddfbb3",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

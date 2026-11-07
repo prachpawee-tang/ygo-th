@@ -1,9 +1,9 @@
 {
   "id": "744887",
   "name": "Utgarda, Generaider Boss of Delusion",
-  "th": "คุณสามารถควบคุม “Utgarda, Generaider Boss of Delusion” ได้ 1 ตัวเท่านั้น (Quick Effect): คุณสามารถ สังเวย มอนสเตอร์ \"Generaider\" 2 ตัว และ/หรือ มอนสเตอร์ Rock จากนั้น เลือกเป้าหมายการ์ด 1 ใบในสนาม; เอามันออกจากเกม คุณสามารถใช้เอฟเฟกต์ของ “Utgarda, Generaider Boss of Delusion” ได้ 1 ครั้งต่อเทิร์น",
+  "th": "คุณสามารถควบคุม \"Utgarda, Generaider Boss of Delusion\" ได้เพียง 1 ตัว\n(Quick Effect): คุณสามารถสังเวยมอนสเตอร์ \"Generaider\" 2 ตัวและ/หรือ Rock monsters จากนั้นเลือกเป้าหมายการ์ด 1 ใบในสนาม; เอามันออกจากเกม\nคุณสามารถใช้เอฟเฟกต์ของ \"Utgarda, Generaider Boss of Delusion\" ได้เพียง 1 ครั้งต่อเทิร์น",
   "status": "ai",
   "en_sha256": "333233d65d4723c57ce0a22f7c381d3d00b11d3c17fc0002953af71f260589b5",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

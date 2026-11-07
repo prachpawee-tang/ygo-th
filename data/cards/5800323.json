@@ -1,10 +1,10 @@
 {
   "id": "5800323",
   "name": "Poplar of the White Forest",
-  "th": "1 Tuner + 1+ non-Tuner monsters\nถ้าการ์ดใบนี้ถูกอัญเชิญพิเศษ: คุณสามารถเลือกเป้าหมายมอนสเตอร์ \"White Forest\" 2 ตัวในสุสานของคุณ; วางพวกมันคว่ำหน้าใน Spell & Trap Zones ของเจ้าของแต่ละคนในฐานะ Spells ต่อเนื่อง ในระหว่าง Main Phase ของคู่ต่อสู้ คุณสามารถ (Quick Effect): ทันทีหลังจากเอฟเฟกต์นี้แก้ไขเสร็จสิ้น ให้ทำการ Synchro Summon โดยใช้การ์ดใบนี้ที่ควบคุมอยู่ คุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Poplar of the White Forest\" ได้ 1 ครั้งต่อเทิร์น",
+  "th": "1 Tuner + 1+ non-Tuner monsters\nถ้าการ์ดใบนี้ถูกอัญเชิญพิเศษ: คุณสามารถเลือกเป้าหมายมอนสเตอร์ \"White Forest\" 2 ตัวในสุสานของคุณ; วางพวกมันคว่ำหน้าใน Spell & Trap Zones ของเจ้าของแต่ละคนในฐานะ Spells ต่อเนื่อง\nใน Main Phase ของคู่ต่อสู้ของคุณ, คุณสามารถ (Quick Effect): ทันทีหลังจากเอฟเฟกต์นี้จบลง, ให้ทำการ Synchro Summon โดยใช้การ์ดใบนี้ที่ควบคุมอยู่\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Poplar of the White Forest\" ได้ 1 ครั้งต่อเทิร์น",
   "status": "ai",
   "en_sha256": "7f0475337f529efe23570c7ca680f193cfb608a8bcf5c001875dfae608726177",
   "model": "gemma3:12b",
-  "updated": "2026-11-05",
+  "updated": "2026-11-07",
   "note": "rule-check: \"face-up\" ×1 in English but \"หงาย\" ×0 in Thai — meaning may be wrong"
 }

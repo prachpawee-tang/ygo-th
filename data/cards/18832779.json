@@ -1,9 +1,9 @@
 {
   "id": "18832779",
   "name": "Plunder Patrollship Lys",
-  "th": "2 \"Plunder Patroll\" monsters\nระหว่าง Main Phase (Quick Effect): คุณสามารถ อัญเชิญพิเศษ มอนสเตอร์ \"Plunder Patroll\" 1 ใบจาก มือ หรือ โซน Spell & Trap ที่หงายอยู่ เมื่อคู่ต่อสู้เปิดใช้งานเอฟเฟกต์มอนสเตอร์ (Quick Effect): คุณสามารถ ทิ้งการ์ด \"Plunder Patroll\" 1 ใบ; ลบล้างการเปิดใช้งาน และถ้าทำได้ ให้ ทำลายมัน จากนั้น ถ้าการ์ดใบนี้ถูกติดตั้งด้วยการ์ด \"Plunder Patroll\" คุณสามารถ จั่ว การ์ด \"Plunder Patroll\" 1 ใบจาก เด็ค ขึ้นมือ คุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Plunder Patrollship Lys\" ได้ 1 ครั้งต่อเทิร์น",
+  "th": "มอนสเตอร์ \"Plunder Patroll\" 2 ตัว\nระหว่าง Main Phase (Quick Effect): คุณสามารถอัญเชิญพิเศษมอนสเตอร์ \"Plunder Patroll\" 1 ใบจากมือหรือจาก Spell & Trap Zone ที่วางหงาย\nเมื่อคู่ต่อสู้เปิดใช้งานเอฟเฟกต์มอนสเตอร์ (Quick Effect): คุณสามารถทิ้งการ์ด \"Plunder Patroll\" 1 ใบ; ลบล้างการเปิดใช้งาน และถ้าทำได้ ให้ทำลายมัน และถ้าการ์ดใบนี้ถูกติดตั้งด้วยการ์ด \"Plunder Patroll\" คุณสามารถเพิ่มการ์ด \"Plunder Patroll\" 1 ใบจากเด็คของคุณขึ้นมือ\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Plunder Patrollship Lys\" ได้ 1 ครั้งต่อเทิร์น",
   "status": "ai",
   "en_sha256": "5d6e5eaa8ab8cac55499f1b605011ad57834d43b4de7e73d989ace4028ef9bd0",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

@@ -1,9 +1,9 @@
 {
   "id": "11738489",
   "name": "The Arrival Cyberse @Ignister",
-  "th": "มอนสเตอร์ 3+ ตัวที่มี Attribute ต่างกัน\nคุณสามารถควบคุม \"The Arrival Cyberse @Ignister\" ได้ 1 ตัวเท่านั้น ATK ดั้งเดิมของการ์ดนี้จะกลายเป็น 1000 x จำนวน Material Link ที่ใช้สำหรับการ Link Summon ของมัน ไม่ได้รับผลจากเอฟเฟกต์ของการ์ดอื่น 1 ครั้งต่อเทิร์น: คุณสามารถเลือกเป้าหมายมอนสเตอร์ 1 ตัวบนสนาม; ทำลายมัน และถ้าทำได้ ให้ อัญเชิญพิเศษ \"@Ignister Token\" (Cyberse/DARK/Level 1/ATK 0/DEF 0) 1 ตัวไปยัง Zone ที่การ์ดนี้ชี้",
+  "th": "มอนสเตอร์ 3+ ตัวที่มี Attribute ต่างกัน\nคุณสามารถควบคุม \"The Arrival Cyberse @Ignister\" ได้เพียง 1 ใบ\nATK เดิมของการ์ดใบนี้จะกลายเป็น 1000 x จำนวน Material Link ที่ใช้สำหรับการ Link Summon ของมัน\nไม่ได้รับผลจากเอฟเฟกต์ของการ์ดอื่น\n1 ครั้งต่อเทิร์น: คุณสามารถเลือกเป้าหมายมอนสเตอร์ 1 ตัวในสนาม; ทำลายมัน และถ้าทำได้ ให้ อัญเชิญพิเศษ \"@Ignister Token\" (Cyberse/DARK/Level 1/ATK 0/DEF 0) 1 ตัวไปยัง Main Monster Zone ที่การ์ดใบนี้ชี้",
   "status": "ai",
   "en_sha256": "b300e2bb185e558c8b5cb3d056ed771f24d0cda257794cddef903d328cc66f0b",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

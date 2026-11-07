@@ -1,9 +1,9 @@
 {
   "id": "98452268",
   "name": "Odd-Eyes Rebellion Dragon Overlord",
-  "th": "[ เอฟเฟกต์ Pendulum ]\n1 ครั้งต่อเทิร์น: คุณสามารถ อัญเชิญพิเศษ การ์ดใบนี้จาก Pendulum Zone ของคุณ จากนั้น อัญเชิญพิเศษ จาก เอ็กซ์ตร้าเด็ค, มอนสเตอร์ \"Rebellion\" หรือ \"The Phantom Knights\" 1 ตัว โดยใช้การ์ดใบนี้เป็น Material (ถือเป็นการ อัญเชิญแบบ Xyz), จากนั้น คุณสามารถ ติด การ์ด 1 ใบจาก Pendulum Zone ของคุณ เป็น Material ให้กับการ์ดนั้นได้\n\n[ เอฟเฟกต์ มอนสเตอร์ ]\nมอนสเตอร์ Level 7 2 ตัว\nคุณยังสามารถ อัญเชิญแบบ Xyz การ์ดใบนี้โดยใช้ มอนสเตอร์ Xyz \"Rebellion\" ที่คุณควบคุม เป็น Material (ถ่ายโอน Material ของมันไปยังการ์ดใบนี้) ถ้าคุณสามารถ Pendulum Summon Level 7 คุณสามารถ Pendulum Summon การ์ดใบนี้หงายจาก เอ็กซ์ตร้าเด็ค การ์ดใบนี้ที่ถูก อัญเชิญแบบ Xyz โดยใช้ มอนสเตอร์ Xyz Rank 7 เป็น Material สามารถโจมตีได้สูงสุด 3 ครั้งในระหว่าง Battle Phase แต่ละครั้ง ถ้าการ์ดใบนี้ใน Main Monster Zone ถูกทำลาย: คุณสามารถวางการ์ดใบนี้ใน Pendulum Zone ของคุณ คุณสามารถ อัญเชิญพิเศษ \"Odd-Eyes Rebellion Dragon Overlord(s)\" ได้ 1 ครั้งต่อเทิร์น",
+  "th": "[ Pendulum Effect ]\n1 ครั้งต่อเทิร์น: คุณสามารถอัญเชิญพิเศษการ์ดใบนี้จาก Pendulum Zone ของคุณ, จากนั้นอัญเชิญพิเศษจาก เอ็กซ์ตร้าเด็ค, มอนสเตอร์ \"Rebellion\" หรือ \"The Phantom Knights\" 1 ตัว, โดยใช้การ์ดใบนี้เป็น Material (ถือเป็นการอัญเชิญแบบ Xyz), จากนั้นคุณสามารถติดการ์ด 1 ใบจาก Pendulum Zone ของคุณลงไปเป็น Material ได้\n[ Monster Effect ]\nมอนสเตอร์ Level 7 จำนวน 2 ตัว\nคุณยังสามารถอัญเชิญแบบ Xyz การ์ดใบนี้โดยใช้มอนสเตอร์ Xyz \"Rebellion\" ที่คุณควบคุมเป็น Material ได้\n(ถ่ายโอน Material ของมันไปยังการ์ดใบนี้) ถ้าคุณสามารถ Pendulum Summon Level 7 ได้ คุณสามารถ Pendulum Summon การ์ดใบนี้ที่หงายอยู่จาก เอ็กซ์ตร้าเด็ค ได้\nการ์ดใบนี้ที่ถูกอัญเชิญแบบ Xyz โดยใช่มอนสเตอร์ Xyz Rank 7 เป็น Material สามารถโจมตีได้สูงสุด 3 ครั้งในระหว่าง Battle Phase แต่ละครั้ง\nถ้าการ์ดใบนี้ใน Main Monster Zone ถูกทำลาย: คุณสามารถวางการ์ดใบนี้ใน Pendulum Zone ของคุณได้\nคุณสามารถอัญเชิญพิเศษ \"Odd-Eyes Rebellion Dragon Overlord(s)\" ได้เพียง 1 ครั้งต่อเทิร์น",
   "status": "ai",
   "en_sha256": "18abdcd862937678c82841938bef57f408122f19a6203bf082f42346af552220",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

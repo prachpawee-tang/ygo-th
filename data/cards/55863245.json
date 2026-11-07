@@ -1,9 +1,9 @@
 {
   "id": "55863245",
   "name": "Tatsunoko",
-  "th": "1 Tuner + 1+ non-Tuner monsters\nถ้ามอนสเตอร์ที่อัญเชิญแบบ Synchro นี้จะถูกใช้เป็น Material Synchro, มอนสเตอร์ 1 ตัวในมือของคุณสามารถถูกใช้เป็น 1 ใน Material อื่นได้ ไม่ได้รับผลจากเอฟเฟกต์ของมอนสเตอร์อื่นๆ",
+  "th": "1 Tuner + 1+ non-Tuner monsters\nถ้ามอนสเตอร์ที่ถูกอัญเชิญแบบ Synchro นี้จะถูกใช้เป็น Material Synchro, มอนสเตอร์ 1 ตัวในมือของคุณสามารถถูกใช้เป็น Material อื่นได้ 1 ตัว\nไม่ได้รับผลจากเอฟเฟกต์ของมอนสเตอร์อื่นๆ",
   "status": "ai",
   "en_sha256": "f93ea2b941b3645b659d0fae985a88ecd0b82de582f5f2a4cdc9924b58073635",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

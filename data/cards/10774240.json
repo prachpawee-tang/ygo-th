@@ -1,9 +1,9 @@
 {
   "id": "10774240",
   "name": "Skull Guardian, Protector of the Voiceless Voice",
-  "th": "คุณสามารถ อัญเชิญแบบ Ritual การ์ดใบนี้ด้วย \"Prayers of the Voiceless Voice\" ได้ รับ ATK 2050 ขณะที่คุณมีการ์ด \"Lo, the Prayers of the Voiceless Voice\" อยู่ในสนาม หรือในสุสาน (GY) คุณสามารถใช้แต่ละเอฟเฟกต์ต่อไปนี้ของ \"Skull Guardian, Protector of the Voiceless Voice\" ได้ 1 ครั้งต่อเทิร์น ① ถ้าการ์ดใบนี้ถูก อัญเชิญแบบ Ritual: คุณสามารถเพิ่ม มอนสเตอร์ \"Voiceless Voice\" 1 ตัว หรือ มอนสเตอร์ Ritual (Warrior หรือ Dragon) 1 ตัว จากเด็คของคุณขึ้นมือ ② เมื่อคู่ต่อสู้เปิดใช้งานการ์ดหรือเอฟเฟกต์ขณะที่คุณมีการ์ด \"Lo, the Prayers of the Voiceless Voice\" (Quick Effect): คุณสามารถลบล้างการเปิดใช้งานได้ และถ้าทำได้ ให้ทำลายการ์ดใบนั้น",
+  "th": "คุณสามารถ อัญเชิญแบบ Ritual การ์ดใบนี้ด้วย \"Prayers of the Voiceless Voice\"\nได้รับ ATK 2050 ขณะที่คุณมีการ์ด \"Lo, the Prayers of the Voiceless Voice\" อยู่ในสนาม หรือในสุสานของคุณ\nคุณสามารถใช้แต่ละเอฟเฟกต์ต่อไปนี้ของ \"Skull Guardian, Protector of the Voiceless Voice\" ได้ 1 ครั้งต่อเทิร์น\nเมื่อการ์ดใบนี้ถูก อัญเชิญแบบ Ritual: คุณสามารถเพิ่ม มอนสเตอร์ \"Voiceless Voice\" 1 ตัว หรือ มอนสเตอร์ Ritual (Warrior หรือ Dragon) 1 ตัว จากเด็คของคุณขึ้นมือ\nเมื่อคู่ต่อสู้เปิดใช้การ์ดหรือเอฟเฟกต์ขณะที่คุณมีการ์ด \"Lo, the Prayers of the Voiceless Voice\" (Quick Effect): คุณสามารถลบล้างการเปิดใช้นั้น และถ้าทำได้ ทำลายการ์ดใบนั้น",
   "status": "ai",
   "en_sha256": "1ca9f5b01939f2781f6f1964328c8903c22ecc6a6dfa830956a1ea4130251452",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

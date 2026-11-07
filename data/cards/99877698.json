@@ -1,9 +1,9 @@
 {
   "id": "99877698",
   "name": "Gravekeeper's Cannonholder",
-  "th": "คุณสามารถสังเวยมอนสเตอร์ \"Gravekeeper's\" 1 ตัว ยกเว้น \"Gravekeeper's Cannonholder\"; สร้างความเสียหาย 700 ให้กับคู่ต่อสู้",
+  "th": "คุณสามารถสังเวยมอนสเตอร์ \"Gravekeeper's\" 1 ตัว ยกเว้น \"Gravekeeper's Cannonholder\"; สร้างความเสียหาย 700 ให้กับคู่ต่อสู้.",
   "status": "ai",
   "en_sha256": "5467385d8a6a570a1f148f6673e98f42d6354eee9b2e6b37644c50cf44678e00",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

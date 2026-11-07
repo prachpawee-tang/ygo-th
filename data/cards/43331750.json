@@ -1,9 +1,9 @@
 {
   "id": "43331750",
   "name": "Fusion Duplication",
-  "th": "เลือกเป้าหมาย Spell แบบ Normal หรือ Quick-Play ประเภท \"Fusion\" หรือ \"Polymerization\" 1 ใบในสุสานของผู้เล่นคนใดคนหนึ่ง; เอาออกจากเกม Spell ใบนั้น จากนั้นให้ใช้เอฟเฟกต์ของ Spell ใบนั้นเมื่อการ์ดใบนั้นถูกเปิดใช้ คุณสามารถเปิดใช้ \"Fusion Duplication\" ได้ 1 ครั้งต่อเทิร์น",
+  "th": "เลือกเป้าหมายการ์ด Normal หรือ Quick-Play Spell แบบ \"Fusion\" หรือ \"Polymerization\" 1 ใบในสุสานของผู้เล่นคนใดคนหนึ่ง; เอาการ์ด Spell ใบนั้นออกจากเกม จากนั้นใช้เอฟเฟกต์ของการ์ด Spell ใบนั้นเมื่อการ์ดใบนั้นถูกเปิดใช้\nคุณสามารถเปิดใช้ \"Fusion Duplication\" ได้เพียง 1 ใบต่อเทิร์น",
   "status": "ai",
   "en_sha256": "233db359edce8b08c34e9ae4e855602e5aa0497c8ee8276a378ce7a0fe39f915",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

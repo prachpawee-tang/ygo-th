@@ -1,9 +1,9 @@
 {
   "id": "60110982",
   "name": "Armityle the Chaos Phantasm - Phantom of Fury",
-  "th": "\"Uria, Lord of Searing Flames\" + \"Hamon, Lord of Striking Thunder\" + \"Raviel, Lord of Phantasms\"\nชื่อของการ์ดใบนี้จะเปลี่ยนเป็น \"Armityle the Chaos Phantasm\" ตราบเท่าที่มันอยู่ในสนาม: 1 ครั้งต่อเทิร์น, ระหว่าง Main Phase ของคุณ: คุณสามารถให้การควบคุมของการ์ดใบนี้แก่คู่ต่อสู้ได้ 1 ครั้งต่อเทิร์น, ระหว่าง End Phase, ถ้าการควบคุมของการ์ดใบนี้เปลี่ยนไปในเทิร์นนี้: เอาการ์ดทั้งหมดที่คุณควบคุมออกจากเกม จากนั้น ผู้เป็นเจ้าของการ์ดใบนี้สามารถ อัญเชิญพิเศษ \"Armityle the Chaos Phantasm\" 1 ใบจาก เอ็กซ์ตร้าเด็ค โดยไม่สนใจเงื่อนไขการอัญเชิญ",
+  "th": "\"Uria, Lord of Searing Flames\" + \"Hamon, Lord of Striking Thunder\" + \"Raviel, Lord of Phantasms\"\nชื่อของการ์ดใบนี้จะเปลี่ยนเป็น \"Armityle the Chaos Phantasm\" ตราบใดที่มันอยู่ในสนาม\n1 ครั้งต่อเทิร์น, ระหว่าง Main Phase ของคุณ: คุณสามารถให้คู่ต่อสู้ควบคุมการ์ดใบนี้ได้\n1 ครั้งต่อเทิร์น, ระหว่าง End Phase, ถ้าการควบคุมการ์ดใบนี้เปลี่ยนไปในเทิร์นนี้: เอาการ์ดทั้งหมดที่คุณควบคุมออกจากเกม จากนั้น เจ้าของของการ์ดใบนี้สามารถ อัญเชิญพิเศษ มอนสเตอร์ \"Armityle the Chaos Phantasm\" 1 ตัวจาก เอ็กซ์ตร้าเด็ค โดยไม่สนใจเงื่อนไขการอัญเชิญ",
   "status": "ai",
   "en_sha256": "ead5d692bd49818520b4dd9cacbb76d77f6e344f1fcd6d8bce24941c89646e05",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

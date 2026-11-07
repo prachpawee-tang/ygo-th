@@ -1,11 +1,11 @@
 {
   "id": "58932615",
   "name": "Elemental HERO Burstinatrix",
-  "th": "ผู้ควบคุมไฟที่เป็น Elemental HERO ผู้หญิงคนแรก ความร้อนแรงของ Burstfire เผาผลาญความชั่วร้าย",
+  "th": "นักจัดการไฟผู้เป็น Elemental HERO ผู้หญิงคนแรก\nBurstfire ของเธอเผาผลาญความชั่วร้าย",
   "status": "ai",
   "en_sha256": "b50babcbe4ac7281d36f5e9215becb48e0ab55b1f0e52689449804b75d3df806",
   "model": "gemma3:12b",
-  "updated": "2026-11-05",
+  "updated": "2026-11-07",
   "alt": [
     "58932616"
   ]

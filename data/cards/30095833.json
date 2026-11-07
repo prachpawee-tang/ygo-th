@@ -1,9 +1,9 @@
 {
   "id": "30095833",
   "name": "Odd-Eyes Rebellion Xyz Dragon",
-  "th": "[ เอฟเฟกต์ Pendulum ] \nระหว่าง Main Phase ของคุณ: คุณสามารถ อัญเชิญพิเศษ การ์ดนี้ จากนั้นคุณสามารถแนบ มอนสเตอร์ DARK 1 ตัวจาก สุสาน ของคุณ ไปยัง การ์ดนี้ เป็น Material คุณสามารถใช้เอฟเฟกต์นี้ของ \"Odd-Eyes Rebellion Xyz Dragon\" ได้ 1 ครั้งต่อเทิร์น\n\n[ เอฟเฟกต์มอนสเตอร์ ] \nมอนสเตอร์ Pendulum ระดับ 7 2 ตัว\nถ้าคุณสามารถ Pendulum Summon ระดับ 7 ได้ คุณสามารถ Pendulum Summon การ์ดนี้ หงายอยู่ จาก เอ็กซ์ตร้าเด็ค ของคุณ การ์ดนี้ไม่สามารถใช้เป็น Material สำหรับ Xyz Summon ได้ในเทิร์นที่มันถูก Xyz Summon คุณสามารถถอด Material 1 ตัวจาก การ์ดนี้ จากนั้น เลือกเป้าหมาย มอนสเตอร์สูงสุด 2 ตัวที่คู่ต่อสู้ควบคุม ที่มี ATK 3000 หรือน้อยกว่า; ทำลายพวกมัน คุณสามารถใช้เอฟเฟกต์นี้ของ \"Odd-Eyes Rebellion Xyz Dragon\" ได้ 1 ครั้งต่อเทิร์น ถ้า การ์ดนี้ ใน Main Monster Zone ถูกทำลาย: คุณสามารถวาง การ์ดนี้ ใน Pendulum Zone ของคุณ",
+  "th": "[ Pendulum Effect ]\nระหว่าง Main Phase ของคุณ: คุณสามารถ อัญเชิญพิเศษ การ์ดใบนี้, จากนั้นคุณสามารถนำมอนสเตอร์ DARK 1 ตัวจากสุสานของคุณมาติดกับการ์ดใบนี้เป็น Material\nคุณสามารถใช้เอฟเฟกต์ของ \"Odd-Eyes Rebellion Xyz Dragon\" ได้ 1 ครั้งต่อเทิร์น\n[ Monster Effect ]\n2 Level 7 Pendulum Monsters\nถ้าคุณสามารถ Pendulum Summon Level 7 ได้, คุณสามารถ Pendulum Summon การ์ดใบนี้ที่หงายอยู่จาก Extra Deck ของคุณได้\nการ์ดใบนี้ไม่สามารถใช้เป็น Material สำหรับ Xyz Summon ได้ในเทิร์นที่มันถูก Xyz Summon\nคุณสามารถถอด Material 1 ตัวจากการ์ดใบนี้, จากนั้นเลือกเป้าหมายมอนสเตอร์สูงสุด 2 ตัวที่คู่ต่อสู้ควบคุมที่มี ATK 3000 หรือน้อยกว่า; ทำลายพวกมัน\nคุณสามารถใช้เอฟเฟกต์ของ \"Odd-Eyes Rebellion Xyz Dragon\" ได้ 1 ครั้งต่อเทิร์น\nถ้าการ์ดใบนี้ใน Main Monster Zone ถูกทำลาย: คุณสามารถวางการ์ดใบนี้ใน Pendulum Zone ของคุณได้",
   "status": "ai",
   "en_sha256": "390689ea850b22b30d4ede9b981c28e09169b6ae204d6cac19ae0d8ce394bdc8",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

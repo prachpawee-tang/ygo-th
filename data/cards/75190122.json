@@ -1,9 +1,9 @@
 {
   "id": "75190122",
   "name": "Dark Burning Magic",
-  "th": "ถ้าคุณควบคุมมอนสเตอร์ที่มีชื่อดั้งเดิมคือ \"Dark Magician\" และ \"Dark Magician Girl\": ทำลายการ์ดทั้งหมดที่คู่ต่อสู้ควบคุม",
+  "th": "ถ้าคุณควบคุมมอนสเตอร์ที่มีชื่อต้นฉบับเป็น \"Dark Magician\" และ \"Dark Magician Girl\": ทำลายการ์ดทั้งหมดที่คู่ต่อสู้ควบคุม.",
   "status": "ai",
   "en_sha256": "51a8da07ed54aa20a40afb11ce0f829796ddb0f91c9014aeb6a0c6445312bea9",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

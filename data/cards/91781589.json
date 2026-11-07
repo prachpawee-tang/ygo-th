@@ -1,9 +1,9 @@
 {
   "id": "91781589",
   "name": "Thunder of Ruler",
-  "th": "ระหว่าง Standby Phase ของคู่ต่อสู้: คุณสามารถเปิดใช้การ์ดนี้; ไม่มี Battle Phase ในเทิร์นนี้",
+  "th": "ระหว่าง Standby Phase ของคู่ต่อสู้: คุณสามารถเปิดใช้การ์ดใบนี้; ในเทิร์นนี้จะไม่มี Battle Phase.",
   "status": "ai",
   "en_sha256": "a4c9d8912794e9269cec822045f4fefbe460ebb6eee45d344e6f42f9382f69e3",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

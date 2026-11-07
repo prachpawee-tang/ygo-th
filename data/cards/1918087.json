@@ -1,9 +1,9 @@
 {
   "id": "1918087",
   "name": "Minor Goblin Official",
-  "th": "คุณสามารถเปิดใช้การ์ดนี้ได้เมื่อ Life Points ของคู่ต่อสู้มี 3000 หรือน้อยกว่า สร้างความเสียหาย 500 points ให้กับ Life Points ของคู่ต่อสู้ในระหว่าง Standby Phases ของเขา/เธอ",
+  "th": "คุณสามารถเปิดใช้การ์ดนี้ได้เมื่อ Life Points ของคู่ต่อสู้มี 3000 หรือน้อยกว่า\nสร้างความเสียหาย 500 points ให้กับ Life Points ของคู่ต่อสู้ในระหว่าง Standby Phases ของเขา/เธอ",
   "status": "ai",
   "en_sha256": "51ac94208f011df6d6c5b89090a0cf1a9feea9b047c6b49a512944f911c01a31",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

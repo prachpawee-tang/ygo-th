@@ -1,9 +1,9 @@
 {
   "id": "85802526",
   "name": "Cure Mermaid",
-  "th": "ตราบใดที่การ์ดใบนี้ยังคงหงายอยู่บนสนามของคุณ, เพิ่ม Life Points ของคุณ 800 points ในช่วง Standby Phase ของคุณในแต่ละครั้ง",
+  "th": "ตราบใดที่การ์ดใบนี้ยังคงหงายอยู่บนสนามของคุณ, เพิ่ม Life Points ของคุณ 800 points ในช่วง Standby Phase ของคุณในแต่ละครั้ง.",
   "status": "ai",
   "en_sha256": "af664c8c29e662a7a73ae123556c2f2f4e437afd300be56bd2df9ba5d7132f8f",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

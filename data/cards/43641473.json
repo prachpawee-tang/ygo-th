@@ -1,9 +1,10 @@
 {
   "id": "43641473",
   "name": "Tailor of the Fickle",
-  "th": "สลับการ์ด Equip 1 ใบที่ติดตั้งอยู่กับมอนสเตอร์ ไปยังเป้าหมายที่ถูกต้องอื่น",
+  "th": "สลับการ์ด Equip ที่ติดตั้งอยู่กับมอนสเตอร์ ไปยังเป้าหมายที่ถูกต้องอื่น.",
   "status": "ai",
   "en_sha256": "b199bdbd133714e7c35ded66aba18b4421014a1d93abc2ee050fa65f92c34969",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07",
+  "note": "rule-check: numbers missing in Thai: 1"
 }

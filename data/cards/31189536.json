@@ -1,9 +1,9 @@
 {
   "id": "31189536",
   "name": "Vampire Awakening",
-  "th": "อัญเชิญพิเศษมอนสเตอร์ \"Vampire\" 1 ตัวจากเด็คของคุณ, แต่ทำลายมันในช่วง End Phase ของเทิร์นนี้ คุณสามารถเปิดใช้ \"Vampire Awakening\" ได้ 1 ครั้งต่อเทิร์น",
+  "th": "อัญเชิญพิเศษมอนสเตอร์ \"Vampire\" 1 ตัวจากเด็คของคุณ แต่ทำลายมันในช่วง End Phase ของเทิร์นนี้\nคุณสามารถเปิดใช้ \"Vampire Awakening\" ได้เพียง 1 ใบต่อเทิร์น",
   "status": "ai",
   "en_sha256": "6cf8f4caee4dd11c8db0910ed49a994ca47748d77afdd8e8ab07bd69e75b66fa",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

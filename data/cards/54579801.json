@@ -1,9 +1,9 @@
 {
   "id": "54579801",
   "name": "High Tide Gyojin",
-  "th": "นักรบครึ่งปลาที่ว่องไวมาก เป็นที่รู้จักจากจากการโจมตีที่ unrelenting.",
+  "th": "นักรบครึ่งปลาที่ว่องไวมาก เป็นที่รู้จักจาก serangan yang tak henti-hentinya.",
   "status": "ai",
   "en_sha256": "7984951b5a83d742eb244454bc434f55903e5012d9167e5c58af9df28f491282",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

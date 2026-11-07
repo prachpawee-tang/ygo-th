@@ -1,9 +1,9 @@
 {
   "id": "1482001",
   "name": "Clara & Rushka, the Ventriloduo",
-  "th": "1 มอนสเตอร์ อัญเชิญปกติ/เซ็ต\nไม่สามารถอัญเชิญ Link ได้ ยกเว้นในช่วง Main Phase 2",
+  "th": "มอนสเตอร์ที่อัญเชิญปกติ/เซ็ต 1 ตัว\nไม่สามารถอัญเชิญ Link ได้ ยกเว้นในช่วง Main Phase 2",
   "status": "ai",
   "en_sha256": "852729e0cb154fd643aa6cb5d20dc2c21cb59cd6fb2e3f34576efb727f6d9492",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

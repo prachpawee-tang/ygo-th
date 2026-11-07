@@ -1,9 +1,9 @@
 {
   "id": "26902560",
   "name": "Fusion Sage",
-  "th": "เพิ่ม \"Polymerization\" 1 ใบจากเด็คของคุณขึ้นมือ",
+  "th": "เพิ่ม \"Polymerization\" 1 ใบจากเด็คของคุณขึ้นมือ.",
   "status": "ai",
   "en_sha256": "dff769a7951e5fb6cd5435fd56c15b1467fbb57d2f9c2a53f4409fb6305ca663",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

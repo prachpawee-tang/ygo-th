@@ -1,9 +1,9 @@
 {
   "id": "14225239",
   "name": "Elemental HERO Mariner",
-  "th": "\"Elemental HERO Bubbleman\" + \"Elemental HERO Avian\"\nต้องทำการ Fusion Summon และไม่สามารถอัญเชิญพิเศษด้วยวิธีอื่นได้ ถ้าคุณมีการ์ด Spell & Trap Card ที่คว่ำอยู่ คุณสามารถโจมตีคู่ต่อสู้โดยตรงได้",
+  "th": "\"Elemental HERO Bubbleman\" + \"Elemental HERO Avian\"\nต้องทำการอัญเชิญแบบฟิวชั่น และไม่สามารถอัญเชิญพิเศษด้วยวิธีอื่นได้\nตราบใดที่คุณมีการ์ดคว่ำอยู่ใน Spell & Trap Card Zones ของคุณ การ์ดใบนี้สามารถโจมตีคู่ต่อสู้โดยตรงได้",
   "status": "ai",
   "en_sha256": "3598fb6ea9a22f952e42e815520ce5ac12c0b80c1a40f7359e68b11f0fde51ab",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

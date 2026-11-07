@@ -1,9 +1,9 @@
 {
   "id": "30765615",
   "name": "Ringowurm, the Dragon Guarding the Hundred Apples",
-  "th": "ถ้ามีมอนสเตอร์ non-Effect ที่หงายอยู่บนสนาม: คุณสามารถอัญเชิญพิเศษการ์ดนี้จากมือของคุณได้ ในช่วง Main Phase ของคุณ, ถ้าคุณทำการ Synchro Summon มอนสเตอร์นี้ในเทิร์นนี้: คุณสามารถเอาการ์ดนี้ออกจากเกมจากสุสานของคุณ; อัญเชิญพิเศษ \"Hundred Apples Token\" (Wyrm/LIGHT/Level 2/ATK 100/DEF 100) ผู้ที่ทำการ Summon มันสามารถมองว่ามันเป็น Tuner สำหรับการ Synchro Summon ได้ คุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Ringowurm, the Dragon Guarding the Hundred Apples\" ได้ 1 ครั้งต่อเทิร์น",
+  "th": "ถ้ามีมอนสเตอร์ non-Effect ที่หงายอยู่บนสนาม: คุณสามารถอัญเชิญพิเศษการ์ดใบนี้จากมือของคุณได้\nในช่วง Main Phase ของคุณ, ถ้าคุณทำการ Synchro Summon การ์ดใบนี้ในเทิร์นนี้: คุณสามารถเอาการ์ดใบนี้ออกจากเกมจากสุสานของคุณ; อัญเชิญพิเศษ \"Hundred Apples Token\" (Wyrm/LIGHT/Level 2/ATK 100/DEF 100) 1 ตัว\nผู้เล่นที่ทำการอัญเชิญมันสามารถถือว่ามันเป็น Tuner สำหรับการ Synchro Summon ได้\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Ringowurm, the Dragon Guarding the Hundred Apples\" ได้ 1 ครั้งต่อเทิร์น",
   "status": "ai",
   "en_sha256": "f506e195c3e4c94163de0ae61f4e64dc1498a610cca6d37d5bfc7aee8b0bd50f",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

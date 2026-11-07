@@ -1,9 +1,9 @@
 {
   "id": "91642007",
   "name": "Blackeyes, the Plunder Patroll Seaguide",
-  "th": "คุณสามารถเลือกเป้าหมายมอนสเตอร์ \"Plunder Patroll\" 1 ตัวในสุสานของคุณ ยกเว้น \"Blackeyes, the Plunder Patroll Seaguide\"; อัญเชิญพิเศษการ์ดนี้จากมือของคุณ และถ้าทำได้ ให้เพิ่มมอนสเตอร์นั้นขึ้นมือของคุณ นอกจากนี้ คุณจะไม่สามารถอัญเชิญพิเศษได้ในช่วงเทิร์นนี้ ยกเว้นมอนสเตอร์ \"Plunder Patroll\" ถ้าการ์ดนี้ถูกส่งจากมือหรือ Main Monster Zone/Extra Monster Zone ไปยังสุสาน: คุณสามารถเลือกเป้าหมายการ์ด มอนสเตอร์ \"Plunder Patroll\" 1 ใบใน Spell & Trap Zone ของคุณ; อัญเชิญพิเศษมันในท่าป้องกัน คุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Blackeyes, the Plunder Patroll Seaguide\" ได้ 1 ครั้งต่อเทิร์น",
+  "th": "คุณสามารถเลือกเป้าหมายมอนสเตอร์ \"Plunder Patroll\" 1 ตัวในสุสานของคุณ ยกเว้น \"Blackeyes, the Plunder Patroll Seaguide\"; อัญเชิญพิเศษการ์ดใบนี้จากมือของคุณ และถ้าทำได้ ให้เพิ่มมอนสเตอร์นั้นขึ้นมือของคุณ นอกจากนี้ คุณจะไม่สามารถอัญเชิญพิเศษได้ในช่วงเทิร์นนี้ ยกเว้นมอนสเตอร์ \"Plunder Patroll\".\nถ้าการ์ดใบนี้ถูกส่งจากมือหรือ Main Monster Zone/Extra Monster Zone ไปยังสุสาน: คุณสามารถเลือกเป้าหมายการ์ดมอนสเตอร์ \"Plunder Patroll\" 1 ใบใน Spell & Trap Zone ของคุณ; อัญเชิญพิเศษมันในท่าป้องกัน\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Blackeyes, the Plunder Patroll Seaguide\" ได้ 1 ครั้งต่อเทิร์น",
   "status": "ai",
   "en_sha256": "8311a2898e631e08d7e75be4683d9c7f3c57a4ffb214cad1e4e2fdf87e9cabce",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

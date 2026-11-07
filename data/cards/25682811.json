@@ -1,9 +1,9 @@
 {
   "id": "25682811",
   "name": "Dragunity Knight - Barcha",
-  "th": "1 มอนสเตอร์ Dragon-Type Tuner + มอนสเตอร์ Winged Beast-Type non-Tuner 1 ตัวขึ้นไป\nเมื่อการ์ดนี้ถูกอัญเชิญแบบ Synchro, คุณสามารถเลือกจำนวน \"Dragunity\" มอนสเตอร์ Dragon-Type ใดๆ ในสุสานของคุณ และติดมันกับการ์ดนี้ การ์ดนี้จะได้รับ ATK 300 สำหรับแต่ละการ์ด \"Dragunity\" ที่ติดอยู่กับการ์ดนี้",
+  "th": "1 มอนสเตอร์ Dragon-Type Tuner + มอนสเตอร์ Winged Beast-Type non-Tuner 1 ตัวขึ้นไป\nเมื่อการ์ดใบนี้ถูกอัญเชิญแบบ Synchro, คุณสามารถเลือกมอนสเตอร์ Dragon-Type \"Dragunity\" จำนวนใดก็ได้ในสุสานของคุณ, และติดมันเข้ากับการ์ดใบนี้\nการ์ดใบนี้ได้รับ ATK 300 สำหรับแต่ละการ์ด \"Dragunity\" ที่ติดอยู่กับการ์ดใบนี้",
   "status": "ai",
   "en_sha256": "bc79bdf121cbb6d27d9b30ae57738591c3ac8c76638ceef79b4d090c596f9a50",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

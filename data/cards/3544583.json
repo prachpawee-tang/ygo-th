@@ -1,9 +1,9 @@
 {
   "id": "3544583",
   "name": "Allvain the Essence of Vanity",
-  "th": "มอนสเตอร์ Normal 2 ตัว",
+  "th": "มอนสเตอร์ปกติ 2 ตัว",
   "status": "ai",
   "en_sha256": "1d8f294a4f0d0d684122339146d3e9e3ee664d09d331f16350ca729c43927e1a",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

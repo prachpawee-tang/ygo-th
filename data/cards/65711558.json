@@ -1,10 +1,10 @@
 {
   "id": "65711558",
   "name": "Ancient Warriors Oath - Double Dragon Lords",
-  "th": "มอนสเตอร์ Beast-Warrior 2 ตัว, รวมทั้งมอนสเตอร์ WIND \"Ancient Warriors\"\nมอนสเตอร์ \"Ancient Warriors\" ทั้งหมดที่คุณควบคุม ได้รับ ATK/DEF 500 คุณสามารถใช้เอฟเฟกต์ต่อไปนี้ของ \"Ancient Warriors Oath - Double Dragon Lords\" ได้ 1 ครั้งต่อเทิร์นเท่านั้น: ถ้าการ์ดนี้ถูก Link Summoned: คุณสามารถเพิ่มการ์ด \"Ancient Warriors\" 1 ใบจากเด็คของคุณขึ้นมือ คุณสามารถส่งการ์ด 1 ใบจากมือหรือสนามของคุณลงสุสาน, จากนั้นเลือกเป้าหมายการ์ดที่คว่ำอยู่ 1 ใบที่คู่ต่อสู้ควบคุม; คืนมันขึ้นมือ",
+  "th": "มอนสเตอร์ Beast-Warrior 2 ตัว โดยมีมอนสเตอร์ WIND \"Ancient Warriors\" รวมอยู่ด้วย\nมอนสเตอร์ \"Ancient Warriors\" ทั้งหมดที่คุณควบคุม ได้รับ ATK/DEF 500\nคุณสามารถใช้เอฟเฟกต์ต่อไปนี้ของ \"Ancient Warriors Oath - Double Dragon Lords\" ได้ 1 ครั้งต่อเทิร์น\nเมื่อการ์ดใบนี้ถูกอัญเชิญแบบ Link: คุณสามารถเพิ่มการ์ด \"Ancient Warriors\" 1 ใบจากเด็คของคุณขึ้นมือ\n(Quick Effect): คุณสามารถส่งการ์ด 1 ใบจากมือหรือสนามของคุณลงสุสาน จากนั้นเลือกเป้าหมายการ์ดที่คว่ำอยู่ 1 ใบที่คู่ต่อสู้ควบคุม; คืนมันขึ้นมือ",
   "status": "ai",
   "en_sha256": "a90df8cb4e658172b89a6ad9c86356b74564743b2885c6288330d710c143f05d",
   "model": "gemma3:12b",
-  "updated": "2026-11-05",
+  "updated": "2026-11-07",
   "note": "rule-check: \"face-up\" ×1 in English but \"หงาย\" ×0 in Thai — meaning may be wrong"
 }

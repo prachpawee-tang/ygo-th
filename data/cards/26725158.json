@@ -1,9 +1,9 @@
 {
   "id": "26725158",
   "name": "Exile of the Wicked",
-  "th": "ทำลายมอนสเตอร์ Fiend ทั้งหมดบนสนาม",
+  "th": "ทำลายมอนสเตอร์ Fiend ทั้งหมดบนสนาม.",
   "status": "ai",
   "en_sha256": "648db54aa81d63ee5d05ff2595c75bed81adcbaa3575671fc20a86fdf49db2f7",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

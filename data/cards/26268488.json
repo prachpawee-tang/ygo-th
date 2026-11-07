@@ -5,6 +5,6 @@
   "status": "ai",
   "en_sha256": "79272289c606be6216a5caac3fc4d4ab61dc0e4f69e96cab66327a6ed4db46ad",
   "model": "gemma3:12b",
-  "updated": "2026-11-06",
+  "updated": "2026-11-07",
   "note": "rule-check: fewer \":\" than English (0 < 1) — activation condition may be lost"
 }

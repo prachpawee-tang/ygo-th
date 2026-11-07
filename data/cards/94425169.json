@@ -1,9 +1,9 @@
 {
   "id": "94425169",
   "name": "Spring of Rebirth",
-  "th": "เพิ่ม Life Points ของคุณ 500 points ทุกครั้งที่มอนสเตอร์กลับจากสนามไปยังมือของเจ้าของ",
+  "th": "เพิ่ม Life Points ของคุณ 500 points ทุกครั้งที่มอนสเตอร์กลับจากสนามไปยังมือของเจ้าของ.",
   "status": "ai",
   "en_sha256": "dbf8b117d07c916d5846a4be5d2cace0a8c8c598f4b8a1bd02e2ad3998199a1f",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

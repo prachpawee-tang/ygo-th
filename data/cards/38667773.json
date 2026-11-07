@@ -1,9 +1,9 @@
 {
   "id": "38667773",
   "name": "Satellarknight Vega",
-  "th": "ถ้าการ์ดใบนี้ถูกอัญเชิญ: คุณสามารถอัญเชิญพิเศษมอนสเตอร์ \"tellarknight\" 1 ตัวจากมือของคุณได้, ยกเว้น \"Satellarknight Vega\" คุณสามารถใช้เอฟเฟกต์ของ \"Satellarknight Vega\" ได้ 1 ครั้งต่อเทิร์น",
+  "th": "ถ้าการ์ดใบนี้ถูกอัญเชิญ: คุณสามารถอัญเชิญพิเศษมอนสเตอร์ \"tellarknight\" 1 ตัวจากมือของคุณ, ยกเว้น \"Satellarknight Vega\"\nคุณสามารถใช้เอฟเฟกต์ของ \"Satellarknight Vega\" ได้ 1 ครั้งต่อเทิร์น",
   "status": "ai",
   "en_sha256": "2bed0106c89482785919c9eb0242636084a0dab26cf8adb3ead8db03c78d9163",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

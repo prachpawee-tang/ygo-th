@@ -1,9 +1,9 @@
 {
   "id": "52040216",
   "name": "Harpie's Pet Dragon",
-  "th": "ได้รับ ATK/DEF 300 สำหรับ \"Harpie Lady\" แต่ละตัวในสนาม",
+  "th": "ได้รับ ATK/DEF 300 สำหรับ \"Harpie Lady\" แต่ละตัวในสนาม.",
   "status": "ai",
   "en_sha256": "f60077d1ac16b1a93479a2e3be20080abec8904e25e7b487afd47bf13b41402e",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

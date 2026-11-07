@@ -1,9 +1,9 @@
 {
   "id": "5309481",
   "name": "Revived King Ha Des",
-  "th": "\"Plaguespreader Zombie\" + มอนสเตอร์ Zombie-Type ที่ไม่ใช่ Tuner 1 ตัวขึ้นไป\nลบล้างเอฟเฟกต์ของมอนสเตอร์เอฟเฟกต์ที่ถูกทำลายด้วยการต่อสู้โดยมอนสเตอร์ Zombie-Type ที่คุณควบคุม",
+  "th": "\"Plaguespreader Zombie\" + มอนสเตอร์ Zombie-Type ที่ไม่ใช่ Tuner 1 ตัวขึ้นไป\nลบล้างเอฟเฟกต์ของ Effect Monsters ที่ถูกทำลายจากการต่อสู้โดยมอนสเตอร์ Zombie-Type ที่คุณควบคุม",
   "status": "ai",
   "en_sha256": "28065a3e4a37ce28f030908d2f9b61690d445e3a6dc2d87e8999ad755e383ddd",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

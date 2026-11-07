@@ -1,13 +1,12 @@
 {
   "id": "20721928",
   "name": "Elemental HERO Sparkman",
-  "th": "\"An Elemental HERO and a warrior of light who proficiently wields many kinds of armaments. His Static Shockwave cuts off the path of villainy.\"",
+  "th": "\"ฮีโร่เอลีเมนทัล\" และนักรบแห่งแสงที่เชี่ยวชาญในการใช้การต่อสู้หลายรูปแบบ\nการช็อตสแตติกของเขาตัดขาดเส้นทางแห่งความชั่วร้าย",
   "status": "ai",
   "en_sha256": "f8766a93fcbd0649a522ee96e9e18f5ec61f43b3b955cc6d3f21eb58bb9dda34",
   "model": "gemma3:12b",
-  "updated": "2026-11-05",
+  "updated": "2026-11-07",
   "alt": [
     "20721929"
-  ],
-  "note": "rule-check: no Thai text"
+  ]
 }

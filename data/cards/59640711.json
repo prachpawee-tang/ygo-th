@@ -1,9 +1,10 @@
 {
   "id": "59640711",
   "name": "Speedroid Den-Den Daiko Duke",
-  "th": "คุณสามารถเอาการ์ดใบนี้ออกจากเกมจากสุสานของคุณ; อัญเชิญพิเศษมอนสเตอร์ Tuner \"Speedroid\" 1 ตัวจากมือหรือสุสานของคุณ, ยกเว้น \"Speedroid Den-Den Daiko Duke\" คุณสามารถใช้เอฟเฟกต์ของ \"Speedroid Den-Den Daiko Duke\" ได้ 1 ครั้งต่อเทิร์น",
+  "th": "คุณสามารถเอาการ์ดใบนี้ออกจากสุสานของคุณ; อัญเชิญพิเศษมอนสเตอร์ Tuner \"Speedroid\" 1 ตัวจากมือหรือสุสานของคุณ ยกเว้น \"Speedroid Den-Den Daiko Duke\"\nคุณสามารถใช้เอฟเฟกต์ของ \"Speedroid Den-Den Daiko Duke\" ได้ 1 ครั้งต่อเทิร์น",
   "status": "ai",
   "en_sha256": "fd163cc2782c46b1085e5c3adcffb69d71893419d6d7e2edd8215938d6be0926",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07",
+  "note": "rule-check: \"banish\" ×1 in English but \"ออกจากเกม\" ×0 in Thai — meaning may be wrong"
 }

@@ -1,9 +1,9 @@
 {
   "id": "67227834",
   "name": "Magic Formula",
-  "th": "ติดตั้งกับ \"Dark Magician\" หรือ \"Dark Magician Girl\" เท่านั้น: มอนสเตอร์นี้ได้รับ ATK 700; ถ้าการ์ดใบนี้ถูกส่งจากสนามไปยัง สุสาน (GY): ได้รับ LP 1000",
+  "th": "สามารถติดตั้งกับ \"Dark Magician\" หรือ \"Dark Magician Girl\" เท่านั้น\nมันได้รับ ATK 700\nถ้าการ์ดใบนี้ถูกส่งออกจากสนามไปยังสุสาน: ได้รับ LP 1000",
   "status": "ai",
   "en_sha256": "e6601727233cab83fd85aa99780c9c85b168be19dfa0af1a53f69c0b2b0beba9",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

@@ -1,9 +1,9 @@
 {
   "id": "1945387",
   "name": "Elemental HERO Nova Master",
-  "th": "1 มอนสเตอร์ \"Elemental HERO\" + 1 มอนสเตอร์ FIRE\nต้องทำการ Fusion Summon คุณ ถ้าการ์ดใบนี้ทำลายมอนสเตอร์ของคู่ต่อสู้ในการต่อสู้: จั่วการ์ด 1 ใบ",
+  "th": "มอนสเตอร์ \"Elemental HERO\" 1 ตัว + มอนสเตอร์ FIRE 1 ตัว\nต้องทำการ Fusion Summon\nถ้าการ์ดใบนี้ทำลายมอนสเตอร์ของคู่ต่อสู้ด้วยการต่อสู้: จั่วการ์ด 1 ใบ",
   "status": "ai",
   "en_sha256": "0cfc6a23366c32aa0551701e1275fb53155570b0b3dd7250b4a83caa63163dfb",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

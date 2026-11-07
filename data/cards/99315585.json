@@ -1,9 +1,9 @@
 {
   "id": "99315585",
   "name": "The Phantom Knights of Cloven Helm",
-  "th": "ถ้า “Phantom Knights” การ์ด 1 ใบหรือมากกว่าถูกส่งลงสุสานของคุณ: การ์ดใบนี้ได้รับ ATK 500. คุณสามารถเอาการ์ดใบนี้ออกจากเกมจากสุสานของคุณ; ในช่วง End Phase ของเทิร์นนี้, เพิ่ม “Phantom Knights” การ์ด 1 ใบจากสุสานของคุณขึ้นมือ คุณสามารถใช้แต่ละเอฟเฟกต์ของ \"The Phantom Knights of Cloven Helm\" ได้ 1 ครั้งต่อเทิร์น",
+  "th": "ถ้าการ์ด \"Phantom Knights\" ถูกส่งลงสุสานของคุณ: การ์ดใบนี้ได้รับ ATK 500\nคุณสามารถเอากลุ่มไพ่ใบนี้ออกจากเกมจากสุสานของคุณ; ในช่วง End Phase ของเทิร์นนี้, เพิ่มการ์ด \"Phantom Knights\" 1 ใบจากสุสานของคุณขึ้นมือ\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"The Phantom Knights of Cloven Helm\" ได้ 1 ครั้งต่อเทิร์น",
   "status": "ai",
   "en_sha256": "0b31f01f93b9e0c1e0b92ea49d9ef0a977cee15e1ef341cfb6a96cdeda1ac42e",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

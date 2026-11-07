@@ -1,10 +1,10 @@
 {
   "id": "42431833",
   "name": "Spright Gamma Burst",
-  "th": "มอนสเตอร์ทุกตัวที่มี Level/Rank/Link 2 ที่อยู่ในสนามในขณะนี้ ได้รับ ATK/DEF 1400 จนจบเทิร์นนี้ ระหว่าง Main Phase ของคุณ: คุณสามารถเอาการ์ดใบนี้ออกจากเกมจาก สุสานของคุณ จากนั้นเลือกเป้าหมายมอนสเตอร์ Level/Rank/Link 2 ที่คุณควบคุม; มันได้รับ ATK 1400 จนจบเทิร์นของคู่ต่อสู้ คุณสามารถใช้เอฟเฟกต์ \"Spright Gamma Burst\" ได้ 1 เอฟเฟกต์ต่อเทิร์น และเพียงครั้งเดียวในเทิร์นนั้น",
+  "th": "มอนสเตอร์ Level/Rank/Link 2 ทั้งหมดที่อยู่ในสนามในขณะนี้ ได้รับ ATK/DEF 1400 จนจบเทิร์นนี้\nระหว่าง Main Phase ของคุณ: คุณสามารถส่งการ์ดใบนี้ลงสุสาน จากนั้นเลือกเป้าหมายมอนสเตอร์ Level/Rank/Link 2 ที่คุณควบคุม; มันได้รับ ATK 1400 จนจบเทิร์นของคู่ต่อสู้\nคุณสามารถใช้เอฟเฟกต์ \"Spright Gamma Burst\" ได้ 1 เอฟเฟกต์ต่อเทิร์น และใช้ได้เพียงครั้งเดียวในเทิร์นนั้น",
   "status": "ai",
   "en_sha256": "b8c425370a32b0f9a053d32562bb0d17b66799ff078e786d22d2bbf35acf4bfe",
   "model": "gemma3:12b",
-  "updated": "2026-11-05",
-  "note": "rule-check: numbers missing in Thai: 1"
+  "updated": "2026-11-07",
+  "note": "rule-check: numbers missing in Thai: 1; \"banish\" ×1 in English but \"ออกจากเกม\" ×0 in Thai — meaning may be wrong"
 }

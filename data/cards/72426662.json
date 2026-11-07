@@ -1,9 +1,9 @@
 {
   "id": "72426662",
   "name": "Demise, King of Armageddon",
-  "th": "คุณสามารถ อัญเชิญแบบพิธีกรรม (Ritual Summon) การ์ดใบนี้ด้วย \"End of the World\" คุณสามารถจ่าย 2000 LP; ทำลายการ์ดอื่นๆ ทั้งหมดบนสนาม",
+  "th": "คุณสามารถ อัญเชิญแบบ Ritual การ์ดใบนี้ด้วย \"End of the World\"\nคุณสามารถจ่าย LP 2000; ทำลายการ์ดอื่นๆ ทั้งหมดบนสนาม",
   "status": "ai",
   "en_sha256": "78020cfcfe42b119a2537206956e4bc841eb9b3eeb5e5f8fe8f3e8e7b311a652",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

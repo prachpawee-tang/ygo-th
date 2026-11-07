@@ -1,9 +1,9 @@
 {
   "id": "72926163",
   "name": "Elemental HERO Neos Knight",
-  "th": "\"Elemental HERO Neos\" + มอนสเตอร์ Warrior 1 ตัว\nต้องทำการอัญเชิญแบบ Fusion (Fusion Summon) เท่านั้น ATK จะเท่ากับครึ่งหนึ่งของ ATK เดิมของมอนสเตอร์ Fusion Material ประเภท Warrior ที่ใช้ในการอัญเชิญแบบ Fusion ของมัน ยกเว้น \"Elemental HERO Neos\" สามารถทำการโจมตีครั้งที่สองในระหว่าง Battle Phase ของคุณได้ คู่ต่อสู้จะไม่ได้รับความเสียหายจากการต่อสู้ที่เกี่ยวข้องกับการ์ดใบนี้",
+  "th": "\"Elemental HERO Neos\" + มอนสเตอร์ Warrior ตัวที่ 1\nต้องทำการอัญเชิญแบบ Fusion\nได้รับ ATK เท่ากับครึ่งหนึ่งของ ATK เดิมของ Material Fusion Warrior ที่ใช้ในการอัญเชิญแบบ Fusion ของมัน, ยกเว้น \"Elemental HERO Neos\"\nสามารถทำการโจมตีครั้งที่สองในระหว่าง Battle Phase แต่ละครั้ง\nคู่ต่อสู้ไม่ได้รับความเสียหายจากการต่อสู้ที่เกี่ยวข้องกับการ์ดใบนี้",
   "status": "ai",
   "en_sha256": "53986c87a522d88420e281331211f4c0948605d07201a65b575cc8f583fe5f63",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

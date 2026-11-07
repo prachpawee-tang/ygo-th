@@ -1,9 +1,9 @@
 {
   "id": "98252586",
   "name": "Follow Wind",
-  "th": "เพิ่ม ATK และ DEF ของมอนสเตอร์ชนิดปีก (Winged Beast-Type) ที่ติดตั้งการ์ดใบนี้อยู่ ด้วย 300 แต้ม",
+  "th": "เพิ่ม ATK และ DEF ของมอนสเตอร์ชนิดปีก (Winged Beast-Type) ที่ติดตั้งการ์ดใบนี้อยู่ด้วย 300 แต้ม.",
   "status": "ai",
   "en_sha256": "5deed08d262f01338e2ebb6d3afad20ffeafac0bdc06ee473a297c0dc91393f0",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

@@ -1,9 +1,9 @@
 {
   "id": "91731841",
   "name": "Gem-Knight Garnet",
-  "th": "“Gem-Knight Warrior” ที่บรรจุวิญญาณ Garnet ไว้ เขาใช้กำปั้นเหล็กเพลิงบดขยี้ศัตรูทั้งหมด",
+  "th": "“Gem-Knight Warrior” ที่บรรจุวิญญาณ Garnet\nกำปั้นเหล็กเพลิงของเขาบดขยี้ศัตรูทั้งหมด",
   "status": "ai",
   "en_sha256": "ebd4d7425e7a8f9e52c8c86db5eb469285ba97b908e16701d9b94a85a1d175e6",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

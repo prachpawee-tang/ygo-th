@@ -1,9 +1,9 @@
 {
   "id": "19384334",
   "name": "Molten Destruction",
-  "th": "มอนสเตอร์ FIRE ทั้งหมด ได้รับ ATK 500 และเสีย DEF 400",
+  "th": "มอนสเตอร์ FIRE ทั้งหมดได้ ATK เพิ่ม 500 และ DEF ลด 400.",
   "status": "ai",
   "en_sha256": "521462b688ca89e2ace9ae62e8ffa7be955590292c146dc80ffaa8269140a513",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

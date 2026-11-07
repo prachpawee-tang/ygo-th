@@ -1,9 +1,9 @@
 {
   "id": "47480070",
   "name": "Amazoness Paladin",
-  "th": "การ์ดใบนี้ได้รับ ATK 100 ต่อมอนสเตอร์ \"Amazoness\" แต่ละตัวที่คุณควบคุม",
+  "th": "การ์ดใบนี้ได้รับ ATK 100 ต่อมอนสเตอร์ \"Amazoness\" แต่ละตัวที่คุณควบคุม.",
   "status": "ai",
   "en_sha256": "6355de7effeae9f6d4f67fcca9039f37a09fa78bfa3020d5dfc20df64a4cc7e4",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

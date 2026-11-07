@@ -1,9 +1,9 @@
 {
   "id": "14920218",
   "name": "Oafdragon Magician",
-  "th": "[ เอฟเฟกต์ Pendulum ] \nถ้าคุณมี “Magician” การ์ดใน Pendulum Zone อื่น: คุณสามารถเพิ่ม “Magician” หรือ “Odd-Eyes” มอนสเตอร์ Pendulum ที่หงายอยู่ 1 ตัวจาก เอ็กซ์ตร้าเด็ค ขึ้นมือ, ยกเว้น “Oafdragon Magician” คุณสามารถใช้เอฟเฟกต์นี้ของ “Oafdragon Magician” ได้ 1 ครั้งต่อเทิร์น\n\n[ เอฟเฟกต์มอนสเตอร์ ] \nถ้าการ์ดนี้ถูก อัญเชิญปกติ หรือ อัญเชิญพิเศษ: คุณสามารถเลือกเป้าหมาย “Magician” มอนสเตอร์ Pendulum หรือ “Odd-Eyes” มอนสเตอร์ 1 ตัวใน สุสาน, ยกเว้น “Oafdragon Magician”; เพิ่มมันขึ้นมือ คุณสามารถใช้เอฟเฟกต์นี้ของ “Oafdragon Magician” ได้ 1 ครั้งต่อเทิร์น",
+  "th": "[ Pendulum Effect ]\nถ้าคุณมีการ์ด \"Magician\" ใน Pendulum Zone อื่น: คุณสามารถเพิ่มมอนสเตอร์ Pendulum \"Magician\" หรือ \"Odd-Eyes\" ที่หงายอยู่ 1 ตัวจาก เอ็กซ์ตร้าเด็ค ขึ้นมือ, ยกเว้น \"Oafdragon Magician\"\nคุณสามารถใช้เอฟเฟกต์นี้ของ \"Oafdragon Magician\" ได้ 1 ครั้งต่อเทิร์น\n[ Monster Effect ]\nถ้าการ์ดใบนี้ถูก อัญเชิญปกติ หรือ อัญเชิญพิเศษ: คุณสามารถเลือกเป้าหมายมอนสเตอร์ Pendulum \"Magician\" หรือ มอนสเตอร์ \"Odd-Eyes\" 1 ตัวใน สุสานของคุณ, ยกเว้น \"Oafdragon Magician\"; เพิ่มมันขึ้นมือ\nคุณสามารถใช้เอฟเฟกต์นี้ของ \"Oafdragon Magician\" ได้ 1 ครั้งต่อเทิร์น",
   "status": "ai",
   "en_sha256": "b05a63b139c471e67e0e81d2f5f3bf7087c64f07d3c3e3fffd217af598fd5b30",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

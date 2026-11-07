@@ -5,7 +5,7 @@
   "status": "ai",
   "en_sha256": "ccd3457ca9a4db4e7aa596e7d9cac5f92145fae5f7956665c75ea216e26c0621",
   "model": "gemma3:12b",
-  "updated": "2026-11-06",
+  "updated": "2026-11-07",
   "alt": [
     "10802916"
   ]

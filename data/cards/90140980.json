@@ -1,9 +1,9 @@
 {
   "id": "90140980",
   "name": "Ojama King",
-  "th": "\"Ojama Green\" + \"Ojama Yellow\" + \"Ojama Black\"\nเลือก Main Monster Zone ของคู่ต่อสู้ได้สูงสุด 3 โซน โซนที่เลือกจะไม่สามารถใช้งานได้",
+  "th": "\"Ojama Green\" + \"Ojama Yellow\" + \"Ojama Black\"\nเลือก Main Monster Zone ของคู่ต่อสู้ได้สูงสุด 3 โซน\nโซนที่เลือกไม่สามารถใช้งานได้",
   "status": "ai",
   "en_sha256": "eeaf4b4d0dedcb863ef10375508ae944b77826b2eda80614a2333fcc63adfb41",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

@@ -1,9 +1,9 @@
 {
   "id": "58201062",
   "name": "Spectral, Dragon Ruler of Flickers",
-  "th": "คุณสามารถทิ้งการ์ดนี้และมอนสเตอร์ Dragon หรือ LIGHT 1 ตัว; เพิ่มมอนสเตอร์ \"Dragon Ruler\" 2 ตัวจากเด็คของคุณขึ้นมือ, ยกเว้น \"Spectral, Dragon Ruler of Flickers\" คุณสามารถเอาออกจากเกมจากการ์ดสุสานของคุณ, การ์ดนี้และมอนสเตอร์ Dragon หรือ LIGHT 1 ตัว, จากนั้นเลือกเป้าหมาย \"Chasma, Dragon Ruler of Auroras\" 1 ตัวในสุสานของคุณ; อัญเชิญพิเศษมัน คุณสามารถใช้เอฟเฟกต์ \"Spectral, Dragon Ruler of Flickers\" ได้ 1 เอฟเฟกต์ต่อเทิร์น, และเพียงครั้งเดียวในเทิร์นนั้น",
+  "th": "คุณสามารถทิ้งการ์ดใบนี้และมอนสเตอร์ Dragon หรือ LIGHT 1 ตัว; เพิ่มการ์ด \"Dragon Ruler\" 2 ใบจากเด็คของคุณขึ้นมือ ยกเว้น \"Spectral, Dragon Ruler of Flickers\"\nคุณสามารถเอากลุ่มการ์ดใบนี้และมอนสเตอร์ Dragon หรือ LIGHT 1 ตัวออกจากเกมจากสุสานของคุณ จากนั้นเลือกเป้าหมาย \"Chasma, Dragon Ruler of Auroras\" 1 ใบในสุสานของคุณ; อัญเชิญพิเศษมัน\nคุณสามารถใช้เอฟเฟกต์ \"Spectral, Dragon Ruler of Flickers\" ได้ 1 เอฟเฟกต์ต่อเทิร์น และใช้ได้เพียงครั้งเดียวในเทิร์นนั้น",
   "status": "ai",
   "en_sha256": "c209b53924b15579f1782d8c005a55c34bf6be6c035d43ae08d8f3dff5c82dd0",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

@@ -1,9 +1,9 @@
 {
   "id": "67660909",
   "name": "Priestess of the Ashened City",
-  "th": "ถ้า “Obsidim, the Ashened City” อยู่ใน Field Zone คุณสามารถ อัญเชิญพิเศษ การ์ดใบนี้ได้ (จากมือของคุณ) คุณสามารถ อัญเชิญพิเศษ \"Priestess of the Ashened City\" ได้ 1 ครั้งต่อเทิร์นด้วยวิธีนี้เท่านั้น ถ้าการ์ดใบนี้ถูก อัญเชิญปกติ หรือ อัญเชิญพิเศษ: คุณสามารถเพิ่ม การ์ด \"Ashened\" 1 ใบจากเด็คของคุณขึ้นมือได้ ยกเว้น \"Priestess of the Ashened City\" คุณสามารถใช้เอฟเฟกต์ของ \"Priestess of the Ashened City\" ได้ 1 ครั้งต่อเทิร์นเท่านั้น",
+  "th": "ถ้า “Obsidim, the Ashened City” อยู่ใน Field Zone คุณสามารถอัญเชิญพิเศษการ์ดใบนี้ (จากมือของคุณ) ได้\nคุณสามารถอัญเชิญพิเศษ “Priestess of the Ashened City” ด้วยวิธีนี้ได้เพียง 1 ครั้งต่อเทิร์น\nถ้าการ์ดใบนี้ถูกอัญเชิญปกติหรืออัญเชิญพิเศษ: คุณสามารถเพิ่มการ์ด “Ashened” 1 ใบจากเด็คของคุณขึ้นมือได้ ยกเว้น “Priestess of the Ashened City”\nคุณสามารถใช้เอฟเฟกต์ของ “Priestess of the Ashened City” ได้เพียง 1 ครั้งต่อเทิร์น",
   "status": "ai",
   "en_sha256": "5e71e9d973fb39a0ee539cbcaf3b21cf31d330f212fd9a7c0e7753a723d1f68e",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

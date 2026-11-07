@@ -1,9 +1,10 @@
 {
   "id": "58199906",
   "name": "Cybernetic Fusion Support",
-  "th": "จ่าย LP ครึ่งหนึ่ง; เมื่อมีการอัญเชิญ Fusion มอนสเตอร์ Machine Fusion ในเทิร์นนี้, คุณสามารถเอาออกจากเกมมอนสเตอร์จากมือ, สนาม, และ/หรือ สุสาน (GY) เป็น Material Fusion ได้ 1 ครั้ง คุณสามารถเปิดใช้ \"Cybernetic Fusion Support\" ได้ 1 ครั้งต่อเทิร์น",
+  "th": "จ่าย LP ครึ่งหนึ่ง; เมื่อมีการอัญเชิญฟิวชั่น มอนสเตอร์ Machine Fusion ในเทิร์นนี้ คุณสามารถถอดมอนสเตอร์จากมือ สนาม และ/หรือ สุสานของคุณเป็น Material ฟิวชั่นได้ 1 ครั้ง\nคุณสามารถเปิดใช้ \"Cybernetic Fusion Support\" ได้ 1 ใบต่อเทิร์น",
   "status": "ai",
   "en_sha256": "db6caf76e6e29af7b545a39da3114a2bb15406a20212b6eac6720d5f667fab3d",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07",
+  "note": "rule-check: \"banish\" ×1 in English but \"ออกจากเกม\" ×0 in Thai — meaning may be wrong"
 }

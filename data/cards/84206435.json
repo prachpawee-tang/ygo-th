@@ -1,9 +1,9 @@
 {
   "id": "84206435",
   "name": "Medallion of the Ice Barrier",
-  "th": "เพิ่มมอนสเตอร์ \"Ice Barrier\" 1 ตัวจากเด็คของคุณขึ้นมือ",
+  "th": "เพิ่มมอนสเตอร์ \"Ice Barrier\" 1 ตัวจากเด็คของคุณขึ้นมือ.",
   "status": "ai",
   "en_sha256": "ef42588afbcfb2c3ee705e71998cabdf07b2778f801f7ca45adcebcf9d33a351",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

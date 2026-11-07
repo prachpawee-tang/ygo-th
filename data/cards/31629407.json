@@ -1,9 +1,9 @@
 {
   "id": "31629407",
   "name": "Magical Musketeer Starfire",
-  "th": "ระหว่างเทิร์นของผู้เล่นคนใดก็ได้ คุณสามารถเปิดใช้การ์ด Spell/Trap \"Magical Musket\" จากมือของคุณได้ ถ้ามีการ์ด Spell/Trap ถูกเปิดใช้ในคอลัมน์ของการ์ดนี้ (ยกเว้นระหว่าง Damage Step): คุณสามารถ อัญเชิญพิเศษ มอนสเตอร์ \"Magical Musket\" ระดับ 4 หรือต่ำกว่า 1 ตัวจากเด็คของคุณในท่าป้องกัน ยกเว้น \"Magical Musketeer Starfire\" คุณสามารถใช้เอฟเฟกต์นี้ของ \"Magical Musketeer Starfire\" ได้ 1 ครั้งต่อเทิร์น",
+  "th": "ระหว่างเทิร์นของผู้เล่นทั้งสองคน คุณสามารถเปิดใช้การ์ด Spell/Trap \"Magical Musket\" จากมือของคุณได้\nถ้ามีการ์ด Spell/Trap ถูกเปิดใช้ในคอลัมน์ของการ์ดใบนี้ (ยกเว้นระหว่าง Damage Step): คุณสามารถ อัญเชิญพิเศษ มอนสเตอร์ \"Magical Musket\" ระดับ 4 หรือต่ำกว่า 1 ตัวจากเด็คของคุณในท่าป้องกัน ยกเว้น \"Magical Musketeer Starfire\"\nคุณสามารถใช้เอฟเฟกต์ของ \"Magical Musketeer Starfire\" ได้ 1 ครั้งต่อเทิร์น",
   "status": "ai",
   "en_sha256": "32a917f21e495e3b190a0af8c1fa65258505e0e4e4fb881871847c4a79abf4c0",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

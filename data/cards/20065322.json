@@ -1,10 +1,10 @@
 {
   "id": "20065322",
   "name": "The Flute of Summoning Kuriboh",
-  "th": "จั่ว “Kuriboh” หรือ “Winged Kuriboh” 1 ใบจากเด็คของคุณ และเพิ่มมันขึ้นมือ หรือ อัญเชิญพิเศษมัน",
+  "th": "นำ \"Kuriboh\" หรือ \"Winged Kuriboh\" 1 ใบจากเด็คของคุณขึ้นมือ หรือ อัญเชิญพิเศษมัน.",
   "status": "ai",
   "en_sha256": "4dad3d4711c316234e9e92427c72deca283eff7aba1696739c87160720939e95",
   "model": "gemma3:12b",
-  "updated": "2026-11-05",
+  "updated": "2026-11-07",
   "note": "rule-check: numbers missing in Thai: 1"
 }

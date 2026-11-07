@@ -1,10 +1,10 @@
 {
   "id": "83121692",
   "name": "Elemental HERO Tempest",
-  "th": "\"Elemental HERO Avian\" + \"Elemental HERO Sparkman\" + \"Elemental HERO Bubbleman\"\nต้องทำการ Fusion Summon และไม่สามารถอัญเชิญพิเศษด้วยวิธีอื่นได้ คุณสามารถส่งการ์ดอื่นที่คุณควบคุม 1 ใบลงสุสานเพื่อเลือกเป้าหมายมอนสเตอร์ที่คุณควบคุม; ตราบใดที่การ์ดนี้หงายอยู่บนสนาม มอนสเตอร์นั้นจะไม่ถูกทำลายจากการต่อสู้",
+  "th": "\"Elemental HERO Avian\" + \"Elemental HERO Sparkman\" + \"Elemental HERO Bubbleman\"\nต้องทำการ Fusion Summon และไม่สามารถทำการ อัญเชิญพิเศษด้วยวิธีอื่นได้\nคุณสามารถส่งการ์ดอื่นที่คุณควบคุมลงสุสานเพื่อเลือกเป้าหมายมอนสเตอร์ที่คุณควบคุม; ตราบใดที่การ์ดใบนี้หงายอยู่บนสนาม มอนสเตอร์นั้นจะไม่ถูกทำลายจากการต่อสู้",
   "status": "ai",
   "en_sha256": "3a29bfabd99362899b4d90e2ac957f3b1a1e559f0bfab502672c9b96cab85c31",
   "model": "gemma3:12b",
-  "updated": "2026-11-05",
+  "updated": "2026-11-07",
   "note": "rule-check: numbers missing in Thai: 1"
 }

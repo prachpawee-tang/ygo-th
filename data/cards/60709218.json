@@ -1,10 +1,10 @@
 {
   "id": "60709218",
   "name": "Bond Between Teacher and Student",
-  "th": "ถ้าคุณควบคุม \"Dark Magician\": อัญเชิญพิเศษ \"Dark Magician Girl\" 1 ตัวจากมือ, เด็ค, หรือ สุสาน (GY), จากนั้น คุณสามารถ เซ็ต \"Dark Magic Attack\", \"Dark Burning Attack\", \"Dark Burning Magic\", หรือ \"Dark Magic Twin Burst\" ได้โดยตรงจากเด็คของคุณ คุณสามารถใช้เอฟเฟกต์นี้ \"Bond Between Teacher and Student\" ได้ 1 ครั้งต่อเทิร์น",
+  "th": "ถ้าคุณควบคุม \"Dark Magician\": อัญเชิญพิเศษ \"Dark Magician Girl\" 1 ตัวจากมือ, เด็ค หรือ สุสานของคุณ, จากนั้น คุณสามารถเซ็ต \"Dark Magic Attack\", \"Dark Burning Attack\", \"Dark Burning Magic\" หรือ \"Dark Magic Twin Burst\" ได้โดยตรงจากเด็คของคุณ\nคุณสามารถเปิดใช้ \"Bond Between Teacher and Student\" ได้เพียง 1 ใบต่อเทิร์น",
   "status": "ai",
   "en_sha256": "22160d2ae2f737d28efc02f7f74d770e4c97b6ef25c125ff031efb9c20023a7e",
   "model": "gemma3:12b",
-  "updated": "2026-11-05",
+  "updated": "2026-11-07",
   "note": "rule-check: numbers missing in Thai: 1"
 }

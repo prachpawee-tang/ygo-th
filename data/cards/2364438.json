@@ -1,9 +1,9 @@
 {
   "id": "2364438",
   "name": "Mayakashi Return",
-  "th": "นำการ์ด \"Mayakashi\" 1 ใบจากเด็คของคุณ, ยกเว้น \"Mayakashi Return\", และเพิ่มขึ้นมือ หรือส่งลงสุสาน คุณสามารถเปิดใช้ \"Mayakashi Return\" ได้ 1 ใบต่อเทิร์น",
+  "th": "นำการ์ด \"Mayakashi\" 1 ใบจากเด็คของคุณมา ยกเว้น \"Mayakashi Return\" และเพิ่มขึ้นมือหรือส่งลงสุสาน\nคุณสามารถเปิดใช้ \"Mayakashi Return\" ได้เพียง 1 ใบต่อเทิร์น",
   "status": "ai",
   "en_sha256": "aa2716ddd3f71637e4c3b8237e921025e04839d18a8612d1f0c432295c0443db",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

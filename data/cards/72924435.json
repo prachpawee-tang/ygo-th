@@ -1,9 +1,9 @@
 {
   "id": "72924435",
   "name": "Periallis, Empress of Blossoms",
-  "th": "1 Tuner + 1+ non-Tuner monsters\nได้ ATK 400 สำหรับแต่ละมอนสเตอร์ Plant ที่คุณควบคุม ยกเว้นการ์ดนี้ ระหว่าง Main Phase ของคุณ: คุณสามารถ อัญเชิญพิเศษ มอนสเตอร์ Plant ระดับ 5 หรือสูงกว่า 1 ตัวจาก มือ หรือ สุสาน (GY) ในท่าป้องกัน ยกเว้น \"Periallis, Empress of Blossoms\" คุณสามารถใช้เอฟเฟกต์นี้ของ \"Periallis, Empress of Blossoms\" ได้ 1 ครั้งต่อเทิร์น",
+  "th": "1 Tuner + 1+ non-Tuner monsters\nได้รับ ATK 400 สำหรับมอนสเตอร์ Plant แต่ละตัวที่คุณควบคุม ยกเว้นการ์ดใบนี้\nระหว่าง Main Phase ของคุณ: คุณสามารถ อัญเชิญพิเศษ มอนสเตอร์ Plant ระดับ 5 หรือสูงกว่า 1 ตัวจาก มือ หรือ สุสานของคุณ ในท่าป้องกัน ยกเว้น \"Periallis, Empress of Blossoms\"\nคุณสามารถใช้เอฟเฟกต์ของ \"Periallis, Empress of Blossoms\" ได้ 1 ครั้งต่อเทิร์น",
   "status": "ai",
   "en_sha256": "f66fdfad0d262afba744a2710b2fe9b7ef60fce8cc5782cb9d7c405f3a29c40e",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

@@ -1,9 +1,9 @@
 {
   "id": "14283055",
   "name": "Concours de Cuisine (Culinary Confrontation)",
-  "th": "เลือก “Nouvelles” Pendulum Monster 1 ตัว และ “Patissciel” Pendulum Monster 1 ตัว จากมือ, เด็ค และ/หรือ เอ็กซ์ตร้าเด็ค, และ อัญเชิญพิเศษมอนสเตอร์ทั้ง 2 ตัว, ตัวละ 1 ตัวต่อสนาม, นอกจากนี้ในเทิร์นนี้ คุณไม่สามารถใช้มอนสเตอร์เป็น Material สำหรับ Fusion, Synchro, Xyz หรือ Link Summon ได้, ยกเว้นมอนสเตอร์ “Nouvelles” และ “Patissciel” ระหว่าง Main Phase ของคุณ: คุณสามารถเอาการ์ดใบนี้ออกจากเกมจาก สุสานของคุณ, จากนั้นเลือกเป้าหมายมอนสเตอร์หงายอยู่ 1 ตัวบนสนาม; มันได้รับ ATK 200 ต่อการ์ด “Recipe” แต่ละใบในสุสาน คุณสามารถใช้แต่ละเอฟเฟกต์ของ “Concours de Cuisine (Culinary Confrontation)” ได้ 1 ครั้งต่อเทิร์น",
+  "th": "เลือก “Nouvelles” Pendulum Monster และ “Patissciel” Pendulum Monster 1 ตัวจากมือ, เด็ค และ/หรือ เอ็กซ์ตร้าเด็ค และ อัญเชิญพิเศษมอนสเตอร์ทั้ง 2 ตัว โดย 1 ตัวไปยังสนามแต่ละแห่ง, นอกจากนี้ในเทิร์นนี้ คุณไม่สามารถใช้มอนสเตอร์เป็น Material สำหรับการ อัญเชิญแบบ Fusion, Synchro, Xyz หรือ Link ยกเว้นมอนสเตอร์ “Nouvelles” และ “Patissciel”.\nระหว่าง Main Phase ของคุณ: คุณสามารถเอาการ์ดใบนี้ออกจากเกมจากสุสานของคุณ จากนั้น เลือกเป้าหมายมอนสเตอร์หงายอยู่ 1 ตัวบนสนาม; มันได้รับ ATK 200 ต่อการ์ด “Recipe” แต่ละใบในสุสาน.\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ “Concours de Cuisine (Culinary Confrontation)” ได้ 1 ครั้งต่อเทิร์น",
   "status": "ai",
   "en_sha256": "65100af26e0fbab9d705367c928c0953e2f35c47205c40569217cdfda70c674d",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

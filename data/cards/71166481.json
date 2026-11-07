@@ -5,6 +5,6 @@
   "status": "ai",
   "en_sha256": "696a7bf7ea6a1d2216f02f428998cf7c5970390d9ad7132036bbb0ea967d9f6a",
   "model": "gemma3:12b",
-  "updated": "2026-11-06",
+  "updated": "2026-11-07",
   "note": "rule-check: card names in quotes changed/missing: \"both players draw 1 card\""
 }

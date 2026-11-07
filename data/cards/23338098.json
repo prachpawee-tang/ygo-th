@@ -1,9 +1,9 @@
 {
   "id": "23338098",
   "name": "Assault Blackwing - Chidori the Rain Sprinkling",
-  "th": "1 Tuner + มอนสเตอร์ non-Tuner 1 ตัวขึ้นไป\nถ้าการ์ดใบนี้ถูก อัญเชิญแบบ Synchro โดยใช้ มอนสเตอร์ \"Blackwing\" เป็น Material: ให้ถือว่าการ์ดใบนี้เป็น Tuner monster ตราบใดที่มันหงายอยู่บนสนาม: การ์ดใบนี้ได้รับ ATK 300 สำหรับแต่ละ \"Blackwing\" monster ในสุสาน (GY) ของคุณ เมื่อการ์ดใบนี้ถูกทำลายและส่งลงสุสาน (GY): คุณสามารถเลือกเป้าหมาย Synchro Monster ประเภท Winged Beast 1 ตัวในสุสาน (GY) ของคุณ ยกเว้น \"Assault Blackwing - Chidori the Rain Sprinkling\"; อัญเชิญพิเศษมัน",
+  "th": "1 Tuner + มอนสเตอร์ non-Tuner 1 ตัวขึ้นไป\nถ้าการ์ดใบนี้ถูก อัญเชิญแบบ Synchro โดยใช้มอนสเตอร์ \"Blackwing\" เป็น Material, มันจะถือว่าเป็นมอนสเตอร์ Tuner ตราบเท่าที่มันหงายอยู่บนสนาม\nการ์ดใบนี้ได้รับ ATK 300 สำหรับมอนสเตอร์ \"Blackwing\" แต่ละตัวในสุสานของคุณ\nเมื่อการ์ดใบนี้ถูกทำลายและส่งลงสุสาน: คุณสามารถเลือกเป้าหมายมอนสเตอร์ Synchro ประเภท Winged Beast 1 ตัวในสุสานของคุณ, ยกเว้น \"Assault Blackwing - Chidori the Rain Sprinkling\"; อัญเชิญพิเศษมัน",
   "status": "ai",
   "en_sha256": "e2ad1219884f215cb7bb131ca06f64f93a006dac6a592ad3acfb05fedec5fb01",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

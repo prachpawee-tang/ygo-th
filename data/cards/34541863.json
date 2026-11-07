@@ -1,9 +1,9 @@
 {
   "id": "34541863",
   "name": "\"A\" Cell Breeding Device",
-  "th": "ระหว่าง Standby Phase ของคุณในแต่ละครั้ง, วาง A-Counter 1 ตัวลงบนมอนสเตอร์หงาย 1 ตัวที่คู่ต่อสู้ควบคุม.",
+  "th": "ระหว่าง Standby Phase ของคุณในแต่ละครั้ง, วาง A-Counter 1 ตัวบนมอนสเตอร์หงาย 1 ตัวที่คู่ต่อสู้ควบคุม.",
   "status": "ai",
   "en_sha256": "47a8b1eccd8a54a2f48ae13e45689d82e84225a4d1df5f5a1ad8026d4aa5241d",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

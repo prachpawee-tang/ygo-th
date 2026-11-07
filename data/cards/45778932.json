@@ -1,9 +1,9 @@
 {
   "id": "45778932",
   "name": "Rising Air Current",
-  "th": "มอนสเตอร์ WIND ทั้งหมด ได้รับ ATK 500 และเสีย DEF 400",
+  "th": "มอนสเตอร์ WIND ทุกตัวได้รับ ATK 500 และเสีย DEF 400.",
   "status": "ai",
   "en_sha256": "bf712246d3e1bab6d22b1cf5f51e5c6fa45da8b4a4a65af99c4af8a195e41f59",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

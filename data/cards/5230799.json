@@ -1,9 +1,9 @@
 {
   "id": "5230799",
   "name": "Magical Musketeer Kidbrave",
-  "th": "ระหว่างเทิร์นของผู้เล่นคนใดก็ได้ คุณสามารถเปิดใช้การ์ด Spell/Trap \"Magical Musket\" จากมือของคุณได้ ถ้ามีการ์ด Spell/Trap ถูกเปิดใช้ในคอลัมน์ของการ์ดนี้: คุณสามารถทิ้งการ์ด \"Magical Musket\" 1 ใบ; จั่วการ์ด 2 ใบ คุณสามารถใช้เอฟเฟกต์นี้ของ \"Magical Musketeer Kidbrave\" ได้ 1 ครั้งต่อเทิร์น",
+  "th": "ระหว่างเทิร์นของผู้เล่นทั้งสองฝ่าย คุณสามารถเปิดใช้การ์ด Spell/Trap \"Magical Musket\" จากมือของคุณได้\nถ้ามีการ์ด Spell/Trap ถูกเปิดใช้ในคอลัมน์ของการ์ดใบนี้: คุณสามารถทิ้งการ์ด \"Magical Musket\" 1 ใบ; จั่วการ์ด 2 ใบ\nคุณสามารถใช้เอฟเฟกต์ของ \"Magical Musketeer Kidbrave\" ได้ 1 ครั้งต่อเทิร์น",
   "status": "ai",
   "en_sha256": "abaafb1febfa0751c7f55e717f6743f35ff20096f1ff9d7d5d8d5c35226510fd",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

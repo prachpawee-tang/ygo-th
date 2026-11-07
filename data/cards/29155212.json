@@ -1,9 +1,9 @@
 {
   "id": "29155212",
   "name": "Pumpking the King of Ghosts",
-  "th": "ได้รับ ATK/DEF 100 ขณะที่ \"Castle of Dark Illusions\" อยู่บนสนาม: นอกจากนี้, ในช่วง Standby Phase ของคุณ, ถ้า \"Castle of Dark Illusions\" อยู่บนสนาม: การ์ดใบนี้ได้รับ ATK/DEF 100 เอฟเฟกต์นี้ใช้ได้ 1 ครั้งต่อเทิร์น, สำหรับ 4 Standby Phase ของคุณ (นับการเปิดใช้งานนี้เป็นครั้งแรก) \"Castle of Dark Illusions\" ต้องอยู่บนสนามเพื่อเปิดใช้และเพื่อให้เอฟเฟกต์นี้ทำงาน หาก \"Castle of Dark Illusions\" ไม่อยู่บนสนาม, การเพิ่ม ATK/DEF นี้จะหายไป และเอฟเฟกต์นี้จะรีเซ็ต",
+  "th": "ได้รับ ATK/DEF 100 ขณะที่ \"Castle of Dark Illusions\" อยู่ในสนาม\nนอกจากนี้, ในช่วง Standby Phase ของคุณ, ถ้า \"Castle of Dark Illusions\" อยู่ในสนาม: การ์ดใบนี้ได้รับ ATK/DEF 100\nเอฟเฟกต์นี้เปิดใช้งานได้ 1 ครั้งต่อเทิร์น, สำหรับ Standby Phase สี่ของของคุณ (นับการเปิดใช้งานนี้เป็นครั้งแรก)\n\"Castle of Dark Illusions\" ต้องอยู่ในสนามเพื่อเปิดใช้งานและเพื่อให้เอฟเฟกต์นี้สำเร็จ\nถ้า \"Castle of Dark Illusions\" ไม่อยู่ในสนาม, การเพิ่ม ATK/DEF นี้จะหายไป และเอฟเฟกต์นี้รีเซ็ต",
   "status": "ai",
   "en_sha256": "c2aa37c38a87ae28f3be7ba66e95bdf28509dda04e966c3763d7b1915b043dd4",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

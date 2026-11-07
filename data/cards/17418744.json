@@ -1,9 +1,9 @@
 {
   "id": "17418744",
   "name": "Photon Sanctuary",
-  "th": "อัญเชิญพิเศษ \"Photon Tokens\" 2 ตัว (Thunder-Type/LIGHT/Level 4/ATK 2000/DEF 0) ในท่าป้องกัน Tokens เหล่านี้ไม่สามารถโจมตีหรือใช้เป็น Material มอนสเตอร์ Synchro ได้ คุณไม่สามารถอัญเชิญมอนสเตอร์อื่นในเทิร์นที่คุณเปิดใช้งานการ์ดใบนี้ได้ ยกเว้นมอนสเตอร์ LIGHT",
+  "th": "อัญเชิญพิเศษ \"Photon Tokens\" 2 ตัว (Thunder-Type/LIGHT/Level 4/ATK 2000/DEF 0) ในท่าป้องกัน\nTokens เหล่านี้ไม่สามารถโจมตีหรือใช้เป็นมอนสเตอร์ Material สำหรับการ Synchro ได้\nคุณไม่สามารถอัญเชิญมอนสเตอร์อื่นในเทิร์นที่คุณเปิดใช้การ์ดใบนี้ได้ ยกเว้นมอนสเตอร์ LIGHT",
   "status": "ai",
   "en_sha256": "64f259e7f6d5aae17d5d9e45b240f40533b9a89825a7bf92e8720954a8f0f0a4",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

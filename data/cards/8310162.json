@@ -1,9 +1,9 @@
 {
   "id": "8310162",
   "name": "Malefic Paradox Dragon",
-  "th": "\"Malefic Parallel Gear\" + มอนสเตอร์ \"Malefic\" แบบ non-Tuner 1 ตัว\nเมื่อการ์ดใบนี้ถูกอัญเชิญแบบ Synchro: คุณสามารถเลือก Synchro Monster 1 ตัวในสุสานของผู้เล่นคนใดก็ได้ และทำการอัญเชิญพิเศษมัน การ์ด \"Malefic Paradox Dragon\" ที่หงายอยู่บนสนามมีได้เพียง 1 ใบ หาก \"Malefic World\" ไม่ได้หงายอยู่บนสนาม ทำลายการ์ดใบนี้",
+  "th": "\"Malefic Parallel Gear\" + มอนสเตอร์ \"Malefic\" แบบ non-Tuner 1 ตัว\nเมื่อการ์ดใบนี้ถูกอัญเชิญแบบ Synchro, คุณสามารถเลือก Synchro Monster 1 ตัวในสุสานของผู้เล่นคนใดก็ได้, และทำการอัญเชิญพิเศษ\nสามารถมี \"Malefic Paradox Dragon\" ที่หงายอยู่บนสนามได้เพียง 1 ใบ\nถ้า \"Malefic World\" ไม่ได้หงายอยู่บนสนาม, ทำลายการ์ดใบนี้",
   "status": "ai",
   "en_sha256": "72821da982b9bb7495205e537b9464ae4e3bb65a45895c3d565e4716bbce318d",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

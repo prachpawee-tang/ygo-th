@@ -1,9 +1,9 @@
 {
   "id": "54828837",
   "name": "Cerulean Skyfire",
-  "th": "ในการอัญเชิญพิเศษ \"Hamon, Lord of Striking Thunder\" โดยใช้ขั้นตอนของมันเอง คุณสามารถใช้ Spells ที่คุณควบคุมแบบคว่ำได้ 1 ครั้งต่อเทิร์น ในขณะที่คุณควบคุม \"Hamon, Lord of Striking Thunder\" ที่อยู่ในท่าโจมตี คุณสามารถลบล้างเอฟเฟกต์ Spell/Trap ที่เปิดใช้โดยคู่ต่อสู้ จากนั้น เปลี่ยน \"Hamon, Lord of Striking Thunder\" ที่คุณควบคุม 1 ตัวเป็นท่าป้องกัน ถ้า \"Uria, Lord of Searing Flames\", \"Hamon, Lord of Striking Thunder\", หรือ \"Raviel, Lord of Phantasms\" ที่คุณควบคุมแบบหงายออกจากสนาม: คุณไม่ได้รับความเสียหายในเทิร์นนี้",
+  "th": "เพื่อทำการอัญเชิญพิเศษ \"Hamon, Lord of Striking Thunder\" โดยใช้ขั้นตอนของมันเอง คุณยังสามารถใช้ Spells ที่คุณควบคุมแบบคว่ำได้\n1 ครั้งต่อเทิร์น, ตราบใดที่คุณควบคุม \"Hamon, Lord of Striking Thunder\" ที่อยู่ในท่าโจมตี, คุณสามารถลบล้างเอฟเฟกต์ Spell/Trap ที่เปิดใช้อย่างใดอย่างหนึ่งโดยคู่ต่อสู้, จากนั้นเปลี่ยน \"Hamon, Lord of Striking Thunder\" ที่คุณควบคุม 1 ตัวเป็นท่าป้องกัน\nถ้า \"Uria, Lord of Searing Flames\", \"Hamon, Lord of Striking Thunder\", หรือ \"Raviel, Lord of Phantasms\" ที่คุณควบคุมแบบหงายออกจากสนาม: คุณไม่ได้รับความเสียหายในเทิร์นนี้",
   "status": "ai",
   "en_sha256": "057f11a69b35442a6ec9d05b51fe3fb7c561b3ec0a747083c06c5dfd05d5d93c",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

@@ -1,9 +1,9 @@
 {
   "id": "99426834",
   "name": "Beastking of the Swamps",
-  "th": "คุณสามารถใช้การ์ดนี้แทนมอนสเตอร์ Material Fusion 1 ตัวได้ เมื่อทำเช่นนั้น มอนสเตอร์ Material Fusion อื่นๆ จะต้องเป็นชนิดที่ถูกต้อง",
+  "th": "คุณสามารถใช้การ์ดใบนี้แทนมอนสเตอร์ Material Fusion 1 ตัวได้\nเมื่อทำเช่นนั้น มอนสเตอร์ Material Fusion อื่นๆ จะต้องเป็นชนิดที่ถูกต้อง",
   "status": "ai",
   "en_sha256": "f7b0f786008c3852edd6bfbc65cfb32706c061ce935b75b87739a03f5d6710b7",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

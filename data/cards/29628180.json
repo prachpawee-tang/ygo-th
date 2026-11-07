@@ -1,9 +1,9 @@
 {
   "id": "29628180",
   "name": "Magical Musket - Last Stand",
-  "th": "เมื่อคู่ต่อสู้เปิดใช้การ์ด Spell/Trap ขณะที่คุณควบคุมมอนสเตอร์ \"Magical Musket\": ลบล้างการเปิดใช้ และถ้าทำได้ ทำลายการ์ดใบนั้น คุณสามารถเปิดใช้ \"Magical Musket - Last Stand\" ได้ 1 ครั้งต่อเทิร์น",
+  "th": "เมื่อคู่ต่อสู้เปิดใช้การ์ด Spell/Trap ขณะที่คุณควบคุมมอนสเตอร์ \"Magical Musket\": ลบล้างการเปิดใช้งาน และถ้าทำได้ ทำลายการ์ดใบนั้น\nคุณสามารถเปิดใช้ \"Magical Musket - Last Stand\" ได้เพียง 1 ใบต่อเทิร์น",
   "status": "ai",
   "en_sha256": "9f8eea22c6f2cc0d12e48d9c9a4776e08af09cafbf51ab793169d7037fe1c0a7",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

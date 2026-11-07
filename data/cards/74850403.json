@@ -1,9 +1,9 @@
 {
   "id": "74850403",
   "name": "Star Pendulumgraph",
-  "th": "คู่ต่อสู้ของคุณไม่สามารถเลือกเป้าหมายมอนสเตอร์ประเภท Spellcaster ที่คุณควบคุมด้วย Spell Cards หรือเอฟเฟกต์ได้ ถ้า “Magician” Pendulum Monster Card ที่หงายอยู่ของคุณออกจาก Monster Zone หรือ Pendulum Zone: จั่ว “Magician” Pendulum Monster 1 ใบจากเด็คของคุณขึ้นมือ คุณสามารถใช้เอฟเฟกต์นี้ของ \"Star Pendulumgraph\" ได้ 1 ครั้งต่อเทิร์น",
+  "th": "คู่ต่อสู้ของคุณไม่สามารถเลือกเป้าหมายมอนสเตอร์ประเภท Spellcaster ที่คุณควบคุมด้วย Spell Cards หรือเอฟเฟกต์ได้\nถ้าการ์ด “Magician” Pendulum Monster ที่หงายอยู่ของคุณออกจาก Monster Zone หรือ Pendulum Zone: จั่ว “Magician” Pendulum Monster 1 ใบจากเด็คของคุณขึ้นมือ\nคุณสามารถใช้เอฟเฟกต์ของ “Star Pendulumgraph” ได้ 1 ครั้งต่อเทิร์น",
   "status": "ai",
   "en_sha256": "a8789983d9d642cf6f3c94016c1782e3e38d2d44299df6f2ac00f90d2f525a47",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

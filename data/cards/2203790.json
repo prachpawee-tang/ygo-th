@@ -1,9 +1,9 @@
 {
   "id": "2203790",
   "name": "XX-Saber Hyunlei",
-  "th": "1 Tuner + 1 หรือ มอนสเตอร์ \"X-Saber\" ที่ไม่ใช่ Tuner หรือมากกว่า\nเมื่อการ์ดนี้ถูก อัญเชิญแบบ Synchro, คุณสามารถเลือกและทำลาย Spell หรือ Trap Cards ได้สูงสุด 3 ใบในสนาม",
+  "th": "1 Tuner + 1 หรือมากกว่ามอนสเตอร์ \"X-Saber\" ที่ไม่ใช่ Tuner\nเมื่อการ์ดใบนี้ถูกอัญเชิญแบบ Synchro, คุณสามารถเลือกและทำลาย Spell หรือ Trap Cards ได้สูงสุด 3 ใบในสนาม",
   "status": "ai",
   "en_sha256": "e8e3803e7396ee2bc66e70bc792a46a4b8f8d2cd10cd593c4d707c36a1fa19b8",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

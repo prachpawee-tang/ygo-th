@@ -1,9 +1,9 @@
 {
   "id": "33609262",
   "name": "Tenacity of the Monarchs",
-  "th": "เปิดเผยมอนสเตอร์ 1 ตัวในมือของคุณที่มี ATK 2400 และ DEF 1000 หรือ ATK 2800 และ DEF 1000; เพิ่มการ์ดเวทมนตร์/กับดัก \"Monarch\" 1 ใบจากเด็คของคุณขึ้นมือ, ยกเว้น \"Tenacity of the Monarchs\" คุณสามารถเปิดใช้ \"Tenacity of the Monarchs\" ได้ 1 ครั้งต่อเทิร์น",
+  "th": "เผย 1 มอนสเตอร์ในมือของคุณที่มี ATK 2400 และ DEF 1000 หรือ ATK 2800 และ DEF 1000; เพิ่มการ์ดเวทมนตร์/กับดัก \"Monarch\" 1 ใบจากเด็คของคุณขึ้นมือ ยกเว้น \"Tenacity of the Monarchs\"\nคุณสามารถเปิดใช้ \"Tenacity of the Monarchs\" ได้ 1 ใบต่อเทิร์น",
   "status": "ai",
   "en_sha256": "d37a54d38426b35304c7d672973824e36d0184ed375590a4e38c055800daa12a",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

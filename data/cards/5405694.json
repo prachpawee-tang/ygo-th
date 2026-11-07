@@ -1,9 +1,9 @@
 {
   "id": "5405694",
   "name": "Black Luster Soldier",
-  "th": "คุณสามารถ อัญเชิญแบบพิธีกรรม (Ritual Summon) การ์ดใบนี้ด้วย \"Black Luster Ritual\"",
+  "th": "คุณสามารถ อัญเชิญแบบพิธีกรรม การ์ดใบนี้ด้วย \"Black Luster Ritual\".",
   "status": "ai",
   "en_sha256": "b04f1f99f91fad5010878c06eff486a7fb53e3fa8878273924487ec5659ad10f",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

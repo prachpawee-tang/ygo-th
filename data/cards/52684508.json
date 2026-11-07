@@ -1,9 +1,9 @@
 {
   "id": "52684508",
   "name": "Inferno Fire Blast",
-  "th": "เลือกมอนสเตอร์ \"Red-Eyes B. Dragon\" 1 ตัวใน Main Monster Zone หรือ Extra Monster Zone ของคุณ; สร้างความเสียหายให้คู่ต่อสู้เท่ากับ ATK เดิมของมัน \"Red-Eyes B. Dragon\" ไม่สามารถโจมตีได้ในเทิร์นที่คุณเปิดใช้งานการ์ดใบนี้",
+  "th": "เลือกเป้าหมาย \"Red-Eyes B. Dragon\" 1 ตัวใน Main Monster Zone หรือ Extra Monster Zone ของคุณ; สร้างความเสียหายให้คู่ต่อสู้เท่ากับ ATK เดิมของมัน\n\"Red-Eyes B. Dragon\" ไม่สามารถโจมตีในเทิร์นที่คุณเปิดใช้การ์ดใบนี้",
   "status": "ai",
   "en_sha256": "4e8ae00b68620000607b1ae983decb618dc2a0efc4d5886bbe81455d8c509253",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

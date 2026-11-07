@@ -1,9 +1,9 @@
 {
   "id": "12171659",
   "name": "Zeradias, Herald of Heaven",
-  "th": "คุณสามารถทิ้งการ์ดใบนี้ลงสุสาน (GY) ได้; เพิ่ม \"The Sanctuary in the Sky\" 1 ใบจากเด็คของคุณขึ้นมือ คุณ ถ้า \"The Sanctuary in the Sky\" ไม่อยู่บนสนาม ทำลายการ์ดใบนี้",
+  "th": "คุณสามารถทิ้งการ์ดใบนี้ลงสุสาน; เพิ่ม \"The Sanctuary in the Sky\" 1 ใบจากเด็คของคุณขึ้นมือ\nถ้า \"The Sanctuary in the Sky\" ไม่อยู่บนสนาม ทำลายการ์ดใบนี้",
   "status": "ai",
   "en_sha256": "ce4eb3a6553b126d99a6c6b628c56d7f9132d24de8373dd0d601f1c61c66591e",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

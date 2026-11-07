@@ -1,9 +1,9 @@
 {
   "id": "6836211",
   "name": "The Great Emperor Penguin",
-  "th": "คุณสามารถ สังเวย การ์ดใบนี้; อัญเชิญพิเศษ มอนสเตอร์ \"Penguin\" ได้สูงสุด 2 ตัวจากเด็คของคุณ ยกเว้น \"The Great Emperor Penguin\"",
+  "th": "คุณสามารถสังเวยการ์ดใบนี้; อัญเชิญพิเศษมอนสเตอร์ \"Penguin\" ได้สูงสุด 2 ตัวจากเด็คของคุณ ยกเว้น \"The Great Emperor Penguin\".",
   "status": "ai",
   "en_sha256": "e8bdf94c0fbdd2d1769c1bbea484e62938ac990721fe897c0f3c539b47232e3c",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

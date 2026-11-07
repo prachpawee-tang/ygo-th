@@ -5,6 +5,6 @@
   "status": "ai",
   "en_sha256": "a06d9d222cf5b9b4144316692d72e3b2f1558a82b556745d6fe9a239742d74ab",
   "model": "gemma3:12b",
-  "updated": "2026-11-06",
+  "updated": "2026-11-07",
   "note": "rule-check: \"banish\" ×1 in English but \"ออกจากเกม\" ×0 in Thai — meaning may be wrong"
 }

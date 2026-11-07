@@ -1,9 +1,9 @@
 {
   "id": "82112494",
   "name": "Superheavy Samurai Prodigy Wakaushi",
-  "th": "[ เอฟเฟกต์ Pendulum ] \nถ้าคุณไม่ได้มี Spell/Trap ในสุสาน (GY): คุณสามารถวางมอนสเตอร์ Pendulum \"Superheavy Samurai\" 1 ตัวจากเด็คของคุณ, ยกเว้น \"Superheavy Samurai Prodigy Wakaushi\", ใน Pendulum Zone อื่นของคุณ, จากนั้น อัญเชิญพิเศษการ์ดนี้ คุณสามารถใช้เอฟเฟกต์นี้ของ \"Superheavy Samurai Prodigy Wakaushi\" ได้ 1 ครั้งต่อเทิร์น\n\n[ เอฟเฟกต์มอนสเตอร์ ] \nถ้าคุณไม่ได้มี Spell/Trap ในสุสาน (GY): คุณสามารถทิ้งการ์ดมอนสเตอร์ 1 ตัว; อัญเชิญพิเศษมอนสเตอร์ \"Superheavy Samurai\" 1 ตัวจากมือหรือเด็คของคุณในท่าป้องกัน, นอกจากนี้ คุณไม่สามารถ อัญเชิญพิเศษมอนสเตอร์ได้สำหรับการเทิร์นที่เหลือนี้, ยกเว้นมอนสเตอร์ \"Superheavy Samurai\" ถ้าการ์ดนี้ถูกใช้เป็น Material Synchro และเพิ่มขึ้น Extra Deck ในท่าหงาย: คุณสามารถวางการ์ดนี้ใน Pendulum Zone ของคุณ คุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Superheavy Samurai Prodigy Wakaushi\" ได้ 1 ครั้งต่อเทิร์น",
+  "th": "[ Pendulum Effect ]\nถ้าคุณไม่ได้มี Spell/Trap ในสุสานของคุณ: คุณสามารถวางมอนสเตอร์ Pendulum \"Superheavy Samurai\" 1 ตัวจากเด็คของคุณ นอกเหนือจาก \"Superheavy Samurai Prodigy Wakaushi\" ใน Pendulum Zone อื่นของคุณ จากนั้น อัญเชิญพิเศษการ์ดใบนี้\nคุณสามารถใช้เอฟเฟกต์ของ \"Superheavy Samurai Prodigy Wakaushi\" ได้เพียง 1 ครั้งต่อเทิร์น\n[ Monster Effect ]\nถ้าคุณไม่ได้มี Spell/Traps ในสุสานของคุณ: คุณสามารถทิ้งการ์ดมอนสเตอร์ 1 ตัว; อัญเชิญพิเศษมอนสเตอร์ \"Superheavy Samurai\" 1 ตัวจากมือหรือเด็คของคุณในท่าป้องกัน นอกจากนี้ คุณไม่สามารถอัญเชิญพิเศษมอนสเตอร์ได้สำหรับการเทิร์นที่เหลือนี้ ยกเว้นมอนสเตอร์ \"Superheavy Samurai\"\nถ้าการ์ดใบนี้ถูกใช้เป็น Material Synchro และเพิ่มขึ้น Extra Deck ในลักษณะหงาย: คุณสามารถวางการ์ดใบนี้ใน Pendulum Zone ของคุณได้\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Superheavy Samurai Prodigy Wakaushi\" ได้ 1 ครั้งต่อเทิร์น",
   "status": "ai",
   "en_sha256": "272fcb35ed714d1140f07d124fd20e5ed9e46b391da7b9f461cf40b33c1d517b",
   "model": "gemma3:12b",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
 }

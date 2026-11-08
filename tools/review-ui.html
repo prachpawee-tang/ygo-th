@@ -7,7 +7,10 @@
 <style>
   :root { --bg: #15171f; --panel: #1d2029; --line: #333849; --text: #eee; --muted: #9aa0b0; --gold: #c9a227; --ok: #8ee08e; --bad: #ff8a80; }
   * { box-sizing: border-box; }
-  body { margin: 0; background: var(--bg); color: var(--text); font: 15px/1.6 "Noto Sans Thai", "Leelawadee UI", Tahoma, sans-serif; }
+  html { color-scheme: dark; scrollbar-color: #3a3f52 var(--bg); accent-color: var(--gold); }
+  ::selection { background: rgba(201, 162, 39, .35); color: #fff; }
+  :focus-visible { outline: 2px solid var(--gold); outline-offset: 2px; }
+  body { margin: 0; background: var(--bg); color: var(--text); font: 15px/1.7 "Noto Sans Thai", "Leelawadee UI", Tahoma, sans-serif; }
   header { position: sticky; top: 0; z-index: 2; display: flex; flex-wrap: wrap; gap: 8px; align-items: center; padding: 10px 16px; background: #101219; border-bottom: 1px solid var(--line); }
   header h1 { margin: 0 12px 0 0; font-size: 16px; color: var(--gold); }
   select, input[type=search] { background: var(--panel); color: var(--text); border: 1px solid var(--line); border-radius: 4px; padding: 4px 6px; font: inherit; font-size: 13px; }
@@ -16,27 +19,37 @@
   .title { display: flex; flex-wrap: wrap; align-items: baseline; gap: 10px; margin-bottom: 8px; }
   .title h2 { margin: 0; font-size: 20px; }
   .meta { color: var(--muted); font-size: 13px; }
-  .problems { margin: 0 0 12px; padding: 8px 12px; border-left: 3px solid var(--bad); background: rgba(255,138,128,.08); font-size: 13px; }
+  .problems { margin: 0 0 12px; padding: 8px 12px; border: 1px solid rgba(255,138,128,.35); border-radius: 6px; background: rgba(255,138,128,.07); font-size: 13px; color: #ffc9c3; }
   .problems:empty { display: none; }
-  .problems div::before { content: "⚠ "; }
+  .context { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-bottom: 12px; }
+  @media (max-width: 800px) { .context { grid-template-columns: 1fr; } }
+  .context .box { font-size: 14px; }
+  .verdict { font-weight: 600; }
+  details summary { cursor: pointer; color: var(--muted); font-size: 13px; margin-top: 4px; }
   .cols { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
   @media (max-width: 800px) { .cols { grid-template-columns: 1fr; } }
   .box { background: var(--panel); border: 1px solid var(--line); border-radius: 6px; padding: 10px 12px; min-width: 0; }
-  .box h3 { margin: 0 0 6px; font-size: 12px; color: var(--muted); font-weight: 600; letter-spacing: .03em; }
+  .box h3 { margin: 0 0 6px; font-size: 13px; color: var(--muted); font-weight: 600; }
   .text { white-space: pre-wrap; overflow-wrap: anywhere; }
-  textarea { width: 100%; min-height: 160px; margin-top: 12px; background: #11131a; color: var(--text); border: 1px solid var(--line); border-radius: 6px; padding: 10px; font: inherit; resize: vertical; }
+  .edit-label { display: block; margin: 16px 0 4px; font-size: 13px; color: var(--muted); font-weight: 600; }
+  textarea { width: 100%; min-height: 140px; background: #11131a; color: var(--text); caret-color: var(--gold); border: 1px solid var(--line); border-radius: 6px; padding: 10px; font: inherit; resize: vertical; }
   textarea.changed { border-color: var(--gold); }
-  .actions { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 10px; align-items: center; }
+  /* ปุ่มติดขอบล่างจอ: กดได้เสมอโดยไม่ต้องเลื่อนลง (หน้าโหมดฟอร์มยาวเกินจอ) */
+  .actions { position: sticky; bottom: 0; z-index: 1; display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin-top: 12px; padding: 10px 0 12px; background: var(--bg); border-top: 1px solid var(--line); }
+  .actions .nav { margin-left: auto; display: flex; gap: 8px; }
   button { padding: 7px 14px; border: 1px solid var(--line); border-radius: 4px; background: #2a2e3b; color: var(--text); font: inherit; font-size: 14px; cursor: pointer; }
+  button:hover:not(:disabled) { background: #343949; border-color: #4a5068; }
   button.primary { background: var(--gold); color: #111; border-color: var(--gold); font-weight: 600; }
-  button:disabled { opacity: .5; cursor: default; }
-  kbd { font-size: 11px; opacity: .7; margin-left: 4px; }
+  button.primary:hover:not(:disabled) { background: #d8b23a; border-color: #d8b23a; }
+  button.danger:hover:not(:disabled) { border-color: var(--bad); color: var(--bad); }
+  button:disabled { opacity: .45; cursor: default; }
+  kbd { font: inherit; font-size: 11px; opacity: .75; margin-left: 6px; }
   #msg { font-size: 13px; }
   .err { color: var(--bad); } .good { color: var(--ok); }
   .empty { text-align: center; color: var(--muted); padding: 60px 0; }
   /* diff แบบ VS Code: ส่วนที่ลบ = แดง (ฝั่งเดิม) · ส่วนที่เพิ่ม = เขียว (ฝั่งใหม่) */
-  .diff-del { background: rgba(255, 85, 85, .30); border-radius: 2px; }
-  .diff-ins { background: rgba(80, 200, 120, .30); border-radius: 2px; }
+  .diff-del { background: rgba(255, 85, 85, .38); border-radius: 2px; }
+  .diff-ins { background: rgba(80, 200, 120, .38); border-radius: 2px; }
   .diff-row .box h3 .meta { font-weight: 400; margin-left: 6px; }
   .live-rule { font-size: 12px; margin-top: 6px; color: var(--muted); }
   /* สีชุดเดียวกับ extension / Dueling Nexus */
@@ -47,26 +60,30 @@
 </head>
 <body>
 <header>
-  <h1>🇹🇭 ตรวจคำแปล</h1>
+  <h1>ygo-th · ตรวจคำแปล</h1>
   <select id="mode" title="ชุดการ์ดที่จะตรวจ" aria-label="ชุดการ์ดที่จะตรวจ">
     <option value="notes">ใบที่ rule-check สงสัย (มี note)</option>
     <option value="ai">ทุกใบที่ยังเป็น AI</option>
     <option value="form">คำแก้จาก Google Form</option>
   </select>
   <select id="kind" title="กรองตามชนิดปัญหา" aria-label="กรองตามชนิดปัญหา">
-    <option value="">ปัญหาทุกแบบ</option>
-    <option value="banish">banish ↔ ออกจากเกม</option>
-    <option value="face">face-up/down ↔ หงาย/คว่ำ</option>
-    <option value="number">ตัวเลขหาย</option>
-    <option value="colon">":" หาย</option>
-    <option value="semicolon">";" หาย</option>
-    <option value="name">ชื่อการ์ด</option>
-    <option value="bullet">●</option>
-    <option value="other">อื่น ๆ</option>
-    <option value="ai-accept">ฟอร์ม: AI ผ่าน</option>
-    <option value="ai-reject">ฟอร์ม: AI ไม่ผ่าน</option>
-    <option value="ai-needs-human">ฟอร์ม: AI ให้คนดู</option>
-    <option value="ai-none">ฟอร์ม: ยังไม่ได้ให้ AI ตรวจ</option>
+    <option value="">ทุกใบ</option>
+    <optgroup label="ผลตรวจ AI" data-form-only>
+      <option value="ai-accept">AI ผ่าน</option>
+      <option value="ai-reject">AI ไม่ผ่าน</option>
+      <option value="ai-needs-human">AI ให้คนดู</option>
+      <option value="ai-none">ยังไม่ได้ให้ AI ตรวจ</option>
+    </optgroup>
+    <optgroup label="ปัญหาที่ rule-check เจอ">
+      <option value="banish">banish ↔ ออกจากเกม</option>
+      <option value="face">face-up/down ↔ หงาย/คว่ำ</option>
+      <option value="number">ตัวเลขหาย</option>
+      <option value="colon">":" หาย</option>
+      <option value="semicolon">";" หาย</option>
+      <option value="name">ชื่อการ์ด</option>
+      <option value="bullet">● หาย</option>
+      <option value="other">อื่น ๆ</option>
+    </optgroup>
   </select>
   <input id="q" type="search" placeholder="ค้นชื่อการ์ด / passcode" aria-label="ค้นชื่อการ์ดหรือ passcode">
   <span id="count">กำลังโหลด…</span>
@@ -83,7 +100,7 @@ const api = (path, opts = {}) => fetch(path, { ...opts, headers: { "x-review-tok
   .then(r => r.json())
   .catch(() => ({ ok: false, error: "ติดต่อเซิร์ฟเวอร์ไม่ได้ — หน้าต่าง review-ui ถูกปิดไปแล้ว? เปิด review-ui.bat ใหม่" }));
 
-let all = [], list = [], pos = 0, done = 0;
+let all = [], list = [], pos = 0, done = 0, lastSaved = null;
 
 // แสดงข้อความด้วย formatter เดียวกับ extension (สร้าง DOM ด้วย textContent เท่านั้น)
 const CLS = { cond: "ygot-cond", cost: "ygot-cost", summon: "ygot-summon", name: "ygot-name", limit: "ygot-limit", quick: "ygot-quick" };
@@ -100,6 +117,10 @@ function render(target, text) {
 }
 
 async function load() {
+  // ตัวกรองผล AI ใช้ได้เฉพาะโหมดฟอร์ม — ซ่อนในโหมดอื่นและล้างค่าที่เลือกค้างไว้
+  const og = document.querySelector("#kind [data-form-only]"), isFormMode = $("mode").value === "form";
+  og.hidden = og.disabled = !isFormMode;
+  if (!isFormMode && $("kind").selectedOptions[0]?.parentElement === og) $("kind").value = "";
   $("count").textContent = "กำลังโหลด…";
   const r = await api("/api/queue?mode=" + $("mode").value);
   if (!r.ok) { $("main").replaceChildren(el("div", { className: "empty err", textContent: r.error || "โหลดไม่ได้" })); return; }
@@ -116,14 +137,14 @@ function applyFilter() {
 function show() {
   $("count").textContent = list.length ? `${pos + 1} / ${list.length} · ตรวจแล้วรอบนี้ ${done}` : `ไม่มีใบให้ตรวจ · ตรวจแล้วรอบนี้ ${done}`;
   const c = list[pos];
-  if (!c) { $("main").replaceChildren(el("div", { className: "empty", textContent: done ? "หมดแล้ว 🎉 ปิดหน้านี้แล้วรัน tools\\update-data.bat เพื่อส่งขึ้น GitHub" : "ไม่มีใบที่ตรงกับตัวกรอง" })); return; }
+  if (!c) { $("main").replaceChildren(el("div", { className: "empty", textContent: done ? `ตรวจครบแล้ว ${done} ใบ — ปิดหน้านี้แล้วรัน tools\\update-data.bat เพื่อส่งขึ้น GitHub` : "ไม่มีใบที่ตรงกับตัวกรอง — ลองเปลี่ยนตัวกรองหรือล้างช่องค้นหา" })); return; }
 
   // คำแก้จากฟอร์ม: กล่องแก้เริ่มจากคำที่คนส่งมา และแสดงคำแปลปัจจุบันไว้เทียบ
   const isForm = !!c.formKey;
   const base = isForm ? c.proposed : c.th;
   const enBox = el("div", { className: "text" }); render(enBox, c.en);
   const thBox = el("div", { className: "text" }); render(thBox, base);
-  const ta = el("textarea", { value: base, spellcheck: false, ariaLabel: "แก้คำแปล" });
+  const ta = el("textarea", { id: "edit", value: base, spellcheck: false });
   const live = el("div", { className: "live-rule" });
   // เดิม | ใหม่ ข้างกัน พร้อมไฮไลต์ส่วนที่ต่าง (อัปเดตทุกครั้งที่พิมพ์)
   const oldBox = el("div", { className: "text" }), newBox = el("div", { className: "text" });
@@ -139,10 +160,12 @@ function show() {
     oldStat.textContent = del ? `− ${del} คำ` : "ไม่มีส่วนที่ลบ";
     newStat.textContent = ins ? `+ ${ins} คำ` : (del ? "ไม่มีส่วนที่เพิ่ม" : "เหมือนเดิม");
   };
-  const msg = el("span", { id: "msg" });
-  const btnOk = el("button", { className: "primary", title: "Ctrl+Enter" }, isForm ? "✓ ใช้คำแก้นี้" : "✓ ถูกแล้ว", el("kbd", { textContent: "Ctrl+Enter" }));
-  const btnDismiss = el("button", { title: "ไม่ใช้คำแก้นี้ (การ์ดไม่เปลี่ยน)" }, "✗ ไม่ใช้");
-  const btnSave = el("button", { disabled: true, title: "Ctrl+S" }, "💾 บันทึกที่แก้", el("kbd", { textContent: "Ctrl+S" }));
+  // ยืนยันว่าใบก่อนหน้าบันทึกแล้ว (show() วาดใบถัดไปทันทีหลังบันทึก)
+  const msg = el("span", { id: "msg", role: "status", className: lastSaved?.cls || "", textContent: lastSaved?.text || "" });
+  lastSaved = null;
+  const btnOk = el("button", { className: "primary", title: "Ctrl+Enter" }, isForm ? "ใช้คำแก้นี้" : "ถูกแล้ว", el("kbd", { textContent: "Ctrl+Enter" }));
+  const btnDismiss = el("button", { className: "danger", title: "การ์ดไม่เปลี่ยน และคำแก้นี้จะไม่ขึ้นในคิวอีก" }, "ไม่ใช้คำแก้นี้");
+  const btnSave = el("button", { disabled: true, title: "Ctrl+S" }, "บันทึกที่แก้", el("kbd", { textContent: "Ctrl+S" }));
   const btnSkip = el("button", { title: "Alt+→" }, "ข้าม →", el("kbd", { textContent: "Alt+→" }));
   const btnBack = el("button", { title: "Alt+←", disabled: pos === 0 }, "← ย้อน", el("kbd", { textContent: "Alt+←" }));
 
@@ -163,8 +186,9 @@ function show() {
     done++;
     all = all.filter(x => x !== c); list.splice(pos, 1);
     if (pos >= list.length) pos = Math.max(0, list.length - 1);
+    const what = action === "dismiss" ? `ไม่ใช้คำแก้ของ ${c.name}` : `บันทึก ${c.name} แล้ว`;
+    lastSaved = r.rule?.length ? { cls: "err", text: `${what} — rule-check ยังเตือน: ${r.rule.join(" · ")}` } : { cls: "good", text: what };
     show();
-    if (r.rule?.length) { const m = $("msg"); if (m) { m.className = "err"; m.textContent = `บันทึก ${c.name} แล้ว (rule-check ยังเตือน: ${r.rule.join(" · ")})`; } }
   }
   // ✓ saves what is in the box: if it was edited, the edit wins (same as Ctrl+Enter)
   const edited = () => ta.value.trim() !== base.trim();
@@ -178,17 +202,20 @@ function show() {
   current = { ok: () => !btnOk.disabled && btnOk.onclick(), save: () => !btnSave.disabled && save("edit"), skip: btnSkip.onclick, back: btnBack.onclick };
 
   updDiff();
-  const flags = [c.status === "ai" ? "🤖 AI" : c.status, `ยอดดู ${c.views.toLocaleString()}`, c.type, c.stale ? "⚠ ข้อความอังกฤษเปลี่ยนจากตอนแปล" : ""].filter(Boolean).join(" · ");
+  const flags = [c.status === "ai" ? "แปลโดย AI" : c.status, `ยอดดู ${c.views.toLocaleString()}`, c.type].filter(Boolean).join(" · ");
+  const problems = [...c.problems, ...(c.stale ? ["ข้อความอังกฤษเปลี่ยนไปจากตอนที่แปล"] : [])];
   $("main").replaceChildren(
     el("div", { className: "title" }, el("h2", { textContent: c.name }), el("span", { className: "meta", textContent: `#${c.id} · ${flags}` })),
-    el("div", { className: "problems" }, ...c.problems.map(p => el("div", { textContent: p }))),
-    el("div", { className: "cols" },
-      el("div", { className: "box" }, el("h3", { textContent: "ENGLISH" }), enBox),
-      el("div", { className: "box" }, el("h3", { textContent: isForm ? "คำแก้ที่ส่งมา (แสดงแบบเดียวกับใน extension)" : "ไทย (แสดงแบบเดียวกับใน extension)" }), thBox)),
-    diffRow,
+    el("div", { className: "problems" }, ...problems.map(p => el("div", { textContent: p }))),
     ...(isForm ? [formInfo(c)] : []),
+    el("div", { className: "cols" },
+      el("div", { className: "box" }, el("h3", { textContent: "English (ต้นฉบับ)" }), enBox),
+      el("div", { className: "box" }, el("h3", { textContent: isForm ? "คำแก้ที่ส่งมา · ตัวอย่างใน extension" : "ไทย · ตัวอย่างใน extension" }), thBox)),
+    diffRow,
+    el("label", { className: "edit-label", htmlFor: "edit", textContent: "แก้คำแปล" }),
     ta, live,
-    el("div", { className: "actions" }, btnOk, btnSave, ...(isForm ? [btnDismiss] : []), btnBack, btnSkip, msg)
+    el("div", { className: "actions" }, btnOk, btnSave, ...(isForm ? [btnDismiss] : []), msg,
+      el("div", { className: "nav" }, btnBack, btnSkip))
   );
 }
 
@@ -226,21 +253,26 @@ function renderDiff(oldBox, newBox, a, b) {
 // ข้อมูลจากฟอร์ม (ข้อความจากคนทั่วไป — แสดงด้วย textContent เท่านั้น)
 function formInfo(c) {
   const row = (k, v) => v ? el("div", {}, el("b", { textContent: k + ": " }), document.createTextNode(v)) : "";
-  return el("div", { className: "cols", style: "margin-top:12px" },
+  return el("div", { className: "context" },
+    aiInfo(c.ai),
     el("div", { className: "box" }, el("h3", { textContent: "จากแบบฟอร์ม" }),
-      row("ส่งเมื่อ", c.submitted), row("เหตุผล", c.reason), row("แหล่งอ้างอิง", c.source), row("เครดิต (แสดงใน extension)", c.credit)),
-    aiInfo(c.ai));
+      row("เหตุผล", c.reason), row("แหล่งอ้างอิง", c.source), row("เครดิต (แสดงใน extension)", c.credit), row("ส่งเมื่อ", c.submitted)));
 }
 
 // ผล AI จาก review-all.bat (คำแนะนำ — ผู้ดูแลตัดสินเอง) · ข้อความจาก AI แสดงด้วย textContent เท่านั้น
-const AI_LABEL = { "ai-accept": ["✓ AI ผ่าน", "good"], "ai-reject": ["✗ AI ไม่ผ่าน", "err"], "ai-needs-human": ["? AI ให้คนดู", ""], invalid: ["✗ รูปแบบใช้ไม่ได้", "err"] };
+const AI_LABEL = { "ai-accept": ["AI ผ่าน", "good"], "ai-reject": ["AI ไม่ผ่าน", "err"], "ai-needs-human": ["AI ให้คนดู", ""], invalid: ["รูปแบบใช้ไม่ได้", "err"] };
+const VERDICT = { accept: "ผ่าน", reject: "ไม่ผ่าน", needs_human: "ให้คนดู" };
 function aiInfo(a) {
-  const box = el("div", { className: "box", style: "grid-column: 1 / -1" }, el("h3", { textContent: "ผลตรวจ AI" }));
+  const box = el("div", { className: "box" }, el("h3", { textContent: "ผลตรวจ AI (คำแนะนำ — คุณตัดสินเอง)" }));
   if (!a) { box.append(el("div", { className: "meta", textContent: "ยังไม่ได้ตรวจ — รัน tools\\review-all.bat แล้วเปิดโหมดนี้ใหม่" })); return box; }
   const [t, cls] = AI_LABEL[a.label] || [a.label, ""];
-  box.append(el("div", { className: cls, textContent: `${t} · ${a.model || ""} · ${(a.at || "").slice(0, 16).replace("T", " ")}` }));
-  a.rounds?.forEach((r, i) => box.append(el("div", { textContent: `รอบ ${i + 1}: ${r.verdict} (มั่นใจ ${Math.round(r.confidence * 100)}%)${r.problems.length ? " — " + r.problems.join(" · ") : ""}` })));
-  if (a.rounds?.[0]?.back_translation) box.append(el("details", {}, el("summary", { textContent: "คำแปลกลับเป็นภาษาอังกฤษ (รอบ 1)" }), el("div", { className: "text meta", textContent: a.rounds[0].back_translation })));
+  box.append(el("div", { className: "verdict " + cls, textContent: t }));
+  const issues = [...new Set([...(a.rule || []), ...(a.rounds || []).flatMap(r => r.problems)])];
+  if (issues.length) box.append(el("div", { textContent: issues.join(" · ") }));
+  const d = el("details", {}, el("summary", { textContent: `รายละเอียด · ${a.model || ""} · ${(a.at || "").slice(0, 16).replace("T", " ")}` }));
+  a.rounds?.forEach((r, i) => d.append(el("div", { className: "meta", textContent: `รอบ ${i + 1}: ${VERDICT[r.verdict] || r.verdict} (มั่นใจ ${Math.round(r.confidence * 100)}%)` })));
+  if (a.rounds?.[0]?.back_translation) d.append(el("div", { className: "meta", textContent: "คำแปลกลับเป็นอังกฤษ (รอบ 1):" }), el("div", { className: "text meta", textContent: a.rounds[0].back_translation }));
+  box.append(d);
   return box;
 }
 

@@ -67,7 +67,7 @@ async function formQueue() {
     const id = CARDS.has(s.raw) ? s.raw : ALT.get(s.raw) || s.raw;
     const card = CARDS.get(id), e = EN.get(id), proposed = s.proposed;
     const problems = [];
-    if (!/^d{3,10}$/.test(s.raw)) problems.push("passcode ไม่ใช่ตัวเลข");
+    if (!/^\d{3,10}$/.test(s.raw)) problems.push("passcode ไม่ใช่ตัวเลข");
     else if (!card) problems.push("ไม่พบการ์ดนี้ในฐาน");
     if (!proposed) problems.push("ไม่มีคำแปลที่เสนอ");
     if (proposed.length > MAX_TH) problems.push(`คำแปลยาวเกิน ${MAX_TH} ตัวอักษร`);

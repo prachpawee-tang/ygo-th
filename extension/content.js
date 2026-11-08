@@ -148,9 +148,30 @@
       withTh.searchParams.set("proposed", th);
       if (withTh.href.length <= MAX_URL) { url.searchParams.set("proposed", th); prefilled = true; }
     }
+    const a = el("a", { href: url.href, target: "_blank", rel: "noopener noreferrer", textContent: "(GitHub)",
+      title: kind === "fix" ? (prefilled ? "มีบัญชี GitHub: เปิด issue พร้อมคำแปลปัจจุบัน" : "มีบัญชี GitHub: เปิด issue (คำแปลยาวเกินกว่าจะกรอกให้)") : "มีบัญชี GitHub: เปิด issue" });
+    a.addEventListener("click", e => e.stopPropagation());
+    return a;
+  }
+
+  // Google Form — ส่งได้โดยไม่ต้องมีบัญชีใด ๆ · กรอก passcode / ชื่อการ์ด / คำแปลปัจจุบันไว้ให้ (entry.* = ช่องของฟอร์ม)
+  // ทดสอบแล้ว (2026-11-08): ลิงก์ยาวสุดในฐาน ~8,100 ตัวอักษร ฟอร์มกรอกครบ
+  const FORM = "https://docs.google.com/forms/d/e/1FAIpQLSeux_WbXVGdLcFTLtzdnmbsSqBpZ7uVK-OYTS5voFyixzm6Hg/viewform";
+  const FORM_MAX_URL = 12000;
+  function formLink(kind, id, th) {
+    const url = new URL(FORM);
+    url.searchParams.set("usp", "pp_url");
+    if (id) url.searchParams.set("entry.487691727", id);
+    const name = (document.querySelector("#card-name")?.textContent || "").trim().slice(0, 100);
+    if (name && name !== "-") url.searchParams.set("entry.850040068", name);
+    if (th) {
+      const withTh = new URL(url.href);
+      withTh.searchParams.set("entry.1461916209", th);
+      if (withTh.href.length <= FORM_MAX_URL) url.searchParams.set("entry.1461916209", th);
+    }
     const a = el("a", { href: url.href, target: "_blank", rel: "noopener noreferrer",
       textContent: kind === "fix" ? "แจ้งแก้คำแปล" : "แจ้งการ์ดที่ไม่มีคำแปล",
-      title: kind === "fix" ? (prefilled ? "เปิดฟอร์มบน GitHub พร้อมคำแปลปัจจุบัน — แก้เฉพาะจุดที่ผิดแล้วกดส่ง" : "เปิดฟอร์มบน GitHub (คำแปลยาวเกินกว่าจะกรอกให้ — คัดลอกจากหน้าจอได้)") : "เปิดฟอร์มบน GitHub" });
+      title: "เปิดแบบฟอร์ม (ไม่ต้องมีบัญชี) — " + (kind === "fix" ? "แก้เฉพาะจุดที่ผิดแล้วกดส่ง" : "ใส่คำแปลที่เสนอแล้วกดส่ง") });
     a.addEventListener("click", e => e.stopPropagation());
     return a;
   }
@@ -165,13 +186,13 @@
     badge.textContent = "";
     if (!res.found) {
       badge.append(el("span", { textContent: res.empty ? "ยังไม่ได้โหลดฐานคำแปล — เปิด popup แล้วกด “อัปเดตตอนนี้”" : "ยังไม่มีคำแปล" }));
-      if (!res.empty) badge.append(issueLink("errata", id));
+      if (!res.empty) badge.append(formLink("errata", id), issueLink("errata", id));
       return;
     }
     badge.append(el("span", { className: "ygot-st-" + res.status, textContent: STATUS_LABEL[res.status] || res.status }));
     if (res.stale) badge.append(el("span", { className: "ygot-stale", textContent: "⚠ อาจเก่า",
       title: "ข้อความภาษาอังกฤษบนเว็บไม่ตรงกับตอนที่แปล (อาจโดน errata) — เทียบกับต้นฉบับอีกที" }));
-    badge.append(issueLink("fix", id, res.th));
+    badge.append(formLink("fix", id, res.th), issueLink("fix", id, res.th));
   }
 
   function showPanel(target, th) {

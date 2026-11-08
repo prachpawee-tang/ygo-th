@@ -47,6 +47,7 @@
   <select id="mode" title="ชุดการ์ดที่จะตรวจ" aria-label="ชุดการ์ดที่จะตรวจ">
     <option value="notes">ใบที่ rule-check สงสัย (มี note)</option>
     <option value="ai">ทุกใบที่ยังเป็น AI</option>
+    <option value="form">คำแก้จาก Google Form</option>
   </select>
   <select id="kind" title="กรองตามชนิดปัญหา" aria-label="กรองตามชนิดปัญหา">
     <option value="">ปัญหาทุกแบบ</option>
@@ -94,6 +95,7 @@ async function load() {
   $("count").textContent = "กำลังโหลด…";
   const r = await api("/api/queue?mode=" + $("mode").value);
   if (!r.ok) { $("main").replaceChildren(el("div", { className: "empty err", textContent: r.error || "โหลดไม่ได้" })); return; }
+  if (r.note && !r.items.length) { $("count").textContent = ""; $("main").replaceChildren(el("div", { className: "empty", textContent: r.note })); return; }
   all = r.items; applyFilter();
 }
 
@@ -108,18 +110,22 @@ function show() {
   const c = list[pos];
   if (!c) { $("main").replaceChildren(el("div", { className: "empty", textContent: done ? "หมดแล้ว 🎉 ปิดหน้านี้แล้วรัน tools\\update-data.bat เพื่อส่งขึ้น GitHub" : "ไม่มีใบที่ตรงกับตัวกรอง" })); return; }
 
+  // คำแก้จากฟอร์ม: กล่องแก้เริ่มจากคำที่คนส่งมา และแสดงคำแปลปัจจุบันไว้เทียบ
+  const isForm = !!c.formKey;
+  const base = isForm ? c.proposed : c.th;
   const enBox = el("div", { className: "text" }); render(enBox, c.en);
-  const thBox = el("div", { className: "text" }); render(thBox, c.th);
-  const ta = el("textarea", { value: c.th, spellcheck: false, ariaLabel: "แก้คำแปล" });
+  const thBox = el("div", { className: "text" }); render(thBox, base);
+  const ta = el("textarea", { value: base, spellcheck: false, ariaLabel: "แก้คำแปล" });
   const live = el("div", { className: "live-rule" });
   const msg = el("span", { id: "msg" });
-  const btnOk = el("button", { className: "primary", title: "Ctrl+Enter" }, "✓ ถูกแล้ว", el("kbd", { textContent: "Ctrl+Enter" }));
+  const btnOk = el("button", { className: "primary", title: "Ctrl+Enter" }, isForm ? "✓ ใช้คำแก้นี้" : "✓ ถูกแล้ว", el("kbd", { textContent: "Ctrl+Enter" }));
+  const btnDismiss = el("button", { title: "ไม่ใช้คำแก้นี้ (การ์ดไม่เปลี่ยน)" }, "✗ ไม่ใช้");
   const btnSave = el("button", { disabled: true, title: "Ctrl+S" }, "💾 บันทึกที่แก้", el("kbd", { textContent: "Ctrl+S" }));
   const btnSkip = el("button", { title: "Alt+→" }, "ข้าม →", el("kbd", { textContent: "Alt+→" }));
   const btnBack = el("button", { title: "Alt+←", disabled: pos === 0 }, "← ย้อน", el("kbd", { textContent: "Alt+←" }));
 
   ta.addEventListener("input", () => {
-    const changed = ta.value.trim() !== c.th.trim();
+    const changed = ta.value.trim() !== base.trim();
     ta.classList.toggle("changed", changed);
     btnSave.disabled = !changed;
     render(thBox, ta.value);
@@ -129,18 +135,20 @@ function show() {
   async function save(action) {
     btnOk.disabled = btnSave.disabled = true;
     msg.className = ""; msg.textContent = "กำลังบันทึก…";
-    const r = await api("/api/save", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ id: c.id, th: ta.value, action }) });
-    if (!r.ok) { msg.className = "err"; msg.textContent = r.error; btnOk.disabled = false; btnSave.disabled = ta.value.trim() === c.th.trim(); return; }
+    const r = await api("/api/save", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ id: c.id, th: ta.value, action, formKey: c.formKey }) });
+    if (!r.ok) { msg.className = "err"; msg.textContent = r.error; btnOk.disabled = false; btnSave.disabled = ta.value.trim() === base.trim(); return; }
     done++;
-    all = all.filter(x => x.id !== c.id); list.splice(pos, 1);
+    all = all.filter(x => x !== c); list.splice(pos, 1);
     if (pos >= list.length) pos = Math.max(0, list.length - 1);
     show();
     if (r.rule?.length) { const m = $("msg"); if (m) { m.className = "err"; m.textContent = `บันทึก ${c.name} แล้ว (rule-check ยังเตือน: ${r.rule.join(" · ")})`; } }
   }
   // ✓ saves what is in the box: if it was edited, the edit wins (same as Ctrl+Enter)
-  const edited = () => ta.value.trim() !== c.th.trim();
+  const edited = () => ta.value.trim() !== base.trim();
   const leave = () => !edited() || confirm("ยังไม่ได้บันทึกที่แก้ไว้ — ทิ้งแล้วไปใบอื่น?");
-  btnOk.onclick = () => save(edited() ? "edit" : "accept");
+  // คำแก้จากฟอร์ม: ใช้ข้อความในกล่องเสมอ (คือคำที่เขาส่งมา หรือที่ผู้ดูแลปรับต่อ)
+  btnOk.onclick = () => save(isForm || edited() ? "edit" : "accept");
+  btnDismiss.onclick = () => confirm("ไม่ใช้คำแก้นี้? (การ์ดไม่เปลี่ยน และจะไม่ขึ้นในคิวอีก)") && save("dismiss");
   btnSave.onclick = () => save("edit");
   btnSkip.onclick = () => { if (pos < list.length - 1 && leave()) { pos++; show(); } };
   btnBack.onclick = () => { if (pos > 0 && leave()) { pos--; show(); } };
@@ -152,10 +160,21 @@ function show() {
     el("div", { className: "problems" }, ...c.problems.map(p => el("div", { textContent: p }))),
     el("div", { className: "cols" },
       el("div", { className: "box" }, el("h3", { textContent: "ENGLISH" }), enBox),
-      el("div", { className: "box" }, el("h3", { textContent: "ไทย (แสดงแบบเดียวกับใน extension)" }), thBox)),
+      el("div", { className: "box" }, el("h3", { textContent: isForm ? "คำแก้ที่ส่งมา (แสดงแบบเดียวกับใน extension)" : "ไทย (แสดงแบบเดียวกับใน extension)" }), thBox)),
+    ...(isForm ? [formInfo(c)] : []),
     ta, live,
-    el("div", { className: "actions" }, btnOk, btnSave, btnBack, btnSkip, msg)
+    el("div", { className: "actions" }, btnOk, btnSave, ...(isForm ? [btnDismiss] : []), btnBack, btnSkip, msg)
   );
+}
+
+// ข้อมูลจากฟอร์ม (ข้อความจากคนทั่วไป — แสดงด้วย textContent เท่านั้น)
+function formInfo(c) {
+  const cur = el("div", { className: "text" }); render(cur, c.th || "(ยังไม่มีคำแปล)");
+  const row = (k, v) => v ? el("div", {}, el("b", { textContent: k + ": " }), document.createTextNode(v)) : "";
+  return el("div", { className: "cols", style: "margin-top:12px" },
+    el("div", { className: "box" }, el("h3", { textContent: "คำแปลปัจจุบัน" }), cur),
+    el("div", { className: "box" }, el("h3", { textContent: "จากแบบฟอร์ม" }),
+      row("ส่งเมื่อ", c.submitted), row("เหตุผล", c.reason), row("แหล่งอ้างอิง", c.source), row("เครดิต", c.credit)));
 }
 
 let current = null;

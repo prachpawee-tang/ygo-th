@@ -1,10 +1,9 @@
 {
   "id": "11510448",
   "name": "Zoodiac Tigermortar",
-  "th": "มอนสเตอร์ Level 4 จำนวน 3 ตัว\n1 ครั้งต่อเทิร์น: คุณสามารถทำการอัญเชิญ Link โดยใช้มอนสเตอร์ \"Zoodiac\" ที่คุณควบคุมที่มีชื่อต่างกัน 1 ตัวเป็น Material Xyz ได้\n(ถ้าคุณใช้มอนสเตอร์ Xyz, Material Xyz ที่ติดอยู่กับมันจะกลายเป็น Material Xyz บนการ์ดใบนี้ด้วย) การ์ดใบนี้ได้รับ ATK และ DEF เท่ากับ ATK และ DEF ของมอนสเตอร์ \"Zoodiac\" ทั้งหมดที่ติดอยู่กับมันเป็น Material\n1 ครั้งต่อเทิร์น: คุณสามารถถอด Material Xyz 1 ตัวออกจากใบนี้ จากนั้นเลือกเป้าหมายมอนสเตอร์ Xyz 1 ตัวที่คุณควบคุม และมอนสเตอร์ \"Zoodiac\" 1 ตัวในสุสานของคุณ; ติดมอนสเตอร์ \"Zoodiac\" นั้นเข้ากับมอนสเตอร์ Xyz นั้นเป็น Material Xyz",
+  "th": "มอนสเตอร์ Level 4 จำนวน 3 ตัว\n1 ครั้งต่อเทิร์น: คุณสามารถ Xyz Summon \"Zoodiac Tigermortar\" โดยใช้มอนสเตอร์ \"Zoodiac\" 1 ตัวที่คุณควบคุมที่มีชื่อต่างกันเป็น Material Xyz ได้\n(ถ้าคุณใช้มอนสเตอร์ Xyz) Material Xyz ที่ติดอยู่กับมันจะกลายเป็น Material Xyz บนการ์ดใบนี้ด้วย การ์ดใบนี้ได้รับ ATK และ DEF เท่ากับ ATK และ DEF ของมอนสเตอร์ \"Zoodiac\" ทั้งหมดที่ติดอยู่กับมันเป็น Material\n1 ครั้งต่อเทิร์น: คุณสามารถถอด Material Xyz 1 ชิ้นจากการ์ดใบนี้ จากนั้นเลือกเป้าหมายมอนสเตอร์ Xyz 1 ตัวที่คุณควบคุม และมอนสเตอร์ \"Zoodiac\" 1 ตัวในสุสานของคุณ; ติดมอนสเตอร์ \"Zoodiac\" นั้นกับมอนสเตอร์ Xyz นั้นเป็น Material Xyz",
   "status": "ai",
   "en_sha256": "3ed0b7f85b95ec07ea755dabd1c2b38fe93196d1fa42c5a700030310038bfbae",
   "model": "gemma3:12b",
-  "updated": "2026-11-07",
-  "note": "rule-check: card names in quotes changed/missing: \"Zoodiac Tigermortar\""
+  "updated": "2026-11-08"
 }

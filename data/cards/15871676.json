@@ -1,10 +1,9 @@
 {
   "id": "15871676",
   "name": "Constellar Aldebaran",
-  "th": "เมื่อการ์ดใบนี้ถูกอัญเชิญปกติ: คุณสามารถอัญเชิญพิเศษมอนสเตอร์ \"Constellar\" ระดับ 3 จากมือของคุณได้.",
+  "th": "เมื่อการ์ดใบนี้ถูกอัญเชิญปกติ: คุณสามารถอัญเชิญพิเศษมอนสเตอร์ \"Constellar\" Level 3 จำนวน 1 ตัวจากมือของคุณได้.",
   "status": "ai",
   "en_sha256": "604490c2dfed385071852f0bc08b6e3bebdae3ea72b85360bfcd23c4d9f58297",
   "model": "gemma3:12b",
-  "updated": "2026-11-06",
-  "note": "rule-check: numbers missing in Thai: 1"
+  "updated": "2026-11-08"
 }

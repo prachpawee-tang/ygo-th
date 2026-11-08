@@ -1,10 +1,9 @@
 {
   "id": "41006930",
   "name": "Strike Ninja",
-  "th": "(Quick Effect): คุณสามารถเอามอนสเตอร์ DARK 2 ตัวออกจากสุสานของคุณ; เอาการ์ดใบนี้ออกจากเกมจนถึง End Phase\nคุณสามารถใช้เอฟเฟกต์ของ \"Strike Ninja\" ได้ 1 ครั้งต่อเทิร์น",
+  "th": "(Quick Effect): คุณสามารถเอามอนสเตอร์ DARK 2 ตัวออกจากเกมจากสุสานของคุณ; เอาการ์ดใบนี้ที่หงายอยู่ ออกจากเกมจนถึง End Phase\nคุณสามารถใช้เอฟเฟกต์ของ \"Strike Ninja\" ได้ 1 ครั้งต่อเทิร์น",
   "status": "ai",
   "en_sha256": "09dbaad9fe4ec2d5a749a3ef6f296cf8e78f870dae0aad046a8afa1b9b754975",
   "model": "gemma3:12b",
-  "updated": "2026-11-07",
-  "note": "rule-check: \"banish\" ×2 in English but \"ออกจากเกม\" ×1 in Thai — meaning may be wrong; \"face-up\" ×1 in English but \"หงาย\" ×0 in Thai — meaning may be wrong"
+  "updated": "2026-11-08"
 }

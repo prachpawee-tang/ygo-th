@@ -1,10 +1,9 @@
 {
   "id": "20715411",
   "name": "D/D/D Zero Doom Queen Machinex",
-  "th": "[ Pendulum Effect ]\nระหว่าง Main Phase ของคุณ, ถ้าการ์ดใบนี้ถูกเปิดใช้นี้เทิร์น: คุณสามารถวางการ์ด “Dark Contract” Continuous Spell/Trap 1 ใบจากเด็คของคุณหงายบนสนามของคุณ\nคุณสามารถใช้เอฟเฟกต์ของ \"D/D/D Zero Doom Queen Machinex\" ได้เพียง 1 ครั้งต่อเทิร์น\n[ Monster Effect ]\nถ้าการ์ด “D/D/D” และ/หรือการ์ด “Dark Contract” ที่หงายซึ่งคุณควบคุม ยกเว้น \"D/D/D Zero Doom Queen Machinex\" ถูกทำลาย ในขณะที่การ์ดใบนี้คว่ำอยู่ใน Extra Deck ของคุณ แม้ในระหว่าง Damage Step: คุณสามารถ อัญเชิญพิเศษ การ์ดใบนี้ จากนั้นคุณสามารถทำลายการ์ด 1 ใบในสนาม\nถ้าการ์ดใบนี้ใน Monster Zone ถูกทำลาย: คุณสามารถวางการ์ดใบนี้ใน Pendulum Zone ของคุณ\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"D/D/D Zero Doom Queen Machinex\" ได้ 1 ครั้งต่อเทิร์น",
+  "th": "[ Pendulum Effect ]\nระหว่าง Main Phase ของคุณ, ถ้าการ์ดใบนี้ถูกเปิดใช้นี้เทิร์น: คุณสามารถวางการ์ด “Dark Contract” เวทมนตร์ต่อเนื่อง/กับดัก 1 ใบจากเด็คของคุณ หงายบนสนามของคุณ\nคุณสามารถใช้เอฟเฟกต์ของ “D/D/D Zero Doom Queen Machinex” ได้เพียง 1 ครั้งต่อเทิร์น\n[ Monster Effect ]\nถ้าการ์ด “D/D/D” และ/หรือ “Dark Contract” ที่หงายซึ่งคุณควบคุม ยกเว้น “D/D/D Zero Doom Queen Machinex” ถูกทำลาย ในขณะที่การ์ดใบนี้หงายอยู่ใน Extra Deck ของคุณ, แม้ระหว่าง Damage Step: คุณสามารถ อัญเชิญพิเศษ การ์ดใบนี้ จากนั้นคุณสามารถทำลายการ์ด 1 ใบในสนาม\nถ้าการ์ดใบนี้ใน Main Monster Zone ถูกทำลาย: คุณสามารถวางการ์ดใบนี้ใน Pendulum Zone ของคุณ\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ “D/D/D Zero Doom Queen Machinex” ได้ 1 ครั้งต่อเทิร์น",
   "status": "ai",
   "en_sha256": "070e6be9c0f99826e3d5ae04ed7f5fc423d5e371ab4c41b622657d4c6c00d37f",
   "model": "gemma3:12b",
-  "updated": "2026-11-06",
-  "note": "rule-check: \"face-up\" ×3 in English but \"หงาย\" ×2 in Thai — meaning may be wrong"
+  "updated": "2026-11-08"
 }

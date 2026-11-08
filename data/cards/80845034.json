@@ -1,10 +1,9 @@
 {
   "id": "80845034",
   "name": "WANTED: Seeker of Sinful Spoils",
-  "th": "เพิ่มมอนสเตอร์ \"Diabellstar\" 1 ตัวจากเด็คหรือสุสานของคุณขึ้นมือ\nระหว่าง Main Phase ของคุณ: คุณสามารถส่งการ์ดใบนี้ลงสุสาน, จากนั้นเลือกเป้าหมายการ์ดเวทมนตร์/กับดัก \"Sinful Spoils\" ของคุณที่ถูกเอาออกจากเกมหรืออยู่ในสุสาน, ยกเว้น \"WANTED: Seeker of Sinful Spoils\"; วางมันไว้ด้านล่างของเด็ค, จากนั้นจั่วการ์ด 1 ใบ\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"WANTED: Seeker of Sinful Spoils\" ได้ 1 ครั้งต่อเทิร์น",
+  "th": "เพิ่มมอนสเตอร์ \"Diabellstar\" 1 ตัวจากเด็คหรือสุสานของคุณขึ้นมือ\nระหว่าง Main Phase ของคุณ: คุณสามารถเอาการ์ดใบนี้ออกจากเกมจากสุสานของคุณ, จากนั้นเลือกเป้าหมาย Spells/Traps \"Sinful Spoils\" ของคุณ 1 ใบที่ถูกเอาออกจากเกมหรืออยู่ในสุสาน, ยกเว้น \"WANTED: Seeker of Sinful Spoils\"; วางมันไว้ด้านล่างของเด็ค, จากนั้นจั่วการ์ด 1 ใบ\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"WANTED: Seeker of Sinful Spoils\" ได้ 1 ครั้งต่อเทิร์น",
   "status": "ai",
   "en_sha256": "c19912a83436aed904164ceb8f268e11a5f64baa8fbff491109feb8ab2d14301",
   "model": "gemma3:12b",
-  "updated": "2026-11-07",
-  "note": "rule-check: \"banish\" ×2 in English but \"ออกจากเกม\" ×1 in Thai — meaning may be wrong"
+  "updated": "2026-11-08"
 }

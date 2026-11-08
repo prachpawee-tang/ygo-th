@@ -1,10 +1,9 @@
 {
   "id": "34611551",
   "name": "Armed Dragon Flash",
-  "th": "อัญเชิญพิเศษมอนสเตอร์ \"Armed Dragon\" ระดับ 3 จากเด็คของคุณในท่าป้องกัน\nคุณสามารถเปิดใช้ \"Armed Dragon Flash\" ได้เพียง 1 ใบต่อเทิร์น",
+  "th": "อัญเชิญพิเศษมอนสเตอร์ \"Armed Dragon\" Level 3 จำนวน 1 ตัวจากเด็คของคุณในท่าป้องกัน\nคุณสามารถเปิดใช้ \"Armed Dragon Flash\" ได้เพียง 1 ใบต่อเทิร์น",
   "status": "ai",
   "en_sha256": "4f6c626620124c73d1f0a78496a4a240fb4ff4e3ee86930b11bf0c93a0d57728",
   "model": "gemma3:12b",
-  "updated": "2026-11-07",
-  "note": "rule-check: numbers missing in Thai: 1"
+  "updated": "2026-11-08"
 }

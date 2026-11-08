@@ -1,10 +1,9 @@
 {
   "id": "26732909",
   "name": "Justice of Prophecy",
-  "th": "ระหว่าง End Phase ของคุณ, ถ้าคุณเปิดใช้การ์ด Spellbook Spell Card ก่อนหน้านี้ในเทิร์นนี้: คุณสามารถเอาการ์ดใบนี้ออกจากเกมจากสนาม; เพิ่มมอนสเตอร์ Level 5 หรือสูงกว่า LIGHT หรือ DARK Spellcaster-Type 1 ตัว และการ์ด Spellbook Spell Card 1 ใบจากเด็คของคุณขึ้นมือ\nคุณสามารถใช้เอฟเฟกต์ของ \"Justice of Prophecy\" ได้ 1 ครั้งต่อเทิร์น",
+  "th": "ระหว่าง End Phase ของคุณ, ถ้าคุณได้เปิดใช้การ์ดเวทมนตร์ \"Spellbook\" ก่อนหน้านี้ในเทิร์นนี้: คุณสามารถเอาการ์ดใบนี้ออกจากเกมจากสนาม; เพิ่มมอนสเตอร์ Level 5 หรือสูงกว่าที่เป็น LIGHT หรือ DARK Spellcaster-Type และการ์ดเวทมนตร์ \"Spellbook\" 1 ใบจากเด็คของคุณขึ้นมือ\nคุณสามารถใช้เอฟเฟกต์ของ \"Justice of Prophecy\" ได้ 1 ครั้งต่อเทิร์น",
   "status": "ai",
   "en_sha256": "65b2b8c40f5f6c27c8ebb31147adc6556b13262d17d232d68bdbf1df054489a9",
   "model": "gemma3:12b",
-  "updated": "2026-11-06",
-  "note": "rule-check: card names in quotes changed/missing: \"Spellbook\""
+  "updated": "2026-11-08"
 }

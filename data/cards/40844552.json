@@ -1,10 +1,9 @@
 {
   "id": "40844552",
   "name": "Valkyrie of the Nordic Ascendant",
-  "th": "(การ์ดใบนี้ไม่ได้ถูกนับว่าเป็นการ์ด \"Valkyrie\".)\nเมื่อการ์ดใบนี้ถูกอัญเชิญปกติ, ถ้าคู่ต่อสู้ควบคุมมอนสเตอร์ และคุณไม่ได้ควบคุมการ์ดอื่น: คุณสามารถเอาการ์ด \"Nordic\" 2 ใบออกจากมือ; อัญเชิญพิเศษ \"Einherjar Tokens\" (Warrior/EARTH/Level 4/ATK 1000/DEF 1000) 2 ตัวในท่าป้องกัน",
+  "th": "(การ์ดใบนี้ไม่ได้ถูกนับว่าเป็นการ์ด \"Valkyrie\".)\nเมื่อการ์ดใบนี้ถูก อัญเชิญปกติ, ถ้าคู่ต่อสู้ควบคุมมอนสเตอร์ และคุณไม่ได้ควบคุมการ์ดอื่น: คุณสามารถ เอามอนสเตอร์ \"Nordic\" 2 ตัวออกจากเกมจากมือของคุณ; อัญเชิญพิเศษ \"Einherjar Tokens\" (Warrior/EARTH/Level 4/ATK 1000/DEF 1000) 2 ตัวในท่าป้องกัน.",
   "status": "ai",
   "en_sha256": "8ddc27b0f58bdc5257afe653de7c54c8b60ce48af1b442dad11bc3f766779e40",
   "model": "gemma3:12b",
-  "updated": "2026-11-07",
-  "note": "rule-check: \"banish\" ×1 in English but \"ออกจากเกม\" ×0 in Thai — meaning may be wrong"
+  "updated": "2026-11-08"
 }

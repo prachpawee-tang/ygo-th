@@ -1,10 +1,9 @@
 {
   "id": "14839621",
   "name": "Boompoline!!",
-  "th": "เปิดใช้การ์ดนี้โดยเลือก Main Monster Zone ที่ไม่ได้ใช้งาน\nถ้ามีการ์ด Effect Monster ถูกอัญเชิญพิเศษไปยัง Main Monster Zone นั้น: ส่งมอนสเตอร์ที่อยู่ใน Main Monster Zone นั้นและการ์ดใบนี้กลับขึ้นมือ",
+  "th": "เปิดใช้การ์ดนี้โดยเลือก Monster Zone ที่ยังไม่ได้ใช้งาน 1 ช่อง\nถ้ามีการ์ด มอนสเตอร์เอฟเฟกต์ถูก อัญเชิญพิเศษไปยังช่องนั้น: ส่งมอนสเตอร์ในช่องนั้นและการ์ดใบนี้กลับขึ้นมือ",
   "status": "ai",
   "en_sha256": "2ebd575315aedaf8a46ce84244146c039ce550dd6e82fed81c717fdf7c40f72a",
   "model": "gemma3:12b",
-  "updated": "2026-11-06",
-  "note": "rule-check: numbers missing in Thai: 1"
+  "updated": "2026-11-08"
 }

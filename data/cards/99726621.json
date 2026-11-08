@@ -1,10 +1,9 @@
 {
   "id": "99726621",
   "name": "Tri-Brigade Shuraig the Ominous Omen",
-  "th": "มอนสเตอร์ประเภท Beast, Beast-Warrior และ/หรือ Winged Beast 2+ ตัว\nถ้าการ์ดใบนี้ถูกอัญเชิญพิเศษ หรือถ้ามีการ์ด Beast, Beast-Warrior หรือ Winged Beast monster(s) อีกตัวถูกอัญเชิญพิเศษไปยังสนามของคุณ: คุณสามารถเอากลุ่มการ์ด 1 ใบในสนามออกจากเกม\nถ้าการ์ดใบนี้ถูกส่งลงสุสาน: คุณสามารถเพิ่มมอนสเตอร์ Beast, Beast-Warrior หรือ Winged Beast 1 ตัวจากเด็คของคุณขึ้นมือ ซึ่งมี Level น้อยกว่าหรือเท่ากับจำนวนมอนสเตอร์ Beast, Beast-Warrior และ Winged Beast ที่ถูกเอากลุ่มออก\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Tri-Brigade Shuraig the Ominous Omen\" ได้ 1 ครั้งต่อเทิร์น",
+  "th": "มอนสเตอร์ Beast, Beast-Warrior และ/หรือ Winged Beast 2+ ตัว\nถ้าการ์ดใบนี้ถูกอัญเชิญพิเศษ หรือถ้ามอนสเตอร์ Beast, Beast-Warrior หรือ Winged Beast ตัวอื่น(ๆ) ถูกอัญเชิญพิเศษไปยังสนามของคุณ: คุณสามารถเอากล้องการ์ด 1 ใบในสนามออกจากเกม\nถ้าการ์ดใบนี้ถูกส่งลงสุสาน: คุณสามารถเพิ่มมอนสเตอร์ Beast, Beast-Warrior หรือ Winged Beast 1 ตัวจากเด็คของคุณขึ้นมือ ซึ่ง Level น้อยกว่าหรือเท่ากับจำนวนมอนสเตอร์ Beast, Beast-Warrior และ Winged Beast ที่ถูกเอาออกจากเกมของคุณ\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Tri-Brigade Shuraig the Ominous Omen\" ได้ 1 ครั้งต่อเทิร์น",
   "status": "ai",
   "en_sha256": "a4c9a0feb35c33c3f1d4971daa9beb7eaaff0573162d16e0a659238b207ba7d2",
   "model": "gemma3:12b",
-  "updated": "2026-11-07",
-  "note": "rule-check: \"banish\" ×2 in English but \"ออกจากเกม\" ×1 in Thai — meaning may be wrong"
+  "updated": "2026-11-08"
 }

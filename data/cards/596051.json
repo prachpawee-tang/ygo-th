@@ -1,10 +1,9 @@
 {
   "id": "596051",
   "name": "Snake Fang",
-  "th": "ลด DEF ของมอนสเตอร์ที่เลือก 500 แต้มในช่วงเทิร์นที่เปิดใช้การ์ดใบนี้.",
+  "th": "ลด DEF ของมอนสเตอร์ที่เลือก 1 ตัวลง 500 แต้มในช่วงเทิร์นที่เปิดใช้การ์ดใบนี้.",
   "status": "ai",
   "en_sha256": "4e1e2550c8090fbb88d0fb5069ccf200b1dcdf634a9e86a8d47d5a296fa8baf6",
   "model": "gemma3:12b",
-  "updated": "2026-11-07",
-  "note": "rule-check: numbers missing in Thai: 1"
+  "updated": "2026-11-08"
 }

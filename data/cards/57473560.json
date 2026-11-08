@@ -1,10 +1,9 @@
 {
   "id": "57473560",
   "name": "Wightprince",
-  "th": "ถ้าการ์ดใบนี้ถูกส่งลงสุสาน: คุณสามารถส่ง \"Skull Servant\" 1 ใบและ \"The Lady in Wight\" 1 ใบจากมือและ/หรือเด็คของคุณลงสุสาน\nคุณสามารถเอา \"Skull Servant\" 2 ใบและการ์ดใบนี้ออกจากเกมจากสุสานของคุณ; อัญเชิญพิเศษ \"King of the Skull Servants\" 1 ใบจากเด็คของคุณ\nชื่อของการ์ดใบนี้จะเปลี่ยนเป็น \"Skull Servant\" ตราบใดที่มันอยู่ในสุสาน",
+  "th": "ถ้าการ์ดใบนี้ถูกส่งลงสุสาน: คุณสามารถส่ง \"Skull Servant\" 1 ใบและ \"The Lady in Wight\" 1 ใบจากมือและ/หรือเด็คของคุณลงสุสาน\nคุณสามารถเอา \"Skull Servants\" 2 ใบและการ์ดใบนี้ออกจากเกมจากสุสานของคุณ; อัญเชิญพิเศษ \"King of the Skull Servants\" 1 ใบจากเด็คของคุณ\nชื่อของการ์ดใบนี้จะเปลี่ยนเป็น \"Skull Servant\" ตราบใดที่มันอยู่ในสุสาน",
   "status": "ai",
   "en_sha256": "03aae807f7553cb600e333e5f99f512ad430a7968d61529588b7bdbf65dcd68a",
   "model": "gemma3:12b",
-  "updated": "2026-11-07",
-  "note": "rule-check: card names in quotes changed/missing: \"Skull Servants\""
+  "updated": "2026-11-08"
 }

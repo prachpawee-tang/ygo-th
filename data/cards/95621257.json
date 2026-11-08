@@ -1,10 +1,9 @@
 {
   "id": "95621257",
   "name": "Flamvell Magician",
-  "th": "ตราบใดที่คุณควบคุมมอนสเตอร์ \"พันธมิตรแห่งความยุติธรรม\" คุณนี้จะได้รับ ATK 400.",
+  "th": "ตราบใดที่คุณควบคุมมอนสเตอร์ \"Ally of Justice\" คุณนี้จะได้รับ ATK 400.",
   "status": "ai",
   "en_sha256": "81716b87ba43ad4dc321d243cbe6b6253df0b5c17ee65d3ad827b3ee431afca5",
   "model": "gemma3:12b",
-  "updated": "2026-11-07",
-  "note": "rule-check: card names in quotes changed/missing: \"Ally of Justice\""
+  "updated": "2026-11-08"
 }

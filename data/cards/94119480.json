@@ -1,10 +1,9 @@
 {
   "id": "94119480",
   "name": "Adreus, Keeper of Armageddon",
-  "th": "มอนสเตอร์ Level 5 จำนวน 2 ตัว\n1 ครั้งต่อเทิร์น: คุณสามารถถอด Material Xyz 1 ตัวจากการ์ดใบนี้เพื่อเลือกเป้าหมายการ์ดที่คว่ำอยู่ 1 ใบที่คู่ต่อสู้ควบคุม; ทำลายมัน",
+  "th": "มอนสเตอร์ Level 5 จำนวน 2 ตัว\n1 ครั้งต่อเทิร์น: คุณสามารถถอด Material Xyz 1 ตัวจากการ์ดใบนี้เพื่อเลือกเป้าหมายการ์ดหงาย 1 ใบที่คู่ต่อสู้ควบคุม; ทำลายมัน",
   "status": "ai",
   "en_sha256": "8531b96c19b097ede65539b1805fb4eadb8a6e1beca4ecebffeae57e379d0ca3",
   "model": "gemma3:12b",
-  "updated": "2026-11-07",
-  "note": "rule-check: \"face-up\" ×1 in English but \"หงาย\" ×0 in Thai — meaning may be wrong"
+  "updated": "2026-11-08"
 }

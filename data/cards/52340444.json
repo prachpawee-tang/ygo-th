@@ -1,10 +1,9 @@
 {
   "id": "52340444",
   "name": "Sky Striker Mecha - Hornet Drones",
-  "th": "ถ้าคุณไม่ได้ควบคุมมอนสเตอร์ใน Main Monster Zone ของคุณ: อัญเชิญพิเศษ \"Sky Striker Ace Token\" (Warrior/DARK/Level 1/ATK 0/DEF 0) ในท่าป้องกัน, ซึ่งไม่สามารถถูกสังเวยได้, และถ้าคุณมีเวทมนตร์ 3 ใบขึ้นไปในสุสานของคุณเมื่อเอฟเฟกต์นี้ทำงาน, ATK/DEF ของ Token จะกลายเป็น 1500 แทน.",
+  "th": "ถ้าคุณไม่ได้ควบคุมมอนสเตอร์ใน Main Monster Zone ของคุณ: อัญเชิญพิเศษ \"Sky Striker Ace Token\" (Warrior/DARK/Level 1/ATK 0/DEF 0) 1 ตัวในท่าป้องกัน, ซึ่งไม่สามารถใช้เป็นสังเวยได้, และถ้าคุณมี Spell 3 ใบขึ้นไปในสุสานของคุณเมื่อเอฟเฟกต์นี้ทำงาน, ATK/DEF ของ Token จะกลายเป็น 1500 แทน.",
   "status": "ai",
   "en_sha256": "c8ee741763361361ccca205bb8186d66af2e12d785be21572890a6ad9d9f69ba",
   "model": "gemma3:12b",
-  "updated": "2026-11-07",
-  "note": "rule-check: numbers missing in Thai: 1"
+  "updated": "2026-11-08"
 }

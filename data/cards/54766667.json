@@ -1,10 +1,9 @@
 {
   "id": "54766667",
   "name": "Light Effigy",
-  "th": "ถ้าคุณอัญเชิญแบบสังเวยมอนสเตอร์ Normal ประเภท LIGHT, คุณสามารถมองการ์ดใบนี้เป็น Tribute 2 ใบได้.",
+  "th": "ถ้าคุณอัญเชิญแบบสังเวยมอนสเตอร์ Normal ประเภท LIGHT, คุณสามารถมองว่ามอนสเตอร์ 1 ตัวนี้เป็นสังเวย 2 ตัว.",
   "status": "ai",
   "en_sha256": "0f3028ccde5620ebc1864b67f72a21a74c41d5d7340bf0ea9c32933a4afd778a",
   "model": "gemma3:12b",
-  "updated": "2026-11-06",
-  "note": "rule-check: numbers missing in Thai: 1"
+  "updated": "2026-11-08"
 }

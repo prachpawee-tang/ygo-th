@@ -1,10 +1,9 @@
 {
   "id": "3285551",
   "name": "Rite of Aramesir",
-  "th": "ถ้าคุณไม่ได้ควบคุม “Adventurer Token”: อัญเชิญพิเศษ “Adventurer Token” (Fairy/EARTH/Level 4/ATK 2000/DEF 2000) จากนั้น ถ้าคุณไม่ได้ควบคุม “Fateful Adventure”, คุณสามารถวาง “Fateful Adventure” 1 ใบจากเด็คของคุณแบบหงายใน Spell & Trap Zone ของคุณ\nคุณไม่สามารถเปิดใช้งานเอฟเฟกต์ของมอนสเตอร์ในสนามในเทิร์นที่คุณเปิดใช้การ์ดใบนี้ได้ ยกเว้นเอฟเฟกต์ของมอนสเตอร์ที่ถูกอัญเชิญพิเศษ\nคุณสามารถเปิดใช้ “Rite of Aramesir” ได้เพียง 1 ใบต่อเทิร์น",
+  "th": "ถ้าคุณไม่ได้ควบคุม “Adventurer Token”: อัญเชิญพิเศษ 1 “Adventurer Token” (Fairy/EARTH/Level 4/ATK 2000/DEF 2000), จากนั้นถ้าคุณไม่ได้ควบคุม “Fateful Adventure”, คุณสามารถวาง “Fateful Adventure” 1 ใบจากเด็คของคุณแบบหงายใน Spell & Trap Zone ของคุณได้\nคุณไม่สามารถเปิดใช้งานเอฟเฟกต์ของมอนสเตอร์ในสนามในเทิร์นที่คุณเปิดใช้การ์ดใบนี้ได้, ยกเว้นเอฟเฟกต์ของมอนสเตอร์ที่ถูกอัญเชิญพิเศษ\nคุณสามารถเปิดใช้ “Rite of Aramesir” ได้เพียง 1 ใบต่อเทิร์น",
   "status": "ai",
   "en_sha256": "8d80f46ffc0e5f2196c05de1812941d10c2f955b659805a51377df8d8d5335ae",
   "model": "gemma3:12b",
-  "updated": "2026-11-07",
-  "note": "rule-check: numbers missing in Thai: 1"
+  "updated": "2026-11-08"
 }

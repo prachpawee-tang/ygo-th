@@ -1,10 +1,9 @@
 {
   "id": "176392",
   "name": "Koa'ki Meiru Prototype",
-  "th": "ถ้ามอนสเตอร์ \"Koa'ki Meiru\" ที่หงายอยู่บนสนามจะถูกทำลายในช่วง End Phase คุณสามารถทำลายการ์ดใบนี้แทนได้\nเมื่อมอนสเตอร์ \"Koa'ki Meiru\" ที่หงายอยู่บนสนามถูกทำลายในช่วง End Phase คุณสามารถ อัญเชิญพิเศษ \"Koa'ki Meiru Token\" (Rock-Type/EARTH/Level 4/ATK 1800/DEF 1800) ได้",
+  "th": "ถ้ามอนสเตอร์ \"Koa'ki Meiru\" ที่หงายอยู่บนสนามจะถูกทำลายในระหว่าง End Phase คุณสามารถทำลายการ์ดใบนี้แทนได้\nเมื่อมอนสเตอร์ \"Koa'ki Meiru\" ที่หงายอยู่บนสนามถูกทำลายในระหว่าง End Phase คุณสามารถ อัญเชิญพิเศษ \"Koa'ki Meiru Token\" (Rock-Type/EARTH/Level 4/ATK 1800/DEF 1800) 1 ตัวได้",
   "status": "ai",
   "en_sha256": "d6c9d1ac296253a43108e8f7ace9ce0a9842a21993ce2723eda029d69da72253",
   "model": "gemma3:12b",
-  "updated": "2026-11-06",
-  "note": "rule-check: numbers missing in Thai: 1"
+  "updated": "2026-11-08"
 }

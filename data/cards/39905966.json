@@ -1,10 +1,9 @@
 {
   "id": "39905966",
   "name": "Gishki Marker",
-  "th": "เมื่อการ์ดใบนี้ถูกอัญเชิญ: คุณสามารถเลือกเป้าหมาย \"Gishki\" Ritual Monster หรือ \"Gishki\" Ritual Spell Card ในสุสานของคุณ; เพิ่มเป้าหมายนั้นขึ้นมือ.",
+  "th": "เมื่อการ์ดใบนี้ถูกอัญเชิญ: คุณสามารถเลือกเป้าหมาย \"Gishki\" Ritual Monster หรือ \"Gishki\" Ritual Spell Card 1 ใบในสุสานของคุณ; เพิ่มเป้าหมายนั้นขึ้นมือ.",
   "status": "ai",
   "en_sha256": "7ef474804a16a9fc55bb437926106aae805854d7b9c35c4fe4f33690143c6db4",
   "model": "gemma3:12b",
-  "updated": "2026-11-06",
-  "note": "rule-check: numbers missing in Thai: 1"
+  "updated": "2026-11-08"
 }

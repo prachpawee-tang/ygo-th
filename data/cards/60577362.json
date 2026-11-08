@@ -1,10 +1,9 @@
 {
   "id": "60577362",
   "name": "Overpowering Eye",
-  "th": "เลือกมอนสเตอร์ Zombie ที่คุณควบคุมที่มี ATK 2000 หรือน้อยกว่า; มันสามารถโจมตีโดยตรงในเทิร์นนี้.",
+  "th": "เลือกมอนสเตอร์ Zombie 1 ตัวที่คุณควบคุมที่มี ATK 2000 หรือน้อยกว่า; มันสามารถโจมตีโดยตรงในเทิร์นนี้.",
   "status": "ai",
   "en_sha256": "eac7b5a0a3f3b9fea34bec4a3e01ac526f3683bd0934df9d138dd74842396d69",
   "model": "gemma3:12b",
-  "updated": "2026-11-06",
-  "note": "rule-check: numbers missing in Thai: 1"
+  "updated": "2026-11-08"
 }

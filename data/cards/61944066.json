@@ -1,10 +1,9 @@
 {
   "id": "61944066",
   "name": "Nouvelles Recipe Book \"Recettes de Nouvellez\"",
-  "th": "ตราบใดที่คุณควบคุม “Nouvelles” Monster Card, มอนสเตอร์หงายทั้งหมดที่คู่ต่อสู้ควบคุมจะเปลี่ยนเป็นท่าโจมตี\nทุกครั้งที่มอนสเตอร์ถูกสังเวยโดยเอฟเฟกต์ของ Ritual Monster, คู่ต่อสู้จ่าย LP 850\n1 ครั้งต่อเทิร์น, ถ้าคุณ อัญเชิญพิเศษ Ritual Monster(s) (ยกเว้นระหว่าง Damage Step): คุณสามารถเลือกเป้าหมาย 1 ตัว; เพิ่มการ์ด \"Recipe\" หรือ \"Nouvelles\" จากเด็คของคุณขึ้นมือ, ยกเว้น Spell แบบต่อเนื่อง, และถ้าทำได้, เพิ่ม Level ของมอนสเตอร์นั้นขึ้น 1\nคุณสามารถเปิดใช้ “Nouvelles Recipe Book \"Recettes de Nouvellez\"\" ได้เพียง 1 ใบต่อเทิร์น",
+  "th": "ตราบใดที่คุณควบคุม “Nouvelles” Monster Card, มอนสเตอร์หงายทั้งหมดที่คู่ต่อสู้ควบคุมจะเปลี่ยนเป็นท่าโจมตี\nทุกครั้งที่มอนสเตอร์ถูกสังเวยโดยเอฟเฟกต์ของ Ritual Monster, คู่ต่อสู้จ่าย LP 850\n1 ครั้งต่อเทิร์น, ถ้าคุณ อัญเชิญพิเศษ Ritual Monster(s) (ยกเว้นระหว่าง Damage Step): คุณสามารถเลือกเป้าหมาย 1 ตัวในนั้น; เพิ่มการ์ด \"Recipe\" หรือ \"Nouvelles\" จากเด็คของคุณขึ้นมือ, ยกเว้นการ์ด Spell แบบต่อเนื่อง, และถ้าทำได้, เพิ่ม Level ของมอนสเตอร์นั้นขึ้น 1\nคุณสามารถเปิดใช้ “Nouvelles Recipe Book ”Recettes de Nouvellez” ได้เพียง 1 ใบต่อเทิร์น",
   "status": "ai",
   "en_sha256": "f09adfd0cc57cf182081a0d7c22bf84b6ea749d3dc0864d09da45b12bd164d51",
   "model": "gemma3:12b",
-  "updated": "2026-11-06",
-  "note": "rule-check: card names in quotes changed/missing: \"Nouvelles Recipe Book \""
+  "updated": "2026-11-08"
 }

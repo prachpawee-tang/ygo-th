@@ -1,10 +1,9 @@
 {
   "id": "81191584",
   "name": "Recurring Nightmare",
-  "th": "เลือกมอนสเตอร์ DARK 2 ตัวที่อยู่ในสุสานของคุณ; เพิ่มเป้าหมายเหล่านั้นขึ้นมือ.",
+  "th": "เลือกเป้าหมายมอนสเตอร์ DARK 2 ตัวที่มี DEF 0 ในสุสานของคุณ; เพิ่มเป้าหมายเหล่านั้นขึ้นมือ.",
   "status": "ai",
   "en_sha256": "dde1b6178b72d82698a54d995b89a8a26fae19c0b29c5359bf4a7d240d1bb94c",
   "model": "gemma3:12b",
-  "updated": "2026-11-07",
-  "note": "rule-check: numbers missing in Thai: 0"
+  "updated": "2026-11-08"
 }

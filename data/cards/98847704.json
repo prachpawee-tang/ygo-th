@@ -1,10 +1,9 @@
 {
   "id": "98847704",
   "name": "Release Restraint Wave",
-  "th": "เลือกการ์ด Spell แบบติด (Equip Spell Card) ที่หงายอยู่ซึ่งคุณควบคุม; ทำลายการ์ด Spell แบบติดนั้น และการ์ด Spell และกับดักที่คว่ำอยู่ทั้งหมดที่คู่ต่อสู้ควบคุม.",
+  "th": "เลือกการ์ด Spell แบบติด (Equip Spell Card) หงาย 1 ใบที่คุณควบคุม; ทำลายการ์ด Spell แบบติดนั้น และทำลายการ์ด Spell และกับดัก คว่ำทั้งหมดที่คู่ต่อสู้ควบคุม.",
   "status": "ai",
   "en_sha256": "db30d10ede3c17779936e7f5995357a4048d010bb3e7bb4345e504578dd0d8d3",
   "model": "gemma3:12b",
-  "updated": "2026-11-06",
-  "note": "rule-check: numbers missing in Thai: 1"
+  "updated": "2026-11-08"
 }

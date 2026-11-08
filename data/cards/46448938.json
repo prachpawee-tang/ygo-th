@@ -1,10 +1,10 @@
 {
   "id": "46448938",
   "name": "Spellbook of Judgment",
-  "th": "ระหว่าง End Phase ของเทิร์นที่การ์ดใบนี้ถูกเปิดใช้, จั่วการ์ด Spellbook เวทมนตร์จากเด็คของคุณขึ้นมือ, ยกเว้น \"Spellbook of Judgment\", สูงสุดตามจำนวนการ์ดเวทมนตร์ที่ถูกเปิดใช้หลังจากการแก้ไขเอฟเฟกต์นี้, จากนั้น คุณสามารถ อัญเชิญพิเศษจากเด็ค มอนสเตอร์ชนิด Spellcaster ที่มี Level น้อยกว่าหรือเท่ากับจำนวนการ์ดที่ถูกเพิ่มขึ้นมือโดยเอฟเฟกต์นี้.\nคุณสามารถเปิดใช้ \"Spellbook of Judgment\" ได้เพียง 1 ใบต่อเทิร์น",
+  "th": "ในช่วง End Phase ของเทิร์นที่การ์ดใบนี้ถูกเปิดใช้ เพิ่มการ์ด Spell ที่มีชื่อ “Spellbook” จากเด็คของคุณขึ้นมือ ยกเว้น “Spellbook of Judgment” จำนวนเท่ากับจำนวนการ์ด Spell ที่ถูกเปิดใช้หลังจากการแก้ไขเอฟเฟกต์นี้; จากนั้น คุณสามารถ อัญเชิญพิเศษจากเด็ค มอนสเตอร์ประเภท Spellcaster-Type ที่มี Level น้อยกว่าหรือเท่ากับจำนวนการ์ดที่ถูกเพิ่มขึ้นมือด้วยเอฟเฟกต์นี้\nคุณสามารถเปิดใช้ “Spellbook of Judgment” ได้เพียง 1 ใบต่อเทิร์น",
   "status": "ai",
   "en_sha256": "bcbb7060e3efa9545c3c14f783c342eb1e486777a30f6893047749b17f21c501",
   "model": "gemma3:12b",
-  "updated": "2026-11-06",
-  "note": "rule-check: numbers missing in Thai: 1; card names in quotes changed/missing: \"Spellbook\""
+  "updated": "2026-11-08",
+  "note": "rule-check: numbers missing in Thai: 1"
 }

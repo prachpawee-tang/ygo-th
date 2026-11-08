@@ -1,10 +1,9 @@
 {
   "id": "27548199",
   "name": "Borreload Savage Dragon",
-  "th": "1 Tuner + 1+ non-Tuner monsters\nถ้าการ์ดใบนี้ถูกอัญเชิญแบบ Synchro: คุณสามารถติดตั้งมอนสเตอร์ Link 1 ตัวจากสุสานของคุณกับการ์ดใบนี้ และถ้าทำได้ ให้วาง Borrel Counters บนการ์ดใบนี้เท่ากับ Link Rating ของมอนสเตอร์ Link นั้น\nการ์ดใบนี้ได้รับ ATK เท่ากับครึ่งหนึ่งของ ATK ของมอนสเตอร์ที่ถูกติดตั้งไว้กับมันโดยเอฟเฟกต์ของมัน\nเมื่อคู่ต่อสู้เปิดใช้การ์ดหรือเอฟเฟกต์ (Quick Effect): คุณสามารถนำ Borrel Counter 1 ตัวออกจากนี้ และลบล้างการเปิดใช้งาน\nคุณสามารถใช้เอฟเฟกต์ของ \"Borreload Savage Dragon\" ได้ 1 ครั้งต่อเทิร์น",
+  "th": "1 Tuner + 1+ non-Tuner monsters\nถ้าการ์ดใบนี้ถูกอัญเชิญแบบ Synchro: คุณสามารถติดตั้งมอนสเตอร์ Link 1 ตัวจากสุสานของคุณกับการ์ดใบนี้ และถ้าทำได้ ให้วาง Borrel Counters บนการ์ดใบนี้เท่ากับ Link Rating ของมอนสเตอร์ Link นั้น\nการ์ดใบนี้ได้รับ ATK เท่ากับครึ่งหนึ่งของ ATK ของมอนสเตอร์ที่ถูกติดตั้งไว้กับมันโดยเอฟเฟกต์ของมัน\nเมื่อคู่ต่อสู้ของคุณเปิดใช้การ์ดหรือเอฟเฟกต์ (Quick Effect): คุณสามารถนำ Borrel Counter 1 ตัวออกจากนี้; ลบล้างการเปิดใช้งาน\nคุณสามารถใช้เอฟเฟกต์ของ \"Borreload Savage Dragon\" ได้เพียง 1 ครั้งต่อเทิร์น",
   "status": "ai",
   "en_sha256": "0ea8a747fc9ca1908efb38d5972ee76449adba846a0c05d7befeb8e4b8a2cff7",
   "model": "gemma3:12b",
-  "updated": "2026-11-07",
-  "note": "rule-check: fewer \";\" than English (0 < 1) — cost/resolution split may be lost"
+  "updated": "2026-11-08"
 }

@@ -1,10 +1,9 @@
 {
   "id": "53291093",
   "name": "Mysterious Triangle",
-  "th": "ทำลายมอนสเตอร์ 1 ตัวในสนามที่มี A-Counter\nจากนั้น คุณสามารถอัญเชิญพิเศษมอนสเตอร์ \"Alien\" เลเวล 4 จากเด็คของคุณได้\nทำลายมันในช่วง End Phase",
+  "th": "ทำลายมอนสเตอร์ 1 ตัวในสนามที่มี A-Counter\nจากนั้น คุณสามารถอัญเชิญพิเศษมอนสเตอร์ \"Alien\" Level 4 จำนวน 1 ตัวจากเด็คของคุณได้\nทำลายมันในช่วง End Phase",
   "status": "ai",
   "en_sha256": "d16cf933a4399437220633e034e4ee4566a51f1d62a6c07fc06fbd414eb69f46",
   "model": "gemma3:12b",
-  "updated": "2026-11-06",
-  "note": "rule-check: numbers missing in Thai: 1"
+  "updated": "2026-11-08"
 }

@@ -1,10 +1,9 @@
 {
   "id": "6890729",
   "name": "Bonding - DHO",
-  "th": "สับการ์ด \"Duoterion\", \"Hydrogeddon\" และ \"Oxygeddon\" จากมือและ/หรือสุสานของคุณเข้าเด็ค; อัญเชิญพิเศษ \"Water Dragon Cluster\" 1 ตัวจากมือหรือสุสานของคุณ\nคุณสามารถเอาการ์ดใบนี้ออกจากเกมจากสุสานของคุณ; เพิ่มการ์ด \"Water Dragon\" หรือ \"Water Dragon Cluster\" 1 ใบจากเด็คหรือสุสานของคุณขึ้นมือ",
+  "th": "สับ \"Duoterion\" 1 ใบ, \"Hydrogeddon\" 1 ใบ และ \"Oxygeddon\" 1 ใบ จากมือและ/หรือ สุสานของคุณกลับเข้าเด็ค; อัญเชิญพิเศษ \"Water Dragon Cluster\" 1 ใบจากมือหรือสุสานของคุณ\nคุณสามารถเอาการ์ดใบนี้ออกจากเกมจากสุสานของคุณ; เพิ่มการ์ด \"Water Dragon\" หรือ \"Water Dragon Cluster\" 1 ใบจากเด็คหรือสุสานของคุณขึ้นมือ",
   "status": "ai",
   "en_sha256": "7162f3a93a1338aa7c002f4dafb7844bc759fc8809b62f139d574af3634e5eba",
   "model": "gemma3:12b",
-  "updated": "2026-11-06",
-  "note": "rule-check: numbers missing in Thai: 1"
+  "updated": "2026-11-08"
 }

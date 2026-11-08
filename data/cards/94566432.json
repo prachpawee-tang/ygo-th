@@ -1,10 +1,9 @@
 {
   "id": "94566432",
   "name": "Kaiser Dragon",
-  "th": "\"มังกรปีก, ผู้พิทักษ์ป้อมปราการ #1\" + \"มังกรนางฟ้า\"",
+  "th": "\"Winged Dragon, Guardian of the Fortress #1\" + \"Fairy Dragon\"",
   "status": "ai",
   "en_sha256": "41e8bfb569e7b8e965ae240546bc1813e6d5d715435cbfaecfc91f71c06e0d8b",
   "model": "gemma3:12b",
-  "updated": "2026-11-06",
-  "note": "rule-check: card names in quotes changed/missing: \"Fairy Dragon\", \"Winged Dragon, Guardian of the Fortress #1\""
+  "updated": "2026-11-08"
 }

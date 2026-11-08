@@ -1,10 +1,9 @@
 {
   "id": "30432463",
   "name": "Dimonno Vaalmonica",
-  "th": "[ Pendulum Effect ]\nทุกครั้งที่คุณได้รับความเสียหายจากเอฟเฟกต์ขณะที่คุณควบคุมการ์ดมอนสเตอร์ Fairy ใน Pendulum Zone อื่นของคุณ ให้วาง Resonance Counter 1 ตัวบนการ์ดใบนี้\nมอนสเตอร์ที่คู่ต่อสู้ควบคุมจะเสีย ATK 100 สำหรับ Resonance Counter แต่ละตัวในสนามของคุณ\n[ Monster Effect ]\nถ้าการ์ดใบนี้อยู่ในมือของคุณ: คุณสามารถทิ้งการ์ดอื่น 1 ใบ; จั่ว \"Angello Vaalmonica\" 1 ใบจากเด็คของคุณ และวางการ์ดใบนี้และการ์ดใบนั้นใน Pendulum Zones ของคุณ\nระหว่าง Main Phase ของคุณ, ถ้าการ์ดใบนี้ถูก Normal หรือ Special Summon ในเทิร์นนี้: คุณสามารถเอา \"Vaalmonica\" Normal Spell/Trap 1 ใบออกจากสุสานของคุณ; ใช้เอฟเฟกต์ใดก็ได้บนการ์ดใบนั้นซึ่งรวมถึงการได้รับความเสียหาย\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Dimonno Vaalmonica\" ได้ 1 ครั้งต่อเทิร์น",
+  "th": "[ Pendulum Effect ]\nทุกครั้งที่คุณได้รับความเสียหายจากเอฟเฟกต์ขณะที่คุณควบคุม Fairy Monster Card ใน Pendulum Zone อื่นของคุณ ให้วาง Resonance Counter 1 ตัวบนการ์ดใบนี้\nมอนสเตอร์ที่คู่ต่อสู้ควบคุมจะเสีย ATK 100 สำหรับ Resonance Counter แต่ละตัวในสนามของคุณ\n[ Monster Effect ]\nถ้าการ์ดใบนี้อยู่ในมือของคุณ: คุณสามารถทิ้งการ์ดอื่น 1 ใบ; นำ \"Angello Vaalmonica\" 1 ใบจากเด็คของคุณ และวางการ์ดใบนี้และการ์ดใบนั้นใน Pendulum Zones ของคุณ\nในช่วง Main Phase ของคุณ ถ้าการ์ดใบนี้ถูก Normal หรือ Special Summon ในเทิร์นนี้: คุณสามารถเอา \"Vaalmonica\" Normal Spell/Trap 1 ใบจากสุสานของคุณออกจากเกม; ใช้เอฟเฟกต์ใดก็ตามบนการ์ดใบนั้นที่รวมถึงการรับความเสียหาย\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Dimonno Vaalmonica\" ได้ 1 ครั้งต่อเทิร์น",
   "status": "ai",
   "en_sha256": "5078528fe6ba17efdb1366574ad518b2c2c1b326c01de59afe4f1cba3fe658de",
   "model": "gemma3:12b",
-  "updated": "2026-11-07",
-  "note": "rule-check: \"banish\" ×1 in English but \"ออกจากเกม\" ×0 in Thai — meaning may be wrong"
+  "updated": "2026-11-08"
 }

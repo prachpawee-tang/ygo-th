@@ -1,10 +1,9 @@
 {
   "id": "50237654",
   "name": "The Dark Magicians",
-  "th": "\"Dark Magician\" หรือ \"Dark Magician Girl\" + มอนสเตอร์ Spellcaster 1 ตัว\nเมื่อใดก็ได้ในเทิร์น 1 ครั้ง, ถ้ามีการ์ด Spell/Trap หรือเอฟเฟกต์เปิดใช้ (ยกเว้นระหว่าง Damage Step): คุณสามารถจั่วการ์ด 1 ใบ, จากนั้นถ้ามันเป็นการ์ด Spell/Trap คุณสามารถเซ็ตมันได้, และถ้ามันเป็นกับดักหรือ Spell Quick-Play คุณสามารถเปิดใช้งานมันในเทิร์นนี้ได้\nถ้าการ์ดใบนี้ถูกทำลาย: คุณสามารถอัญเชิญพิเศษทั้ง \"Dark Magician\" และ \"Dark Magician Girl\" จากมือ, เด็ค, และ/หรือ สุสานของคุณ",
+  "th": "\"Dark Magician\" หรือ \"Dark Magician Girl\" + มอนสเตอร์ Spellcaster 1 ตัว\nเมื่อใดก็ได้ในการเทิร์น 1 ครั้ง, ถ้ามีการ์ด Spell/Trap หรือเอฟเฟกต์เปิดใช้ (ยกเว้นในช่วง Damage Step): คุณสามารถจั่วการ์ด 1 ใบ, จากนั้นถ้ามันเป็นการ์ด Spell/Trap คุณสามารถเซ็ตมันได้, และถ้ามันเป็นการ์ด Trap หรือ Spell Quick-Play คุณสามารถเปิดใช้งานมันในเทิร์นนี้ได้\nถ้าการ์ดใบนี้ถูกทำลาย: คุณสามารถอัญเชิญพิเศษทั้ง \"Dark Magician\" และ \"Dark Magician Girl\" จำนวน 1 ตัว จากมือ, เด็ค, และ/หรือ สุสานของคุณ",
   "status": "ai",
   "en_sha256": "19b6e4a84de946c952dbd2b96462314857d18bee23924489b9f36e08bdce7c26",
   "model": "gemma3:12b",
-  "updated": "2026-11-07",
-  "note": "rule-check: numbers missing in Thai: 1"
+  "updated": "2026-11-08"
 }

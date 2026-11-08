@@ -1,10 +1,9 @@
 {
   "id": "39765115",
   "name": "Splash Capture",
-  "th": "เมื่อคู่ต่อสู้ทำการ Xyz Summon: เอามอนสเตอร์ Fish-Type 2 ตัวออกจากสุสานของคุณเพื่อเลือกเป้าหมายมอนสเตอร์ Xyz ที่หงายอยู่; ควบคุมเป้าหมายนั้น.",
+  "th": "เมื่อคู่ต่อสู้ทำการอัญเชิญแบบ Xyz: เอามอนสเตอร์ Fish-Type 2 ตัวออกจากเกมจากสุสานของคุณเพื่อเลือกเป้าหมายมอนสเตอร์ Xyz ที่หงายอยู่; ควบคุมเป้าหมายนั้น.",
   "status": "ai",
   "en_sha256": "66ccfbd20ebf297910ccafaa7ac1a3684148a209d7a5c5a2bdc2df5d95e85a48",
   "model": "gemma3:12b",
-  "updated": "2026-11-06",
-  "note": "rule-check: \"banish\" ×1 in English but \"ออกจากเกม\" ×0 in Thai — meaning may be wrong"
+  "updated": "2026-11-08"
 }

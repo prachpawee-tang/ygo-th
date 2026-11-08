@@ -1,10 +1,9 @@
 {
   "id": "96157835",
   "name": "Raidraptor - Arsenal Falcon",
-  "th": "มอนสเตอร์ Level 7 จำนวน 2 ตัว\n1 ครั้งต่อเทิร์น: คุณสามารถถอด Material 1 ชิ้นจากไพ่ใบนี้; อัญเชิญพิเศษมอนสเตอร์ Winged Beast Level 4 จากเด็คของคุณ\nถ้าไพ่ใบนี้มีมอนสเตอร์ \"Raidraptor\" เป็น Material จำนวนใดๆ: มันสามารถโจมตีได้สูงสุดตามจำนวนนั้นในแต่ละ Battle Phase\nถ้าไพ่ใบนี้ถูกส่งลงสุสานในขณะที่มีมอนสเตอร์ \"Raidraptor\" เป็น Material: คุณสามารถอัญเชิญพิเศษมอนสเตอร์ Xyz \"Raidraptor\" จากเอ็กซ์ตร้าเด็คของคุณ ยกเว้น \"Raidraptor - Arsenal Falcon\" และถ้าทำได้ ให้ติดไพ่ใบนี้จากสุสานของคุณกับมันเป็น Material",
+  "th": "มอนสเตอร์ Level 7 จำนวน 2 ตัว\n1 ครั้งต่อเทิร์น: คุณสามารถถอด Material 1 ชิ้นจากตัวนี้; อัญเชิญพิเศษมอนสเตอร์ Winged Beast Level 4 จำนวน 1 ตัวจากเด็คของคุณ\nถ้าการ์ดใบนี้มีมอนสเตอร์ \"Raidraptor\" เป็น Material จำนวนใดๆ ก็ตาม: มันสามารถโจมตีได้สูงสุดตามจำนวนนั้นในแต่ละ Battle Phase\nถ้าการ์ดใบนี้ถูกส่งลงสุสานในขณะที่มีมอนสเตอร์ \"Raidraptor\" เป็น Material: คุณสามารถอัญเชิญพิเศษมอนสเตอร์ Xyz \"Raidraptor\" จำนวน 1 ตัวจากเอ็กซ์ตร้าเด็คของคุณ ยกเว้น \"Raidraptor - Arsenal Falcon\" และถ้าทำได้ ให้ติดการ์ดใบนี้จากสุสานของคุณกับมันเป็น Material",
   "status": "ai",
   "en_sha256": "b508c1fe6bcf32f7e67b6f7ce6b1cb8e0a4a2cd00cc63452ebc94b0d2bc1807c",
   "model": "gemma3:12b",
-  "updated": "2026-11-07",
-  "note": "rule-check: numbers missing in Thai: 1"
+  "updated": "2026-11-08"
 }

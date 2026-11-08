@@ -1,10 +1,9 @@
 {
   "id": "40348946",
   "name": "Hyper Synchron",
-  "th": "ถ้าการ์ดใบนี้ถูกส่งลงสุสานสำหรับการอัญเชิญ Synchro ของมอนสเตอร์ Dragon-Type: มอนสเตอร์นั้นได้รับ ATK 800, นอกจากนี้ เอาการ์ดใบนั้นออกจากเกมในช่วง End Phase.",
+  "th": "ถ้าการ์ดใบนี้ถูกส่งลงสุสานสำหรับการอัญเชิญ Synchro ของมอนสเตอร์ประเภท Dragon: มอนสเตอร์นั้นได้รับ ATK 800, และเอามอนสเตอร์ที่หงายอยู่ใบนั้นออกจากเกมในช่วง End Phase.",
   "status": "ai",
   "en_sha256": "ae0fce443fd60c3bab608377b1441a3716af74aec1333ee733f08d261fc8b936",
   "model": "gemma3:12b",
-  "updated": "2026-11-07",
-  "note": "rule-check: \"face-up\" ×1 in English but \"หงาย\" ×0 in Thai — meaning may be wrong"
+  "updated": "2026-11-08"
 }

@@ -1,10 +1,9 @@
 {
   "id": "24725825",
   "name": "Electric Virus",
-  "th": "คุณสามารถทิ้งการ์ดใบนี้ลงสุสาน, จากนั้นเลือกเป้าหมายมอนสเตอร์ Machine หรือ Dragon-Type ที่คู่ต่อสู้ควบคุม; ควบคุมเป้าหมายนั้นจนถึง End Phase.",
+  "th": "คุณสามารถทิ้งการ์ดใบนี้ลงสุสาน, จากนั้นเลือกเป้าหมายมอนสเตอร์ Machine หรือ Dragon-Type 1 ตัวที่คู่ต่อสู้ควบคุม; ควบคุมเป้าหมายนั้นจนถึง End Phase.",
   "status": "ai",
   "en_sha256": "144c6af1329a9e774fc120cbe7e7fcdcae0857d4eb5b0814a9960efe57ccb4b3",
   "model": "gemma3:12b",
-  "updated": "2026-11-06",
-  "note": "rule-check: numbers missing in Thai: 1"
+  "updated": "2026-11-08"
 }

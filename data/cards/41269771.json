@@ -1,10 +1,9 @@
 {
   "id": "41269771",
   "name": "Constellar Algiedi",
-  "th": "เมื่อการ์ดใบนี้ถูกอัญเชิญปกติ: คุณสามารถอัญเชิญพิเศษมอนสเตอร์ \"Constellar\" ระดับ 4 จากมือของคุณได้.",
+  "th": "เมื่อการ์ดใบนี้ถูกอัญเชิญปกติ: คุณสามารถอัญเชิญพิเศษมอนสเตอร์ \"Constellar\" Level 4 จำนวน 1 ตัวจากมือของคุณ.",
   "status": "ai",
   "en_sha256": "226f72a93e8cd185be0c586a4809bf499b33a5a0f2f6fd01817fa3bdd076d353",
   "model": "gemma3:12b",
-  "updated": "2026-11-06",
-  "note": "rule-check: numbers missing in Thai: 1"
+  "updated": "2026-11-08"
 }

@@ -1,10 +1,9 @@
 {
   "id": "66380357",
   "name": "Appliancer Test",
-  "th": "เลือกเป้าหมาย \"Appliancer\" Link Monster 1 ตัวที่คุณควบคุม; อัญเชิญพิเศษมอนสเตอร์ \"Appliancer\" ระดับ Link-1 จากสุสานของคุณให้ได้มากที่สุดเท่าที่จะเป็นไปได้ไปยัง Main Monster Zone ที่มอนสเตอร์เป้าหมายชี้, แต่ส่งพวกมันลงสุสานในช่วง End Phase\nคุณสามารถเปิดใช้ \"Appliancer Test\" ได้เพียง 1 ใบต่อเทิร์น",
+  "th": "เลือกเป้าหมาย \"Appliancer\" มอนสเตอร์ Link 1 ตัวที่คุณควบคุม; อัญเชิญพิเศษมอนสเตอร์ \"Appliancer\" แบบ Link-1 จากสุสานของคุณให้ได้มากที่สุดเท่าที่จะเป็นไปได้ไปยัง Main Monster Zone ที่มอนสเตอร์นั้นชี้, แต่เอาพวกมันออกจากเกมในช่วง End Phase\nคุณสามารถเปิดใช้ \"Appliancer Test\" ได้เพียง 1 ใบต่อเทิร์น",
   "status": "ai",
   "en_sha256": "54213220ebd38aa984be69de20918760ac3a68c1871176e831a688a01d6ba0eb",
   "model": "gemma3:12b",
-  "updated": "2026-11-06",
-  "note": "rule-check: \"banish\" ×1 in English but \"ออกจากเกม\" ×0 in Thai — meaning may be wrong"
+  "updated": "2026-11-08"
 }

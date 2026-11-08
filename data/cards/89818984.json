@@ -1,10 +1,9 @@
 {
   "id": "89818984",
   "name": "Flower Cardian Willow with Calligrapher",
-  "th": "ไม่สามารถอัญเชิญปกติ/เซ็ตได้\nต้องอัญเชิญพิเศษก่อน (จากมือ) โดยการสังเวยมอนสเตอร์ \"Flower Cardian\" ระดับ 11 ตัวใดก็ได้ ยกเว้น \"Flower Cardian Willow with Calligrapher\"\nถ้าการ์ดใบนี้ถูกอัญเชิญพิเศษ: จั่วการ์ด 1 ใบ และถ้าจั่วได้ ให้แสดงการ์ดใบนั้น จากนั้นคุณสามารถอัญเชิญพิเศษมันได้ถ้ามันเป็นมอนสเตอร์ \"Flower Cardian\"\nมิฉะนั้น ส่งมันลงสุสาน\nเมื่อการ์ดใบนี้ถูกใช้เป็น Material สำหรับการ Synchro คุณสามารถมองว่ามันและ Material Synchro อื่นๆ ทั้งหมด (ที่มี Level) เป็นมอนสเตอร์ระดับ 2",
+  "th": "อัญเชิญปกติ/เซ็ตไม่ได้\nต้องอัญเชิญพิเศษก่อน (จากมือของคุณ) โดยสังเวยมอนสเตอร์ \"Flower Cardian\" Level 11 จำนวน 1 ตัว ยกเว้น \"Flower Cardian Willow with Calligrapher\"\nถ้าการ์ดใบนี้ถูกอัญเชิญพิเศษ: จั่วการ์ด 1 ใบ และถ้าจั่วได้ ให้แสดงการ์ดนั้น จากนั้นคุณสามารถอัญเชิญพิเศษมันได้ ถ้ามันเป็นมอนสเตอร์ \"Flower Cardian\"\nมิฉะนั้น ส่งมันลงสุสาน\nเมื่อการ์ดใบนี้ถูกใช้เป็น Material Synchro คุณสามารถมองว่ามันและ Material Synchro อื่นๆ (ที่มี Level) เป็น Level 2 monsters",
   "status": "ai",
   "en_sha256": "1531ca5a1f7f9dec74163c95808979deaae2c79a8759994ba0dbb3e3b6cbd1b5",
   "model": "gemma3:12b",
-  "updated": "2026-11-06",
-  "note": "rule-check: numbers missing in Thai: 1"
+  "updated": "2026-11-08"
 }

@@ -1,10 +1,9 @@
 {
   "id": "92918648",
   "name": "Hierophant of Prophecy",
-  "th": "มอนสเตอร์ประเภท Spellcaster-Type ระดับ 7 จำนวน 2 ตัว\n1 ครั้งต่อเทิร์น: คุณสามารถถอด Material Xyz 1 ตัวจากการ์ดใบนี้; ทำลายการ์ด Spell/Trap ที่คู่ต่อสู้ควบคุม จำนวนสูงสุดเท่ากับจำนวนการ์ด Spellbook Spell ในสุสานของคุณ",
+  "th": "มอนสเตอร์ประเภท Spellcaster ที่มี Level 7 จำนวน 2 ตัว\n1 ครั้งต่อเทิร์น: คุณสามารถถอด Material Xyz 1 ชิ้นจากไพ่ใบนี้; ทำลายการ์ด Spell/Trap ที่คู่ต่อสู้ควบคุม จำนวนสูงสุดเท่ากับจำนวนการ์ด Spell \"Spellbook\" ในสุสานของคุณ",
   "status": "ai",
   "en_sha256": "271dd3f4b905acedc5a3a0076391d179bc9493af19a3cbd051ac002084baa5c9",
   "model": "gemma3:12b",
-  "updated": "2026-11-06",
-  "note": "rule-check: card names in quotes changed/missing: \"Spellbook\""
+  "updated": "2026-11-08"
 }

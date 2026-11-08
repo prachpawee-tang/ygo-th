@@ -1,10 +1,9 @@
 {
   "id": "31076103",
   "name": "The First Sarcophagus",
-  "th": "ในระหว่าง End Phase ของคู่ต่อสู้แต่ละครั้ง วางการ์ด 1 ใบคว่ำบนสนามของคุณจากมือหรือเด็คตามลำดับนี้: \"The Second Sarcophagus\", \"The Third Sarcophagus\"\nถ้ามีการ์ด Sarcophagus 1 ใบถูกนำออกจากสนามของคุณ การ์ดทั้งหมดบนสนามของคุณจะถูกส่งลงสุสาน\nเมื่อคุณมี Sarcophagus ทั้ง 3 ใบอยู่บนสนามของคุณ ส่งการ์ด Sarcophagus ทั้งหมดบนสนามของคุณลงสุสานเพื่ออัญเชิญพิเศษ \"Spirit of the Pharaoh\" 1 ตัวจากมือหรือเด็ค",
+  "th": "ในระหว่าง End Phase ของคู่ต่อสู้แต่ละครั้ง วางการ์ด 1 ใบหงายบนสนามของคุณด้านของคุณจากมือหรือเด็คตามลำดับนี้: \"The Second Sarcophagus\", \"The Third Sarcophagus\"\nถ้ามีการ์ด Sarcophagus 1 ใบถูกนำออกจากสนามของคุณด้านของคุณ ทั้งหมดบนสนามของคุณด้านของคุณจะถูกส่งลงสุสาน\nเมื่อคุณมี Sarcophagus ทั้ง 3 ใบในสนามของคุณด้านของคุณ ส่ง Sarcophagus ทั้งหมดบนสนามของคุณด้านของคุณลงสุสานเพื่ออัญเชิญพิเศษ \"Spirit of the Pharaoh\" 1 ตัวจากมือหรือเด็คของคุณ",
   "status": "ai",
   "en_sha256": "555be6d6b18db148ee540ef4adbfd70395c126a154b2b751b1567f3d9b2bcaf2",
   "model": "gemma3:12b",
-  "updated": "2026-11-06",
-  "note": "rule-check: \"face-up\" ×1 in English but \"หงาย\" ×0 in Thai — meaning may be wrong"
+  "updated": "2026-11-08"
 }

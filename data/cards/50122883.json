@@ -1,10 +1,9 @@
 {
   "id": "50122883",
   "name": "Bite Shoes",
-  "th": "พลิก: เปลี่ยนท่าMonster Zone บนสนาม.",
+  "th": "พลิก: เปลี่ยนท่าทางของมอนสเตอร์หงาย 1 ตัวในสนาม.",
   "status": "ai",
   "en_sha256": "5f1e71a7222bdbd4849c95ab3f50b26e7baa6d8bec4af921468b90fa21ec0d80",
   "model": "gemma3:12b",
-  "updated": "2026-11-07",
-  "note": "rule-check: numbers missing in Thai: 1; \"face-up\" ×1 in English but \"หงาย\" ×0 in Thai — meaning may be wrong"
+  "updated": "2026-11-08"
 }

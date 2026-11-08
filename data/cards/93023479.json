@@ -1,10 +1,9 @@
 {
   "id": "93023479",
   "name": "Gravekeeper's Recruiter",
-  "th": "ถ้าการ์ดใบนี้ที่คุณควบคุมถูกส่งลงสุสานของคุณ: เพิ่มมอนสเตอร์ \"Gravekeeper's\" ที่มี DEF 1500 หรือน้อยกว่าจากเด็คของคุณขึ้นมือ.",
+  "th": "ถ้าการ์ดใบนี้ที่คุณควบคุมถูกส่งลงสุสาน: จั่วมอนสเตอร์ \"Gravekeeper's\" 1 ตัวที่มี DEF 1500 หรือน้อยกว่าจากเด็คขึ้นมือ.",
   "status": "ai",
   "en_sha256": "5767f6a9e201fd1155402f4deeec1a60c015121f5ad88bb4d579f62fedc3d3b8",
   "model": "gemma3:12b",
-  "updated": "2026-11-07",
-  "note": "rule-check: numbers missing in Thai: 1"
+  "updated": "2026-11-08"
 }

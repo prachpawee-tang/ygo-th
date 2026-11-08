@@ -1,10 +1,9 @@
 {
   "id": "54387923",
   "name": "TiSolfachord Beautia",
-  "th": "[ Pendulum Effect ]\nคู่ต่อสู้ของคุณไม่สามารถเปิดใช้การ์ด Spell/Trap หรือเอฟเฟกต์มอนสเตอร์ได้ เมื่อมอนสเตอร์ Pendulum \"Solfachord\" ของคุณถูกอัญเชิญแบบ Pendulum\n[ Monster Effect ]\n(Quick Effect): คุณสามารถเลือกเป้าหมายมอนสเตอร์เอฟเฟกต์ 1 ตัวที่คู่ต่อสู้ควบคุม หรือ ถ้าคุณมีค่า Pendulum Scale ที่เป็นเลขคู่ใน Pendulum Zone ของคุณ คุณสามารถเลือกเป้าหมาย Spell/Trap ที่คว่ำอยู่ 1 ใบที่คู่ต่อสู้ควบคุม; ในเทิร์นนี้ ส่งมันลงสุสานเมื่อมันออกจากสนาม\nคุณสามารถใช้เอฟเฟกต์นี้ของ \"TiSolfachord Beautia\" ได้ 1 ครั้งต่อเทิร์น\n1 ครั้งต่อเทิร์น ในช่วงเริ่มต้นของ Damage Step ถ้าการ์ดใบนี้ทำการต่อสู้กับมอนสเตอร์ที่มี ATK เท่าหรือสูงกว่าค่า Pendulum Scale ที่ต่ำที่สุดใน Pendulum Zone ของคุณ คูณ 300: ทำลายมอนสเตอร์นั้น",
+  "th": "[ Pendulum Effect ]\nคู่ต่อสู้ของคุณไม่สามารถเปิดใช้การ์ดเวทมนตร์ (Spell)/กับดัก (Trap) หรือเอฟเฟกต์มอนสเตอร์ เมื่อมอนสเตอร์ Pendulum \"Solfachord\" ของคุณถูกอัญเชิญแบบ Pendulum\n[ Monster Effect ]\n(Quick Effect): คุณสามารถเลือกเป้าหมายมอนสเตอร์เอฟเฟกต์ 1 ตัวที่คู่ต่อสู้ควบคุม หรือ ถ้าคุณมีค่า Pendulum Scale ที่เป็นเลขคู่ใน Pendulum Zone ของคุณ, คุณสามารถเลือกเป้าหมายการ์ดเวทมนตร์ (Spell)/กับดัก (Trap) หงาย 1 ใบที่คู่ต่อสู้ควบคุม; ในเทิร์นนี้, เอาการ์ดนั้นออกจากเกมเมื่อมันออกจากสนาม\nคุณสามารถใช้เอฟเฟกต์ของ \"TiSolfachord Beautia\" ได้เพียง 1 ครั้งต่อเทิร์น\n1 ครั้งต่อเทิร์น, ณ จุดเริ่มต้นของ Damage Step, ถ้าการ์ดใบนี้ทำการต่อสู้กับมอนสเตอร์ที่มี ATK เท่าหรือสูงกว่าค่า Pendulum Scale ที่ต่ำที่สุดใน Pendulum Zone ของคุณ คูณ 300: ทำลายมอนสเตอร์นั้น",
   "status": "ai",
   "en_sha256": "4386fb9656ea06eea79a317eb194923a7bef2f76cda1735ff00e662f797db186",
   "model": "gemma3:12b",
-  "updated": "2026-11-06",
-  "note": "rule-check: \"banish\" ×1 in English but \"ออกจากเกม\" ×0 in Thai — meaning may be wrong; \"face-up\" ×1 in English but \"หงาย\" ×0 in Thai — meaning may be wrong"
+  "updated": "2026-11-08"
 }

@@ -1,10 +1,9 @@
 {
   "id": "32710364",
   "name": "Crystal Beast Ruby Carbuncle",
-  "th": "เมื่อการ์ดใบนี้ถูกอัญเชิญพิเศษ: คุณสามารถอัญเชิญพิเศษมอนสเตอร์ \"Crystal Beast\" ได้มากที่สุดเท่าที่จะเป็นไปได้จาก Spell & Trap Zones ของคุณ\nถ้าการ์ดที่หงายอยู่ใบนี้ถูกทำลายใน Main Monster Zone คุณสามารถวางมันไว้ใน Spell & Trap Zone ของคุณแบบคว่ำเป็น Spell ต่อเนื่องได้ แทนที่จะส่งมันลงสุสาน",
+  "th": "เมื่อการ์ดใบนี้ถูกอัญเชิญพิเศษ: คุณสามารถอัญเชิญพิเศษมอนสเตอร์ \"Crystal Beast\" ได้มากที่สุดเท่าที่จะเป็นไปได้จาก Spell & Trap Zones ของคุณ\nถ้าการ์ดหงายนี้ถูกทำลายใน Main Monster Zone คุณสามารถวางมันหงายใน Spell & Trap Zone ของคุณเป็นการ์ดเวทมนตร์ต่อเนื่องได้ แทนที่จะส่งมันลงสุสาน",
   "status": "ai",
   "en_sha256": "41a7475c87b3cf3514e2ec76e2bfe22c9ef78967b963833813678ac135323104",
   "model": "gemma3:12b",
-  "updated": "2026-11-07",
-  "note": "rule-check: \"face-up\" ×2 in English but \"หงาย\" ×1 in Thai — meaning may be wrong"
+  "updated": "2026-11-08"
 }

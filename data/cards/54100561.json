@@ -1,10 +1,9 @@
 {
   "id": "54100561",
   "name": "FaSolfachord Fancia",
-  "th": "[ Pendulum Effect ]\nการอัญเชิญแบบ Pendulum ของมอนสเตอร์ \"Solfachord\" Pendulum ของคุณไม่สามารถถูกลบล้างได้\n[ Monster Effect ]\nตราบใดที่คุณมี Pendulum Scale ที่เป็นเลขคี่ใน Pendulum Zone ของคุณ, ถ้ามอนสเตอร์ \"Solfachord\" Pendulum ของคุณจะถูกทำลายจากการต่อสู้, คุณสามารถทำลายการ์ดใบนี้แทนได้\nระหว่าง Main Phase ของคุณ: คุณสามารถเพิ่มมอนสเตอร์ \"Solfachord\" Pendulum 1 ตัวจากเด็คของคุณไปยังเอ็กซ์ตร้าเด็คแบบคว่ำหน้า, ยกเว้น \"FaSolfachord Fancia\"\nคุณสามารถใช้เอฟเฟกต์ของ \"FaSolfachord Fancia\" ได้เพียง 1 ครั้งต่อเทิร์น",
+  "th": "[ Pendulum Effect ]\nการ อัญเชิญแบบ Pendulum ของมอนสเตอร์ \"Solfachord\" Pendulum ของคุณ ไม่สามารถถูกลบล้างได้\n[ Monster Effect ]\nตราบใดที่คุณมี Pendulum Scale ที่เป็นเลขคี่ใน Pendulum Zone ของคุณ, ถ้ามอนสเตอร์ \"Solfachord\" Pendulum ของคุณจะถูกทำลายจากการต่อสู้, คุณสามารถทำลายการ์ดใบนี้แทนได้\nระหว่าง Main Phase ของคุณ: คุณสามารถเพิ่มมอนสเตอร์ \"Solfachord\" Pendulum 1 ตัวจากเด็คของคุณไปยังเอ็กซ์ตร้าเด็คแบบหงาย, ยกเว้น \"FaSolfachord Fancia\"\nคุณสามารถใช้เอฟเฟกต์ของ \"FaSolfachord Fancia\" ได้เพียง 1 ครั้งต่อเทิร์น",
   "status": "ai",
   "en_sha256": "7ae6eb541052980e77ebc630d4c49bc2470cf472e17df3606b5aa17b7b728d6b",
   "model": "gemma3:12b",
-  "updated": "2026-11-06",
-  "note": "rule-check: \"face-up\" ×1 in English but \"หงาย\" ×0 in Thai — meaning may be wrong"
+  "updated": "2026-11-08"
 }

@@ -1,10 +1,9 @@
 {
   "id": "75347539",
   "name": "Valkyrion the Magna Warrior",
-  "th": "อัญเชิญปกติ/เซ็ตไม่ได้\nต้องอัญเชิญพิเศษก่อน (จากมือของคุณ) โดยสังเวย \"Alpha The Magnet Warrior\", \"Beta The Magnet Warrior\" และ \"Gamma The Magnet Warrior\" จากมือและ/หรือสนามของคุณ\nคุณสามารถสังเวยการ์ดใบนี้ จากนั้นเลือกเป้าหมาย \"Alpha The Magnet Warrior\", \"Beta The Magnet Warrior\" และ \"Gamma The Magnet Warrior\" ในสุสานของคุณ; อัญเชิญพิเศษพวกมัน",
+  "th": "ไม่สามารถอัญเชิญปกติ/เซ็ตได้\nต้องอัญเชิญพิเศษก่อน (จากมือของคุณ) โดยสังเวย \"Alpha The Magnet Warrior\", \"Beta The Magnet Warrior\" และ \"Gamma The Magnet Warrior\" จำนวน 1 ตัวจากมือและ/หรือสนามของคุณ\nคุณสามารถสังเวยการ์ดใบนี้ จากนั้นเลือกเป้าหมาย \"Alpha The Magnet Warrior\", \"Beta The Magnet Warrior\" และ \"Gamma The Magnet Warrior\" จำนวน 1 ตัวในสุสานของคุณ; อัญเชิญพิเศษพวกมัน",
   "status": "ai",
   "en_sha256": "c52e27480e156ac4b88f90d0e4a935d0ead9630a38cbb806f5ccdf3096ef2a45",
   "model": "gemma3:12b",
-  "updated": "2026-11-07",
-  "note": "rule-check: numbers missing in Thai: 1"
+  "updated": "2026-11-08"
 }

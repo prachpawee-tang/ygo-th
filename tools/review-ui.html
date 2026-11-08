@@ -34,6 +34,10 @@
   #msg { font-size: 13px; }
   .err { color: var(--bad); } .good { color: var(--ok); }
   .empty { text-align: center; color: var(--muted); padding: 60px 0; }
+  /* diff แบบ VS Code: ส่วนที่ลบ = แดง (ฝั่งเดิม) · ส่วนที่เพิ่ม = เขียว (ฝั่งใหม่) */
+  .diff-del { background: rgba(255, 85, 85, .30); border-radius: 2px; }
+  .diff-ins { background: rgba(80, 200, 120, .30); border-radius: 2px; }
+  .diff-row .box h3 .meta { font-weight: 400; margin-left: 6px; }
   .live-rule { font-size: 12px; margin-top: 6px; color: var(--muted); }
   /* สีชุดเดียวกับ extension / Dueling Nexus */
   .ygot-block { display: block; } .ygot-block + .ygot-block { margin-top: 10px; }
@@ -121,6 +125,20 @@ function show() {
   const thBox = el("div", { className: "text" }); render(thBox, base);
   const ta = el("textarea", { value: base, spellcheck: false, ariaLabel: "แก้คำแปล" });
   const live = el("div", { className: "live-rule" });
+  // เดิม | ใหม่ ข้างกัน พร้อมไฮไลต์ส่วนที่ต่าง (อัปเดตทุกครั้งที่พิมพ์)
+  const oldBox = el("div", { className: "text" }), newBox = el("div", { className: "text" });
+  const oldStat = el("span", { className: "meta" }), newStat = el("span", { className: "meta" });
+  const diffRow = el("div", { className: "cols diff-row", style: "margin-top:12px" },
+    el("div", { className: "box" }, el("h3", {}, "คำแปลปัจจุบัน", oldStat), oldBox),
+    el("div", { className: "box" }, el("h3", {}, isForm ? "คำแก้ (ในกล่องด้านล่าง)" : "ที่แก้ (ในกล่องด้านล่าง)", newStat), newBox));
+  const updDiff = () => {
+    const visible = isForm || ta.value.trim() !== c.th.trim();
+    diffRow.style.display = visible ? "" : "none";
+    if (!visible) return;
+    const { del, ins } = renderDiff(oldBox, newBox, c.th || "", ta.value);
+    oldStat.textContent = del ? `− ${del} คำ` : "ไม่มีส่วนที่ลบ";
+    newStat.textContent = ins ? `+ ${ins} คำ` : (del ? "ไม่มีส่วนที่เพิ่ม" : "เหมือนเดิม");
+  };
   const msg = el("span", { id: "msg" });
   const btnOk = el("button", { className: "primary", title: "Ctrl+Enter" }, isForm ? "✓ ใช้คำแก้นี้" : "✓ ถูกแล้ว", el("kbd", { textContent: "Ctrl+Enter" }));
   const btnDismiss = el("button", { title: "ไม่ใช้คำแก้นี้ (การ์ดไม่เปลี่ยน)" }, "✗ ไม่ใช้");
@@ -133,6 +151,7 @@ function show() {
     ta.classList.toggle("changed", changed);
     btnSave.disabled = !changed;
     render(thBox, ta.value);
+    updDiff();
     live.textContent = changed ? "ตัวอย่างด้านบนอัปเดตตามที่แก้ · กด Ctrl+S เพื่อบันทึก" : "";
   });
 
@@ -158,6 +177,7 @@ function show() {
   btnBack.onclick = () => { if (pos > 0 && leave()) { pos--; show(); } };
   current = { ok: () => !btnOk.disabled && btnOk.onclick(), save: () => !btnSave.disabled && save("edit"), skip: btnSkip.onclick, back: btnBack.onclick };
 
+  updDiff();
   const flags = [c.status === "ai" ? "🤖 AI" : c.status, `ยอดดู ${c.views.toLocaleString()}`, c.type, c.stale ? "⚠ ข้อความอังกฤษเปลี่ยนจากตอนแปล" : ""].filter(Boolean).join(" · ");
   $("main").replaceChildren(
     el("div", { className: "title" }, el("h2", { textContent: c.name }), el("span", { className: "meta", textContent: `#${c.id} · ${flags}` })),
@@ -165,18 +185,48 @@ function show() {
     el("div", { className: "cols" },
       el("div", { className: "box" }, el("h3", { textContent: "ENGLISH" }), enBox),
       el("div", { className: "box" }, el("h3", { textContent: isForm ? "คำแก้ที่ส่งมา (แสดงแบบเดียวกับใน extension)" : "ไทย (แสดงแบบเดียวกับใน extension)" }), thBox)),
+    diffRow,
     ...(isForm ? [formInfo(c)] : []),
     ta, live,
     el("div", { className: "actions" }, btnOk, btnSave, ...(isForm ? [btnDismiss] : []), btnBack, btnSkip, msg)
   );
 }
 
+// ---- diff ระดับคำ (ภาษาไทยไม่มีช่องว่างระหว่างคำ → ตัดคำด้วย Intl.Segmenter) ----
+const SEG = typeof Intl.Segmenter === "function" ? new Intl.Segmenter("th", { granularity: "word" }) : null;
+const tokens = s => SEG ? [...SEG.segment(String(s))].map(x => x.segment) : [...String(s)];
+/** LCS → [{t, op: "same" | "del" | "ins"}] · ข้อความยาวมาก (เกิน ~4 ล้านช่อง) เทียบทีละบรรทัดแทน */
+function diffTokens(a, b) {
+  if (a.length * b.length > 4e6) return diffTokens(a.join("").split(/(?<=\n)/), b.join("").split(/(?<=\n)/));
+  const n = a.length, m = b.length, L = Array.from({ length: n + 1 }, () => new Uint16Array(m + 1));
+  for (let i = n - 1; i >= 0; i--) for (let j = m - 1; j >= 0; j--) L[i][j] = a[i] === b[j] ? L[i + 1][j + 1] + 1 : Math.max(L[i + 1][j], L[i][j + 1]);
+  const out = []; let i = 0, j = 0;
+  while (i < n && j < m) {
+    if (a[i] === b[j]) { out.push({ t: a[i], op: "same" }); i++; j++; }
+    else if (L[i + 1][j] >= L[i][j + 1]) out.push({ t: a[i++], op: "del" });
+    else out.push({ t: b[j++], op: "ins" });
+  }
+  while (i < n) out.push({ t: a[i++], op: "del" });
+  while (j < m) out.push({ t: b[j++], op: "ins" });
+  return out;
+}
+/** เติมกล่องซ้าย (เดิม) และขวา (ใหม่) — สร้างด้วย textContent เท่านั้น · คืนจำนวนคำที่ลบ/เพิ่ม */
+function renderDiff(oldBox, newBox, a, b) {
+  oldBox.textContent = ""; newBox.textContent = "";
+  let del = 0, ins = 0;
+  for (const d of diffTokens(tokens(a), tokens(b))) {
+    const piece = cls => d.t.trim() ? el("span", { className: cls, textContent: d.t }) : document.createTextNode(d.t);
+    if (d.op === "same") { oldBox.append(document.createTextNode(d.t)); newBox.append(document.createTextNode(d.t)); }
+    else if (d.op === "del") { oldBox.append(piece("diff-del")); if (d.t.trim()) del++; }
+    else { newBox.append(piece("diff-ins")); if (d.t.trim()) ins++; }
+  }
+  return { del, ins };
+}
+
 // ข้อมูลจากฟอร์ม (ข้อความจากคนทั่วไป — แสดงด้วย textContent เท่านั้น)
 function formInfo(c) {
-  const cur = el("div", { className: "text" }); render(cur, c.th || "(ยังไม่มีคำแปล)");
   const row = (k, v) => v ? el("div", {}, el("b", { textContent: k + ": " }), document.createTextNode(v)) : "";
   return el("div", { className: "cols", style: "margin-top:12px" },
-    el("div", { className: "box" }, el("h3", { textContent: "คำแปลปัจจุบัน" }), cur),
     el("div", { className: "box" }, el("h3", { textContent: "จากแบบฟอร์ม" }),
       row("ส่งเมื่อ", c.submitted), row("เหตุผล", c.reason), row("แหล่งอ้างอิง", c.source), row("เครดิต (แสดงใน extension)", c.credit)),
     aiInfo(c.ai));
@@ -186,7 +236,7 @@ function formInfo(c) {
 const AI_LABEL = { "ai-accept": ["✓ AI ผ่าน", "good"], "ai-reject": ["✗ AI ไม่ผ่าน", "err"], "ai-needs-human": ["? AI ให้คนดู", ""], invalid: ["✗ รูปแบบใช้ไม่ได้", "err"] };
 function aiInfo(a) {
   const box = el("div", { className: "box", style: "grid-column: 1 / -1" }, el("h3", { textContent: "ผลตรวจ AI" }));
-  if (!a) { box.append(el("div", { className: "meta", textContent: "ยังไม่ได้ตรวจ — รัน tools\review-all.bat แล้วเปิดโหมดนี้ใหม่" })); return box; }
+  if (!a) { box.append(el("div", { className: "meta", textContent: "ยังไม่ได้ตรวจ — รัน tools\\review-all.bat แล้วเปิดโหมดนี้ใหม่" })); return box; }
   const [t, cls] = AI_LABEL[a.label] || [a.label, ""];
   box.append(el("div", { className: cls, textContent: `${t} · ${a.model || ""} · ${(a.at || "").slice(0, 16).replace("T", " ")}` }));
   a.rounds?.forEach((r, i) => box.append(el("div", { textContent: `รอบ ${i + 1}: ${r.verdict} (มั่นใจ ${Math.round(r.confidence * 100)}%)${r.problems.length ? " — " + r.problems.join(" · ") : ""}` })));

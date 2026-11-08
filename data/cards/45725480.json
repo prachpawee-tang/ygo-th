@@ -1,10 +1,9 @@
 {
   "id": "45725480",
   "name": "Sacred Sword of Seven Stars",
-  "th": "เอามอนสเตอร์ Level 7 1 ตัวออกจากมือของคุณ หรือจากสนามฝั่งของคุณที่หงายอยู่; จั่วการ์ด 2 ใบ\nคุณสามารถเปิดใช้ \"Sacred Sword of Seven Stars\" ได้เพียง 1 ใบต่อเทิร์น",
+  "th": "เอามอนสเตอร์ Level 7 1 ตัวออกจากเกมจากมือของคุณ หรือจากสนามฝั่งของคุณที่หงายอยู่; จั่วการ์ด 2 ใบ\nคุณสามารถเปิดใช้ \"Sacred Sword of Seven Stars\" ได้เพียง 1 ใบต่อเทิร์น",
   "status": "ai",
   "en_sha256": "319e2f8c645dc8e107720934e29bfe7f9908971095d3826d3f29c783e97f4e57",
   "model": "gemma3:12b",
-  "updated": "2026-11-07",
-  "note": "rule-check: \"banish\" ×1 in English but \"ออกจากเกม\" ×0 in Thai — meaning may be wrong"
+  "updated": "2026-11-08"
 }

@@ -1,10 +1,9 @@
 {
   "id": "28798938",
   "name": "Dual Avatar - Manifested A-Un",
-  "th": "มอนสเตอร์ \"Dual Avatar\" 2 ตัว\nการ์ดใบนี้ได้รับเอฟเฟกต์ต่อไปนี้ ขึ้นอยู่กับชื่อเดิมของ Material ที่ใช้สำหรับการ Fusion Summon ของมัน\n● \"Dual Avatar - Empowered Kon-Gyo\": ATK ของมอนสเตอร์ \"Dual Avatar\" ที่กำลังต่อสู้ของคุณจะกลายเป็น 3000 เฉพาะระหว่างการคำนวณความเสียหายเท่านั้น\n● \"Dual Avatar - Empowered Mitsu-Jaku\": 1 ครั้งต่อเทิร์นของคู่ต่อสู้ (Quick Effect): คุณสามารถเลือกเป้าหมายการ์ด 1 ใบในสนาม; เอามันออกจากเกม\nหากการ์ด Fusion Summoned นี้ถูกทำลาย: คุณสามารถ อัญเชิญพิเศษ มอนสเตอร์ \"Dual Avatar Fists - Yuhi\" และ \"Dual Avatar Feet - Kokoku\" จากเด็คของคุณ และถ้าทำได้ พวกมันจะไม่ถูกทำลายจากการต่อสู้หรือเอฟเฟกต์ของการ์ดในเทิร์นนี้",
+  "th": "มอนสเตอร์ \"Dual Avatar\" 2 ตัว\nการ์ดใบนี้ได้รับเอฟเฟกต์ต่อไปนี้ ขึ้นอยู่กับชื่อเดิมของ Material ที่ใช้สำหรับการ Fusion Summon ของมัน\n● \"Dual Avatar - Empowered Kon-Gyo\": ATK ของมอนสเตอร์ \"Dual Avatar\" ที่กำลังต่อสู้ของคุณจะกลายเป็น 3000 เฉพาะระหว่างการคำนวณความเสียหายเท่านั้น\n● \"Dual Avatar - Empowered Mitsu-Jaku\": 1 ครั้งต่อเทิร์นของคู่ต่อสู้ (Quick Effect): คุณสามารถเลือกเป้าหมายการ์ด 1 ใบในสนาม; เอามันออกจากเกม\nหากการ์ด Fusion Summoned นี้ถูกทำลาย: คุณสามารถ อัญเชิญพิเศษ มอนสเตอร์ \"Dual Avatar Fists - Yuhi\" 1 ใบ และ \"Dual Avatar Feet - Kokoku\" 1 ใบ จากเด็คของคุณ และถ้าทำได้ พวกมันจะไม่ถูกทำลายจากการต่อสู้หรือเอฟเฟกต์ของการ์ดในเทิร์นนี้",
   "status": "ai",
   "en_sha256": "ead9ac530254281549afb87e11eb2789e6e28cf83cabdb97f6de359f72ce05cc",
   "model": "gemma3:12b",
-  "updated": "2026-11-06",
-  "note": "rule-check: numbers missing in Thai: 1"
+  "updated": "2026-11-08"
 }

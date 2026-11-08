@@ -1,10 +1,9 @@
 {
   "id": "6979239",
   "name": "Woodland Sprite",
-  "th": "ส่งการ์ด Equip ที่ติดตั้งอยู่กับการ์ดใบนี้ไปยังสุสาน\nสร้างความเสียหายแก่ Life Points ของคู่ต่อสู้ 500 แต้ม",
+  "th": "ส่งการ์ด Equip ที่ติดตั้งอยู่กับการ์ดใบนี้ไปยังสุสาน 1 ใบ\nสร้างความเสียหายแก่ Life Points ของคู่ต่อสู้ 500 แต้ม",
   "status": "ai",
   "en_sha256": "84451553b8ddeb84edf9c34321556de7bf7c79807c594613e14228b5f7b676cf",
   "model": "gemma3:12b",
-  "updated": "2026-11-06",
-  "note": "rule-check: numbers missing in Thai: 1"
+  "updated": "2026-11-08"
 }

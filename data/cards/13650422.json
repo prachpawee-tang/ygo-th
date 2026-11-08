@@ -1,10 +1,9 @@
 {
   "id": "13650422",
   "name": "Evil HERO Adusted Gold",
-  "th": "คุณสามารถทิ้งการ์ดใบนี้; เพิ่ม \"Dark Fusion\" หรือการ์ดที่ระบุชื่อ \"Dark Fusion\" ไว้ในข้อความของการ์ดนั้น จากเด็คของคุณขึ้นมือ ยกเว้น \"Evil HERO Adusted Gold\"\nคุณสามารถใช้เอฟเฟกต์ของ \"Evil HERO Adusted Gold\" ได้ 1 ครั้งต่อเทิร์น\nไม่สามารถโจมตีได้ หากคุณไม่ได้ควบคุม Fusion Monster",
+  "th": "คุณสามารถทิ้งการ์ดใบนี้; เพิ่ม 1 \"Dark Fusion\" หรือการ์ดที่ระบุชื่อ \"Dark Fusion\" ไว้ในข้อความของการ์ดนั้น จากเด็คของคุณขึ้นมือ ยกเว้น \"Evil HERO Adusted Gold\"\nคุณสามารถใช้เอฟเฟกต์ของ \"Evil HERO Adusted Gold\" ได้ 1 ครั้งต่อเทิร์น\nไม่สามารถโจมตีได้ หากคุณไม่ได้ควบคุม Fusion Monster",
   "status": "ai",
   "en_sha256": "921cc86c08e916640587b9bdb2c17b7d440662b434c92e2dce9d6a9f95947911",
   "model": "gemma3:12b",
-  "updated": "2026-11-07",
-  "note": "rule-check: numbers missing in Thai: 1"
+  "updated": "2026-11-08"
 }

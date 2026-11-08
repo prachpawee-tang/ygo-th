@@ -1,10 +1,9 @@
 {
   "id": "38844957",
   "name": "Urgent Ritual Art",
-  "th": "ถ้าคุณไม่ได้ควบคุม Ritual Monster: เอา Ritual Spell 1 ใบออกจากมือหรือสุสานของคุณ; เอฟเฟกต์ของการ์ดใบนี้จะกลายเป็นเอฟเฟกต์ของ Ritual Spell ใบนั้นที่ทำการอัญเชิญแบบ Ritual มอนสเตอร์เมื่อการ์ดใบนั้นถูกเปิดใช้.",
+  "th": "ถ้าคุณไม่ได้ควบคุม Ritual Monster: เอา Ritual Spell 1 ใบออกจากเกมจากมือหรือสุสานของคุณ; เอฟเฟกต์ของการ์ดใบนี้จะกลายเป็นเอฟเฟกต์ของ Ritual Spell ใบนั้นที่ทำการอัญเชิญแบบ Ritual มอนสเตอร์เมื่อการ์ดใบนั้นถูกเปิดใช้.",
   "status": "ai",
   "en_sha256": "e63119ddc422e754c650e7ee45861d9e424c20883911d17fae0820ab6950172f",
   "model": "gemma3:12b",
-  "updated": "2026-11-06",
-  "note": "rule-check: \"banish\" ×1 in English but \"ออกจากเกม\" ×0 in Thai — meaning may be wrong"
+  "updated": "2026-11-08"
 }

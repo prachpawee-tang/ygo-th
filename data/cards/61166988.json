@@ -1,10 +1,9 @@
 {
   "id": "61166988",
   "name": "Wild Nature's Release",
-  "th": "เลือกเป้าหมายมอนสเตอร์ประเภท Beast หรือ Beast-Warrior-Type; มันได้รับ ATK เท่ากับ DEF ปัจจุบันของมัน จนถึง End Phase\nในช่วง End Phase ทำลายมัน",
+  "th": "เลือกเป้าหมายมอนสเตอร์ 1 ตัว ประเภท Beast หรือ Beast-Warrior-Type; มันได้รับ ATK เท่ากับ DEF ปัจจุบันของมัน จนถึง End Phase\nในช่วง End Phase ทำลายมัน",
   "status": "ai",
   "en_sha256": "1b872e50594b1ceaf394dc641d11373307b0847685b2080b091b2aa48167ccf6",
   "model": "gemma3:12b",
-  "updated": "2026-11-06",
-  "note": "rule-check: numbers missing in Thai: 1"
+  "updated": "2026-11-08"
 }

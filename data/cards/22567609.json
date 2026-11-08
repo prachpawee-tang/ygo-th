@@ -1,10 +1,9 @@
 {
   "id": "22567609",
   "name": "Nimble Momonga",
-  "th": "เมื่อการ์ดใบนี้ถูกทำลายด้วยการต่อสู้และส่งลงสุสาน: ได้รับ Life Points 1000, จากนั้นคุณสามารถอัญเชิญพิเศษมอนสเตอร์ \"Nimble Momonga\" จำนวนใดก็ได้จากเด็คของคุณในท่าป้องกันคว่ำ.",
+  "th": "เมื่อการ์ดใบนี้ถูกทำลายด้วยการต่อสู้และส่งลงสุสาน: ได้รับ Life Points 1000, จากนั้นคุณสามารถอัญเชิญพิเศษมอนสเตอร์ \"Nimble Momongas\" จำนวนใดก็ได้จากเด็คของคุณในท่าป้องกันคว่ำ.",
   "status": "ai",
   "en_sha256": "ebf07e0def7f7ec2f2d0ce7d9f6fb34fea21e9c41e4d7ee22da33e991bc050dc",
   "model": "gemma3:12b",
-  "updated": "2026-11-07",
-  "note": "rule-check: card names in quotes changed/missing: \"Nimble Momongas\""
+  "updated": "2026-11-08"
 }

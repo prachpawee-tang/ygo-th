@@ -1,10 +1,9 @@
 {
   "id": "37620434",
   "name": "Shadow Tamer",
-  "th": "(การ์ดใบนี้ถือว่าเป็น “Archfiend” เสมอ)\nFLIP: เลือกเป้าหมายมอนสเตอร์ชนิด Fiend ที่คู่ต่อสู้ควบคุม; ควบคุมเป้าหมายนั้นจนถึง End Phase",
+  "th": "(การ์ดใบนี้ถือว่าเป็น “Archfiend” เสมอ)\nFLIP: เลือกเป้าหมายมอนสเตอร์ชนิด Fiend ที่คู่ต่อสู้ควบคุม 1 ตัว; ควบคุมเป้าหมายนั้นจนถึง End Phase",
   "status": "ai",
   "en_sha256": "157c0c4deb8f6c23e3104461f29535d78dc2218e22965915bfc4d4a415264bce",
   "model": "gemma3:12b",
-  "updated": "2026-11-07",
-  "note": "rule-check: numbers missing in Thai: 1"
+  "updated": "2026-11-08"
 }

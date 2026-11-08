@@ -1,10 +1,9 @@
 {
   "id": "57285770",
   "name": "Therion Charge",
-  "th": "ส่งการ์ด \"Therion\" 1 ใบ ยกเว้น \"Therion Charge\" หรือ \"Endless Engine Argyro System\" จากมือของคุณหรือจากโซน Spell & Trap ที่หงายอยู่ของคุณ ลงสุสาน; จั่วการ์ด 2 ใบ\nคุณสามารถเปิดใช้ \"Therion Charge\" ได้ 1 ใบต่อเทิร์น",
+  "th": "ส่งการ์ด \"Therion\" 1 ใบ ยกเว้น \"Therion Charge\" หรือ \"Endless Engine Argyro System\" 1 ใบ จากมือของคุณหรือจากโซน Spell & Trap ที่หงายอยู่ของคุณ ลงสุสาน; จั่วการ์ด 2 ใบ\nคุณสามารถเปิดใช้ \"Therion Charge\" ได้ 1 ใบต่อเทิร์น",
   "status": "ai",
   "en_sha256": "c995f87c83e9968c81ce3cae43668991e1613683176ebf89b9e4368009c2fb9f",
   "model": "gemma3:12b",
-  "updated": "2026-11-06",
-  "note": "rule-check: numbers missing in Thai: 1"
+  "updated": "2026-11-08"
 }

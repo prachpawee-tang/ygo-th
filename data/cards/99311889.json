@@ -1,10 +1,9 @@
 {
   "id": "99311889",
   "name": "Prohibitive Power Patron Purview - Vilaea",
-  "th": "แสดง \"Nerva the Power Patron of Creation\" 1 ใบ, \"Jupiter the Power Patron of Destruction\" 1 ใบ, และ \"Junora the Power Patron of Tuning\" 1 ใบ จาก เอ็กซ์ตร้าเด็ค, Main Monster Zone และ/หรือ สุสาน, และถ้าทำได้ คู่ต่อสู้จะไม่สามารถเปิดใช้การ์ดหรือเอฟเฟกต์ในการตอบสนองต่อการเปิดใช้งานเอฟเฟกต์มอนสเตอร์ \"Power Patron\" ของคุณในเทิร์นนี้\nถ้าคุณจะเอาการ์ดบนสุดของเด็คของคุณออกจากเกมเพื่อเปิดใช้งานเอฟเฟกต์มอนสเตอร์ \"Power Patron\" ที่คุณควบคุม คุณสามารถเอาการ์ดใบนี้ออกจากเกมจากสุสานของคุณแทนได้\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Prohibitive Power Patron Purview - Vilaea\" ได้ 1 ครั้งต่อเทิร์น",
+  "th": "แสดง \"Nerva the Power Patron of Creation\" 1 ใบ, \"Jupiter the Power Patron of Destruction\" 1 ใบ, และ \"Junora the Power Patron of Tuning\" 1 ใบ จาก เอ็กซ์ตร้าเด็ค, Main Monster Zone หรือ/และ สุสาน ในลักษณะหงาย, และถ้าทำได้ คู่ต่อสู้จะไม่สามารถเปิดใช้การ์ดหรือเอฟเฟกต์ในการตอบสนองต่อการเปิดใช้งานเอฟเฟกต์มอนสเตอร์ \"Power Patron\" ของคุณในเทิร์นนี้\nถ้าคุณจะเอาการ์ดบนสุดของเด็คของคุณออกจากเกมเพื่อเปิดใช้งานเอฟเฟกต์มอนสเตอร์ \"Power Patron\" ที่คุณควบคุม คุณสามารถเอาการ์ดใบนี้ออกจากเกมจากสุสานของคุณแทนได้\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Prohibitive Power Patron Purview - Vilaea\" ได้ 1 ครั้งต่อเทิร์น",
   "status": "ai",
   "en_sha256": "e1dac7d65d137a54f47ad5e3c16dbef843ea874f4b441ff7b0d407ba5c172c64",
   "model": "gemma3:12b",
-  "updated": "2026-11-08",
-  "note": "rule-check: \"face-up\" ×1 in English but \"หงาย\" ×0 in Thai — meaning may be wrong"
+  "updated": "2026-11-08"
 }

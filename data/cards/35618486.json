@@ -1,10 +1,9 @@
 {
   "id": "35618486",
   "name": "Steelswarm Sting",
-  "th": "เมื่อการ์ดใบนี้ที่คุณควบคุมถูกส่งลงสุสาน: เลือกเป้าหมายมอนสเตอร์ Ritual, Fusion หรือ Synchro ที่หงายอยู่บนสนาม; ทำลายเป้าหมายนั้น.",
+  "th": "เมื่อการ์ดใบนี้ที่คุณควบคุมถูกส่งลงสุสาน: เลือกเป้าหมายมอนสเตอร์ Ritual, Fusion หรือ Synchro ที่หงายอยู่บนสนาม 1 ตัว; ทำลายเป้าหมายนั้น.",
   "status": "ai",
   "en_sha256": "d33f33b9afeeb421cb116b9e7f2e2bb0d1eea4e07921202317023fdc0c2acb35",
   "model": "gemma3:12b",
-  "updated": "2026-11-06",
-  "note": "rule-check: numbers missing in Thai: 1"
+  "updated": "2026-11-08"
 }

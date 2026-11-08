@@ -1,10 +1,9 @@
 {
   "id": "88935103",
   "name": "Nobledragon Magician",
-  "th": "[ Pendulum Effect ]\nยกเว้นคุณมีการ์ด \"Magician\" ใน Pendulum Zone อื่นของคุณ ทำลายการ์ดใบนี้\n[ Monster Effect ]\nไม่สามารถใช้เป็น Material สำหรับ Synchro ได้ ยกเว้นสำหรับการ Synchro Summon มอนสเตอร์ Synchro Dragon\nถ้าการ์ดใบนี้ถูกใช้เป็น Material สำหรับ Synchro ยกเว้น Material Synchro อื่นๆ ทั้งหมดไม่ใช่ \"Odd-Eyes\" มอนสเตอร์ ให้วางการ์ดใบนี้ไว้ด้านล่างของเด็ค\nถ้าการ์ดใบนี้อยู่ในมือหรือสุสานของคุณ: คุณสามารถเลือกเป้าหมายมอนสเตอร์ \"Odd-Eyes\" ระดับ 7 หรือสูงกว่าที่ที่คุณควบคุม; ลดระดับของมันลง 3 และถ้าทำได้ ให้ อัญเชิญพิเศษ การ์ดใบนี้",
+  "th": "[ Pendulum Effect ]\nยกเว้นคุณมีการ์ด \"Magician\" ใน Pendulum Zone อื่นของคุณ ทำลายการ์ดใบนี้\n[ Monster Effect ]\nไม่สามารถใช้เป็น Material สำหรับ Synchro ได้ ยกเว้นสำหรับการ Synchro Summon มอนสเตอร์ Synchro Dragon\nถ้าการ์ดใบนี้ถูกใช้เป็น Material สำหรับ Synchro ยกเว้น Material Synchro อื่นๆ ทั้งหมดไม่ใช่ \"Odd-Eyes\" มอนสเตอร์ ให้วางการ์ดใบนี้ไว้ด้านล่างของเด็ค\nถ้าการ์ดใบนี้อยู่ในมือหรือสุสานของคุณ: คุณสามารถเลือกเป้าหมายมอนสเตอร์ \"Odd-Eyes\" ระดับ 7 หรือสูงกว่าจำนวน 1 ที่ที่คุณควบคุม; ลดระดับของมันลง 3 และถ้าทำได้ ให้ อัญเชิญพิเศษ การ์ดใบนี้",
   "status": "ai",
   "en_sha256": "41fce2632c4f0414e4bb6123e9f3f668e6c59e40b5e8fbf29c5f042754932450",
   "model": "gemma3:12b",
-  "updated": "2026-11-07",
-  "note": "rule-check: numbers missing in Thai: 1"
+  "updated": "2026-11-08"
 }

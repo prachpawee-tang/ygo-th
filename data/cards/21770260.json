@@ -1,10 +1,9 @@
 {
   "id": "21770260",
   "name": "Jam Breeding Machine",
-  "th": "ในช่วง Standby Phase ของคุณในแต่ละครั้ง: อัญเชิญพิเศษ “Slime Token” (มอนสเตอร์ประเภท Aqua/WATER/LEVEL 1/ATK 500/DEF 500) ในท่าโจมตี\nคุณไม่สามารถอัญเชิญมอนสเตอร์ใดๆ ได้ ยกเว้น “Slime Tokens” (แต่คุณสามารถเซ็ตได้)",
+  "th": "ในช่วง Standby Phase ของคุณในแต่ละครั้ง: อัญเชิญพิเศษ 1 “Slime Token” (มอนสเตอร์ประเภท Aqua/WATER/LEVEL 1/ATK 500/DEF 500) ในท่าโจมตี\nคุณไม่สามารถอัญเชิญมอนสเตอร์ใดๆ ได้ ยกเว้น “Slime Tokens” (แต่คุณสามารถเซ็ตได้)",
   "status": "ai",
   "en_sha256": "9d04c8c728b71bc9329a934070a1b1ba5bcc8f7ab56092397db613202411d992",
   "model": "gemma3:12b",
-  "updated": "2026-11-07",
-  "note": "rule-check: numbers missing in Thai: 1"
+  "updated": "2026-11-08"
 }

@@ -1,10 +1,9 @@
 {
   "id": "68815401",
   "name": "Wild Fire",
-  "th": "จ่าย Life Points 500.\nทำลายการ์ด \"Blaze Accelerator\" ที่หงายอยู่ที่คุณควบคุม และทำลายมอนสเตอร์ทั้งหมดบนสนาม\nจากนั้น อัญเชิญพิเศษ \"Wild Fire Token\" (Pyro-Type/FIRE/Level 3/ATK 1000/DEF 1000) ในท่าโจมตี\nนอกจากนี้ คุณไม่สามารถประกาศโจมตีในเทิร์นนี้ได้",
+  "th": "จ่าย Life Points 500.\nทำลายการ์ด \"Blaze Accelerator\" ที่หงายอยู่ที่คุณควบคุม และทำลายมอนสเตอร์ทั้งหมดบนสนาม\nจากนั้น อัญเชิญพิเศษ 1 \"Wild Fire Token\" (Pyro-Type/FIRE/Level 3/ATK 1000/DEF 1000) ในท่าโจมตี\nนอกจากนี้ คุณไม่สามารถประกาศโจมตีในเทิร์นนี้ได้",
   "status": "ai",
   "en_sha256": "b7c7f6a9516259478c1f2a6d98238e3ba483551ff63e23a1c5c6a10280dd5ad3",
   "model": "gemma3:12b",
-  "updated": "2026-11-06",
-  "note": "rule-check: numbers missing in Thai: 1"
+  "updated": "2026-11-08"
 }

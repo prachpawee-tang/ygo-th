@@ -1,10 +1,9 @@
 {
   "id": "16943770",
   "name": "Mecha Phantom Beast Aerosguin",
-  "th": "1 ครั้งต่อเทิร์น: คุณสามารถเอา มอนสเตอร์ \"Mecha Phantom Beast\" 1 ตัวออกจากสุสานของคุณได้ ยกเว้น \"Mecha Phantom Beast Aerosguin\"; อัญเชิญพิเศษ \"Mecha Phantom Beast Token\" 1 ใบ (Machine-Type/WIND/Level 3/ATK 0/DEF 0).\nLevel ของการ์ดใบนี้จะเพิ่มขึ้นตามผลรวมของ Level ของ \"Mecha Phantom Beast Tokens\" ทั้งหมดที่คุณควบคุม\nตราบใดที่คุณควบคุม Token ใบนี้ การ์ดใบนี้จะไม่ถูกทำลายจากการต่อสู้หรือเอฟเฟกต์ของการ์ด",
+  "th": "1 ครั้งต่อเทิร์น: คุณสามารถเอา มอนสเตอร์ \"Mecha Phantom Beast\" 1 ตัวออกจากเกมจากสุสานของคุณได้ ยกเว้น \"Mecha Phantom Beast Aerosguin\"; อัญเชิญพิเศษ \"Mecha Phantom Beast Token\" 1 ใบ (Machine-Type/WIND/Level 3/ATK 0/DEF 0).\nLevel ของการ์ดใบนี้จะเพิ่มขึ้นตามผลรวมของ Level ของ \"Mecha Phantom Beast Tokens\" ทั้งหมดที่คุณควบคุม\nตราบใดที่คุณควบคุม Token ใบนี้ การ์ดใบนี้จะไม่ถูกทำลายจากการต่อสู้หรือเอฟเฟกต์ของการ์ด",
   "status": "ai",
   "en_sha256": "a2d69b6f57a94338c4db7d1d70fb9d0adb41b0b49d85ba45d502173b27e21964",
   "model": "gemma3:12b",
-  "updated": "2026-11-06",
-  "note": "rule-check: \"banish\" ×1 in English but \"ออกจากเกม\" ×0 in Thai — meaning may be wrong"
+  "updated": "2026-11-08"
 }

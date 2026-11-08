@@ -8,17 +8,13 @@ import { join } from "node:path";
 import { randomBytes, timingSafeEqual } from "node:crypto";
 import { spawn } from "node:child_process";
 import { ROOT, CARDS_DIR, loadCards, ruleCheck, checkCardSchema, unsafeText, cardJson, enHash, MAX_TH, cleanCredit } from "./lib.mjs";
+import { formConfig, fetchFormText, readSuggestions, readDone, markDone, readAi } from "./form.mjs";
 
 const argv = process.argv.slice(2);
 const flag = k => { const i = argv.indexOf(k); return i >= 0 ? argv.splice(i, 2)[1] : null; };
-// คำแก้จาก Google Form: ดาวน์โหลดจาก Sheet (ไฟล์ → ดาวน์โหลด → CSV) มาวางที่นี่ หรือระบุด้วย --form
-const FORM_CSV = flag("--form") || "E:\\YGO-Translator\\form-responses.csv";
-const FORM_DONE = FORM_CSV.replace(/\.csv$/i, "") + ".handled.json"; // คำตอบที่จัดการแล้ว (ใช้/ไม่ใช้) จะไม่ขึ้นซ้ำ
-// ลิงก์ CSV ที่ "เผยแพร่ไปยังเว็บ" ของ Sheet — ดึงใหม่ทุกครั้งที่เปิดโหมดฟอร์ม (เก็บนอก repo: ใครมีลิงก์ก็อ่านคำตอบได้)
-const FORM_URL_FILE = "E:\\YGO-Translator\\form-csv-url.txt";
-const FORM_URL = (flag("--form-url") || process.env.YGOTH_FORM_CSV_URL ||
-  (existsSync(FORM_URL_FILE) ? readFileSync(FORM_URL_FILE, "utf8").split(/\r?\n/)[0] : "")).trim();
-if (FORM_URL && !/^https:\/\/docs\.google\.com\/spreadsheets\//.test(FORM_URL)) { console.error("ลิงก์ CSV ของฟอร์มต้องเป็น https://docs.google.com/spreadsheets/…"); process.exit(1); }
+// คำแก้จาก Google Form — ที่อยู่ไฟล์/ลิงก์ดู tools/form.mjs (--form <csv> / --form-url <ลิงก์>)
+let FORM;
+try { FORM = formConfig({ csv: flag("--form"), url: flag("--form-url") }); } catch (e) { console.error(e.message); process.exit(1); }
 const EN_FILE = argv[0] || "E:\\YGO-Translator\\batch\\cards-en.json";
 const PORT = +(process.env.REVIEW_PORT || 8787);
 const TOKEN = randomBytes(24).toString("hex");
@@ -58,81 +54,37 @@ console.log(`อ่านแล้ว ${CARDS.size} ใบ (${((Date.now() - t0)
 const ALT = new Map(); // passcode อื่นของการ์ดใบเดียวกัน → passcode หลัก
 for (const c of CARDS.values()) for (const a of c.alt || []) ALT.set(a, c.id);
 
-// ---- Google Form (CSV จาก Sheet) ----
-/** RFC 4180 CSV: เครื่องหมายคำพูดครอบ, "" แทน ", ขึ้นบรรทัดใหม่ในช่องได้ */
-export function parseCsv(text) {
-  const rows = []; let row = [], cell = "", q = false;
-  text = String(text).replace(/^﻿/, "");
-  for (let i = 0; i < text.length; i++) {
-    const ch = text[i];
-    if (q) {
-      if (ch === '"' && text[i + 1] === '"') { cell += '"'; i++; }
-      else if (ch === '"') q = false;
-      else cell += ch;
-    } else if (ch === '"') q = true;
-    else if (ch === ",") { row.push(cell); cell = ""; }
-    else if (ch === "\n" || ch === "\r") {
-      if (ch === "\r" && text[i + 1] === "\n") i++;
-      row.push(cell); rows.push(row); row = []; cell = "";
-    } else cell += ch;
-  }
-  if (cell || row.length) { row.push(cell); rows.push(row); }
-  return rows.filter(r => r.some(c => c.trim()));
-}
-
-const readDone = () => { try { return JSON.parse(readFileSync(FORM_DONE, "utf8")); } catch { return {}; } };
-const markDone = (key, result) => { const d = readDone(); d[key] = { result, at: new Date().toISOString() }; writeFileSync(FORM_DONE, JSON.stringify(d, null, 1)); };
-
+// ---- Google Form ----
 /** คำแก้จากฟอร์มที่ยังไม่ได้จัดการ — ข้อความทุกช่องมาจากคนทั่วไป ถือว่าไว้ใจไม่ได้ (ตรวจแบบเดียวกับ issue) */
 async function formQueue() {
-  let text = null, from = "";
-  if (FORM_URL) {
-    try {
-      const r = await fetch(FORM_URL, { signal: AbortSignal.timeout(15000), redirect: "follow" });
-      if (!r.ok) throw new Error("HTTP " + r.status);
-      text = await r.text();
-      writeFileSync(FORM_CSV, text); // สำเนาในเครื่อง ใช้ตอนเน็ตหลุด
-      from = "Google Sheet";
-    } catch (e) { console.warn("ดึงคำตอบจาก Sheet ไม่ได้: " + e.message + " — ใช้ไฟล์ในเครื่องแทน"); }
-  }
-  if (text === null) {
-    if (!existsSync(FORM_CSV)) return { items: [], note: FORM_URL ? "ดึงคำตอบจาก Google Sheet ไม่ได้ (เน็ต/ลิงก์?) และยังไม่มีไฟล์ในเครื่อง" : `ยังไม่ได้ตั้งลิงก์ CSV ของ Sheet (${FORM_URL_FILE}) และไม่มีไฟล์ ${FORM_CSV}` };
-    text = readFileSync(FORM_CSV, "utf8");
-    from = FORM_URL ? "ไฟล์ในเครื่อง (ดึงจาก Sheet ไม่ได้)" : "ไฟล์ในเครื่อง";
-  }
-  const res = formRows(text);
-  if (!res.note && !res.items.length) res.note = `ไม่มีคำแก้ใหม่จากฟอร์ม (อ่านจาก ${from})`;
-  return res;
-}
-
-function formRows(text) {
-  const [head = [], ...rows] = parseCsv(text);
-  const col = re => head.findIndex(h => re.test(h.trim()));
-  const C = { time: 0, id: col(/passcode/i), proposed: col(/คำแปลที่เสนอ/), reason: col(/เหตุผล/), source: col(/แหล่งอ้างอิง/), credit: col(/เครดิต/) };
-  if (C.id < 0 || C.proposed < 0) return { items: [], note: "CSV ไม่มีคอลัมน์ passcode / คำแปลที่เสนอ — เป็นไฟล์ของฟอร์มนี้หรือเปล่า?" };
-  const done = readDone(), items = [];
-  for (const r of rows) {
-    const get = i => (i >= 0 ? String(r[i] ?? "") : "").replace(/\r\n?/g, "\n").trim();
-    const raw = get(C.id).replace(/\D/g, ""), proposed = get(C.proposed);
-    const key = `${get(C.time)}|${raw}`;
-    if (done[key]) continue;
-    const id = CARDS.has(raw) ? raw : ALT.get(raw) || raw;
-    const card = CARDS.get(id), e = EN.get(id);
+  const got = await fetchFormText(FORM);
+  if (got.text === null) return { items: [], note: got.note };
+  const { rows, note } = readSuggestions(got.text);
+  if (note) return { items: [], note };
+  const done = readDone(FORM), ai = readAi(FORM), items = [];
+  for (const s of rows) {
+    if (done[s.formKey]) continue;
+    const id = CARDS.has(s.raw) ? s.raw : ALT.get(s.raw) || s.raw;
+    const card = CARDS.get(id), e = EN.get(id), proposed = s.proposed;
     const problems = [];
-    if (!/^\d{3,10}$/.test(raw)) problems.push("passcode ไม่ใช่ตัวเลข");
+    if (!/^d{3,10}$/.test(s.raw)) problems.push("passcode ไม่ใช่ตัวเลข");
     else if (!card) problems.push("ไม่พบการ์ดนี้ในฐาน");
     if (!proposed) problems.push("ไม่มีคำแปลที่เสนอ");
     if (proposed.length > MAX_TH) problems.push(`คำแปลยาวเกิน ${MAX_TH} ตัวอักษร`);
     if (card && proposed === card.th.trim()) problems.push("เหมือนคำแปลเดิม (ไม่ได้แก้อะไร)");
-    if (get(C.credit) && !cleanCredit(get(C.credit))) problems.push("ชื่อเครดิตใช้ไม่ได้ (ยาวเกิน 40 หรือมีลิงก์/@/สัญลักษณ์) — จะไม่แสดงเครดิต");
+    if (s.creditRaw && !cleanCredit(s.creditRaw)) problems.push("ชื่อเครดิตใช้ไม่ได้ (ยาวเกิน 40 หรือมีลิงก์/@/สัญลักษณ์) — จะไม่แสดงเครดิต");
     // ruleCheck already includes the unsafe-text checks; without English we still need them
     if (e && proposed) problems.push(...ruleCheck(e.en, proposed).problems);
     else problems.push(...unsafeText(proposed));
-    items.push({ formKey: key, id, name: card?.name || "(ไม่พบการ์ด)", th: card?.th || "", proposed: proposed.slice(0, MAX_TH),
-      reason: get(C.reason).slice(0, 2000), source: get(C.source).slice(0, 500), credit: cleanCredit(get(C.credit)),
-      submitted: get(C.time), en: e?.en || "", views: e?.views || 0, type: e?.type || "", status: card?.status || "-",
-      stale: false, problems, kinds: [...new Set(problems.map(problemKind))] });
+    // ผล AI จาก review-all (คำแนะนำเท่านั้น) — ใช้ได้ถ้ายังเป็นข้อความเดียวกับที่ AI ตรวจ
+    const a = ai[s.formKey];
+    items.push({ formKey: s.formKey, id, name: card?.name || "(ไม่พบการ์ด)", th: card?.th || "", proposed: proposed.slice(0, MAX_TH),
+      reason: s.reason, source: s.source, credit: cleanCredit(s.creditRaw), submitted: s.submitted,
+      en: e?.en || "", views: e?.views || 0, type: e?.type || "", status: card?.status || "-", stale: false,
+      ai: a && a.proposed === proposed ? a : null,
+      problems, kinds: [...new Set(problems.map(problemKind)), ...(a && a.proposed === proposed ? [a.label] : ["ai-none"])] });
   }
+  if (!items.length) return { items, note: `ไม่มีคำแก้ใหม่จากฟอร์ม (อ่านจาก ${got.from})` };
   return { items };
 }
 
@@ -156,7 +108,7 @@ function save({ id, th, action, formKey, credit }) {
   // คำแก้จากฟอร์มที่ไม่ใช้ — จำไว้ว่าจัดการแล้ว ไม่แตะการ์ด
   if (action === "dismiss") {
     if (!formKey) return { ok: false, error: "ไม่มี formKey" };
-    markDone(formKey, "dismissed");
+    markDone(FORM, formKey, "dismissed");
     return { ok: true, card: { id, name: CARDS.get(id)?.name || id }, rule: [] };
   }
   if (typeof id !== "string" || !/^\d{3,10}$/.test(id) || !existsSync(cardPath(id))) return { ok: false, error: "ไม่พบการ์ด" };
@@ -181,7 +133,7 @@ function save({ id, th, action, formKey, credit }) {
   if (problems.length) return { ok: false, error: problems.join("; ") };
   writeFileSync(cardPath(id), cardJson(card));
   CARDS.set(id, card);
-  if (formKey) markDone(formKey, "used");
+  if (formKey) markDone(FORM, formKey, "used");
   return { ok: true, card, rule: e ? ruleCheck(e.en, card.th).problems : [] };
 }
 

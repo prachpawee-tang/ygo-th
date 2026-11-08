@@ -59,6 +59,10 @@
     <option value="name">ชื่อการ์ด</option>
     <option value="bullet">●</option>
     <option value="other">อื่น ๆ</option>
+    <option value="ai-accept">ฟอร์ม: AI ผ่าน</option>
+    <option value="ai-reject">ฟอร์ม: AI ไม่ผ่าน</option>
+    <option value="ai-needs-human">ฟอร์ม: AI ให้คนดู</option>
+    <option value="ai-none">ฟอร์ม: ยังไม่ได้ให้ AI ตรวจ</option>
   </select>
   <input id="q" type="search" placeholder="ค้นชื่อการ์ด / passcode" aria-label="ค้นชื่อการ์ดหรือ passcode">
   <span id="count">กำลังโหลด…</span>
@@ -174,7 +178,20 @@ function formInfo(c) {
   return el("div", { className: "cols", style: "margin-top:12px" },
     el("div", { className: "box" }, el("h3", { textContent: "คำแปลปัจจุบัน" }), cur),
     el("div", { className: "box" }, el("h3", { textContent: "จากแบบฟอร์ม" }),
-      row("ส่งเมื่อ", c.submitted), row("เหตุผล", c.reason), row("แหล่งอ้างอิง", c.source), row("เครดิต (แสดงใน extension)", c.credit)));
+      row("ส่งเมื่อ", c.submitted), row("เหตุผล", c.reason), row("แหล่งอ้างอิง", c.source), row("เครดิต (แสดงใน extension)", c.credit)),
+    aiInfo(c.ai));
+}
+
+// ผล AI จาก review-all.bat (คำแนะนำ — ผู้ดูแลตัดสินเอง) · ข้อความจาก AI แสดงด้วย textContent เท่านั้น
+const AI_LABEL = { "ai-accept": ["✓ AI ผ่าน", "good"], "ai-reject": ["✗ AI ไม่ผ่าน", "err"], "ai-needs-human": ["? AI ให้คนดู", ""], invalid: ["✗ รูปแบบใช้ไม่ได้", "err"] };
+function aiInfo(a) {
+  const box = el("div", { className: "box", style: "grid-column: 1 / -1" }, el("h3", { textContent: "ผลตรวจ AI" }));
+  if (!a) { box.append(el("div", { className: "meta", textContent: "ยังไม่ได้ตรวจ — รัน tools\review-all.bat แล้วเปิดโหมดนี้ใหม่" })); return box; }
+  const [t, cls] = AI_LABEL[a.label] || [a.label, ""];
+  box.append(el("div", { className: cls, textContent: `${t} · ${a.model || ""} · ${(a.at || "").slice(0, 16).replace("T", " ")}` }));
+  a.rounds?.forEach((r, i) => box.append(el("div", { textContent: `รอบ ${i + 1}: ${r.verdict} (มั่นใจ ${Math.round(r.confidence * 100)}%)${r.problems.length ? " — " + r.problems.join(" · ") : ""}` })));
+  if (a.rounds?.[0]?.back_translation) box.append(el("details", {}, el("summary", { textContent: "คำแปลกลับเป็นภาษาอังกฤษ (รอบ 1)" }), el("div", { className: "text meta", textContent: a.rounds[0].back_translation })));
+  return box;
 }
 
 let current = null;

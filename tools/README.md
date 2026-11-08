@@ -12,6 +12,7 @@
 | [`import-batch.mjs`](#import-batch) | แปลงผล batch เป็น `data/cards/*.json` | ถูกเรียกจาก update-data | เครื่อง Tonk |
 | [`validate.mjs`](#validate) | ตรวจรูปแบบไฟล์ใน `data/` | ก่อน push ทุกครั้ง · CI รันเองทุก PR/push | ทั้งสองที่ |
 | [`build.mjs`](#build) | สร้าง API static `site/v1/` และเซ็น | Actions รันเองหลัง push เข้า main | Actions (ลองในเครื่องได้) |
+| [`review-all.bat`](#review-all) | **ตรวจคำแก้ทั้งหมดในคำสั่งเดียว**: GitHub issue + Google Form (rule-check + AI 2 รอบ) | เมื่อมีคำแก้ใหม่ | เครื่อง Tonk (เปิด Ollama ให้เอง) |
 | [`review.bat`](#review) | ให้ AI บนเครื่องตรวจคำแก้จาก issue | เมื่อมี issue ติด label `needs-ai-review` | เครื่อง Tonk (ต้องเปิด Ollama) |
 | [`triage.mjs`](#triage) | ตรวจ issue แก้คำแปลแบบไม่ใช้ AI | Actions รันเองเมื่อมีคนเปิด/แก้ issue | Actions เท่านั้น |
 | [`keygen.mjs`](#keygen) | สร้างกุญแจเซ็น manifest | ครั้งเดียว หรือตอนกุญแจหลุด | เครื่อง Tonk |
@@ -21,7 +22,9 @@
 ```
 batch แปลบนเครื่อง ──► update-data.bat (commit + push ให้เอง) ──► [Actions] validate + build ──► Pages ──► extension ของเพื่อน (ภายใน 12 ชม.)
 
-เพื่อนเปิด issue ──► [Actions] triage ──► label needs-ai-review ──► review.bat (AI บนเครื่อง) ──► Tonk อ่านแล้ว merge เอง
+เพื่อนเปิด issue ──► [Actions] triage ──► label needs-ai-review ──┐
+                                                                 ├──► review-all.bat (AI บนเครื่อง) ──► Tonk ตัดสิน (merge PR / ✓ ใน review-ui) ──► update-data.bat
+เพื่อนส่ง Google Form ────────────────────────────────────────────┘
 ```
 
 ---
@@ -158,6 +161,27 @@ node tools/build.mjs           # → site/ (UNSIGNED)
 ```
 env `YGOTH_SIGNING_KEY` = เนื้อหาไฟล์ private key (PEM) · ใน Actions มาจาก secret ใน environment `release`
 `site/` อยู่ใน `.gitignore` ห้าม commit
+
+---
+
+<a id="review-all"></a>
+## `review-all.bat` / `review-all.mjs`: ตรวจคำแก้ทั้งหมด (GitHub + Google Form)
+
+**ทำอะไร:** ในคำสั่งเดียว
+1. **GitHub:** รัน `review-issues.mjs` กับ issue ที่ติด `needs-ai-review` (คอมเมนต์ + label `ai-*` เหมือน `review.bat`) · ต้องมี token `YGOTH_GITHUB_TOKEN` (ตั้งครั้งเดียวด้วย `review.bat`) ไม่มี token จะข้ามส่วนนี้
+2. **Google Form:** ดึงคำตอบล่าสุดจาก Sheet → ตรวจรูปแบบ (passcode, ความยาว, ข้อความอันตราย) → rule-check + AI 2 รอบ → เก็บผลไว้ใน `E:YGO-Translatororm-responses.ai.json` (นอก repo)
+   - ตรวจเฉพาะคำแก้ใหม่ หรือคำแก้ที่ข้อความเปลี่ยน (`--recheck` = ตรวจใหม่ทั้งหมด) · Ollama พังกลางทาง ใบนั้นจะถูกลองใหม่รอบหน้า
+
+**ไม่เขียนคำแปลลงฐานเอง** (ยังไม่ auto-merge จนกว่าจะผ่านเกณฑ์เฟส 5) — เปิด `review-ui.bat` → โหมด "คำแก้จาก Google Form" จะเห็นกล่อง **ผลตรวจ AI** (ผ่าน/ไม่ผ่าน/ให้คนดู, มั่นใจกี่ % แต่ละรอบ, ปัญหาที่ AI เจอ, คำแปลกลับเป็นอังกฤษ) และกรอง "ฟอร์ม: AI ผ่าน" ได้ แล้วกด ✓ ใช้ / ✗ ไม่ใช้ → `update-data.bat`
+
+**ใช้ยังไง:** ดับเบิลคลิก `toolseview-all.bat` (เปิด Ollama ให้ถ้ายังไม่เปิด — ไม่ปิด Ollama ที่ batch ใช้อยู่)
+```bat
+toolseview-all.bat              :: ตรวจทั้งหมด
+toolseview-all.bat --dry-run    :: ดูผล ไม่แตะ GitHub ไม่บันทึกผลฟอร์ม
+toolseview-all.bat --recheck    :: ตรวจคำแก้จากฟอร์มใหม่ทั้งหมด
+toolseview-all.bat --open-pr    :: GitHub: เปิด PR ให้ issue ที่ AI ผ่าน (เฟส 4)
+```
+ตัวตรวจ AI อยู่ใน `tools/ai-review.mjs` ใช้ร่วมกับ `review.bat` (prompt เดียวกัน · บอกโมเดลว่าช่อง "เหตุผล" พูดถึงคำแปลเดิม ไม่ใช่คำแก้) · การอ่านฟอร์มอยู่ใน `tools/form.mjs` ใช้ร่วมกับ `review-ui`
 
 ---
 

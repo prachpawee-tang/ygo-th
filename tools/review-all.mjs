@@ -1,0 +1,88 @@
+// Review every pending translation fix in one go — GitHub issues AND Google Form suggestions.
+// Double-click tools\review-all.bat  (or node tools/review-all.mjs [--dry-run] [--open-pr] [--recheck])
+//   1. GitHub: runs review-issues.mjs (needs YGOTH_GITHUB_TOKEN) — comment + ai-* label on each issue.
+//   2. Google Form: fetches the latest responses (published Sheet link / local CSV), rule-check + 2 AI passes,
+//      stores the verdict next to the CSV (form-responses.ai.json) so review-ui shows it.
+// Nothing is merged or written to data/cards: the maintainer still decides in review-ui (no auto-merge until phase 5).
+//   --recheck  review form suggestions again even if they already have an AI result
+import { spawnSync } from "node:child_process";
+import { readFileSync, existsSync } from "node:fs";
+import { join } from "node:path";
+import { ROOT, CARDS_DIR, unsafeText, MAX_TH } from "./lib.mjs";
+import { formConfig, fetchFormText, readSuggestions, readDone, readAi, writeAi } from "./form.mjs";
+import { reviewSuggestion, ollamaReady, MODEL, OLLAMA } from "./ai-review.mjs";
+
+const args = process.argv.slice(2);
+const DRY = args.includes("--dry-run"), RECHECK = args.includes("--recheck");
+const EN_FILE = "E:\\YGO-Translator\\batch\\cards-en.json";
+const RED = "\x1b[31m", GREEN = "\x1b[32m", YELLOW = "\x1b[33m", RESET = "\x1b[0m";
+const log = m => console.log(`[${new Date().toTimeString().slice(0, 8)}] ${m}`);
+const LABEL = { "ai-accept": `${GREEN}AI ผ่าน${RESET}`, "ai-reject": `${RED}AI ไม่ผ่าน${RESET}`, "ai-needs-human": `${YELLOW}ให้คนดู${RESET}`, invalid: `${RED}รูปแบบใช้ไม่ได้${RESET}` };
+
+console.log("=== ygo-th: ตรวจคำแก้ทั้งหมด (GitHub + Google Form) ===\n");
+if (!(await ollamaReady())) {
+  console.error(`${RED}[ผิดพลาด] ติดต่อ Ollama ที่ ${OLLAMA} ไม่ได้ — ใช้ review-all.bat ซึ่งเปิด Ollama ให้เอง${RESET}`);
+  process.exit(1);
+}
+
+// ---------- 1) GitHub issues ----------
+let ghResult = "ข้าม";
+if (!process.env.GITHUB_TOKEN) {
+  log(`${YELLOW}GitHub: ข้าม (ยังไม่ได้ตั้ง token — ดู MAINTAINING.md แล้วรัน review.bat ครั้งเดียวเพื่อบันทึก token)${RESET}`);
+} else {
+  log("GitHub: ตรวจ issue ที่ติด needs-ai-review");
+  const r = spawnSync(process.execPath, [join(ROOT, "tools", "review-issues.mjs"), ...args.filter(a => a === "--dry-run" || a === "--open-pr")],
+    { cwd: ROOT, stdio: "inherit", env: process.env });
+  ghResult = r.status === 0 ? "เสร็จ" : `${RED}ผิดพลาด (exit ${r.status})${RESET}`;
+}
+
+// ---------- 2) Google Form ----------
+const flag = k => { const i = args.indexOf(k); return i >= 0 ? args[i + 1] : undefined; };
+let FORM;
+try { FORM = formConfig({ csv: flag("--form"), url: flag("--form-url") }); } catch (e) { console.error(e.message); process.exit(1); }
+const got = await fetchFormText(FORM);
+let formCounts = {};
+if (got.text === null) {
+  log(`${YELLOW}Google Form: ${got.note}${RESET}`);
+} else {
+  const { rows, note } = readSuggestions(got.text);
+  if (note) log(`${RED}Google Form: ${note}${RESET}`);
+  // passcode → main card id (alt artworks share one card file) + English text
+  const en = new Map(), main = new Map();
+  for (const c of (j => j.data || j)(JSON.parse(readFileSync(EN_FILE, "utf8")))) {
+    for (const im of c.card_images || [{ id: c.id }]) main.set(String(im.id), String(c.id));
+    main.set(String(c.id), String(c.id)); en.set(String(c.id), c.desc || "");
+  }
+  const done = readDone(FORM), ai = readAi(FORM);
+  const todo = rows.filter(s => !done[s.formKey] && (RECHECK || ai[s.formKey]?.proposed !== s.proposed));
+  log(`Google Form: ${rows.length} คำตอบ (อ่านจาก ${got.from}) · ยังไม่จัดการ ${rows.filter(s => !done[s.formKey]).length} · ต้องตรวจรอบนี้ ${todo.length}`);
+  for (const [i, s] of todo.entries()) {
+    const id = main.get(s.raw) || s.raw;
+    const file = join(CARDS_DIR, `${id}.json`);
+    const card = existsSync(file) ? JSON.parse(readFileSync(file, "utf8")) : null;
+    const bad = [];
+    if (!/^\d{3,10}$/.test(s.raw)) bad.push("passcode ไม่ใช่ตัวเลข");
+    else if (!en.has(id)) bad.push("ไม่พบการ์ดนี้");
+    if (!s.proposed) bad.push("ไม่มีคำแปลที่เสนอ");
+    if (s.proposed.length > MAX_TH) bad.push("คำแปลยาวเกิน");
+    bad.push(...unsafeText(s.proposed));
+    let result;
+    if (bad.length) result = { label: "invalid", proposed: s.proposed, rule: bad, rounds: [], at: new Date().toISOString() };
+    else {
+      try {
+        const r = await reviewSuggestion(en.get(id), card?.th, s.proposed, s.reason);
+        result = { label: r.label, proposed: s.proposed, rule: r.rule.problems, model: r.model, at: new Date().toISOString(),
+          rounds: r.rounds.map(x => ({ verdict: x.verdict, confidence: x.confidence, problems: x.problems, back_translation: x.back_translation })) };
+      } catch (e) { log(`${RED}  ${s.raw}: AI ตรวจไม่สำเร็จ — ${e.message} (จะลองใหม่รอบหน้า)${RESET}`); continue; }
+    }
+    if (!DRY) writeAi(FORM, s.formKey, result);
+    formCounts[result.label] = (formCounts[result.label] || 0) + 1;
+    log(`  ${i + 1}/${todo.length}  ${card?.name || s.raw}  → ${LABEL[result.label] || result.label}${result.rule.length ? " · " + result.rule.slice(0, 2).join(" · ") : ""}`);
+  }
+}
+
+console.log(`\n${GREEN}=== เสร็จ ===${RESET}`);
+console.log(`GitHub: ${ghResult}`);
+console.log(`Google Form: ${Object.entries(formCounts).map(([k, v]) => `${(LABEL[k] || k)} ${v}`).join(" · ") || "ไม่มีคำแก้ใหม่ให้ตรวจ"}${DRY ? " (dry-run: ไม่ได้บันทึกผล)" : ""}`);
+console.log(`ขั้นต่อไป: เปิด tools\\review-ui.bat → โหมด "คำแก้จาก Google Form" → ดูผล AI แล้วกด ✓ ใช้ / ✗ ไม่ใช้ → update-data.bat`);
+console.log(`(AI ใช้ ${MODEL} บนเครื่อง · ผลเป็นคำแนะนำ ผู้ดูแลตัดสินเอง)`);

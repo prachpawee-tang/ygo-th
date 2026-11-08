@@ -20,6 +20,7 @@ const all = {};
 const counts = { ai: 0, community: 0, reviewed: 0 };
 for (const c of cards) {
   const entry = { name: c.name, th: c.th, status: c.status, en_sha256: c.en_sha256 };
+  if (c.credit) entry.credit = c.credit; // contributor name (validated by checkCardSchema) — public
   counts[c.status]++;
   for (const id of [c.id, ...(c.alt || [])]) {
     all[id] = entry;

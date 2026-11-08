@@ -45,7 +45,9 @@ function cleanCards(all) {
       name: typeof c.name === "string" ? c.name.slice(0, 200) : "",
       th: c.th,
       status: STATUSES.has(c.status) ? c.status : "ai",
-      en_sha256: /^[0-9a-f]{64}$/.test(c.en_sha256 ?? "") ? c.en_sha256 : null
+      en_sha256: /^[0-9a-f]{64}$/.test(c.en_sha256 ?? "") ? c.en_sha256 : null,
+      // contributor name — same rule as tools/lib.mjs cleanCredit (short, no links/mentions/markup)
+      credit: typeof c.credit === "string" && c.credit.length <= 40 && !/[<>@#*_`[\]()|\\]|https?:\/\/|www\./i.test(c.credit) ? c.credit : ""
     };
   }
   return out;
@@ -113,7 +115,7 @@ async function lookup(id, en) {
     return { ok: true, found: false, empty: !meta };
   }
   const stale = !!(card.en_sha256 && typeof en === "string" && en && (await sha256(norm(en))) !== card.en_sha256);
-  return { ok: true, found: true, th: card.th, status: card.status, stale };
+  return { ok: true, found: true, th: card.th, status: card.status, credit: card.credit || "", stale };
 }
 
 // ---------- extension updates (GitHub Releases) ----------

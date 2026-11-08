@@ -135,7 +135,7 @@ function show() {
   async function save(action) {
     btnOk.disabled = btnSave.disabled = true;
     msg.className = ""; msg.textContent = "กำลังบันทึก…";
-    const r = await api("/api/save", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ id: c.id, th: ta.value, action, formKey: c.formKey }) });
+    const r = await api("/api/save", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ id: c.id, th: ta.value, action, formKey: c.formKey, credit: c.credit }) });
     if (!r.ok) { msg.className = "err"; msg.textContent = r.error; btnOk.disabled = false; btnSave.disabled = ta.value.trim() === base.trim(); return; }
     done++;
     all = all.filter(x => x !== c); list.splice(pos, 1);
@@ -174,7 +174,7 @@ function formInfo(c) {
   return el("div", { className: "cols", style: "margin-top:12px" },
     el("div", { className: "box" }, el("h3", { textContent: "คำแปลปัจจุบัน" }), cur),
     el("div", { className: "box" }, el("h3", { textContent: "จากแบบฟอร์ม" }),
-      row("ส่งเมื่อ", c.submitted), row("เหตุผล", c.reason), row("แหล่งอ้างอิง", c.source), row("เครดิต", c.credit)));
+      row("ส่งเมื่อ", c.submitted), row("เหตุผล", c.reason), row("แหล่งอ้างอิง", c.source), row("เครดิต (แสดงใน extension)", c.credit)));
 }
 
 let current = null;

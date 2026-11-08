@@ -20,7 +20,7 @@ Base URL: `https://prachpawee-tang.github.io/ygo-th/v1/`
 | Endpoint | ได้อะไร |
 | --- | --- |
 | `manifest.json` | เวอร์ชัน จำนวนการ์ด sha256 ของ `all.json.gz` และลายเซ็น Ed25519 |
-| `all.json.gz` | ทุกการ์ด `{ passcode: { name, th, status, en_sha256 } }` |
+| `all.json.gz` | ทุกการ์ด `{ passcode: { name, th, status, en_sha256, credit? } }` (`credit` = ชื่อผู้ช่วยแก้ ถ้ามี) |
 | `cards/{passcode}.json` | การ์ดใบเดียว |
 | `glossary.json` | ศัพท์มาตรฐาน EN → TH |
 

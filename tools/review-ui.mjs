@@ -7,7 +7,7 @@ import { readFileSync, writeFileSync, existsSync } from "node:fs";
 import { join } from "node:path";
 import { randomBytes, timingSafeEqual } from "node:crypto";
 import { spawn } from "node:child_process";
-import { ROOT, CARDS_DIR, loadCards, ruleCheck, checkCardSchema, unsafeText, cardJson, enHash, MAX_TH } from "./lib.mjs";
+import { ROOT, CARDS_DIR, loadCards, ruleCheck, checkCardSchema, unsafeText, cardJson, enHash, MAX_TH, cleanCredit } from "./lib.mjs";
 
 const argv = process.argv.slice(2);
 const flag = k => { const i = argv.indexOf(k); return i >= 0 ? argv.splice(i, 2)[1] : null; };
@@ -99,11 +99,12 @@ function formQueue() {
     if (!proposed) problems.push("ไม่มีคำแปลที่เสนอ");
     if (proposed.length > MAX_TH) problems.push(`คำแปลยาวเกิน ${MAX_TH} ตัวอักษร`);
     if (card && proposed === card.th.trim()) problems.push("เหมือนคำแปลเดิม (ไม่ได้แก้อะไร)");
+    if (get(C.credit) && !cleanCredit(get(C.credit))) problems.push("ชื่อเครดิตใช้ไม่ได้ (ยาวเกิน 40 หรือมีลิงก์/@/สัญลักษณ์) — จะไม่แสดงเครดิต");
     // ruleCheck already includes the unsafe-text checks; without English we still need them
     if (e && proposed) problems.push(...ruleCheck(e.en, proposed).problems);
     else problems.push(...unsafeText(proposed));
     items.push({ formKey: key, id, name: card?.name || "(ไม่พบการ์ด)", th: card?.th || "", proposed: proposed.slice(0, MAX_TH),
-      reason: get(C.reason).slice(0, 2000), source: get(C.source).slice(0, 500), credit: get(C.credit).slice(0, 100),
+      reason: get(C.reason).slice(0, 2000), source: get(C.source).slice(0, 500), credit: cleanCredit(get(C.credit)),
       submitted: get(C.time), en: e?.en || "", views: e?.views || 0, type: e?.type || "", status: card?.status || "-",
       stale: false, problems, kinds: [...new Set(problems.map(problemKind))] });
   }
@@ -125,7 +126,7 @@ function queue(mode) {
   return out.sort((a, b) => b.views - a.views);
 }
 
-function save({ id, th, action, formKey }) {
+function save({ id, th, action, formKey, credit }) {
   if (formKey !== undefined && typeof formKey !== "string") return { ok: false, error: "formKey ไม่ถูกต้อง" };
   // คำแก้จากฟอร์มที่ไม่ใช้ — จำไว้ว่าจัดการแล้ว ไม่แตะการ์ด
   if (action === "dismiss") {
@@ -146,6 +147,8 @@ function save({ id, th, action, formKey }) {
   const e = EN.get(id);
   // คำแก้จากคนนอกที่ผู้ดูแลรับแล้ว = community (เหมือน PR จาก issue) · ผู้ดูแลตรวจเอง = reviewed
   card.status = formKey ? "community" : "reviewed";
+  // ชื่อเครดิตจากฟอร์ม (สาธารณะ — แสดงใน extension) · ชื่อที่ไม่ผ่านการตรวจจะไม่ถูกเก็บ
+  if (formKey) { const cr = cleanCredit(credit); if (cr) card.credit = cr; else delete card.credit; }
   card.updated = today();
   if (e) card.en_sha256 = enHash(e.en); // ตรวจเทียบกับข้อความอังกฤษเวอร์ชันนี้
   delete card.note;

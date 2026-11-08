@@ -19,7 +19,7 @@ export const isPasscode = id => typeof id === "string" && /^\d{3,10}$/.test(id);
 /** Validate one card record. Returns a list of problems (empty = valid). */
 export function checkCardSchema(c) {
   const p = [];
-  const allowed = new Set(["id", "name", "th", "status", "en_sha256", "model", "updated", "alt", "note"]);
+  const allowed = new Set(["id", "name", "th", "status", "en_sha256", "model", "updated", "alt", "note", "credit"]);
   for (const k of Object.keys(c)) if (!allowed.has(k)) p.push(`unknown field "${k}"`);
   if (!isPasscode(c.id)) p.push("id must be a numeric passcode");
   if (typeof c.name !== "string" || !c.name.trim() || c.name.length > 200) p.push("name required (≤200 chars)");
@@ -32,7 +32,16 @@ export function checkCardSchema(c) {
   if (!/^[0-9a-f]{64}$/.test(c.en_sha256 ?? "")) p.push("en_sha256 must be a sha256 hex");
   if (c.alt !== undefined && !(Array.isArray(c.alt) && c.alt.every(isPasscode))) p.push("alt must be passcodes");
   if (c.updated !== undefined && !/^\d{4}-\d{2}-\d{2}$/.test(c.updated)) p.push("updated must be YYYY-MM-DD");
+  if (c.credit !== undefined && cleanCredit(c.credit) !== c.credit) p.push(`credit must be a short plain name (≤${MAX_CREDIT} chars)`);
   return p;
+}
+
+/** Contributor name shown publicly ("แก้โดย …") — public text from a stranger: short, plain, no links/mentions/HTML. "" = drop it. */
+export const MAX_CREDIT = 40;
+export function cleanCredit(s) {
+  const t = String(s ?? "").replace(/\s+/g, " ").trim();
+  if (!t || t.length > MAX_CREDIT || unsafeText(t).length || /[@#*_`[\]()|\\]/.test(t)) return "";
+  return t;
 }
 
 /** Text that must never appear in a translation (it is rendered as plain text, but we reject it anyway). */
@@ -97,4 +106,4 @@ export function loadCards() {
     .map(f => ({ file: f, card: JSON.parse(readFileSync(join(CARDS_DIR, f), "utf8")) }));
 }
 
-export const cardJson = c => JSON.stringify(c, ["id", "name", "th", "status", "en_sha256", "model", "updated", "alt", "note"], 2) + "\n";
+export const cardJson = c => JSON.stringify(c, ["id", "name", "th", "status", "en_sha256", "model", "updated", "alt", "credit", "note"], 2) + "\n";

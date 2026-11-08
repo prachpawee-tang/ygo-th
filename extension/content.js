@@ -190,6 +190,7 @@
       return;
     }
     badge.append(el("span", { className: "ygot-st-" + res.status, textContent: STATUS_LABEL[res.status] || res.status }));
+    if (res.credit) badge.append(el("span", { className: "ygot-credit", textContent: "· แก้โดย " + res.credit }));
     if (res.stale) badge.append(el("span", { className: "ygot-stale", textContent: "⚠ อาจเก่า",
       title: "ข้อความภาษาอังกฤษบนเว็บไม่ตรงกับตอนที่แปล (อาจโดน errata) — เทียบกับต้นฉบับอีกที" }));
     badge.append(formLink("fix", id, res.th), issueLink("fix", id, res.th));

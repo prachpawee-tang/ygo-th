@@ -11,7 +11,8 @@
 // (c) with --open-pr, replace the `th` of the ONE card named in the form with the contributor's text.
 import { isPasscode, cardJson, MAX_TH, unsafeText } from "./lib.mjs";
 import { gh, REPO, parseForm, fetchEnglish, fence } from "./github.mjs";
-import { reviewSuggestion, MODEL } from "./ai-review.mjs";
+import { reviewSuggestion, mistakePattern, MODEL } from "./ai-review.mjs";
+import { similarFor, putSimilar } from "./similar.mjs";
 
 const args = new Set(process.argv.slice(2));
 const OPEN_PR = args.has("--open-pr"), DRY = args.has("--dry-run");
@@ -65,6 +66,21 @@ for (const issue of issues) {
     "<details><summary>คำแปลกลับเป็นภาษาอังกฤษ (รอบ 1)</summary>\n\n" + fence(r[0].back_translation) + "\n</details>",
     card?.status === "reviewed" ? "การ์ดนี้สถานะ reviewed — ผู้ดูแลตัดสินเองเสมอ" : ""
   ].filter(Boolean);
+
+  // คำแก้ที่ AI ไม่ตีตก → หาการ์ดใบอื่นที่อาจผิดแบบเดียวกัน (ค้นในเครื่องผู้ดูแล · ผู้ดูแลกดส่งให้ ai-fix ใน review-ui)
+  if (label !== "ai-reject") {
+    try {
+      const sim = await similarFor(mistakePattern, { en: en.en, id: passcode, currentTh: card?.th, proposed });
+      if (sim?.cards.length) {
+        const safe = s => String(s).replace(/[@<>[\]()!`*_#|]/g, "");
+        const { pattern: p, cards } = sim;
+        lines.push(`**อาจผิดแบบเดียวกันอีก ${cards.length} ใบ** ("${safe(p.en)}" แปลเป็น "${safe(p.wrong)}" แทน "${safe(p.right)}"):\n` +
+          cards.slice(0, 10).map(c => `- ${safe(c.name)} (${c.id})`).join("\n") + (cards.length > 10 ? `\n- … อีก ${cards.length - 10} ใบ` : "") +
+          "\n\nผู้ดูแลจะตรวจรูปแบบนี้ก่อนให้ AI แก้ใบเหล่านั้น");
+        if (!DRY) putSimilar(`issue:${issue.number}`, { source: `GitHub #${issue.number}`, card: passcode, name: en.name, pattern: p, cards });
+      }
+    } catch (e) { console.warn(`#${issue.number}: similar-card search failed — ${e.message}`); }
+  }
 
   let prUrl = null;
   if (!DRY && OPEN_PR && label === "ai-accept" && card && card.status !== "reviewed") {

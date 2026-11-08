@@ -7,8 +7,9 @@ import { readFileSync, writeFileSync, existsSync } from "node:fs";
 import { join } from "node:path";
 import { randomBytes, timingSafeEqual } from "node:crypto";
 import { spawn } from "node:child_process";
-import { ROOT, CARDS_DIR, loadCards, ruleCheck, checkCardSchema, unsafeText, cardJson, enHash, MAX_TH, cleanCredit } from "./lib.mjs";
+import { ROOT, CARDS_DIR, loadCards, ruleCheck, checkCardSchema, unsafeText, cardJson, enHash, sha256, MAX_TH, cleanCredit, hasPatternMistake } from "./lib.mjs";
 import { formConfig, fetchFormText, readSuggestions, readDone, markDone, readAi } from "./form.mjs";
+import { readSimilar, setSimilarStatus, readAiFix } from "./similar.mjs";
 
 const argv = process.argv.slice(2);
 const flag = k => { const i = argv.indexOf(k); return i >= 0 ? argv.splice(i, 2)[1] : null; };
@@ -90,15 +91,19 @@ async function formQueue() {
 
 /** คิวงาน: mode=notes → ใบที่มี note · mode=ai → ทุกใบที่ยังเป็น ai (ยอดนิยมก่อน) */
 function queue(mode) {
-  const out = [];
+  const out = [], fix = readAiFix();
   for (const card of CARDS.values()) {
     if (card.status === "reviewed") continue;
     if (mode === "notes" ? !card.note : card.status !== "ai") continue;
     const e = EN.get(card.id);
     if (!e) continue;
     const problems = ruleCheck(e.en, card.th).problems;
+    // ความเห็นของ batch/ai-fix (ใช้ได้เฉพาะถ้าคำแปลยังเป็นข้อความเดียวกับที่ AI ตรวจ)
+    const f = fix[card.id]?.th_sha === sha256(card.th) ? fix[card.id] : null;
+    const aiFix = f && { verdict: f.verdict, why: f.why, checks: f.checks, at: f.at };
     out.push({ id: card.id, name: card.name, th: card.th, en: e.en, views: e.views, type: e.type, status: card.status,
-      stale: !!card.en_sha256 && card.en_sha256 !== enHash(e.en), problems, kinds: [...new Set(problems.map(problemKind))] });
+      stale: !!card.en_sha256 && card.en_sha256 !== enHash(e.en), problems, aiFix,
+      kinds: [...new Set(problems.map(problemKind)), ...(f?.verdict === "false-alarm" ? ["ai-false-alarm"] : [])] });
   }
   return out.sort((a, b) => b.views - a.views);
 }
@@ -137,6 +142,18 @@ function save({ id, th, action, formKey, credit }) {
   return { ok: true, card, rule: e ? ruleCheck(e.en, card.th).problems : [] };
 }
 
+/** รายการ "อาจผิดแบบเดียวกัน" (batch/similar.json) — นับใหม่จากคำแปลปัจจุบันในหน่วยความจำ (ใบที่แก้แล้วหายไปเอง) */
+function similarList() {
+  const order = { pending: 0, sent: 1, ignored: 2 };
+  return Object.entries(readSimilar()).map(([key, s]) => {
+    const cards = (s.cards || []).filter(c => {
+      const card = CARDS.get(c.id), e = EN.get(c.id);
+      return card && e && card.status === "ai" && hasPatternMistake(e.en, card.th, s.pattern);
+    }).map(c => ({ id: c.id, name: CARDS.get(c.id).name, views: EN.get(c.id).views })).sort((a, b) => b.views - a.views);
+    return { key, source: s.source, card: s.card, name: s.name, pattern: s.pattern, status: s.status, at: s.at, total: cards.length, cards: cards.slice(0, 40) };
+  }).sort((a, b) => order[a.status] - order[b.status] || String(b.at).localeCompare(String(a.at)));
+}
+
 // ---- HTTP ----
 const PAGE = () => readFileSync(join(ROOT, "tools", "review-ui.html"), "utf8");
 const FORMAT_JS = () => readFileSync(join(ROOT, "extension", "format.js"), "utf8");
@@ -166,14 +183,23 @@ const server = createServer((req, res) => {
     if (mode === "form") { formQueue().then(f => json(res, 200, { ok: true, items: f.items, note: f.note }), e => json(res, 500, { ok: false, error: String(e.message || e) })); return; }
     return json(res, 200, { ok: true, items: queue(mode === "ai" ? "ai" : "notes") });
   }
-  if (req.method === "POST" && url.pathname === "/api/save") {
+  if (req.method === "GET" && url.pathname === "/api/similar") return json(res, 200, { ok: true, items: similarList() });
+  if (req.method === "POST" && (url.pathname === "/api/save" || url.pathname === "/api/similar")) {
     if (!String(req.headers["content-type"] || "").startsWith("application/json")) return json(res, 415, { ok: false, error: "ต้องเป็น JSON" });
     let body = "";
     req.on("data", d => { body += d; if (body.length > 64 * 1024) req.destroy(); });
     req.on("end", () => {
       let r;
-      try { r = save(JSON.parse(body)); } catch (e) { r = { ok: false, error: String(e.message || e) }; }
-      if (r.ok) console.log(`✓ ${r.card.id} ${r.card.name}`);
+      try {
+        const b = JSON.parse(body);
+        if (url.pathname === "/api/save") r = save(b);
+        else {
+          const status = { send: "sent", ignore: "ignored", undo: "pending" }[b.action];
+          r = typeof b.key === "string" && status && setSimilarStatus(b.key, status) ? { ok: true, status } : { ok: false, error: "ไม่พบรายการนี้" };
+        }
+      } catch (e) { r = { ok: false, error: String(e.message || e) }; }
+      if (r.ok && r.card) console.log(`✓ ${r.card.id} ${r.card.name}`);
+      if (r.ok && r.status) console.log(`อาจผิดแบบเดียวกัน: ${r.status}`);
       json(res, r.ok ? 200 : 400, r);
     });
     return;

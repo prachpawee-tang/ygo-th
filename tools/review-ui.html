@@ -65,6 +65,7 @@
     <option value="notes">ใบที่ rule-check สงสัย (มี note)</option>
     <option value="ai">ทุกใบที่ยังเป็น AI</option>
     <option value="form">คำแก้จาก Google Form</option>
+    <option value="similar">อาจผิดแบบเดียวกัน (ส่งให้ ai-fix)</option>
   </select>
   <select id="kind" title="กรองตามชนิดปัญหา" aria-label="กรองตามชนิดปัญหา">
     <option value="">ทุกใบ</option>
@@ -73,6 +74,9 @@
       <option value="ai-reject">AI ไม่ผ่าน</option>
       <option value="ai-needs-human">AI ให้คนดู</option>
       <option value="ai-none">ยังไม่ได้ให้ AI ตรวจ</option>
+    </optgroup>
+    <optgroup label="ความเห็นของ ai-fix" data-notes-only>
+      <option value="ai-false-alarm">ai-fix บอกว่าเตือนเกินจริง</option>
     </optgroup>
     <optgroup label="ปัญหาที่ rule-check เจอ">
       <option value="banish">banish ↔ ออกจากเกม</option>
@@ -117,11 +121,16 @@ function render(target, text) {
 }
 
 async function load() {
-  // ตัวกรองผล AI ใช้ได้เฉพาะโหมดฟอร์ม — ซ่อนในโหมดอื่นและล้างค่าที่เลือกค้างไว้
-  const og = document.querySelector("#kind [data-form-only]"), isFormMode = $("mode").value === "form";
-  og.hidden = og.disabled = !isFormMode;
-  if (!isFormMode && $("kind").selectedOptions[0]?.parentElement === og) $("kind").value = "";
+  // ตัวกรองที่ใช้ได้เฉพาะบางโหมด — ซ่อนในโหมดอื่นและล้างค่าที่เลือกค้างไว้
+  const mode = $("mode").value;
+  for (const [sel, on] of [["[data-form-only]", mode === "form"], ["[data-notes-only]", mode === "notes" || mode === "ai"]]) {
+    const og = document.querySelector("#kind " + sel);
+    og.hidden = og.disabled = !on;
+    if (!on && $("kind").selectedOptions[0]?.parentElement === og) $("kind").value = "";
+  }
+  $("kind").disabled = $("q").disabled = mode === "similar";
   $("count").textContent = "กำลังโหลด…";
+  if (mode === "similar") return loadSimilar();
   const r = await api("/api/queue?mode=" + $("mode").value);
   if (!r.ok) { $("main").replaceChildren(el("div", { className: "empty err", textContent: r.error || "โหลดไม่ได้" })); return; }
   if (r.note && !r.items.length) { $("count").textContent = ""; $("main").replaceChildren(el("div", { className: "empty", textContent: r.note })); return; }
@@ -207,7 +216,7 @@ function show() {
   $("main").replaceChildren(
     el("div", { className: "title" }, el("h2", { textContent: c.name }), el("span", { className: "meta", textContent: `#${c.id} · ${flags}` })),
     el("div", { className: "problems" }, ...problems.map(p => el("div", { textContent: p }))),
-    ...(isForm ? [formInfo(c)] : []),
+    ...(isForm ? [formInfo(c)] : c.aiFix ? [aiFixInfo(c.aiFix)] : []),
     el("div", { className: "cols" },
       el("div", { className: "box" }, el("h3", { textContent: "English (ต้นฉบับ)" }), enBox),
       el("div", { className: "box" }, el("h3", { textContent: isForm ? "คำแก้ที่ส่งมา · ตัวอย่างใน extension" : "ไทย · ตัวอย่างใน extension" }), thBox)),
@@ -274,6 +283,45 @@ function aiInfo(a) {
   if (a.rounds?.[0]?.back_translation) d.append(el("div", { className: "meta", textContent: "คำแปลกลับเป็นอังกฤษ (รอบ 1):" }), el("div", { className: "text meta", textContent: a.rounds[0].back_translation }));
   box.append(d);
   return box;
+}
+
+// ความเห็นของ batch\ai-fix ต่อคำเตือนของ rule-check (ข้อความจาก AI แสดงด้วย textContent เท่านั้น)
+const FIX_LABEL = { "false-alarm": ["ai-fix: น่าจะเตือนเกินจริง", "good"], failed: ["ai-fix: แก้เองไม่สำเร็จ — ต้องให้คนแก้", "err"], fixed: ["ai-fix แก้แล้ว แต่ยังมีคำเตือนเหลือ", ""] };
+function aiFixInfo(f) {
+  const [t, cls] = FIX_LABEL[f.verdict] || [f.verdict, ""];
+  const box = el("div", { className: "box", style: "margin-bottom:12px" }, el("h3", { textContent: "ความเห็นของ AI (คำแนะนำ — คุณตัดสินเอง)" }),
+    el("div", { className: "verdict " + cls, textContent: t }));
+  for (const c of f.checks || []) box.append(el("div", { textContent: `${c.real ? "ปัญหาจริง" : "ไม่ใช่ปัญหา"}: ${c.problem}${c.why ? " — " + c.why : ""}` }));
+  if (f.verdict === "failed" && f.why) box.append(el("div", { className: "meta", textContent: "เหตุที่ไม่ใช้คำแก้ของ AI: " + f.why }));
+  return box;
+}
+
+// ---- โหมด "อาจผิดแบบเดียวกัน": รูปแบบความผิดจากคำแก้ที่ตรวจแล้ว → ผู้ดูแลเลือกส่งให้ batch\ai-fix ----
+const SIM_STATUS = { pending: "รอตัดสิน", sent: "ส่งให้ ai-fix แล้ว — ดับเบิลคลิก batch\\ai-fix.bat", ignored: "ไม่ส่ง" };
+async function loadSimilar() {
+  current = null;
+  const r = await api("/api/similar");
+  if (!r.ok) { $("main").replaceChildren(el("div", { className: "empty err", textContent: r.error || "โหลดไม่ได้" })); return; }
+  const pending = r.items.filter(s => s.status === "pending").length;
+  $("count").textContent = `${r.items.length} รูปแบบ · รอตัดสิน ${pending}`;
+  if (!r.items.length) { $("main").replaceChildren(el("div", { className: "empty", textContent: "ยังไม่มี — รูปแบบจะขึ้นที่นี่หลังรัน tools\\review-all.bat กับคำแก้ที่ AI ไม่ตีตก" })); return; }
+  $("main").replaceChildren(...r.items.map(similarBox));
+}
+function similarBox(s) {
+  const p = s.pattern, msg = el("span", { role: "status" });
+  const act = async action => {
+    const r = await api("/api/similar", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ key: s.key, action }) });
+    if (r.ok) loadSimilar(); else { msg.className = "err"; msg.textContent = r.error; }
+  };
+  const names = s.cards.map(c => `${c.name} (#${c.id})`).join(" · ") + (s.total > s.cards.length ? ` · และอีก ${s.total - s.cards.length} ใบ` : "");
+  const buttons = s.status === "pending"
+    ? [el("button", { className: "primary", disabled: !s.total, onclick: () => act("send") }, `ส่ง ${s.total} ใบให้ ai-fix`), el("button", { onclick: () => act("ignore") }, "ไม่ส่ง")]
+    : [el("button", { onclick: () => act("undo") }, "ยกเลิก (กลับไปรอตัดสิน)")];
+  return el("div", { className: "box", style: "margin-bottom:12px" },
+    el("h3", { textContent: `${SIM_STATUS[s.status] || s.status} · จาก ${s.source} · ${s.name} (#${s.card})` }),
+    el("div", { className: "verdict" }, `"${p.en}" เขียนเป็น `, el("span", { className: "diff-del", textContent: p.wrong }), " ควรเป็น ", el("span", { className: "diff-ins", textContent: p.right })),
+    el("div", { className: "meta", style: "margin:6px 0 10px" , textContent: s.total ? `ใบที่ยังผิดแบบนี้ ${s.total} ใบ (ยอดนิยมก่อน): ${names}` : "ไม่มีใบที่ยังผิดแบบนี้แล้ว" }),
+    el("div", { style: "display:flex;gap:8px;align-items:center;flex-wrap:wrap" }, ...buttons, msg));
 }
 
 let current = null;

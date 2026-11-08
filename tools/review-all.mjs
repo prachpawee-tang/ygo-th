@@ -10,7 +10,8 @@ import { readFileSync, existsSync } from "node:fs";
 import { join } from "node:path";
 import { ROOT, CARDS_DIR, unsafeText, MAX_TH } from "./lib.mjs";
 import { formConfig, fetchFormText, readSuggestions, readDone, readAi, writeAi } from "./form.mjs";
-import { reviewSuggestion, ollamaReady, MODEL, OLLAMA } from "./ai-review.mjs";
+import { reviewSuggestion, mistakePattern, ollamaReady, MODEL, OLLAMA } from "./ai-review.mjs";
+import { similarFor, putSimilar } from "./similar.mjs";
 
 const args = process.argv.slice(2);
 const DRY = args.includes("--dry-run"), RECHECK = args.includes("--recheck");
@@ -74,15 +75,27 @@ if (got.text === null) {
         result = { label: r.label, proposed: s.proposed, rule: r.rule.problems, model: r.model, at: new Date().toISOString(),
           rounds: r.rounds.map(x => ({ verdict: x.verdict, confidence: x.confidence, problems: x.problems, back_translation: x.back_translation })) };
       } catch (e) { log(`${RED}  ${s.raw}: AI ตรวจไม่สำเร็จ — ${e.message} (จะลองใหม่รอบหน้า)${RESET}`); continue; }
+      // คำแก้ที่ AI ไม่ตีตก → หาการ์ดใบอื่นที่อาจผิดแบบเดียวกัน (ผู้ดูแลกดส่งให้ ai-fix ใน review-ui)
+      if (result.label !== "ai-reject") {
+        try {
+          const sim = await similarFor(mistakePattern, { en: en.get(id), id, currentTh: card?.th, proposed: s.proposed });
+          if (sim) {
+            result.similar = { pattern: sim.pattern, count: sim.cards.length };
+            if (!DRY && sim.cards.length) putSimilar(`form:${s.formKey}`, { source: "Google Form", card: id, name: card?.name || id, pattern: sim.pattern, cards: sim.cards });
+          }
+        } catch (e) { log(`${YELLOW}  ${s.raw}: หาใบที่ผิดแบบเดียวกันไม่สำเร็จ — ${e.message}${RESET}`); }
+      }
     }
     if (!DRY) writeAi(FORM, s.formKey, result);
     formCounts[result.label] = (formCounts[result.label] || 0) + 1;
-    log(`  ${i + 1}/${todo.length}  ${card?.name || s.raw}  → ${LABEL[result.label] || result.label}${result.rule.length ? " · " + result.rule.slice(0, 2).join(" · ") : ""}`);
+    const sim = result.similar ? ` · อาจผิดแบบเดียวกัน ${result.similar.count} ใบ ("${result.similar.pattern.en}" → ${result.similar.pattern.wrong})` : "";
+    log(`  ${i + 1}/${todo.length}  ${card?.name || s.raw}  → ${LABEL[result.label] || result.label}${result.rule.length ? " · " + result.rule.slice(0, 2).join(" · ") : ""}${sim}`);
   }
 }
 
 console.log(`\n${GREEN}=== เสร็จ ===${RESET}`);
 console.log(`GitHub: ${ghResult}`);
 console.log(`Google Form: ${Object.entries(formCounts).map(([k, v]) => `${(LABEL[k] || k)} ${v}`).join(" · ") || "ไม่มีคำแก้ใหม่ให้ตรวจ"}${DRY ? " (dry-run: ไม่ได้บันทึกผล)" : ""}`);
-console.log(`ขั้นต่อไป: เปิด tools\\review-ui.bat → โหมด "คำแก้จาก Google Form" → ดูผล AI แล้วกด ✓ ใช้ / ✗ ไม่ใช้ → update-data.bat`);
+console.log(`ขั้นต่อไป: เปิด tools\\review-ui.bat → โหมด "คำแก้จาก Google Form" → ดูผล AI แล้วกด ใช้ / ไม่ใช้ → update-data.bat`);
+console.log(`ถ้ามีใบที่อาจผิดแบบเดียวกัน: review-ui โหมด "อาจผิดแบบเดียวกัน" → ส่งให้ ai-fix → ดับเบิลคลิก batch\\ai-fix.bat`);
 console.log(`(AI ใช้ ${MODEL} บนเครื่อง · ผลเป็นคำแนะนำ ผู้ดูแลตัดสินเอง)`);

@@ -14,6 +14,11 @@ const flag = k => { const i = argv.indexOf(k); return i >= 0 ? argv.splice(i, 2)
 // คำแก้จาก Google Form: ดาวน์โหลดจาก Sheet (ไฟล์ → ดาวน์โหลด → CSV) มาวางที่นี่ หรือระบุด้วย --form
 const FORM_CSV = flag("--form") || "E:\\YGO-Translator\\form-responses.csv";
 const FORM_DONE = FORM_CSV.replace(/\.csv$/i, "") + ".handled.json"; // คำตอบที่จัดการแล้ว (ใช้/ไม่ใช้) จะไม่ขึ้นซ้ำ
+// ลิงก์ CSV ที่ "เผยแพร่ไปยังเว็บ" ของ Sheet — ดึงใหม่ทุกครั้งที่เปิดโหมดฟอร์ม (เก็บนอก repo: ใครมีลิงก์ก็อ่านคำตอบได้)
+const FORM_URL_FILE = "E:\\YGO-Translator\\form-csv-url.txt";
+const FORM_URL = (flag("--form-url") || process.env.YGOTH_FORM_CSV_URL ||
+  (existsSync(FORM_URL_FILE) ? readFileSync(FORM_URL_FILE, "utf8").split(/\r?\n/)[0] : "")).trim();
+if (FORM_URL && !/^https:\/\/docs\.google\.com\/spreadsheets\//.test(FORM_URL)) { console.error("ลิงก์ CSV ของฟอร์มต้องเป็น https://docs.google.com/spreadsheets/…"); process.exit(1); }
 const EN_FILE = argv[0] || "E:\\YGO-Translator\\batch\\cards-en.json";
 const PORT = +(process.env.REVIEW_PORT || 8787);
 const TOKEN = randomBytes(24).toString("hex");
@@ -79,9 +84,29 @@ const readDone = () => { try { return JSON.parse(readFileSync(FORM_DONE, "utf8")
 const markDone = (key, result) => { const d = readDone(); d[key] = { result, at: new Date().toISOString() }; writeFileSync(FORM_DONE, JSON.stringify(d, null, 1)); };
 
 /** คำแก้จากฟอร์มที่ยังไม่ได้จัดการ — ข้อความทุกช่องมาจากคนทั่วไป ถือว่าไว้ใจไม่ได้ (ตรวจแบบเดียวกับ issue) */
-function formQueue() {
-  if (!existsSync(FORM_CSV)) return { items: [], note: `ยังไม่มีไฟล์ ${FORM_CSV} — ดาวน์โหลด CSV จาก Google Sheet ของฟอร์มมาวางที่นี่` };
-  const [head, ...rows] = parseCsv(readFileSync(FORM_CSV, "utf8"));
+async function formQueue() {
+  let text = null, from = "";
+  if (FORM_URL) {
+    try {
+      const r = await fetch(FORM_URL, { signal: AbortSignal.timeout(15000), redirect: "follow" });
+      if (!r.ok) throw new Error("HTTP " + r.status);
+      text = await r.text();
+      writeFileSync(FORM_CSV, text); // สำเนาในเครื่อง ใช้ตอนเน็ตหลุด
+      from = "Google Sheet";
+    } catch (e) { console.warn("ดึงคำตอบจาก Sheet ไม่ได้: " + e.message + " — ใช้ไฟล์ในเครื่องแทน"); }
+  }
+  if (text === null) {
+    if (!existsSync(FORM_CSV)) return { items: [], note: FORM_URL ? "ดึงคำตอบจาก Google Sheet ไม่ได้ (เน็ต/ลิงก์?) และยังไม่มีไฟล์ในเครื่อง" : `ยังไม่ได้ตั้งลิงก์ CSV ของ Sheet (${FORM_URL_FILE}) และไม่มีไฟล์ ${FORM_CSV}` };
+    text = readFileSync(FORM_CSV, "utf8");
+    from = FORM_URL ? "ไฟล์ในเครื่อง (ดึงจาก Sheet ไม่ได้)" : "ไฟล์ในเครื่อง";
+  }
+  const res = formRows(text);
+  if (!res.note && !res.items.length) res.note = `ไม่มีคำแก้ใหม่จากฟอร์ม (อ่านจาก ${from})`;
+  return res;
+}
+
+function formRows(text) {
+  const [head = [], ...rows] = parseCsv(text);
   const col = re => head.findIndex(h => re.test(h.trim()));
   const C = { time: 0, id: col(/passcode/i), proposed: col(/คำแปลที่เสนอ/), reason: col(/เหตุผล/), source: col(/แหล่งอ้างอิง/), credit: col(/เครดิต/) };
   if (C.id < 0 || C.proposed < 0) return { items: [], note: "CSV ไม่มีคอลัมน์ passcode / คำแปลที่เสนอ — เป็นไฟล์ของฟอร์มนี้หรือเปล่า?" };
@@ -186,7 +211,7 @@ const server = createServer((req, res) => {
   if (!okToken(req.headers["x-review-token"])) return json(res, 403, { ok: false, error: "token ไม่ถูกต้อง" });
   if (req.method === "GET" && url.pathname === "/api/queue") {
     const mode = url.searchParams.get("mode");
-    if (mode === "form") { const f = formQueue(); return json(res, 200, { ok: true, items: f.items, note: f.note }); }
+    if (mode === "form") { formQueue().then(f => json(res, 200, { ok: true, items: f.items, note: f.note }), e => json(res, 500, { ok: false, error: String(e.message || e) })); return; }
     return json(res, 200, { ok: true, items: queue(mode === "ai" ? "ai" : "notes") });
   }
   if (req.method === "POST" && url.pathname === "/api/save") {
@@ -204,11 +229,11 @@ const server = createServer((req, res) => {
   json(res, 404, { ok: false, error: "not found" });
 });
 
-server.listen(PORT, "127.0.0.1", () => {
+server.listen(PORT, "127.0.0.1", async () => {
   const link = `http://127.0.0.1:${PORT}/?t=${TOKEN}`;
   const n = queue("notes").length;
-  const f = formQueue();
-  console.log(`\nหน้าตรวจคำแปล: ${link}\nใบที่มี note รอตรวจ: ${n} · คำแก้จากฟอร์มที่ยังไม่จัดการ: ${f.note ? "(ไม่มีไฟล์ CSV)" : f.items.length}` +
+  const f = await formQueue();
+  console.log(`\nหน้าตรวจคำแปล: ${link}\nใบที่มี note รอตรวจ: ${n} · คำแก้จากฟอร์มที่ยังไม่จัดการ: ${f.items.length}${f.note ? " (" + f.note + ")" : ""}` +
     `\nปิดหน้าต่างนี้เมื่อเสร็จ แล้วรัน tools\\update-data.bat เพื่อส่งขึ้น GitHub\n`);
   if (!process.env.NO_OPEN) spawn("cmd", ["/c", "start", "", link], { detached: true, stdio: "ignore" }).unref();
 });

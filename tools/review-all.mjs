@@ -8,7 +8,7 @@
 import { spawnSync } from "node:child_process";
 import { readFileSync, existsSync } from "node:fs";
 import { join } from "node:path";
-import { ROOT, CARDS_DIR, unsafeText, MAX_TH } from "./lib.mjs";
+import { ROOT, CARDS_DIR, isPasscode, unsafeText, MAX_TH } from "./lib.mjs";
 import { formConfig, fetchFormText, readSuggestions, readDone, readAi, writeAi } from "./form.mjs";
 import { reviewSuggestion, mistakePattern, ollamaReady, MODEL, OLLAMA } from "./ai-review.mjs";
 import { similarFor, putSimilar } from "./similar.mjs";
@@ -62,7 +62,7 @@ if (got.text === null) {
     const file = join(CARDS_DIR, `${id}.json`);
     const card = existsSync(file) ? JSON.parse(readFileSync(file, "utf8")) : null;
     const bad = [];
-    if (!/^\d{3,10}$/.test(s.raw)) bad.push("passcode ไม่ใช่ตัวเลข");
+    if (!isPasscode(s.raw)) bad.push("passcode ไม่ใช่ตัวเลข");
     else if (!en.has(id)) bad.push("ไม่พบการ์ดนี้");
     if (!s.proposed) bad.push("ไม่มีคำแปลที่เสนอ");
     if (s.proposed.length > MAX_TH) bad.push("คำแปลยาวเกิน");

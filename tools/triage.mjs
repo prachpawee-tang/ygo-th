@@ -47,7 +47,8 @@ const user = await gh(`/users/${author}`);
 const accountDays = (Date.now() - Date.parse(user.created_at)) / 864e5;
 
 // ---- verdict ----
-const add = [], remove = ["needs-ai-review", "invalid", "rate-limited", "rule-check-failed"];
+// ai-* = AI's verdict on the OLD text — an edit makes it stale, so it goes too (review.bat labels the new text)
+const add = [], remove = ["needs-ai-review", "invalid", "rate-limited", "rule-check-failed", "ai-accept", "ai-reject", "ai-needs-human"];
 let msg;
 if (rateLimited) {
   add.push("rate-limited");
@@ -68,5 +69,11 @@ if (rateLimited) {
 
 for (const l of remove) if (labels.has(l) && !add.includes(l)) await gh(`/repos/${REPO}/issues/${issue.number}/labels/${encodeURIComponent(l)}`, { method: "DELETE" }).catch(() => {});
 await gh(`/repos/${REPO}/issues/${issue.number}/labels`, { method: "POST", body: { labels: add } });
-await gh(`/repos/${REPO}/issues/${issue.number}/comments`, { method: "POST", body: { body: `🤖 **ตรวจอัตโนมัติ**\n\n${msg}` } });
+// one bot comment per issue: an edit updates it instead of adding another (only OUR comment — anyone can copy the header)
+const HEAD = "🤖 **ตรวจอัตโนมัติ**";
+const comments = await gh(`/repos/${REPO}/issues/${issue.number}/comments?per_page=100`);
+const mine = comments.find(c => c.user?.login === "github-actions[bot]" && c.body?.startsWith(HEAD));
+const body = `${HEAD}\n\n${msg}${mine ? `\n\n_ตรวจใหม่หลังแก้ไข · ${new Date().toISOString().slice(0, 16).replace("T", " ")} UTC_` : ""}`;
+if (mine) await gh(`/repos/${REPO}/issues/comments/${mine.id}`, { method: "PATCH", body: { body } });
+else await gh(`/repos/${REPO}/issues/${issue.number}/comments`, { method: "POST", body: { body } });
 console.log(`#${issue.number}: ${add.join(", ")}`);

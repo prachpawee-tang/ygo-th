@@ -96,7 +96,9 @@ for (const issue of issues) {
   console.log(`#${issue.number} ${en.name}: ${label}${prUrl ? " → " + prUrl : ""}`);
   if (DRY) { console.log(lines.join("\n\n") + "\n"); continue; }
 
-  await gh(`/repos/${REPO}/issues/${issue.number}/labels/needs-ai-review`, { method: "DELETE" }).catch(() => {});
+  // one AI verdict per issue: drop the previous one (e.g. reviewed again after an edit)
+  for (const l of ["needs-ai-review", "ai-accept", "ai-reject", "ai-needs-human"].filter(l => l !== label && issue.labels.some(x => x.name === l)))
+    await gh(`/repos/${REPO}/issues/${issue.number}/labels/${l}`, { method: "DELETE" }).catch(() => {});
   await gh(`/repos/${REPO}/issues/${issue.number}/labels`, { method: "POST", body: { labels: [label] } });
   await gh(`/repos/${REPO}/issues/${issue.number}/comments`, { method: "POST", body: { body: lines.join("\n\n") } });
 }

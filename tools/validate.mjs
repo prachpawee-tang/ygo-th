@@ -1,9 +1,8 @@
 // Validate every data/cards/*.json (schema + file name = id + no duplicates incl. alt ids)
 // Exit code 1 on any problem. Used by CI on every PR and before build.
-import { loadCards } from "./lib.mjs";
 import { readFileSync } from "node:fs";
 import { join } from "node:path";
-import { ROOT, checkCardSchema } from "./lib.mjs";
+import { ROOT, loadCards, checkCardSchema } from "./lib.mjs";
 
 let bad = 0;
 const seen = new Map();

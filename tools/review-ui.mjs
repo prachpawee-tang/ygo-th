@@ -7,7 +7,7 @@ import { readFileSync, writeFileSync, existsSync } from "node:fs";
 import { join } from "node:path";
 import { randomBytes, timingSafeEqual } from "node:crypto";
 import { spawn } from "node:child_process";
-import { ROOT, CARDS_DIR, loadCards, ruleCheck, checkCardSchema, unsafeText, cardJson, enHash, sha256, MAX_TH, cleanCredit, hasPatternMistake } from "./lib.mjs";
+import { ROOT, CARDS_DIR, isPasscode, loadCards, ruleCheck, checkCardSchema, unsafeText, cardJson, enHash, sha256, MAX_TH, cleanCredit, hasPatternMistake } from "./lib.mjs";
 import { formConfig, fetchFormText, readSuggestions, readDone, markDone, readAi } from "./form.mjs";
 import { readSimilar, setSimilarStatus, readAiFix } from "./similar.mjs";
 
@@ -68,7 +68,7 @@ async function formQueue() {
     const id = CARDS.has(s.raw) ? s.raw : ALT.get(s.raw) || s.raw;
     const card = CARDS.get(id), e = EN.get(id), proposed = s.proposed;
     const problems = [];
-    if (!/^\d{3,10}$/.test(s.raw)) problems.push("passcode ไม่ใช่ตัวเลข");
+    if (!isPasscode(s.raw)) problems.push("passcode ไม่ใช่ตัวเลข");
     else if (!card) problems.push("ไม่พบการ์ดนี้ในฐาน");
     if (!proposed) problems.push("ไม่มีคำแปลที่เสนอ");
     if (proposed.length > MAX_TH) problems.push(`คำแปลยาวเกิน ${MAX_TH} ตัวอักษร`);
@@ -116,7 +116,7 @@ function save({ id, th, action, formKey, credit }) {
     markDone(FORM, formKey, "dismissed");
     return { ok: true, card: { id, name: CARDS.get(id)?.name || id }, rule: [] };
   }
-  if (typeof id !== "string" || !/^\d{3,10}$/.test(id) || !existsSync(cardPath(id))) return { ok: false, error: "ไม่พบการ์ด" };
+  if (!isPasscode(id) || !existsSync(cardPath(id))) return { ok: false, error: "ไม่พบการ์ด" };
   const card = JSON.parse(readFileSync(cardPath(id), "utf8"));
   if (action === "edit") {
     if (typeof th !== "string") return { ok: false, error: "ไม่มีคำแปล" };

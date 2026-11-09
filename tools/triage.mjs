@@ -47,7 +47,7 @@ const user = await gh(`/users/${author}`);
 const accountDays = (Date.now() - Date.parse(user.created_at)) / 864e5;
 
 // ---- verdict ----
-// ai-* = AI's verdict on the OLD text — an edit makes it stale, so it goes too (review.bat labels the new text)
+// ai-* = AI's verdict on the OLD text — an edit makes it stale, so it goes too (review-all.bat labels the new text)
 const add = [], remove = ["needs-ai-review", "invalid", "rate-limited", "rule-check-failed", "ai-accept", "ai-reject", "ai-needs-human"];
 let msg;
 if (rateLimited) {

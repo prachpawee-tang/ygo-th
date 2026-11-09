@@ -8,24 +8,23 @@
 | เครื่องมือ | ทำอะไร | ใช้ตอนไหน | รันที่ไหน |
 | --- | --- | --- | --- |
 | [`update-data.bat`](#update-data) | pull + import + validate + commit + push ในคำสั่งเดียว | หลัง batch แปลการ์ดได้เพิ่ม | เครื่อง Tonk (ดับเบิลคลิก) |
-| [`review-ui.bat`](#review-ui) | หน้าตรวจคำแปลใน browser (EN คู่ TH, ✓ ถูก / แก้ / ข้าม) | ไล่ตรวจใบที่มี note หรือใบยอดนิยม | เครื่อง Tonk (ดับเบิลคลิก) |
+| [`review-ui.bat`](#review-ui) | หน้าตรวจคำแปลใน browser (EN คู่ TH, ถูกแล้ว / แก้ / ข้าม, เดิม | ใหม่ ข้างกัน) | ไล่ตรวจใบที่มี note หรือใบยอดนิยม | เครื่อง Tonk (ดับเบิลคลิก) |
 | [`import-batch.mjs`](#import-batch) | แปลงผล batch เป็น `data/cards/*.json` | ถูกเรียกจาก update-data | เครื่อง Tonk |
 | [`validate.mjs`](#validate) | ตรวจรูปแบบไฟล์ใน `data/` | ก่อน push ทุกครั้ง · CI รันเองทุก PR/push | ทั้งสองที่ |
 | [`build.mjs`](#build) | สร้าง API static `site/v1/` และเซ็น | Actions รันเองหลัง push เข้า main | Actions (ลองในเครื่องได้) |
-| [`review-all.bat`](#review-all) | **ตรวจคำแก้ทั้งหมดในคำสั่งเดียว**: GitHub issue + Google Form (rule-check + AI 2 รอบ) | เมื่อมีคำแก้ใหม่ | เครื่อง Tonk (เปิด Ollama ให้เอง) |
-| [`review.bat`](#review) | ให้ AI บนเครื่องตรวจคำแก้จาก issue | เมื่อมี issue ติด label `needs-ai-review` | เครื่อง Tonk (ต้องเปิด Ollama) |
-| [`batch\ai-fix.bat`](#ai-fix) | ให้ AI ตรวจใบที่ rule-check สงสัยอีกรอบ แล้ว**แก้เฉพาะจุด** (หงาย/คว่ำ, ออกจากเกม, เลขหาย …) + ใบที่ "อาจผิดแบบเดียวกัน" ที่ส่งมาจาก review-ui | หลัง batch/retry-flagged · หลังกด "ส่งให้ ai-fix" | เครื่อง Tonk (เปิด Ollama ให้เอง) |
-| `similar.mjs` | หาการ์ดใบอื่นที่อาจผิดแบบเดียวกับคำแก้ที่ตรวจ (ไม่ใช้ AI) | ถูกเรียกจาก review-all / review.bat | เครื่อง Tonk |
+| [`review-all.bat`](#review-all) | **ตรวจคำแก้ทั้งหมดในคำสั่งเดียว**: GitHub issue + Google Form (rule-check + AI 2 รอบ) + หาใบที่อาจผิดแบบเดียวกัน | เมื่อมีคำแก้ใหม่ | เครื่อง Tonk (เปิด Ollama ให้เอง) |
+| [`batch\ai-fix.bat`](#ai-fix) | ให้ AI ตรวจใบที่ rule-check สงสัยอีกรอบ แล้ว**แก้เฉพาะจุด** (หงาย/คว่ำ, ออกจากเกม, เลขหาย …) + ใบที่ "อาจผิดแบบเดียวกัน" ที่ส่งมาจาก review-ui | หลัง batch แปลการ์ดใหม่ · หลังกด "ส่งให้ ai-fix" | เครื่อง Tonk (เปิด Ollama ให้เอง) |
 | [`triage.mjs`](#triage) | ตรวจ issue แก้คำแปลแบบไม่ใช้ AI | Actions รันเองเมื่อมีคนเปิด/แก้ issue | Actions เท่านั้น |
 | [`keygen.mjs`](#keygen) | สร้างกุญแจเซ็น manifest | ครั้งเดียว หรือตอนกุญแจหลุด | เครื่อง Tonk |
-| `lib.mjs`, `github.mjs` | โค้ดกลางที่ตัวอื่น import | ไม่ได้รันเอง | — |
+| [`tools.test.mjs`](#test) | test ของตัวอ่านข้อความจากคนนอกและตัวกันข้อความอันตราย | Actions รันเองทุก push · แก้ `lib`/`form`/`github` แล้วรันเอง | ทั้งสองที่ |
+| [โค้ดกลาง](#lib) | `lib`, `github`, `form`, `ai-review`, `similar`, `review-issues` — ตัวอื่น import ไปใช้ | ไม่ได้รันเอง | — |
 
 ### ลำดับงานปกติ
 ```
 batch แปลบนเครื่อง ──► update-data.bat (commit + push ให้เอง) ──► [Actions] validate + build ──► Pages ──► extension ของเพื่อน (ภายใน 12 ชม.)
 
 เพื่อนเปิด issue ──► [Actions] triage ──► label needs-ai-review ──┐
-                                                                 ├──► review-all.bat (AI บนเครื่อง) ──► Tonk ตัดสิน (merge PR / ✓ ใน review-ui) ──► update-data.bat
+                                                                 ├──► review-all.bat (AI บนเครื่อง) ──► Tonk ตัดสิน (merge PR / กดใช้ใน review-ui) ──► update-data.bat
 เพื่อนส่ง Google Form ────────────────────────────────────────────┘
                      └─ คำแก้ที่ AI ไม่ตีตก → หาใบอื่นที่ผิดแบบเดียวกัน ──► review-ui "อาจผิดแบบเดียวกัน" ──► ส่งให้ ai-fix ──► batch\ai-fix.bat ──► update-data.bat
 
@@ -85,14 +84,16 @@ node tools/update-data.mjs "D:\other\cards-th.jsonl" "D:\other\verified.json"
 - โหมด **"คำแก้จาก Google Form"**: คำแก้จากคนที่ไม่มีบัญชี GitHub · **ดึงจาก Google Sheet อัตโนมัติ**ทุกครั้งที่เปิดโหมดนี้ จากลิงก์ CSV "เผยแพร่ไปยังเว็บ" ที่เก็บไว้ใน `E:\YGO-Translator\form-csv-url.txt` (หรือ env `YGOTH_FORM_CSV_URL` / `--form-url <ลิงก์>`) · ดึงได้แล้วเก็บสำเนาไว้ที่ `E:\YGO-Translator\form-responses.csv` ถ้าเน็ตหลุดจะใช้สำเนานี้ · ไม่ได้ตั้งลิงก์ = อ่านจากไฟล์นี้อย่างเดียว (ดาวน์โหลด CSV จาก Sheet มาวางเอง หรือ `--form <path>`)
   - ลิงก์ที่เผยแพร่: ใครมีลิงก์ก็อ่านคำตอบได้ อย่าใส่ลงใน repo · ถ้าหลุด ให้ "หยุดเผยแพร่" ใน Sheet แล้วเผยแพร่ใหม่
   - แสดงคำแก้ที่ส่งมาคู่กับภาษาอังกฤษ + คำแปลปัจจุบัน + เหตุผล/แหล่งอ้างอิง/ชื่อเครดิต · ตรวจ passcode, ความยาว, ข้อความอันตราย และ rule-check ให้
-  - **✓ ใช้คำแก้นี้** → บันทึกข้อความในกล่อง (แก้ต่อได้) เป็นสถานะ `community` พร้อม**ชื่อเครดิต** (ฟิลด์ `credit` — สาธารณะ แสดงใน extension "แก้โดย …"; ยาว ≤40 ไม่มีลิงก์/@/สัญลักษณ์ ไม่ผ่านจะไม่เก็บ) · **✗ ไม่ใช้** → การ์ดไม่เปลี่ยน
+  - **ใช้คำแก้นี้** → บันทึกข้อความในกล่อง (แก้ต่อได้) เป็นสถานะ `community` พร้อม**ชื่อเครดิต** (ฟิลด์ `credit` — สาธารณะ แสดงใน extension "แก้โดย …"; ยาว ≤40 ไม่มีลิงก์/@/สัญลักษณ์ ไม่ผ่านจะไม่เก็บ) · **ไม่ใช้คำแก้นี้** → การ์ดไม่เปลี่ยน
   - คำตอบที่จัดการแล้วจดไว้ใน `form-responses.handled.json` ข้าง CSV จะไม่ขึ้นซ้ำแม้ดาวน์โหลด CSV ใหม่ทับ · ทั้งสองไฟล์อยู่นอก repo (มีชื่อเครดิตของผู้ส่ง ห้าม commit)
 
 | ปุ่ม | คีย์ลัด | ผล |
 | --- | --- | --- |
-| ✓ ถูกแล้ว | Ctrl+Enter | status → `reviewed`, ลบ note (ถ้าแก้ในกล่องไว้จะบันทึกที่แก้) |
-| 💾 บันทึกที่แก้ | Ctrl+S | บันทึกคำแปลในกล่อง + `reviewed` |
-| ข้าม → / ← ย้อน | Alt+→ / Alt+← | เลื่อนใบโดยไม่บันทึก |
+| ถูกแล้ว (โหมดฟอร์ม: ใช้คำแก้นี้) | Ctrl+Enter | status → `reviewed`, ลบ note (ถ้าแก้ในกล่องไว้จะบันทึกที่แก้) |
+| บันทึกที่แก้ | Ctrl+S | บันทึกคำแปลในกล่อง + `reviewed` |
+| ย้อน / ข้าม | Alt+← / Alt+→ | เลื่อนใบโดยไม่บันทึก (ถ้าแก้ค้างไว้จะถามก่อน) |
+
+ปุ่มอยู่ในแถบติดขอบล่างจอ · หลังบันทึกจะขึ้นข้อความยืนยันบนใบถัดไป · ยังไม่มี undo — ถ้าบันทึกผิด แก้ใหม่ใน review-ui หรือ `git checkout -- data/cards/<id>.json` ก่อนรัน update-data
 
 บันทึกลง `data/cards/{id}.json` ทันที (อัปเดต `en_sha256` เป็นข้อความอังกฤษเวอร์ชันที่ตรวจ) · ตรวจเสร็จแล้วปิดหน้าต่าง แล้วรัน `update-data.bat` เพื่อ commit + push
 ใบที่ `reviewed` แล้ว import-batch / retry-flagged จะไม่เขียนทับ
@@ -176,20 +177,30 @@ env `YGOTH_SIGNING_KEY` = เนื้อหาไฟล์ private key (PEM) ·
 ## `review-all.bat` / `review-all.mjs`: ตรวจคำแก้ทั้งหมด (GitHub + Google Form)
 
 **ทำอะไร:** ในคำสั่งเดียว
-1. **GitHub:** รัน `review-issues.mjs` กับ issue ที่ติด `needs-ai-review` (คอมเมนต์ + label `ai-*` เหมือน `review.bat`) · ต้องมี token `YGOTH_GITHUB_TOKEN` (ตั้งครั้งเดียวด้วย `review.bat`) ไม่มี token จะข้ามส่วนนี้
+1. **GitHub:** รัน `review-issues.mjs` กับ issue ที่ติด `needs-ai-review` ทีละหัวข้อ: ดึงข้อความอังกฤษจาก YGOPRODeck → rule-check → AI 2 รอบ → คอมเมนต์ผลใน issue + ติด label `ai-accept` / `ai-reject` / `ai-needs-human` (เหลือป้ายผล AI อันเดียวเสมอ)
+   - ได้ `ai-accept` ต่อเมื่อ AI ยอมรับทั้งสองรอบ (มั่นใจ ≥ 90%) **และ** rule-check ผ่าน
+   - ต้องมี token `YGOTH_GITHUB_TOKEN` (ตั้งครั้งเดียวด้วย `--set-token`) ไม่มี token จะข้ามส่วนนี้
 2. **Google Form:** ดึงคำตอบล่าสุดจาก Sheet → ตรวจรูปแบบ (passcode, ความยาว, ข้อความอันตราย) → rule-check + AI 2 รอบ → เก็บผลไว้ใน `E:\YGO-Translator\form-responses.ai.json` (นอก repo)
    - ตรวจเฉพาะคำแก้ใหม่ หรือคำแก้ที่ข้อความเปลี่ยน (`--recheck` = ตรวจใหม่ทั้งหมด) · Ollama พังกลางทาง ใบนั้นจะถูกลองใหม่รอบหน้า
 
-**ไม่เขียนคำแปลลงฐานเอง** (ยังไม่ auto-merge จนกว่าจะผ่านเกณฑ์เฟส 5) — เปิด `review-ui.bat` → โหมด "คำแก้จาก Google Form" จะเห็นกล่อง **ผลตรวจ AI** (ผ่าน/ไม่ผ่าน/ให้คนดู, มั่นใจกี่ % แต่ละรอบ, ปัญหาที่ AI เจอ, คำแปลกลับเป็นอังกฤษ) และกรอง "ฟอร์ม: AI ผ่าน" ได้ แล้วกด ✓ ใช้ / ✗ ไม่ใช้ → `update-data.bat`
+**ไม่เขียนคำแปลลงฐานเอง และไม่ merge เองเด็ดขาด** (จนกว่าจะผ่านเกณฑ์เฟส 5 · AI ยังพลาดเรื่อง "คุณ/คู่ต่อสู้ควบคุม" ได้ และผลกับข้อความเดิมพลิกได้ระหว่างรอบ) — เปิด `review-ui.bat` → โหมด "คำแก้จาก Google Form" จะเห็นกล่อง **ผลตรวจ AI** (ผ่าน/ไม่ผ่าน/ให้คนดู, ปัญหาที่เจอ, ความมั่นใจแต่ละรอบ, คำแปลกลับเป็นอังกฤษ) และกรอง "AI ผ่าน" ได้ แล้วกด ใช้ / ไม่ใช้ → `update-data.bat`
 
-**ใช้ยังไง:** ดับเบิลคลิก `tools\review-all.bat` (เปิด Ollama ให้ถ้ายังไม่เปิด — ไม่ปิด Ollama ที่ batch ใช้อยู่)
+**ใช้ยังไง:** ดับเบิลคลิก `tools\review-all.bat` (เปิด Ollama ให้ถ้ายังไม่เปิด — ไม่ปิด Ollama ที่ batch ใช้อยู่ · ปิดเกมก่อน เพราะใช้การ์ดจอ)
 ```bat
 tools\review-all.bat              :: ตรวจทั้งหมด
+tools\review-all.bat --set-token  :: ครั้งแรก: วาง GitHub token (fine-grained เฉพาะ ygo-th · ดู MAINTAINING.md)
 tools\review-all.bat --dry-run    :: ดูผล ไม่แตะ GitHub ไม่บันทึกผลฟอร์ม
 tools\review-all.bat --recheck    :: ตรวจคำแก้จากฟอร์มใหม่ทั้งหมด
-tools\review-all.bat --open-pr    :: GitHub: เปิด PR ให้ issue ที่ AI ผ่าน (เฟส 4)
+tools\review-all.bat --open-pr    :: GitHub: เปิด PR ให้ issue ที่ได้ ai-accept (branch fix/{passcode}-issue-{n}) — ผู้ดูแล merge เอง
 ```
-ตัวตรวจ AI อยู่ใน `tools/ai-review.mjs` ใช้ร่วมกับ `review.bat` (prompt เดียวกัน · บอกโมเดลว่าช่อง "เหตุผล" พูดถึงคำแปลเดิม ไม่ใช่คำแก้) · การอ่านฟอร์มอยู่ใน `tools/form.mjs` ใช้ร่วมกับ `review-ui`
+| env | ค่าเริ่มต้น |
+| --- | --- |
+| `OLLAMA_URL` | `http://127.0.0.1:11434` |
+| `OLLAMA_MODEL` | `gemma3:12b` |
+| `OLLAMA_NUM_GPU` | `46` (ลดเป็น 42 ถ้าการ์ดจอเต็ม) |
+
+**ความปลอดภัย:** ข้อความจาก issue/ฟอร์มถือว่าไว้ใจไม่ได้ จึงส่งให้ AI เป็นข้อมูล JSON เท่านั้น AI ไม่มี tool และต้องตอบตาม schema ที่กำหนด · ไม่ว่า AI จะตอบอะไร สคริปต์ทำได้แค่คอมเมนต์ ติด label และ (ถ้าใช้ `--open-pr`) แก้ `th` ของการ์ดใบเดียวในฟอร์ม · ข้อความจาก AI ในคอมเมนต์ถูกตัดลิงก์/markdown ออก
+ตัวตรวจ AI อยู่ใน `tools/ai-review.mjs` (prompt บอกโมเดลว่าช่อง "เหตุผล" พูดถึงคำแปลเดิม ไม่ใช่คำแก้) · การอ่านฟอร์มอยู่ใน `tools/form.mjs` ใช้ร่วมกับ `review-ui`
 
 **การ์ดใบอื่นที่อาจผิดแบบเดียวกัน** (ทั้ง Google Form และ GitHub issue · เฉพาะคำแก้ที่ AI ไม่ตีตก):
 1. AI สรุปว่าคำแก้นี้แก้ความผิดแบบไหน เช่น `"face-up"` เขียนเป็น `คว่ำอยู่` ควรเป็น `หงายอยู่` · ถ้าเป็นการแก้เฉพาะใบ (สำนวน/ลำดับคำ) จะไม่มีรูปแบบ
@@ -214,7 +225,7 @@ tools\review-all.bat --open-pr    :: GitHub: เปิด PR ให้ issue ท
    - **ตรวจความหมาย:** ถาม AI แบบแคบว่าคำที่เติม (หงาย / ออกจากเกม / ตัวเลข) ขยายสิ่งเดียวกับในอังกฤษไหม · ปัญหาแบบอื่นใช้ตัวตรวจทั่วไป (แปลกลับแล้วเทียบ)
    - rule-check ทั้งใบต้องเตือนน้อยลง · จำนวนบรรทัดเท่าเดิม · ไม่มีข้อความอันตราย
 4. **ผ่าน** → ต่อท้าย `cards-th.jsonl` (ยังเป็นสถานะ ai) → `update-data.bat` ส่งขึ้น API
-   **AI บอกว่าเตือนเกินจริงทุกข้อ** → ไม่แก้ แต่จดเหตุผลไว้ → review-ui โหมด note แสดงกล่อง "ความเห็นของ AI" และกรอง "ai-fix บอกว่าเตือนเกินจริง" ได้ (กด ✓ ถูกแล้ว ได้เร็วขึ้น)
+   **AI บอกว่าเตือนเกินจริงทุกข้อ** → ไม่แก้ แต่จดเหตุผลไว้ → review-ui โหมด note แสดงกล่อง "ความเห็นของ AI" และกรอง "ai-fix บอกว่าเตือนเกินจริง" ได้ (กด ถูกแล้ว ได้เร็วขึ้น)
    **แก้ไม่ได้** → การ์ดคงเดิม ยังขึ้นใน review-ui พร้อมเหตุผล
 
 ผลทุกใบจดใน `batch\ai-fix-results.json` · รันซ้ำได้ (ข้ามใบที่ตรวจแล้วและคำแปลไม่เปลี่ยน) · ปิดหน้าต่างได้ทุกเมื่อ · ใบที่ reviewed/community ไม่แตะ · กันชนกับ batch ที่รันอยู่ (jsonl แก้ไม่ถึง 90 วิ = ไม่รัน)
@@ -225,40 +236,9 @@ batch\ai-fix.bat --dry-run --limit 20   :: ลองดูก่อน: แส�
 batch\ai-fix.bat --only 12345,67890     :: เฉพาะบางใบ
 batch\ai-fix.bat --recheck              :: ตรวจใหม่ทุกใบ (แม้เคยตรวจแล้ว)
 ```
-ประมาณ 6–10 วินาที/ใบ (474 ใบ ≈ 1 ชม.) · ทดสอบ 30 ใบยอดนิยม: ดูผลใน CLAUDE.md
+ประมาณ 6–10 วินาที/ใบ · ทดสอบ 30 ใบยอดนิยม (2026-11-08): แก้ได้ 18 ใบ (อ่านทุกบรรทัดแล้วถูกหมด) · เตือนเกินจริง 1 · แก้ไม่ได้ 11 (ปล่อยให้คนดู) · รันจริงแล้วกับทั้งฐาน: แก้ 290 ใบ
 
----
-
-<a id="review"></a>
-## `review.bat` / `review-issues.mjs`: AI ตรวจคำแก้จากชุมชน
-
-**ทำอะไร:** ดึง issue ที่เปิดอยู่และติด label `needs-ai-review` ทีละหัวข้อ แล้วทำตามลำดับ:
-1. ดึงข้อความภาษาอังกฤษของการ์ดจาก YGOPRODeck
-2. รัน rule-check
-3. ให้ AI (Ollama บนเครื่อง) ตรวจ **2 รอบแยกกัน** เทียบกับต้นฉบับ
-4. คอมเมนต์ผลลงใน issue แล้วติด label `ai-accept` / `ai-reject` / `ai-needs-human`
-   ได้ `ai-accept` ต่อเมื่อ AI ยอมรับทั้งสองรอบ **และ** rule-check ผ่าน
-
-**ไม่ merge เองเด็ดขาด** ผู้ดูแลต้องอ่านแล้วตัดสินเอง (ยังพลาดเรื่อง "คุณ/คู่ต่อสู้ควบคุม" ได้)
-
-**ใช้ตอนไหน:** เมื่อเห็น issue ติด `needs-ai-review` ซึ่ง triage ติดให้เอง ก่อนรันต้องเปิด Ollama และหยุดเล่นเกมก่อน เพราะใช้การ์ดจอ
-
-**ใช้ยังไง:**
-```bat
-tools\review.bat              :: เฟส 3: คอมเมนต์ + label อย่างเดียว
-tools\review.bat --dry-run    :: แสดงว่าจะทำอะไร ไม่แตะ GitHub
-tools\review.bat --open-pr    :: เฟส 4: เปิด PR ให้ด้วยเมื่อได้ ai-accept (branch fix/{passcode}-issue-{n})
-```
-ครั้งแรกจะถาม token (fine-grained เฉพาะ repo ygo-th: Issues, Pull requests, Contents = Read and write · อายุไม่เกิน 90 วัน)
-แล้วเก็บไว้ในตัวแปรผู้ใช้ `YGOTH_GITHUB_TOKEN` · ดูวิธีสร้าง token ใน [MAINTAINING.md](../MAINTAINING.md)
-
-| env | ค่าเริ่มต้น |
-| --- | --- |
-| `OLLAMA_URL` | `http://127.0.0.1:11434` |
-| `OLLAMA_MODEL` | `gemma3:12b` |
-
-ความปลอดภัย: ข้อความใน issue ถือว่าไว้ใจไม่ได้ จึงส่งให้ AI เป็นข้อมูล JSON เท่านั้น AI ไม่มี tool และต้องตอบตาม schema ที่กำหนด
-ไม่ว่า AI จะตอบอะไร สคริปต์ทำได้แค่คอมเมนต์ ติด label และ (ถ้าใช้ `--open-pr`) แก้ `th` ของการ์ดใบเดียวในฟอร์ม
+**`batch\retry-flagged.bat`** (วิธีเก่า): แปลใบที่ rule-check สงสัยใหม่ทั้งใบ สูงสุด 3 ครั้ง · ใช้เมื่ออยากให้แปลใหม่หมดแทนการแก้เฉพาะจุด · ตัวเลือก `--limit N`, `--only id,id`, `--num-gpu 42`
 
 ---
 
@@ -306,8 +286,30 @@ extension ตัวเก่าจะไม่รับฐานที่เซ�
 
 ---
 
-## `lib.mjs` / `github.mjs`: โค้ดกลาง
-- `lib.mjs`: ค่าคงที่, `norm()` / `enHash()` (ต้องตรงกับ extension: ยุบช่องว่างแล้วค่อย sha256), schema ของการ์ด, `ruleCheck()`, `loadCards()`
-- `github.mjs`: เรียก GitHub REST และแยกค่าจากฟอร์ม issue ใช้ env `GITHUB_TOKEN` และ `GITHUB_REPOSITORY`
+<a id="test"></a>
+## `tools.test.mjs`: test
+
+**ทำอะไร:** ตรวจโค้ดที่อ่านข้อความจากคนนอกและตัวกันข้อความอันตราย — ตัวอ่าน CSV ของฟอร์ม, ตัวอ่านฟอร์ม issue, `isPasscode`, `unsafeText`, `cleanCredit`, `ruleCheck`, ตัวตัดประโยค, รูปแบบความผิด (`similar`), การนับคำที่เปลี่ยน (`ai-fix`) และว่ากุญแจสาธารณะใน extension ตรงกับ `keys/ygo-th.pub.pem`
+ไม่อ่าน `data/` เลย รันเสร็จใน ~1 วินาที · ใช้ `node:test` ที่มากับ Node ไม่ต้องติดตั้งอะไร
+
+**ใช้ตอนไหน:** Actions รันเองทุก push/PR (workflow `validate`) · ถ้าแก้ไฟล์ใน `tools/` ให้รันเองก่อน push
+```sh
+node --test tools/tools.test.mjs
+```
+
+---
+
+<a id="lib"></a>
+## โค้ดกลาง (ไม่ได้รันเอง)
+
+| ไฟล์ | มีอะไร | ใครใช้ |
+| --- | --- | --- |
+| `lib.mjs` | ค่าคงที่, `norm()` / `enHash()`, schema การ์ด, `ruleCheck()`, `RULE_HINTS`, `splitSentences()`, ตัวช่วยรูปแบบความผิด, `wordChange()`, `loadCards()` | ทุกตัว + `batch\ai-fix`, `batch\retry-flagged` |
+| `github.mjs` | เรียก GitHub REST, แยกค่าจากฟอร์ม issue (env `GITHUB_TOKEN`, `GITHUB_REPOSITORY`), ดึงข้อความอังกฤษจาก YGOPRODeck | triage, review-issues |
+| `form.mjs` | ที่อยู่ไฟล์ของ Google Form, อ่าน CSV, จดคำแก้ที่จัดการแล้ว/ผล AI | review-all, review-ui |
+| `ai-review.mjs` | คุยกับ Ollama: ตรวจคำแก้ 2 รอบ, สรุปรูปแบบความผิด, แก้เฉพาะจุด, ตรวจตำแหน่งคำ | review-all, review-issues, `batch\ai-fix` |
+| `similar.mjs` | หาใบที่อาจผิดแบบเดียวกัน, ไฟล์ `batch\similar.json` / `batch\ai-fix-results.json` | review-all, review-issues, review-ui, `batch\ai-fix` |
+| `review-issues.mjs` | ส่วน GitHub ของ review-all | review-all.bat |
 
 ถ้าแก้ `norm()` ต้องแก้ใน `extension/background.js` ให้ตรงกัน ไม่งั้นป้าย "อาจเก่า" จะขึ้นทุกใบ
+ค่า Ollama (`num_gpu 46`, `num_ctx 3072`) ต้องตรงกันทั้ง `ai-review.mjs`, `batch\translate-all.ps1`, `batch\retry-flagged.mjs` และ extension รุ่นของ Tonk ไม่งั้น Ollama โหลดโมเดลใหม่ทุกครั้งที่สลับ

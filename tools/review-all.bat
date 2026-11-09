@@ -5,6 +5,14 @@ setlocal
 cd /d "%~dp0.."
 set "BASE=E:\YGO-Translator"
 where node >nul 2>&1 || (echo [ERROR] Node.js not found. Install: winget install OpenJS.NodeJS.LTS & pause & exit /b 1)
+rem First time for GitHub issues: review-all.bat --set-token  (asks for a fine-grained token for ygo-th only, see MAINTAINING.md)
+rem set /p + setx outside a ( ) block: inside a block %VAR% is expanded before set /p runs, so setx would save an empty token
+if /i not "%~1"=="--set-token" goto :have_token
+set /p YGOTH_GITHUB_TOKEN=Paste token: 
+if "%YGOTH_GITHUB_TOKEN%"=="" (echo No token given. & pause & exit /b 1)
+setx YGOTH_GITHUB_TOKEN "%YGOTH_GITHUB_TOKEN%" >nul
+echo Token saved for this Windows user.
+:have_token
 set "GITHUB_TOKEN=%YGOTH_GITHUB_TOKEN%"
 set "GITHUB_REPOSITORY=prachpawee-tang/ygo-th"
 if "%OLLAMA_MODEL%"=="" set "OLLAMA_MODEL=gemma3:12b"

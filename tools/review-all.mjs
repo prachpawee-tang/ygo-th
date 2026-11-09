@@ -29,7 +29,7 @@ if (!(await ollamaReady())) {
 // ---------- 1) GitHub issues ----------
 let ghResult = "ข้าม";
 if (!process.env.GITHUB_TOKEN) {
-  log(`${YELLOW}GitHub: ข้าม (ยังไม่ได้ตั้ง token — ดู MAINTAINING.md แล้วรัน review.bat ครั้งเดียวเพื่อบันทึก token)${RESET}`);
+  log(`${YELLOW}GitHub: ข้าม (ยังไม่ได้ตั้ง token — ทำครั้งเดียว: review-all.bat --set-token ดูวิธีสร้าง token ใน MAINTAINING.md)${RESET}`);
 } else {
   log("GitHub: ตรวจ issue ที่ติด needs-ai-review");
   const r = spawnSync(process.execPath, [join(ROOT, "tools", "review-issues.mjs"), ...args.filter(a => a === "--dry-run" || a === "--open-pr")],

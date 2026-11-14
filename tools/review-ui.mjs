@@ -8,7 +8,7 @@ import { join } from "node:path";
 import { randomBytes, timingSafeEqual } from "node:crypto";
 import { spawn } from "node:child_process";
 import { ROOT, CARDS_DIR, isPasscode, loadCards, ruleCheck, checkCardSchema, unsafeText, cardJson, enHash, sha256, MAX_TH, cleanCredit, hasPatternMistake } from "./lib.mjs";
-import { formConfig, fetchFormText, readSuggestions, readDone, markDone, readAi } from "./form.mjs";
+import { formConfig, fetchFormText, readSuggestions, readDone, markDone, readAi, isMissingReport, resolveCard } from "./form.mjs";
 import { readSimilar, setSimilarStatus, readAiFix } from "./similar.mjs";
 
 const argv = process.argv.slice(2);
@@ -54,6 +54,8 @@ console.log(`อ่านแล้ว ${CARDS.size} ใบ (${((Date.now() - t0)
 
 const ALT = new Map(); // passcode อื่นของการ์ดใบเดียวกัน → passcode หลัก
 for (const c of CARDS.values()) for (const a of c.alt || []) ALT.set(a, c.id);
+const BY_NAME = new Map(); // ชื่อการ์ดอังกฤษ (ตัวเล็ก) → passcode — ใช้เมื่อฟอร์มส่งเลขของ Dueling Nexus มา (ไม่ใช่ passcode จริง)
+for (const c of CARDS.values()) BY_NAME.set(c.name.trim().toLowerCase(), c.id);
 
 // ---- Google Form ----
 /** คำแก้จากฟอร์มที่ยังไม่ได้จัดการ — ข้อความทุกช่องมาจากคนทั่วไป ถือว่าไว้ใจไม่ได้ (ตรวจแบบเดียวกับ issue) */
@@ -65,21 +67,24 @@ async function formQueue() {
   const done = readDone(FORM), ai = readAi(FORM), items = [];
   for (const s of rows) {
     if (done[s.formKey]) continue;
-    const id = CARDS.has(s.raw) ? s.raw : ALT.get(s.raw) || s.raw;
+    const hit = resolveCard(s.raw, s.name, { byId: x => (CARDS.has(x) ? x : ALT.get(x)), byName: n => BY_NAME.get(n) });
+    const id = hit.id || s.raw;
     const card = CARDS.get(id), e = EN.get(id), proposed = s.proposed;
+    const report = isMissingReport(proposed); // "ไม่มีคำแปล" = แจ้งปัญหา ไม่ใช่คำแปล — บันทึกเป็นคำแปลไม่ได้
     const problems = [];
-    if (!isPasscode(s.raw)) problems.push("passcode ไม่ใช่ตัวเลข");
-    else if (!card) problems.push("ไม่พบการ์ดนี้ในฐาน");
+    if (hit.via === "name") problems.push(`เลข ${s.raw} ไม่ใช่ passcode จริง (เลขของ Dueling Nexus) — จับคู่จากชื่อการ์ดเป็น ${id}`);
+    if (report) problems.push(card ? "แจ้งว่าไม่มีคำแปล — แต่การ์ดนี้มีคำแปลแล้ว (คนส่งใช้ extension รุ่นก่อน 2.3.1) · กด ไม่ใช้คำแก้นี้" : `แจ้งว่าไม่มีคำแปล — ไม่พบ "${s.name || s.raw}" ในฐาน น่าจะเป็นการ์ดใหม่ (โหลด cards-en.json ใหม่แล้วแปล) · กด ไม่ใช้คำแก้นี้`);
+    else if (!hit.id) problems.push(isPasscode(s.raw) ? "ไม่พบการ์ดนี้ในฐาน (ทั้งเลขและชื่อการ์ด)" : "passcode ไม่ใช่ตัวเลข");
     if (!proposed) problems.push("ไม่มีคำแปลที่เสนอ");
     if (proposed.length > MAX_TH) problems.push(`คำแปลยาวเกิน ${MAX_TH} ตัวอักษร`);
     if (card && proposed === card.th.trim()) problems.push("เหมือนคำแปลเดิม (ไม่ได้แก้อะไร)");
     if (s.creditRaw && !cleanCredit(s.creditRaw)) problems.push("ชื่อเครดิตใช้ไม่ได้ (ยาวเกิน 40 หรือมีลิงก์/@/สัญลักษณ์) — จะไม่แสดงเครดิต");
     // ruleCheck already includes the unsafe-text checks; without English we still need them
-    if (e && proposed) problems.push(...ruleCheck(e.en, proposed).problems);
+    if (e && proposed && !report) problems.push(...ruleCheck(e.en, proposed).problems);
     else problems.push(...unsafeText(proposed));
     // ผล AI จาก review-all (คำแนะนำเท่านั้น) — ใช้ได้ถ้ายังเป็นข้อความเดียวกับที่ AI ตรวจ
     const a = ai[s.formKey];
-    items.push({ formKey: s.formKey, id, name: card?.name || "(ไม่พบการ์ด)", th: card?.th || "", proposed: proposed.slice(0, MAX_TH),
+    items.push({ formKey: s.formKey, id, report, name: card?.name || s.name || "(ไม่พบการ์ด)", th: card?.th || "", proposed: proposed.slice(0, MAX_TH),
       reason: s.reason, source: s.source, credit: cleanCredit(s.creditRaw), submitted: s.submitted,
       en: e?.en || "", views: e?.views || 0, type: e?.type || "", status: card?.status || "-", stale: false,
       ai: a && a.proposed === proposed ? a : null,
@@ -121,6 +126,8 @@ function save({ id, th, action, formKey, credit }) {
   if (action === "edit") {
     if (typeof th !== "string") return { ok: false, error: "ไม่มีคำแปล" };
     th = th.replace(/\r\n?/g, "\n").split("\n").map(l => l.trim()).filter(Boolean).join("\n");
+    // "ไม่มีคำแปล" from the form is a report, not a translation — never store it as the card text
+    if (isMissingReport(th)) return { ok: false, error: "ข้อความนี้เป็นการแจ้งว่าไม่มีคำแปล ไม่ใช่คำแปล — บันทึกเป็นคำแปลไม่ได้ (กด ไม่ใช้คำแก้นี้)" };
     if (!th || th.length > MAX_TH) return { ok: false, error: "คำแปลว่างหรือยาวเกิน" };
     const bad = unsafeText(th);
     if (bad.length) return { ok: false, error: "คำแปลมี " + bad.join(", ") };

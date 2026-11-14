@@ -40,6 +40,23 @@ export async function getMeta() {
   });
 }
 
+/** Every card name → one of its passcodes (for lookups by name). Reads the whole store once (~14k small records). */
+export async function nameIndex() {
+  const tx = (await db()).transaction("cards");
+  return new Promise((resolve, reject) => {
+    const out = new Map();
+    const r = tx.objectStore("cards").openCursor();
+    r.onsuccess = () => {
+      const c = r.result;
+      if (!c) return resolve(out);
+      const name = typeof c.value?.name === "string" ? c.value.name.trim().toLowerCase() : "";
+      if (name && !out.has(name)) out.set(name, c.key);
+      c.continue();
+    };
+    r.onerror = () => reject(r.error);
+  });
+}
+
 /** Replace the whole database in ONE transaction — either the new version lands completely or nothing changes. */
 export async function replaceAll(cards, meta) {
   const tx = (await db()).transaction(["cards", "meta"], "readwrite");

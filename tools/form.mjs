@@ -56,16 +56,32 @@ export async function fetchFormText(cfg) {
 export function readSuggestions(text) {
   const [head = [], ...rows] = parseCsv(text);
   const col = re => head.findIndex(h => re.test(h.trim()));
-  const C = { time: 0, id: col(/passcode/i), proposed: col(/คำแปลที่เสนอ/), reason: col(/เหตุผล/), source: col(/แหล่งอ้างอิง/), credit: col(/เครดิต/) };
+  const C = { time: 0, id: col(/passcode/i), name: col(/ชื่อการ์ด/), proposed: col(/คำแปลที่เสนอ/), reason: col(/เหตุผล/), source: col(/แหล่งอ้างอิง/), credit: col(/เครดิต/) };
   if (C.id < 0 || C.proposed < 0) return { rows: [], note: "CSV ไม่มีคอลัมน์ passcode / คำแปลที่เสนอ — เป็นไฟล์ของฟอร์มนี้หรือเปล่า?" };
   return {
     rows: rows.map(r => {
       const get = i => (i >= 0 ? String(r[i] ?? "") : "").replace(/\r\n?/g, "\n").trim();
       const raw = get(C.id).replace(/\D/g, "");
-      return { formKey: `${get(C.time)}|${raw}`, raw, proposed: get(C.proposed), reason: get(C.reason).slice(0, 2000),
+      return { formKey: `${get(C.time)}|${raw}`, raw, name: get(C.name).slice(0, 200), proposed: get(C.proposed), reason: get(C.reason).slice(0, 2000),
         source: get(C.source).slice(0, 500), creditRaw: get(C.credit), submitted: get(C.time) };
     })
   };
+}
+
+/** "แจ้งการ์ดที่ไม่มีคำแปล" in the extension opens the form with no proposed text — people type "ไม่มีคำแปล".
+ *  That is a report, not a translation: it must never be saved as the card's text. */
+export function isMissingReport(text) {
+  const t = String(text ?? "").replace(/[\s.,!?'"()\-–—…]/g, "");
+  return !t || /^(ยัง)?ไม่มีคำแปล(ภาษาไทย)?(ครับ|ค่ะ|คะ|นะ)*$/.test(t) || /^(no|missing)translation$/i.test(t);
+}
+
+/** Map a form passcode to our card id: real passcode / alt passcode, else by the English card name the form carries.
+ *  Dueling Nexus shows its own number for some alternate artworks (Brain Control 87910998, real 87910978). */
+export function resolveCard(raw, name, { byId, byName }) {
+  const id = byId(raw);
+  if (id) return { id, via: "passcode" };
+  const n = byName(String(name || "").trim().toLowerCase());
+  return n ? { id: n, via: "name" } : { id: null, via: null };
 }
 
 const readJson = f => { try { return JSON.parse(readFileSync(f, "utf8")); } catch { return {}; } };

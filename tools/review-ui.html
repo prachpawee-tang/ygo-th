@@ -74,6 +74,7 @@
       <option value="ai-reject">AI ไม่ผ่าน</option>
       <option value="ai-needs-human">AI ให้คนดู</option>
       <option value="ai-none">ยังไม่ได้ให้ AI ตรวจ</option>
+      <option value="missing">แจ้งว่าไม่มีคำแปล</option>
     </optgroup>
     <optgroup label="ความเห็นของ ai-fix" data-notes-only>
       <option value="ai-false-alarm">ai-fix บอกว่าเตือนเกินจริง</option>
@@ -208,7 +209,7 @@ function show() {
   btnSave.onclick = () => save("edit");
   btnSkip.onclick = () => { if (pos < list.length - 1 && leave()) { pos++; show(); } };
   btnBack.onclick = () => { if (pos > 0 && leave()) { pos--; show(); } };
-  current = { ok: () => !btnOk.disabled && btnOk.onclick(), save: () => !btnSave.disabled && save("edit"), skip: btnSkip.onclick, back: btnBack.onclick };
+  current = { ok: () => !c.report && !btnOk.disabled && btnOk.onclick(), save: () => !btnSave.disabled && save("edit"), skip: btnSkip.onclick, back: btnBack.onclick };
 
   updDiff();
   const flags = [c.status === "ai" ? "แปลโดย AI" : c.status, `ยอดดู ${c.views.toLocaleString()}`, c.type].filter(Boolean).join(" · ");
@@ -223,7 +224,8 @@ function show() {
     diffRow,
     el("label", { className: "edit-label", htmlFor: "edit", textContent: "แก้คำแปล" }),
     ta, live,
-    el("div", { className: "actions" }, btnOk, btnSave, ...(isForm ? [btnDismiss] : []), msg,
+    // c.report = "แจ้งว่าไม่มีคำแปล" ไม่ใช่คำแปล → ไม่มีปุ่มใช้ (ถ้าพิมพ์คำแปลจริงลงกล่อง ยังกดบันทึกที่แก้ได้)
+    el("div", { className: "actions" }, ...(c.report ? [] : [btnOk]), btnSave, ...(isForm ? [btnDismiss] : []), msg,
       el("div", { className: "nav" }, btnBack, btnSkip))
   );
 }
@@ -269,7 +271,7 @@ function formInfo(c) {
 }
 
 // ผล AI จาก review-all.bat (คำแนะนำ — ผู้ดูแลตัดสินเอง) · ข้อความจาก AI แสดงด้วย textContent เท่านั้น
-const AI_LABEL = { "ai-accept": ["AI ผ่าน", "good"], "ai-reject": ["AI ไม่ผ่าน", "err"], "ai-needs-human": ["AI ให้คนดู", ""], invalid: ["รูปแบบใช้ไม่ได้", "err"] };
+const AI_LABEL = { "ai-accept": ["AI ผ่าน", "good"], "ai-reject": ["AI ไม่ผ่าน", "err"], "ai-needs-human": ["AI ให้คนดู", ""], invalid: ["รูปแบบใช้ไม่ได้", "err"], missing: ["แจ้งว่าไม่มีคำแปล (ไม่ใช่คำแปล)", ""] };
 const VERDICT = { accept: "ผ่าน", reject: "ไม่ผ่าน", needs_human: "ให้คนดู" };
 function aiInfo(a) {
   const box = el("div", { className: "box" }, el("h3", { textContent: "ผลตรวจ AI (คำแนะนำ — คุณตัดสินเอง)" }));

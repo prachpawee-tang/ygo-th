@@ -9,7 +9,7 @@ import { spawnSync } from "node:child_process";
 import { readFileSync, existsSync } from "node:fs";
 import { join } from "node:path";
 import { ROOT, CARDS_DIR, isPasscode, unsafeText, MAX_TH } from "./lib.mjs";
-import { formConfig, fetchFormText, readSuggestions, readDone, readAi, writeAi } from "./form.mjs";
+import { formConfig, fetchFormText, readSuggestions, readDone, readAi, writeAi, isMissingReport, resolveCard } from "./form.mjs";
 import { reviewSuggestion, mistakePattern, ollamaReady, MODEL, OLLAMA } from "./ai-review.mjs";
 import { similarFor, putSimilar } from "./similar.mjs";
 
@@ -18,7 +18,7 @@ const DRY = args.includes("--dry-run"), RECHECK = args.includes("--recheck");
 const EN_FILE = "E:\\YGO-Translator\\batch\\cards-en.json";
 const RED = "\x1b[31m", GREEN = "\x1b[32m", YELLOW = "\x1b[33m", RESET = "\x1b[0m";
 const log = m => console.log(`[${new Date().toTimeString().slice(0, 8)}] ${m}`);
-const LABEL = { "ai-accept": `${GREEN}AI ผ่าน${RESET}`, "ai-reject": `${RED}AI ไม่ผ่าน${RESET}`, "ai-needs-human": `${YELLOW}ให้คนดู${RESET}`, invalid: `${RED}รูปแบบใช้ไม่ได้${RESET}` };
+const LABEL = { "ai-accept": `${GREEN}AI ผ่าน${RESET}`, "ai-reject": `${RED}AI ไม่ผ่าน${RESET}`, "ai-needs-human": `${YELLOW}ให้คนดู${RESET}`, invalid: `${RED}รูปแบบใช้ไม่ได้${RESET}`, missing: `${YELLOW}แจ้งว่าไม่มีคำแปล${RESET}` };
 
 console.log("=== ygo-th: ตรวจคำแก้ทั้งหมด (GitHub + Google Form) ===\n");
 if (!(await ollamaReady())) {
@@ -49,21 +49,35 @@ if (got.text === null) {
   const { rows, note } = readSuggestions(got.text);
   if (note) log(`${RED}Google Form: ${note}${RESET}`);
   // passcode → main card id (alt artworks share one card file) + English text
-  const en = new Map(), main = new Map();
+  const en = new Map(), main = new Map(), byName = new Map();
   for (const c of (j => j.data || j)(JSON.parse(readFileSync(EN_FILE, "utf8")))) {
     for (const im of c.card_images || [{ id: c.id }]) main.set(String(im.id), String(c.id));
     main.set(String(c.id), String(c.id)); en.set(String(c.id), c.desc || "");
+    byName.set(String(c.name || "").trim().toLowerCase(), String(c.id));
   }
   const done = readDone(FORM), ai = readAi(FORM);
-  const todo = rows.filter(s => !done[s.formKey] && (RECHECK || ai[s.formKey]?.proposed !== s.proposed));
+  // "invalid" never called the AI, so re-checking it is free — picks up rows fixed by matching the card name
+  const todo = rows.filter(s => !done[s.formKey] && (RECHECK || ai[s.formKey]?.proposed !== s.proposed || ai[s.formKey]?.label === "invalid"));
   log(`Google Form: ${rows.length} คำตอบ (อ่านจาก ${got.from}) · ยังไม่จัดการ ${rows.filter(s => !done[s.formKey]).length} · ต้องตรวจรอบนี้ ${todo.length}`);
   for (const [i, s] of todo.entries()) {
-    const id = main.get(s.raw) || s.raw;
+    const hit = resolveCard(s.raw, s.name, { byId: x => main.get(x), byName: n => byName.get(n) });
+    const id = hit.id || s.raw;
     const file = join(CARDS_DIR, `${id}.json`);
     const card = existsSync(file) ? JSON.parse(readFileSync(file, "utf8")) : null;
+    const viaName = hit.via === "name" ? [`เลข ${s.raw} ไม่ใช่ passcode จริง (เลขของ Dueling Nexus) — จับคู่จากชื่อการ์ดเป็น ${id}`] : [];
+    // "แจ้งการ์ดที่ไม่มีคำแปล" → a report, not a translation: tell the maintainer what it means, never run the AI on it
+    if (isMissingReport(s.proposed)) {
+      const what = !hit.id ? `ไม่พบการ์ด "${s.name || s.raw}" ในข้อมูลอังกฤษ — น่าจะเป็นการ์ดใหม่: โหลด cards-en.json ใหม่แล้วแปล`
+        : card ? "การ์ดนี้มีคำแปลอยู่แล้ว — คนส่งใช้ extension รุ่นก่อน 2.3.1 ที่หาไม่เจอ · กด ไม่ใช้คำแก้นี้ ได้เลย"
+        : "การ์ดนี้ยังไม่มีคำแปลจริง — ให้ batch แปล";
+      const result = { label: "missing", proposed: s.proposed, rule: [...viaName, what], rounds: [], at: new Date().toISOString() };
+      if (!DRY) writeAi(FORM, s.formKey, result);
+      formCounts.missing = (formCounts.missing || 0) + 1;
+      log(`  ${i + 1}/${todo.length}  ${card?.name || s.name || s.raw}  → ${LABEL.missing} · ${what}`);
+      continue;
+    }
     const bad = [];
-    if (!isPasscode(s.raw)) bad.push("passcode ไม่ใช่ตัวเลข");
-    else if (!en.has(id)) bad.push("ไม่พบการ์ดนี้");
+    if (!hit.id) bad.push(isPasscode(s.raw) ? "ไม่พบการ์ดนี้ (ทั้งเลขและชื่อการ์ด)" : "passcode ไม่ใช่ตัวเลข");
     if (!s.proposed) bad.push("ไม่มีคำแปลที่เสนอ");
     if (s.proposed.length > MAX_TH) bad.push("คำแปลยาวเกิน");
     bad.push(...unsafeText(s.proposed));
@@ -72,7 +86,7 @@ if (got.text === null) {
     else {
       try {
         const r = await reviewSuggestion(en.get(id), card?.th, s.proposed, s.reason);
-        result = { label: r.label, proposed: s.proposed, rule: r.rule.problems, model: r.model, at: new Date().toISOString(),
+        result = { label: r.label, proposed: s.proposed, rule: [...viaName, ...r.rule.problems], model: r.model, at: new Date().toISOString(),
           rounds: r.rounds.map(x => ({ verdict: x.verdict, confidence: x.confidence, problems: x.problems, back_translation: x.back_translation })) };
       } catch (e) { log(`${RED}  ${s.raw}: AI ตรวจไม่สำเร็จ — ${e.message} (จะลองใหม่รอบหน้า)${RESET}`); continue; }
       // คำแก้ที่ AI ไม่ตีตก → หาการ์ดใบอื่นที่อาจผิดแบบเดียวกัน (ผู้ดูแลกดส่งให้ ai-fix ใน review-ui)

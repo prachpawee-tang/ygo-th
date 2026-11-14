@@ -1,5 +1,5 @@
 // ygo-th extension v2 — no AI. Downloads the signed translation database from GitHub Pages and answers lookups.
-import { getCard, getMeta, replaceAll } from "./db.js";
+import { getCard, getMeta, replaceAll, nameIndex } from "./db.js";
 
 const API = "https://prachpawee-tang.github.io/ygo-th/v1/";
 // keys/ygo-th.pub.pem (Ed25519, SPKI) — rotate together with the signing key
@@ -91,7 +91,7 @@ async function doSync() {
     const cards = cleanCards(JSON.parse(await gunzip(gz)));
     const count = Object.keys(cards).length;
     await replaceAll(cards, { version: manifest.version, built: manifest.built, passcodes: count, counts: manifest.counts });
-    memo.clear();
+    memo.clear(); names = null;
     await setState({ checked, error: null });
     return { updated: true, version: manifest.version };
   } catch (e) {
@@ -102,20 +102,39 @@ async function doSync() {
 
 // ---------- lookup ----------
 const memo = new Map(); // passcode → card | null (small LRU-ish cache; the SW restarts often anyway)
-async function lookup(id, en) {
-  if (typeof id !== "string" || !/^\d{3,10}$/.test(id)) return { ok: true, found: false };
+async function cardById(id) {
   let card = memo.get(id);
   if (card === undefined) {
     card = await getCard(id);
     if (memo.size > 500) memo.clear();
     memo.set(id, card);
   }
+  return card;
+}
+
+// Dueling Nexus gives some alternate artworks its own number, not the official passcode
+// (Brain Control shows 87910998, real 87910978) → not found by number, so try the English card name it shows.
+let names = null; // card name (lower case) → passcode · built once per service-worker life, dropped on sync
+async function idByName(name) {
+  if (typeof name !== "string" || !name.trim() || name.length > 200) return null;
+  names ??= await nameIndex();
+  return names.get(name.trim().toLowerCase()) ?? null;
+}
+
+async function lookup(id, en, name) {
+  if (typeof id !== "string" || !/^\d{3,10}$/.test(id)) id = null;
+  let card = id ? await cardById(id) : null;
+  if (!card) {
+    const byName = await idByName(name);
+    if (byName) { id = byName; card = await cardById(byName); }
+  }
   if (!card) {
     const meta = await getMeta();
     return { ok: true, found: false, empty: !meta };
   }
+  // the English text check still guards a name match: a different card text shows "อาจเก่า"
   const stale = !!(card.en_sha256 && typeof en === "string" && en && (await sha256(norm(en))) !== card.en_sha256);
-  return { ok: true, found: true, th: card.th, status: card.status, credit: card.credit || "", stale };
+  return { ok: true, found: true, id, th: card.th, status: card.status, credit: card.credit || "", stale };
 }
 
 // ---------- extension updates (GitHub Releases) ----------
@@ -170,7 +189,7 @@ chrome.runtime.onMessage.addListener((msg, sender, reply) => {
     switch (msg?.type) {
       case "lookup":
         if (typeof msg.en === "string" && msg.en.length > 20000) return { ok: false, error: "ข้อความยาวเกิน" };
-        return lookup(msg.id, msg.en);
+        return lookup(msg.id, msg.en, msg.name);
       case "status": {
         if (!fromExtensionPage) break;
         // answer at once with the last known update info; refresh it in the background (popup listens to storage.onChanged)

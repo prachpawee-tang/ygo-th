@@ -7,7 +7,7 @@ import { readFileSync } from "node:fs";
 import { join } from "node:path";
 import { generateKeyPairSync, sign, webcrypto } from "node:crypto";
 import { ROOT, isPasscode, cleanCredit, unsafeText, ruleCheck, splitSentences, cleanPattern, hasPatternMistake, patternFits, wordChange, checkCardSchema } from "./lib.mjs";
-import { parseCsv, readSuggestions } from "./form.mjs";
+import { parseCsv, readSuggestions, isMissingReport, resolveCard } from "./form.mjs";
 import { parseForm } from "./github.mjs";
 
 test("isPasscode: digits only, 3–10 long", () => {
@@ -30,6 +30,23 @@ test("readSuggestions: finds columns by Thai header, keeps only digits of the pa
   assert.equal(rows[0].creditRaw, "Nok");
   assert.equal(rows[0].formKey, "8/11/2026 16:00:01|59438930");
   assert.match(readSuggestions("a,b\n1,2").note, /ไม่มีคอลัมน์/);
+});
+
+test("form: 'ไม่มีคำแปล' is a report, not a translation (must never be saved as card text)", () => {
+  for (const r of ["ไม่มีคำแปล", " ไม่มีคำแปล ", "ยังไม่มีคำแปล", "ไม่มีคำแปลครับ", "ไม่มีคำแปล.", "", "-", "no translation"]) assert.equal(isMissingReport(r), true, r);
+  for (const t of ["ทำลายการ์ด 1 ใบ", "ถ้าไม่มีคำแปลของการ์ดนี้ ให้จั่ว 1 ใบ", "คุณสามารถ: จั่วการ์ด 2 ใบ"]) assert.equal(isMissingReport(t), false, t);
+});
+
+test("form: Dueling Nexus alt-art numbers resolve by card name (Brain Control 87910998 → 87910978)", () => {
+  const ids = new Map([["87910978", "87910978"], ["40044919", "40044918"]]);
+  const names = new Map([["brain control", "87910978"]]);
+  const opt = { byId: x => ids.get(x), byName: n => names.get(n) };
+  assert.deepEqual(resolveCard("87910978", "", opt), { id: "87910978", via: "passcode" });
+  assert.deepEqual(resolveCard("40044919", "x", opt), { id: "40044918", via: "passcode" });
+  assert.deepEqual(resolveCard("87910998", " Brain Control ", opt), { id: "87910978", via: "name" });
+  assert.deepEqual(resolveCard("100270201", "Arcana Force VIII - The Strength", opt), { id: null, via: null });
+  const { rows } = readSuggestions("ประทับเวลา,passcode,ชื่อการ์ด,คำแปลที่เสนอ\n1/1/2026,87910998,Brain Control,ไม่มีคำแปล\n");
+  assert.equal(rows[0].name, "Brain Control");
 });
 
 test("parseForm: GitHub issue form → fields, \\r\\n normalised, _No response_ = empty", () => {

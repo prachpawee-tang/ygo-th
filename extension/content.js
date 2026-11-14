@@ -209,7 +209,7 @@
     if (res.found && settings.displayMode === "replace") { panel?.remove(); panel = null; writeThai(target, res.th); }
     else if (res.found) showPanel(target, res.th);
     else { panel?.remove(); panel = null; }
-    showBadge(target, id, res);
+    showBadge(target, res.id || id, res); // res.id = real passcode when found by name → report links carry the right number
   }
 
   // ---------- ตรวจจับ ----------
@@ -240,7 +240,9 @@
     removeExtras();
     lastKey = key; lastRes = null;
     try {
-      chrome.runtime.sendMessage({ type: "lookup", id, en: text }, res => {
+      // name: fallback when Dueling Nexus shows its own number for an alternate artwork
+      const name = (document.querySelector("#card-name")?.textContent || "").trim().slice(0, 200);
+      chrome.runtime.sendMessage({ type: "lookup", id, en: text, name }, res => {
         if (chrome.runtime.lastError || !res?.ok) return;
         if (key !== lastKey) return; // ผู้ใช้เปลี่ยนการ์ดไปแล้ว
         lastRes = res;

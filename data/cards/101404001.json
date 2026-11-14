@@ -1,0 +1,9 @@
+{
+  "id": "101404001",
+  "name": "Blue-Eyes Alternative White Dragon, the Guided Phantom Beast",
+  "th": "ถ้าการ์ดใบนี้อยู่ในมือคุณ: คุณสามารถเอา \"Blue-Eyes White Dragon\" 1 ใบออกจากเกมจากมือหรือเด็คของคุณ; อัญเชิญพิเศษการ์ดใบนี้, จากนั้นคุณสามารถวาง \"Endless Darkness\" 1 ใบจากมือ, เด็ค, หรือสุสานของคุณ, หงายใน Field Zone ของคุณ\nถ้าคุณมีการ์ด \"Blue-Eyes\" ที่ถูกเอาออกจากเกม: คุณสามารถเลือกเป้าหมายการ์ด 1 ใบที่คู่ต่อสู้ควบคุม; เอามันออกจากเกม, นอกจากนี้การ์ดใบนี้จะไม่สามารถโจมตีในเทิร์นนี้\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Blue-Eyes Alternative White Dragon, the Guided Phantom Beast\" ได้ 1 ครั้งต่อเทิร์น",
+  "status": "ai",
+  "en_sha256": "ab36b0b06e0e9fac43990c388b079d4e7c2b6e06d6a7bc9eb09266840a6b061c",
+  "model": "gemma3:12b",
+  "updated": "2026-11-14"
+}

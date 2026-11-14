@@ -1,9 +1,9 @@
 {
   "id": "67803035",
   "name": "Reincarnation of the Unchained",
-  "th": "เมื่อการ์ดใบนี้ถูกเปิดใช้: คุณสามารถเพิ่มการ์ด “Unchained” เวทมนตร์ (ยกเว้น “Reincarnation of the Unchained”) หรือการ์ด “Abomination's Prison” 1 ใบจากเด็คของคุณขึ้นมือ\n1 ครั้งต่อเทิร์น: คุณสามารถเลือกเป้าหมายการ์ด “Unchained” ได้สูงสุด 3 ใบในสุสานของคุณ (ยกเว้น “Reincarnation of the Unchained”); สับพวกมันกลับเข้าเด็ค จากนั้นคุณสามารถทำลายการ์ดอื่นที่คุณควบคุมได้สูงสุดตามจำนวนที่สับ\nคุณสามารถเปิดใช้ “Reincarnation of the Unchained” ได้เพียง 1 ใบต่อเทิร์น",
+  "th": "เมื่อการ์ดใบนี้ถูกเปิดใช้: คุณสามารถเพิ่ม \"Abomination's Prison\" หรือการ์ด Spell \"Unchained\" 1 ใบ, ยกเว้น \"Reincarnation of the Unchained\", จากเด็คของคุณขึ้นมือ\n1 ครั้งต่อเทิร์น: คุณสามารถเลือกเป้าหมายการ์ด \"Unchained\" ได้สูงสุด 3 ใบในสุสานของคุณ, ยกเว้น \"Reincarnation of the Unchained\"; สับกลับเข้าเด็ค จากนั้นคุณสามารถทำลายการ์ดอื่นที่คุณควบคุมได้สูงสุดตามจำนวนที่สับกลับ\nคุณสามารถเปิดใช้ \"Reincarnation of the Unchained\" ได้เพียง 1 ใบต่อเทิร์น",
   "status": "ai",
-  "en_sha256": "cfcaa450787470818e66d36ea69cb8b609369feb7e000243510aeab6e991b51e",
+  "en_sha256": "0803e187bc356b60ecea494acd648458c93aeffdaf601d4447d71cbc1833026e",
   "model": "gemma3:12b",
-  "updated": "2026-11-06"
+  "updated": "2026-11-14"
 }

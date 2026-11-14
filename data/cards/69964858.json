@@ -1,9 +1,9 @@
 {
   "id": "69964858",
   "name": "Witchcrafter Pupils",
-  "th": "มอนสเตอร์ \"Witchcrafter\" 1 ตัว + มอนสเตอร์ Spellcaster 1 ตัว\nในช่วง Main Phase หรือ Battle Phase (Quick Effect): คุณสามารถเปิดใช้เอฟเฟกต์ใดเอฟเฟกต์หนึ่งต่อไปนี้;\n● จั่วการ์ด “Witchcrafter” Spell 1 ใบจากเด็คของคุณขึ้นมือ\n● เผยการ์ด Spell “Witchcrafter” Normal หรือ Quick-Play 1 ใบในมือของคุณ; ใช้เอฟเฟกต์การเปิดใช้ของการ์ด Spell นั้น\nในช่วง End Phase ของคุณ: คุณสามารถส่งการ์ด “Witchcrafter” ที่ถูกเอาออกจากเกม 1 ใบของคุณลงสุสาน\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Witchcrafter Pupils\" ได้ 1 ครั้งต่อเทิร์น",
+  "th": "มอนสเตอร์ \"Witchcrafter\" 1 ตัว + มอนสเตอร์ Spellcaster 1 ตัว\nในช่วง Main Phase หรือ Battle Phase (Quick Effect): คุณสามารถเปิดใช้ 1 ในเอฟเฟกต์เหล่านี้;\n● จั่วการ์ด “Witchcrafter” Spell 1 ใบจากเด็คของคุณขึ้นมือ\n● เผยการ์ด Spell “Witchcrafter” Normal หรือ Quick-Play 1 ใบในมือของคุณ; ใช้เอฟเฟกต์การเปิดใช้งานของการ์ดใบนั้น\nในช่วง End Phase ของคุณ: คุณสามารถส่งการ์ด “Witchcrafter” ที่ถูกเอาออกจากเกม 1 ใบของคุณลงสุสาน\nคุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Witchcrafter Pupils\" ได้ 1 ครั้งต่อเทิร์น",
   "status": "ai",
-  "en_sha256": "b448b2453c37806f18913269d43e2e754d3aef853eac47a3ddd94572ce947614",
+  "en_sha256": "4982a42e7ae8bb6162c19118ba72d8539634575abd83188baa3c9a78f52fb1c2",
   "model": "gemma3:12b",
-  "updated": "2026-11-06"
+  "updated": "2026-11-14"
 }
